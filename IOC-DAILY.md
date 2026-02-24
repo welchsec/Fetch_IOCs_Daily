@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
 > **Date:** February 24, 2026  
-> **Updated:** February 24, 2026 at 00:48 UTC  
+> **Updated:** February 24, 2026 at 11:27 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
