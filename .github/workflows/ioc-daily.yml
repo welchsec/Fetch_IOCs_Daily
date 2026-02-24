@@ -1,0 +1,38 @@
+name: Update Daily IOC List
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Runs every day at 9:00 AM UTC
+  workflow_dispatch:      # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-ioc-list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run IOC fetch script
+        run: python fetch_ioc_daily.py
+
+      - name: Commit and push IOC-DAILY.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add IOC-DAILY.md
+          git diff --cached --quiet || git commit -m "🛡️ Auto-update IOC daily list - $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Upload X post as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: x-post
+          path: X-POST.txt
