@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** February 27, 2026  
-> **Updated:** February 27, 2026 at 11:03 UTC  
+> **Date:** February 28, 2026  
+> **Updated:** February 28, 2026 at 09:47 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -44,26 +44,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.ml/users/3864322246/profile` |
-| `https://west-docusign-domain-net.holiiston.com/all-domain.html` |
-| `http://www.polinezia.tora.ru/` |
-| `http://instagram-clone-teal-eight.vercel.app/` |
-| `https://shopee1599.blogspot.com/` |
-| `https://www.shopee1599.blogspot.com/` |
-| `http://waterpumpske.blogspot.com/` |
-| `https://domain-krake-support.zapier.app/` |
-| `https://soumyadwip001.github.io/Netflix-Clone/` |
-| `https://staemcommunnity.cc/tr` |
-| `https://www.roblox.com.gl/users/293828645311/profile` |
-| `https://www.robiox.com.py/users/334553148194/profile` |
-| `https://singlepoint-usbank.businesslogon1.com/cs70_banking/logon/sbuser` |
-| `http://dev.informedgreetings.com/` |
-| `http://www.crispy-fortnight-mocha.vercel.app/` |
-| `https://www.robiox.com.py/users/131701580179/profile` |
-| `https://blog.salancer.com/wp-content/cgi-/qbo/inuit6/` |
-| `https://gemini.588886.xyz/` |
-| `https://kurdatana2353.github.io/kurd4` |
-| `https://www.robiox.com.py/games/75992362647444/Tap-Simulator?privateServerLinkCode=563747527201972239408613512144` |
+| `http://srishtiworkk.github.io/` |
+| `http://j298h.xyz/` |
+| `http://sign-upguld0n.godaddysites.com/` |
+| `http://www.uphoeld-loguin.godaddysites.com/` |
+| `https://llky0365.haynsboone.com/` |
+| `https://portal-pedagio-freeflow.online/` |
+| `http://www.netflix-clone-omega-nine.vercel.app/` |
+| `https://atharv28112004.github.io/Amazon-Clone/` |
+| `https://joycematson.shop/xwfsfyyz/` |
+| `https://hemasai333.github.io/Amazon-clone/` |
+| `https://info-kucoin-cd.framer.ai/` |
+| `https://cetakkupon7531.my.id/` |
+| `https://kucoinpro.top/` |
+| `https://kucoinpro.org/` |
+| `https://kuemmel-banditos.de/antai/redirect.php` |
+| `http://www.dub.sh/mfj9CqN/` |
+| `https://www.robiox.com.py/users/214461572728/profile` |
+| `https://faiz237.github.io/amazon-homepage-clone/` |
+| `https://anikatasmimriva.github.io/amazone-clone/` |
+| `http://spotifylogin-pha5m9wlk-gasstontorres.vercel.app/` |
 
 ---
 
