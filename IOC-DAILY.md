@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** February 28, 2026  
-> **Updated:** February 28, 2026 at 09:47 UTC  
+> **Date:** March 01, 2026  
+> **Updated:** March 01, 2026 at 09:53 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -23,7 +23,7 @@
 | IP Address | Port | Malware | Country | Status |
 |---|---|---|---|---|
 | `162.243.103.246` | 8080 | Emotet | US | offline |
-| `34.204.119.63` | 443 | QakBot | US | offline |
+| `34.204.119.63` | 443 | QakBot | US | online |
 | `178.62.3.223` | 443 | QakBot | GB | offline |
 
 ---
@@ -44,26 +44,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://srishtiworkk.github.io/` |
-| `http://j298h.xyz/` |
-| `http://sign-upguld0n.godaddysites.com/` |
-| `http://www.uphoeld-loguin.godaddysites.com/` |
-| `https://llky0365.haynsboone.com/` |
-| `https://portal-pedagio-freeflow.online/` |
-| `http://www.netflix-clone-omega-nine.vercel.app/` |
-| `https://atharv28112004.github.io/Amazon-Clone/` |
-| `https://joycematson.shop/xwfsfyyz/` |
-| `https://hemasai333.github.io/Amazon-clone/` |
-| `https://info-kucoin-cd.framer.ai/` |
-| `https://cetakkupon7531.my.id/` |
-| `https://kucoinpro.top/` |
-| `https://kucoinpro.org/` |
-| `https://kuemmel-banditos.de/antai/redirect.php` |
-| `http://www.dub.sh/mfj9CqN/` |
-| `https://www.robiox.com.py/users/214461572728/profile` |
-| `https://faiz237.github.io/amazon-homepage-clone/` |
-| `https://anikatasmimriva.github.io/amazone-clone/` |
-| `http://spotifylogin-pha5m9wlk-gasstontorres.vercel.app/` |
+| `https://www.robiox.com.py/games/102420333679038/LIMITED-TIME-Steal-A-Silksong?privateServerLinkCode=234825868738159702153778770421` |
+| `https://support.rfe-v.com/kFlub` |
+| `https://zhm23.github.io/netflix-clone` |
+| `https://www.roblox.com.ml/users/8640321039/profile` |
+| `https://tsihrewq333.pages.dev/gp/history/` |
+| `https://trezor-securite.com/` |
+| `https://www.noonservice24x.top/` |
+| `https://tsihrewq333.pages.dev/gp/yourstore?ref_=nav_AccountFlyout_recs/` |
+| `https://tsihrewq333.pages.dev/ref=nav_logo/` |
+| `https://tsihrewq333.pages.dev/sports-outdoors/b/?ie=UTF8&node=3375251&ref_=nav_cs_sports/` |
+| `https://roblox.com.ge/users/847564433/profile` |
+| `https://bancolombia.zeabur.app/` |
+| `http://5mp.eu/fajlok2/atr54/de_www.5mp.eu_.html` |
+| `https://www.roblox.tc/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=09309074693092822433836233336736` |
+| `http://itrstcaspitelogin.webflow.io/` |
+| `https://support.rfe-v.com/?i=kFlub` |
+| `https://www.robiox.com.py/users/253227658366/profile` |
+| `https://ihtasham-beep.github.io/final_project1/` |
+| `https://roblox.com.ge/users/8924424301/profile` |
+| `https://inlnk.co/RHPsm` |
 
 ---
 
