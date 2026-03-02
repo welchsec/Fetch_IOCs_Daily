@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 01, 2026  
-> **Updated:** March 01, 2026 at 09:53 UTC  
+> **Date:** March 02, 2026  
+> **Updated:** March 02, 2026 at 11:08 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -23,7 +23,7 @@
 | IP Address | Port | Malware | Country | Status |
 |---|---|---|---|---|
 | `162.243.103.246` | 8080 | Emotet | US | offline |
-| `34.204.119.63` | 443 | QakBot | US | online |
+| `34.204.119.63` | 443 | QakBot | US | offline |
 | `178.62.3.223` | 443 | QakBot | GB | offline |
 
 ---
@@ -44,26 +44,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.robiox.com.py/games/102420333679038/LIMITED-TIME-Steal-A-Silksong?privateServerLinkCode=234825868738159702153778770421` |
-| `https://support.rfe-v.com/kFlub` |
-| `https://zhm23.github.io/netflix-clone` |
-| `https://www.roblox.com.ml/users/8640321039/profile` |
-| `https://tsihrewq333.pages.dev/gp/history/` |
-| `https://trezor-securite.com/` |
-| `https://www.noonservice24x.top/` |
-| `https://tsihrewq333.pages.dev/gp/yourstore?ref_=nav_AccountFlyout_recs/` |
-| `https://tsihrewq333.pages.dev/ref=nav_logo/` |
-| `https://tsihrewq333.pages.dev/sports-outdoors/b/?ie=UTF8&node=3375251&ref_=nav_cs_sports/` |
-| `https://roblox.com.ge/users/847564433/profile` |
-| `https://bancolombia.zeabur.app/` |
-| `http://5mp.eu/fajlok2/atr54/de_www.5mp.eu_.html` |
-| `https://www.roblox.tc/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=09309074693092822433836233336736` |
-| `http://itrstcaspitelogin.webflow.io/` |
-| `https://support.rfe-v.com/?i=kFlub` |
-| `https://www.robiox.com.py/users/253227658366/profile` |
-| `https://ihtasham-beep.github.io/final_project1/` |
-| `https://roblox.com.ge/users/8924424301/profile` |
-| `https://inlnk.co/RHPsm` |
+| `https://www.roblox.com.gl/users/283691566284/profile` |
+| `https://blan.jdevcloud.com/goma/biblioteca/corr.php` |
+| `https://globalpage-setup.ghost.io/us-start/` |
+| `https://suncoast-dev-git-scups-131-suncoast-credit-union.vercel.app/For-Your-Business/Checking-and-Savings` |
+| `https://habiba2442.github.io/website/` |
+| `https://bafybeielfptk46wdu3lbee2jlyfhbwzpwl3oxapqvpluqpuf3tfr2si64m.ipfs.dweb.link/reserve-overview/?marketname=proto_mainnet_v3/&underlyingasset=/` |
+| `http://icloud-recover.mooo.com/` |
+| `https://www.robiox.com.py/users/343713616813/profile` |
+| `https://staybesdrom.com/22211532/` |
+| `http://link.trustwalletondofinance.net/` |
+| `http://eservicebits.com/landingpages/90d69b1d-cc46-48a6-8a25-a3222e9cce64/xdsmknupdcia6whjmmp6em9qbzzafpeh6xxkmujllck` |
+| `https://ch.whatsapapyua.com/` |
+| `https://central.pr-universe.com/s/63bzgfsvbwsfcdx7y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `https://surl.li/vdrmoi` |
+| `https://roblox.mq/games/85811969623710/Sword-Fighting-773855?privateServerLinkCode=84941162753704157451608181886024` |
+| `https://www.robiox.com.py/users/240617314295/profile` |
+| `https://mahikla7-hub.github.io/Amazon-Clone/` |
+| `https://roblox.com.py/users/2116508401/profile` |
+| `http://vrmirror.pages.dev/konten-zahlungsverkehr/wissen/sicherheit-onlinebanking` |
+| `http://animaxstudio09.github.io/index.html-` |
 
 ---
 
