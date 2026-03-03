@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 02, 2026  
-> **Updated:** March 02, 2026 at 11:08 UTC  
+> **Date:** March 03, 2026  
+> **Updated:** March 03, 2026 at 11:03 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -44,26 +44,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.gl/users/283691566284/profile` |
-| `https://blan.jdevcloud.com/goma/biblioteca/corr.php` |
-| `https://globalpage-setup.ghost.io/us-start/` |
-| `https://suncoast-dev-git-scups-131-suncoast-credit-union.vercel.app/For-Your-Business/Checking-and-Savings` |
-| `https://habiba2442.github.io/website/` |
-| `https://bafybeielfptk46wdu3lbee2jlyfhbwzpwl3oxapqvpluqpuf3tfr2si64m.ipfs.dweb.link/reserve-overview/?marketname=proto_mainnet_v3/&underlyingasset=/` |
-| `http://icloud-recover.mooo.com/` |
-| `https://www.robiox.com.py/users/343713616813/profile` |
-| `https://staybesdrom.com/22211532/` |
-| `http://link.trustwalletondofinance.net/` |
-| `http://eservicebits.com/landingpages/90d69b1d-cc46-48a6-8a25-a3222e9cce64/xdsmknupdcia6whjmmp6em9qbzzafpeh6xxkmujllck` |
-| `https://ch.whatsapapyua.com/` |
-| `https://central.pr-universe.com/s/63bzgfsvbwsfcdx7y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `https://surl.li/vdrmoi` |
-| `https://roblox.mq/games/85811969623710/Sword-Fighting-773855?privateServerLinkCode=84941162753704157451608181886024` |
-| `https://www.robiox.com.py/users/240617314295/profile` |
-| `https://mahikla7-hub.github.io/Amazon-Clone/` |
-| `https://roblox.com.py/users/2116508401/profile` |
-| `http://vrmirror.pages.dev/konten-zahlungsverkehr/wissen/sicherheit-onlinebanking` |
-| `http://animaxstudio09.github.io/index.html-` |
+| `https://vwww-roblox.com.ru/games/920587237/NEW-Adopt-Me?privateServerLinkCode=97333097989164825371023145551828` |
+| `https://www.robiox.com.py/users/158162285240/profile` |
+| `https://fidelitysafetyio.one/16bcg7s/page.html` |
+| `https://fidelitysafetyio.one/16bcg7s` |
+| `https://roblox.com.ge/communities/6598990823/` |
+| `https://roblox.com.kz/users/7048358411/profile./` |
+| `https://roblox.com.py/communities/213129502/` |
+| `https://exportex.net/wp-includes/rdr/` |
+| `https://nbvc.us-southeast-1.linodeobjects.com/index.html?3mail@a.b.c0` |
+| `https://ingresoahoraneswes.fun/` |
+| `http://boainternational.vercel.app/register` |
+| `https://pv007.com/` |
+| `https://www.newsessionbox-mint5.vercel.app/` |
+| `https://muhammadwaleedqazi.github.io/fb_home/` |
+| `https://itsritikcodes-dev.github.io/Amazon-Clone/` |
+| `https://portalsegurity26.webcindario.com/` |
+| `http://dmv-ca.dycpu.icu/pay/` |
+| `https://www.businessreferandreward.com/terms` |
+| `https://yournettlixsid.blogspot.com/` |
+| `http://www.yournettlixsid.blogspot.com/` |
 
 ---
 
