@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 03, 2026  
-> **Updated:** March 03, 2026 at 11:03 UTC  
+> **Date:** March 04, 2026  
+> **Updated:** March 04, 2026 at 10:59 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -44,26 +44,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://vwww-roblox.com.ru/games/920587237/NEW-Adopt-Me?privateServerLinkCode=97333097989164825371023145551828` |
-| `https://www.robiox.com.py/users/158162285240/profile` |
-| `https://fidelitysafetyio.one/16bcg7s/page.html` |
-| `https://fidelitysafetyio.one/16bcg7s` |
-| `https://roblox.com.ge/communities/6598990823/` |
-| `https://roblox.com.kz/users/7048358411/profile./` |
-| `https://roblox.com.py/communities/213129502/` |
-| `https://exportex.net/wp-includes/rdr/` |
-| `https://nbvc.us-southeast-1.linodeobjects.com/index.html?3mail@a.b.c0` |
-| `https://ingresoahoraneswes.fun/` |
-| `http://boainternational.vercel.app/register` |
-| `https://pv007.com/` |
-| `https://www.newsessionbox-mint5.vercel.app/` |
-| `https://muhammadwaleedqazi.github.io/fb_home/` |
-| `https://itsritikcodes-dev.github.io/Amazon-Clone/` |
-| `https://portalsegurity26.webcindario.com/` |
-| `http://dmv-ca.dycpu.icu/pay/` |
-| `https://www.businessreferandreward.com/terms` |
-| `https://yournettlixsid.blogspot.com/` |
-| `http://www.yournettlixsid.blogspot.com/` |
+| `https://theglamscientist.com/nf/users/3eb4c/visa/confirm.php` |
+| `https://gtiojkjbkvbckg.pagedemo.co/` |
+| `https://pairs.li/` |
+| `https://adobe.appwrite.network/` |
+| `https://ipfs.io/ipfs/bafkreihpxmxswzvoyd6yocibzh7qnv7rwedlh22iwg5fnjm2bawhvzqhqi` |
+| `https://www.robiox.com.py/users/137835711884/profile` |
+| `https://www.roblox.com.gl/users/449815952320/profile` |
+| `https://web3securenetwork.com/` |
+| `http://www.roblox.com.kz/users/701736095/profile/` |
+| `https://accounts-process-connect.com-clientid-v-dd146436e492ee706d5864e1bfb8dd56.com/client/office/p` |
+| `https://amazonwebservices.security-unauthorised-request.com/login/Mgk-WCxcfmgseLHDblkV8Onp_5Wk9ykC3UkY=2Aw==1UFxQS15fbl1eVlhf/U5vi3iQc2ZYY-EdD-wtEnZbBycRD5f72` |
+| `http://promotions.ppsmotors.co.in/file/drive/` |
+| `https://cepet.in/pqres` |
+| `https://mxx9.tv/` |
+| `https://accounts.bmwweb.green/en/login/` |
+| `http://movies-with-gpt.vercel.app/` |
+| `https://app-cash-link.com/` |
+| `https://bluffsidemedia.com/` |
+| `https://nxtxle.biz.id/` |
+| `https://spotifyclonekv.netlify.app/` |
 
 ---
 
