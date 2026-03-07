@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 06, 2026  
-> **Updated:** March 06, 2026 at 10:05 UTC  
+> **Date:** March 07, 2026  
+> **Updated:** March 07, 2026 at 09:52 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -44,26 +44,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://rentrise.vercel.app/` |
-| `https://zellepayyhelplinenumber.webflow.io/` |
-| `http://bafybeifpqhyzn73oe4u5fepceonr6hbpvffuxj7vikwnwh3wkrp2v3blei.ipfs.infura-ipfs.io/` |
-| `https://www.robiox.com.gr/communities/4745828544/idk-cz-sk-rivals` |
-| `https://www.roblox.com.gl/games/77747658251236/2x-Luck-Sailor-Piece?privateServerLinkCode=897636487139464501064701149477` |
-| `https://global-exchange.ghost.io/desktop/` |
-| `http://navi-uphols-un.zapier.app/` |
-| `http://gmx-login-web.weebly.com/` |
-| `http://uphwlde-logic.godaddysites.com/` |
-| `https://cepet.in/ckXtb` |
-| `https://www.roblox.com.gl/users/263357625666/profile` |
-| `https://netflix-clone-tan-six.vercel.app/` |
-| `http://www.netflix-clone-tan-six.vercel.app/` |
-| `https://netflix-clone-zeta-ashen.vercel.app/` |
-| `http://www.netflix-clone-zeta-ashen.vercel.app/` |
-| `https://netflix-clone-navy-beta.vercel.app/` |
-| `http://www.netflix-clone-navy-beta.vercel.app/` |
-| `http://saddem-outnewtechgroup.mdbgo.io/` |
-| `https://www.authfacebook.hb.gwfaoli.com/` |
-| `http://shopapi.facebook889.com/` |
+| `http://danaaindonesia4xl.cexd.my.id/` |
+| `http://danaid1.layanan-resmii.biz.id/` |
+| `https://www.robiox.com.gr/users/3473456048/profile` |
+| `http://myfcivwudlomkmateam.saystudio.net/` |
+| `https://www.roblox.com.gl/users/276858650846/profile` |
+| `https://global.marketing-partner-invite.com/` |
+| `https://roblox.com.py/games/4639625707/REAPER-War-Tycoon?privateServerLinkCode=79714950233652067475301562385394` |
+| `https://netflix-clone-azure-ten.vercel.app/` |
+| `http://www.netflix-clone-azure-ten.vercel.app/` |
+| `https://roblox.com.ly/communities/7540632416/` |
+| `http://uppholdlogex-wlu8.godaddysites.com/` |
+| `http://email.cvlindia.com/` |
+| `http://netflix-ui-ux-landing-page.vercel.app/` |
+| `http://allaroundheatingandair.com/reappaling/93d39030eohf20203/AUTH-DJ39RFK3F0304jd30/grouping930fn303/allaroundheatingandair.panel.html?eta=3mail@a.b.c0` |
+| `http://www.netflix-nine-lovat.vercel.app/` |
+| `http://www.netflix-clone-eta-six.vercel.app/` |
+| `http://whatsapp.blogspot.com/` |
+| `http://www.whatsapp.blogspot.com/` |
+| `http://eedde.pages.dev/` |
+| `http://mitameskk_8clogunn.godaddysites.com/` |
 
 ---
 
