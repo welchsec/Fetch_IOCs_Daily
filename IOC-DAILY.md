@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 07, 2026  
-> **Updated:** March 07, 2026 at 09:52 UTC  
+> **Date:** March 08, 2026  
+> **Updated:** March 08, 2026 at 09:53 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -10,11 +10,11 @@
 
 | IOC Type | Count |
 |---|---|
-| 🔴 Malicious IPs | 3 |
+| 🔴 Malicious IPs | 5 |
 | 🌐 Malicious Domains | 0 |
 | 🦠 Malware Hashes | 0 |
 | 🎣 Phishing URLs | 20 |
-| **Total IOCs** | **23** |
+| **Total IOCs** | **25** |
 
 ---
 
@@ -22,6 +22,8 @@
 
 | IP Address | Port | Malware | Country | Status |
 |---|---|---|---|---|
+| `162.243.103.246` | 8080 | Emotet | US | offline |
+| `50.16.16.211` | 443 | QakBot | US | offline |
 | `34.204.119.63` | 443 | QakBot | US | offline |
 | `178.62.3.223` | 443 | QakBot | GB | offline |
 | `27.133.154.218` | 443 | QakBot | JP | offline |
@@ -44,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://danaaindonesia4xl.cexd.my.id/` |
-| `http://danaid1.layanan-resmii.biz.id/` |
-| `https://www.robiox.com.gr/users/3473456048/profile` |
-| `http://myfcivwudlomkmateam.saystudio.net/` |
-| `https://www.roblox.com.gl/users/276858650846/profile` |
-| `https://global.marketing-partner-invite.com/` |
-| `https://roblox.com.py/games/4639625707/REAPER-War-Tycoon?privateServerLinkCode=79714950233652067475301562385394` |
-| `https://netflix-clone-azure-ten.vercel.app/` |
-| `http://www.netflix-clone-azure-ten.vercel.app/` |
-| `https://roblox.com.ly/communities/7540632416/` |
-| `http://uppholdlogex-wlu8.godaddysites.com/` |
-| `http://email.cvlindia.com/` |
-| `http://netflix-ui-ux-landing-page.vercel.app/` |
-| `http://allaroundheatingandair.com/reappaling/93d39030eohf20203/AUTH-DJ39RFK3F0304jd30/grouping930fn303/allaroundheatingandair.panel.html?eta=3mail@a.b.c0` |
-| `http://www.netflix-nine-lovat.vercel.app/` |
-| `http://www.netflix-clone-eta-six.vercel.app/` |
-| `http://whatsapp.blogspot.com/` |
-| `http://www.whatsapp.blogspot.com/` |
-| `http://eedde.pages.dev/` |
-| `http://mitameskk_8clogunn.godaddysites.com/` |
+| `https://insta-clone-application.vercel.app/` |
+| `https://insta-clone-application.vercel.app/auth/login` |
+| `https://roblox.com.ge/games/16146832113/UPD-11-Anime-Vanguards?privateServerLinkCode=70868005475466543045084535414192` |
+| `https://center.verificationsupportmetaidentity.cfd/requestbadgeconfirm-100019012357` |
+| `https://www.robiox.com.ps/games/8832438757/PVP-Sword-Fighting?privateServerLinkCode=78903422417323090225937144668524` |
+| `https://ramyalok.github.io/Netflix-_clone_webpage` |
+| `https://www.robiox.com.py/users/407577980778/profile` |
+| `https://amh012-hu.github.io/Fake-Page/` |
+| `http://americanexpress.karenjeanna.shop/index/co.jp/` |
+| `http://americanexpress.karenjeanna.shop/index/co.jp` |
+| `https://ajukan-pinjamanxc.lingmung.my.id/` |
+| `http://regirter.github.io/facebook.login` |
+| `https://www.robiox.com.py/users/283847205803/profile` |
+| `https://login.facebo0k.legal-lead-hub.com/` |
+| `https://roblox.com.ge/users/3000738582/profile` |
+| `https://roblox.com.ge/users/5207395189/profile` |
+| `https://roblox.com.py/communities/9435567504/` |
+| `https://roblox.com.ge/users/9018258961/profile` |
+| `https://roblox.cd/upgrades/robux?ctx=navpopover` |
+| `http://valerieann1990.wixsite.com/my-site/` |
 
 ---
 
