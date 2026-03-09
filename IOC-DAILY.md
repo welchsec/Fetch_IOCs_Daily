@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 08, 2026  
-> **Updated:** March 08, 2026 at 09:53 UTC  
+> **Date:** March 09, 2026  
+> **Updated:** March 09, 2026 at 11:09 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://insta-clone-application.vercel.app/` |
-| `https://insta-clone-application.vercel.app/auth/login` |
-| `https://roblox.com.ge/games/16146832113/UPD-11-Anime-Vanguards?privateServerLinkCode=70868005475466543045084535414192` |
-| `https://center.verificationsupportmetaidentity.cfd/requestbadgeconfirm-100019012357` |
-| `https://www.robiox.com.ps/games/8832438757/PVP-Sword-Fighting?privateServerLinkCode=78903422417323090225937144668524` |
-| `https://ramyalok.github.io/Netflix-_clone_webpage` |
-| `https://www.robiox.com.py/users/407577980778/profile` |
-| `https://amh012-hu.github.io/Fake-Page/` |
-| `http://americanexpress.karenjeanna.shop/index/co.jp/` |
-| `http://americanexpress.karenjeanna.shop/index/co.jp` |
-| `https://ajukan-pinjamanxc.lingmung.my.id/` |
-| `http://regirter.github.io/facebook.login` |
-| `https://www.robiox.com.py/users/283847205803/profile` |
-| `https://login.facebo0k.legal-lead-hub.com/` |
-| `https://roblox.com.ge/users/3000738582/profile` |
-| `https://roblox.com.ge/users/5207395189/profile` |
-| `https://roblox.com.py/communities/9435567504/` |
-| `https://roblox.com.ge/users/9018258961/profile` |
-| `https://roblox.cd/upgrades/robux?ctx=navpopover` |
-| `http://valerieann1990.wixsite.com/my-site/` |
+| `https://roblox.com.ge/games/131306514547473/Sussy-Neko-Obby-ONLY-1-REACH-THE-FINAL?privateServerLinkCode=78817906733575071642525552258439` |
+| `https://www.robiox.com.gr/games/4924922222/Brookhaven-RP?privateServerLinkCode=80553779994823189053753798129570` |
+| `https://ferhadbag-maker.github.io/index./` |
+| `https://ferhadbag-maker.github.io/index.` |
+| `https://010365vip.com/` |
+| `http://cn.98mebetx.com/` |
+| `http://www.tiny.cc/3o10101/` |
+| `https://ns2.whatscvpp.top/` |
+| `http://amazon-clone-three-ashen.vercel.app/` |
+| `https://www.netflix-clone-iota-five.vercel.app/` |
+| `https://xelra-davon-biz-sunra-zxhy22526z-pranel.pages.dev/c9x2m-7bp-k4t8v-3ls?id=105565964337316&page_name=JLS%20Businesses%20Operation/%20%E1%9E%9F%E1%9F%81%E1%9E%9C%E1%9E%B6%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%85%E1%9E%BB%E1%9F%87%E1%9E%94%E1%9E%89%E1%9F%92%E1%9E%87%E1%9E%B8%E1%9E%A2%E1%9E%B6%E1%9E%87%E1%9E%B8%E1%9E%9C%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98/` |
+| `https://smart-network-investment-system.pages.dev/a7f9q-3zk-p8d4m-9hx?id=980073868521693&page_name=Lite's%20Digital%20Diary` |
+| `https://tarnel-biz-morqil-17126.pages.dev/heartily_welcome` |
+| `https://sarvo-rixan-biz-paxru-zxid22526e-glanex.pages.dev/c9x2m-7bp-k4t8v-3ls?id=105565964337316&page_name=JLS%20Businesses%20Operation/%20%E1%9E%9F%E1%9F%81%E1%9E%9C%E1%9E%B6%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%85%E1%9E%BB%E1%9F%87%E1%9E%94%E1%9E%89%E1%9F%92%E1%9E%87%E1%9E%B8%E1%9E%A2%E1%9E%B6%E1%9E%87%E1%9E%B8%E1%9E%9C%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98/` |
+| `https://norva-kelra-biz-sunor-zxha22526z-glanex.pages.dev/c9x2m-7bp-k4t8v-3ls?id=105565964337316&page_name=JLS%20Businesses%20Operation/%20%E1%9E%9F%E1%9F%81%E1%9E%9C%E1%9E%B6%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%85%E1%9E%BB%E1%9F%87%E1%9E%94%E1%9E%89%E1%9F%92%E1%9E%87%E1%9E%B8%E1%9E%A2%E1%9E%B6%E1%9E%87%E1%9E%B8%E1%9E%9C%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98/` |
+| `https://xelix-ranor-biz-dexru-zxhu22526v-prixel.pages.dev/c9x2m-7bp-k4t8v-3ls?id=105565964337316&page_name=JLS%20Businesses%20Operation/%20%E1%9E%9F%E1%9F%81%E1%9E%9C%E1%9E%B6%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%85%E1%9E%BB%E1%9F%87%E1%9E%94%E1%9E%89%E1%9F%92%E1%9E%87%E1%9E%B8%E1%9E%A2%E1%9E%B6%E1%9E%87%E1%9E%B8%E1%9E%9C%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98/` |
+| `https://larnov-biz-tornax-15126.pages.dev/heartily_welcome?id=2057707950979124&page_name=mama%20cynth's%20jamaican%20kitchen` |
+| `https://technical-system-platform-service.pages.dev/heartily_welcome?id=686053434599538` |
+| `https://skqa-rxlt-biz26-hnps-vksa-sp1ct.pages.dev/appeal_form` |
+| `https://qe7h-hgxqx-ctpv-5fqp.pages.dev/a7f9q-3zk-p8d4m-9hx?id=129075693863486` |
 
 ---
 
