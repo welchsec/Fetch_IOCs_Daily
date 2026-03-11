@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 10, 2026  
-> **Updated:** March 10, 2026 at 11:06 UTC  
+> **Date:** March 11, 2026  
+> **Updated:** March 11, 2026 at 11:05 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://bafybeieslyppdjfmmprcwy5x5q26aldivv27cnabjkzelit57mm2a3ems4.ipfs.infura-ipfs.io/` |
-| `https://hellpdesk.net/?r=4212803e-2d6e-4041-93d4-d56b5ae4124f&rg=eu` |
-| `https://hguijhfffhhh.weebly.com/` |
-| `http://bafybeid6wkyhpgyjxckfn3mok2y6qqmbj62bcbra46cex33tlllv66onqu.ipfs.infura-ipfs.io/` |
-| `https://more-grocery-603669.framer.app/` |
-| `http://mettumuskkkvlogue.godaddysites.com/` |
-| `https://accountstatement231.weebly.com/` |
-| `https://www.len66.com/` |
-| `https://www.fenouxltd.com/M/men.html?eta=3mail@a.b.c0` |
-| `https://roblox.gs/users/9514815528/profile` |
-| `https://guvenbisiklet.com/mmmm/` |
-| `https://chnsaulins.duckdns.org/clients/index.php/` |
-| `https://parking-pcnmh.cn/i` |
-| `https://stylebourg.com/` |
-| `https://www.facebookstartopup.info/` |
-| `http://voudet.com/` |
-| `http://upp-hnolldd-llogg.godaddysites.com/` |
-| `https://maryamr25.github.io/fb-signup/` |
-| `https://roblox.com.py/games/3260590327/x15-Tower-Defense-Simulator?privateServerLinkCode=57222276712295032660994553563021` |
-| `https://amazonwebservices.security-unauthorised-request.com/login/Mgk-WCxcfmgseLHDblkV8Onp_5Wk9ykC3UkY=2Aw==9WFRYQ1ZXZlVWXlBX/U5vi3iQc2ZYY-EdD-wtEnZbBycRD5f72` |
+| `https://www.roblox.com.bn/users/266678570292/profile` |
+| `https://roblox.com.ge/users/4558471406/profile` |
+| `https://giddyddev.vercel.app/` |
+| `https://en-ledgerlive.pages.dev/` |
+| `https://pcdosilva01-spec.github.io/instagram/` |
+| `https://sglobalskincareid.com/m/index/` |
+| `https://funeraldirectormortuary.vercel.app/` |
+| `https://kucoincmlggin.webflow.io/` |
+| `http://s3.dualstack.us-east-2.amazonaws.com/blob-core-windows.net-roundcube.com.html/pddbg.html` |
+| `https://ts67822.com/` |
+| `http://appleufficiale.info/Chiapponi` |
+| `https://b47482.com/` |
+| `https://koiqeenloginz.webflow.io/` |
+| `https://trerezrwwalletrtixv.webflow.io/` |
+| `https://metamsklogiin.github.io/` |
+| `https://kucoiin-custommer-support-number.webflow.io/` |
+| `https://kuccoin-custtomer-serrvice-nnumber.webflow.io/` |
+| `https://concavewrioukhwri31i784265i-yuhjbn5tkej.webflow.io/` |
+| `https://kuioinneelogi.webflow.io/` |
+| `https://netcoineslogin-hub.webflow.io/` |
 
 ---
 
