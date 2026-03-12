@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 11, 2026  
-> **Updated:** March 11, 2026 at 11:05 UTC  
+> **Date:** March 12, 2026  
+> **Updated:** March 12, 2026 at 11:04 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.bn/users/266678570292/profile` |
-| `https://roblox.com.ge/users/4558471406/profile` |
-| `https://giddyddev.vercel.app/` |
-| `https://en-ledgerlive.pages.dev/` |
-| `https://pcdosilva01-spec.github.io/instagram/` |
-| `https://sglobalskincareid.com/m/index/` |
-| `https://funeraldirectormortuary.vercel.app/` |
-| `https://kucoincmlggin.webflow.io/` |
-| `http://s3.dualstack.us-east-2.amazonaws.com/blob-core-windows.net-roundcube.com.html/pddbg.html` |
-| `https://ts67822.com/` |
-| `http://appleufficiale.info/Chiapponi` |
-| `https://b47482.com/` |
-| `https://koiqeenloginz.webflow.io/` |
-| `https://trerezrwwalletrtixv.webflow.io/` |
-| `https://metamsklogiin.github.io/` |
-| `https://kucoiin-custommer-support-number.webflow.io/` |
-| `https://kuccoin-custtomer-serrvice-nnumber.webflow.io/` |
-| `https://concavewrioukhwri31i784265i-yuhjbn5tkej.webflow.io/` |
-| `https://kuioinneelogi.webflow.io/` |
-| `https://netcoineslogin-hub.webflow.io/` |
+| `https://empresas.terrazzanealmeida.com.br/.tmp/verif1.php` |
+| `https://empresas.terrazzanealmeida.com.br/.tmp/otp1.php` |
+| `https://lincphone.com/loginntt/gh/sso.login/` |
+| `https://mahiyasingh.github.io/Amazon-clone` |
+| `https://parking-pcnmx.cn/i` |
+| `https://jomphefavia-shb.pages.dev/robots.txt/` |
+| `https://roblox.com.ge/users/9431472086/profile` |
+| `https://kadaindex.pages.dev/contact/banking/` |
+| `https://loenwe-hopeagia-noprobs.pages.dev/help/contact/375869052754522/` |
+| `https://shopees-online.site/` |
+| `https://onedigitalstack.com/bn/html/a6e7af914cec01279f3c/nkl-log.php/` |
+| `https://person-brevportalen.com/Client/login.php/` |
+| `https://roblox.cd/games/2753915549/Event-Blox-Fruits?privateServerLinkCode=85814771798216201315196681877366` |
+| `http://danaaterrpendiing.resmi-wsl3.my.id/` |
+| `https://robloxr.cv/login?returnUrl=192245539` |
+| `http://www.person-brevportalen.com/index.php` |
+| `https://robloxr.cv/users/192245539/profile` |
+| `https://netfimarketing.com/x54259c7406dbd4ba0ub5e42780q9f4c70ec.html` |
+| `https://roblox.com.ge/users/7392630667/profile` |
+| `http://www.mynew-project.x10.network/` |
 
 ---
 
