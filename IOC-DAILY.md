@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 12, 2026  
-> **Updated:** March 12, 2026 at 11:04 UTC  
+> **Date:** March 13, 2026  
+> **Updated:** March 13, 2026 at 11:00 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://empresas.terrazzanealmeida.com.br/.tmp/verif1.php` |
-| `https://empresas.terrazzanealmeida.com.br/.tmp/otp1.php` |
-| `https://lincphone.com/loginntt/gh/sso.login/` |
-| `https://mahiyasingh.github.io/Amazon-clone` |
-| `https://parking-pcnmx.cn/i` |
-| `https://jomphefavia-shb.pages.dev/robots.txt/` |
-| `https://roblox.com.ge/users/9431472086/profile` |
-| `https://kadaindex.pages.dev/contact/banking/` |
-| `https://loenwe-hopeagia-noprobs.pages.dev/help/contact/375869052754522/` |
-| `https://shopees-online.site/` |
-| `https://onedigitalstack.com/bn/html/a6e7af914cec01279f3c/nkl-log.php/` |
-| `https://person-brevportalen.com/Client/login.php/` |
-| `https://roblox.cd/games/2753915549/Event-Blox-Fruits?privateServerLinkCode=85814771798216201315196681877366` |
-| `http://danaaterrpendiing.resmi-wsl3.my.id/` |
-| `https://robloxr.cv/login?returnUrl=192245539` |
-| `http://www.person-brevportalen.com/index.php` |
-| `https://robloxr.cv/users/192245539/profile` |
-| `https://netfimarketing.com/x54259c7406dbd4ba0ub5e42780q9f4c70ec.html` |
-| `https://roblox.com.ge/users/7392630667/profile` |
-| `http://www.mynew-project.x10.network/` |
+| `https://sx-58.github.io/netflix.com-login/` |
+| `https://jubril879.github.io/netflix/` |
+| `https://accesscontrolemailtermiantionnotice.weebly.com/` |
+| `https://sekhariam.github.io/Netflix-Clone/` |
+| `https://rohitashwapaldas.github.io/KTJ-WEBD-WORKSHOP-Assignment1/` |
+| `https://docusigndocs2026.weebly.com/` |
+| `https://sammi50.weebly.com/` |
+| `https://humble-basis-872912.framer.app/` |
+| `https://glad-circle-676416.framer.app/` |
+| `https://udidi.weebly.com/` |
+| `https://persistent-village-612814.framer.app/` |
+| `https://glowing-happen-262064.framer.app/` |
+| `https://tharunkumar53007.github.io/Netflix-Clone/` |
+| `https://netflix-clone-black-kappa.vercel.app/` |
+| `https://emma234234.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/` |
+| `https://hadihassan5.github.io/Netflix-Clone/` |
+| `https://akshaymanoja.github.io/Netflix-clone/` |
+| `https://ali-amir-code.github.io/netflix-clone-t5/` |
+| `https://rajveer004.github.io/netflix-clone/` |
+| `https://sym0re.github.io/Netflix-Clone-2025/` |
 
 ---
 
