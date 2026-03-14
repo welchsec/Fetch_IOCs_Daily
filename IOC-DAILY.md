@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 13, 2026  
-> **Updated:** March 13, 2026 at 11:00 UTC  
+> **Date:** March 14, 2026  
+> **Updated:** March 14, 2026 at 09:58 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://sx-58.github.io/netflix.com-login/` |
-| `https://jubril879.github.io/netflix/` |
-| `https://accesscontrolemailtermiantionnotice.weebly.com/` |
-| `https://sekhariam.github.io/Netflix-Clone/` |
-| `https://rohitashwapaldas.github.io/KTJ-WEBD-WORKSHOP-Assignment1/` |
-| `https://docusigndocs2026.weebly.com/` |
-| `https://sammi50.weebly.com/` |
-| `https://humble-basis-872912.framer.app/` |
-| `https://glad-circle-676416.framer.app/` |
-| `https://udidi.weebly.com/` |
-| `https://persistent-village-612814.framer.app/` |
-| `https://glowing-happen-262064.framer.app/` |
-| `https://tharunkumar53007.github.io/Netflix-Clone/` |
-| `https://netflix-clone-black-kappa.vercel.app/` |
-| `https://emma234234.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/` |
-| `https://hadihassan5.github.io/Netflix-Clone/` |
-| `https://akshaymanoja.github.io/Netflix-clone/` |
-| `https://ali-amir-code.github.io/netflix-clone-t5/` |
-| `https://rajveer004.github.io/netflix-clone/` |
-| `https://sym0re.github.io/Netflix-Clone-2025/` |
+| `https://www.robiox.com.py/users/378472335145/profile` |
+| `http://envioexpresso.xyz/` |
+| `https://galleta.jdevcloud.com/ayer/cama/index.php` |
+| `https://s.teams-ls.com/p/fjbd-cbch/zidudeyx/` |
+| `https://insightsdiscoverabilityguidelines.xyz/` |
+| `https://restrictionenforcementinsight.online/` |
+| `https://www.itproge.com/audio/` |
+| `https://roblox.com.ge/users/1298085270/profile` |
+| `https://capitalonem.pages.dev/exchange/` |
+| `https://roblox.gs/games/99567941238278/Ink-Game?privateServerLinkCode=90631813262730331057510286960013` |
+| `https://dappfix-mainnet.pages.dev/0.730454681609271/wallet.html` |
+| `http://updatemarchh.com/2431891171` |
+| `https://roblox.com.ge/communities/8038830015/` |
+| `http://kaiser0207.github.io/HW3` |
+| `https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..*@1.5.3/dist/index-2.html/` |
+| `http://solutionfun.info/landingpage/90d69b1d-cc46-48a6-8a25-a3222e9cce64/k` |
+| `http://roblox.com.ge/users/4753246282/profile` |
+| `http://roblox.com.ge/users/9064149940/profile` |
+| `https://roblox.com.ge/users/4055073701/profile/` |
+| `http://roblox.com.ge/users/4247575261/profile` |
 
 ---
 
