@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 14, 2026  
-> **Updated:** March 14, 2026 at 09:58 UTC  
+> **Date:** March 15, 2026  
+> **Updated:** March 15, 2026 at 09:59 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.robiox.com.py/users/378472335145/profile` |
-| `http://envioexpresso.xyz/` |
-| `https://galleta.jdevcloud.com/ayer/cama/index.php` |
-| `https://s.teams-ls.com/p/fjbd-cbch/zidudeyx/` |
-| `https://insightsdiscoverabilityguidelines.xyz/` |
-| `https://restrictionenforcementinsight.online/` |
-| `https://www.itproge.com/audio/` |
-| `https://roblox.com.ge/users/1298085270/profile` |
-| `https://capitalonem.pages.dev/exchange/` |
-| `https://roblox.gs/games/99567941238278/Ink-Game?privateServerLinkCode=90631813262730331057510286960013` |
-| `https://dappfix-mainnet.pages.dev/0.730454681609271/wallet.html` |
-| `http://updatemarchh.com/2431891171` |
-| `https://roblox.com.ge/communities/8038830015/` |
-| `http://kaiser0207.github.io/HW3` |
-| `https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..*@1.5.3/dist/index-2.html/` |
-| `http://solutionfun.info/landingpage/90d69b1d-cc46-48a6-8a25-a3222e9cce64/k` |
-| `http://roblox.com.ge/users/4753246282/profile` |
-| `http://roblox.com.ge/users/9064149940/profile` |
-| `https://roblox.com.ge/users/4055073701/profile/` |
-| `http://roblox.com.ge/users/4247575261/profile` |
+| `https://arshpreetsingh6103.github.io/Netflix-clone/` |
+| `https://sumitawatade1718.github.io/Netflix/` |
+| `https://httppss-roblox.com/users/57714023/profile` |
+| `https://000www-formulario-davivienda-d1e419f4b.duckdns.org/00203732/` |
+| `https://tazeen-shaikh.github.io/netflix/` |
+| `https://bidvesunil.github.io/test_first/` |
+| `https://vmi3110855.contaboserver.net/sds/pages/login.php/` |
+| `http://www.64.188.74.204.sslip.io/` |
+| `https://optitronoffical.github.io/LedgerLiveAlerts/` |
+| `https://id8274802reserv-extranet-page.icu/` |
+| `https://www.roblox.com.gl/users/358503215267/profile` |
+| `https://aasthax2103.github.io/cart-checkout-project-javascript/components/amazon.html` |
+| `http://64.188.74.204.sslip.io/` |
+| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/uadmin/bower_components/bootstrap/docs/4.0/examples/internals/api/componentfrontendhandler.class.php/` |
+| `https://www.login-ledgger-load-io-frame.vercel.app/` |
+| `https://roblox.com.ge/users/6205065149/profile` |
+| `https://www.re11133.vercel.app/` |
+| `https://tokenimdownload.com/` |
+| `https://accounts.bmwweb.ac/en/login` |
+| `https://roblox.gs/users/1694212392/profile` |
 
 ---
 
