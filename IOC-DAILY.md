@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 15, 2026  
-> **Updated:** March 15, 2026 at 09:59 UTC  
+> **Date:** March 16, 2026  
+> **Updated:** March 16, 2026 at 11:35 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://arshpreetsingh6103.github.io/Netflix-clone/` |
-| `https://sumitawatade1718.github.io/Netflix/` |
-| `https://httppss-roblox.com/users/57714023/profile` |
-| `https://000www-formulario-davivienda-d1e419f4b.duckdns.org/00203732/` |
-| `https://tazeen-shaikh.github.io/netflix/` |
-| `https://bidvesunil.github.io/test_first/` |
-| `https://vmi3110855.contaboserver.net/sds/pages/login.php/` |
-| `http://www.64.188.74.204.sslip.io/` |
-| `https://optitronoffical.github.io/LedgerLiveAlerts/` |
-| `https://id8274802reserv-extranet-page.icu/` |
-| `https://www.roblox.com.gl/users/358503215267/profile` |
-| `https://aasthax2103.github.io/cart-checkout-project-javascript/components/amazon.html` |
-| `http://64.188.74.204.sslip.io/` |
-| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/uadmin/bower_components/bootstrap/docs/4.0/examples/internals/api/componentfrontendhandler.class.php/` |
-| `https://www.login-ledgger-load-io-frame.vercel.app/` |
-| `https://roblox.com.ge/users/6205065149/profile` |
-| `https://www.re11133.vercel.app/` |
-| `https://tokenimdownload.com/` |
-| `https://accounts.bmwweb.ac/en/login` |
-| `https://roblox.gs/users/1694212392/profile` |
+| `https://www.roblox.com.gl/users/144495656726/profile` |
+| `https://www.robiox.com.py/users/320243727973/profile` |
+| `http://gopay.layanan-resmi.my.id/` |
+| `https://www.robiox.com.py/users/126874490812/profile` |
+| `http://dana-bantuan.layanan-resmii.biz.id/` |
+| `https://kqqqr.top/jp/` |
+| `https://recepcioncfdi.com/(S(4rosddtgjspyl41buhhqmy3u))/EscogeLenguaje.aspx?ReturnUrl=%2FLenguaje.aspx` |
+| `http://recepcioncfdi.com/Lenguaje.aspx` |
+| `https://www.robiox.com.py/users/134430466053/profile` |
+| `https://kanny.vn/wordpress/wp-content/particuliers/aces/particulier/connexion.php/` |
+| `https://usps.bzukc.life/pay/` |
+| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/help/contact/149330036916013/` |
+| `https://aktiiffkanpayllater.resmi-soc3.my.id/` |
+| `https://softa-dashboard.pages.dev/auth/login/` |
+| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/uadmin/bower_components/bootstrap/docs/4.0/examples/checkout/sms/zaypay/widget_iframe.php/` |
+| `https://staemcommunnity.cyou/id=80509197151` |
+| `https://rblx.foo/s/lOVcol` |
+| `http://bantuan-dana.layanan-resmii.biz.id/` |
+| `https://www.5b3z1x46m416.duckdns.org/` |
+| `https://staemcommunnity.cyou/id=5162802847` |
 
 ---
 
