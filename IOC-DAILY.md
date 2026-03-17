@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 16, 2026  
-> **Updated:** March 16, 2026 at 11:35 UTC  
+> **Date:** March 17, 2026  
+> **Updated:** March 17, 2026 at 11:33 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.gl/users/144495656726/profile` |
-| `https://www.robiox.com.py/users/320243727973/profile` |
-| `http://gopay.layanan-resmi.my.id/` |
-| `https://www.robiox.com.py/users/126874490812/profile` |
-| `http://dana-bantuan.layanan-resmii.biz.id/` |
-| `https://kqqqr.top/jp/` |
-| `https://recepcioncfdi.com/(S(4rosddtgjspyl41buhhqmy3u))/EscogeLenguaje.aspx?ReturnUrl=%2FLenguaje.aspx` |
-| `http://recepcioncfdi.com/Lenguaje.aspx` |
-| `https://www.robiox.com.py/users/134430466053/profile` |
-| `https://kanny.vn/wordpress/wp-content/particuliers/aces/particulier/connexion.php/` |
-| `https://usps.bzukc.life/pay/` |
-| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/help/contact/149330036916013/` |
-| `https://aktiiffkanpayllater.resmi-soc3.my.id/` |
-| `https://softa-dashboard.pages.dev/auth/login/` |
-| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/uadmin/bower_components/bootstrap/docs/4.0/examples/checkout/sms/zaypay/widget_iframe.php/` |
-| `https://staemcommunnity.cyou/id=80509197151` |
-| `https://rblx.foo/s/lOVcol` |
-| `http://bantuan-dana.layanan-resmii.biz.id/` |
-| `https://www.5b3z1x46m416.duckdns.org/` |
-| `https://staemcommunnity.cyou/id=5162802847` |
+| `http://getproxylens23fjvj.s3.us-west-2.amazonaws.com/index.html?eta=3mail@a.b.c0` |
+| `https://geraldoseguros.cl/wp-includes/resources/` |
+| `http://nhn-cafeview.com/view/129384` |
+| `https://delv.ghanapost.vip/zc` |
+| `http://businessrequestverifyportal.com/5227406565/` |
+| `http://roblox.com.ge/games/920587237/NEW-Adopt-Me?privateServerLinkCode=63470692208251573974878282631313` |
+| `https://authentication.ms/JA0lxzW4uCPHEw?0b80-4d97-86d7-0025813a9eda` |
+| `http://kucoinsignin-application.webflow.io/` |
+| `https://blockchain-clone-lyart.vercel.app/html/about.html` |
+| `http://ipfs.io/ipfs/bafkreibatwtiiyvrdtknmnowdmiccbac4irkvgvdzezbjbpl2denqbegpa?alt=271e95bf-d723-44a5-b87a-04324d148e8b` |
+| `https://zulpiyev.github.io/js29/` |
+| `http://airbnb-clone-farukipekcom.vercel.app/stay.html/` |
+| `https://auth-sso--log--capital-i.webflow.io/` |
+| `https://portal-ndax-io-cdn-en-auth.webflow.io/` |
+| `https://yahoojkj.github.io/rogersyahoo.ca.yahoo.com/` |
+| `https://webap-bitmartt.webflow.io/` |
+| `http://ipfs.io/ipfs/bafkreidujedm275llwzis7mglo2hsb2cijkmy3nc7v2pul67fczhpiwobi?eta=3mail@a.b.c0` |
+| `https://klantenservice-crelanhulpsysteem.info/mycs/` |
+| `http://ipfs.io/ipfs/bafkreid3k2q36jqi7s2ido3mo5ck5wjqmwcuuvqdz5qjdimi7min5aodyu?eta=3mail@a.b.c0` |
+| `https://zeellepeysapportnumber.webflow.io/` |
 
 ---
 
