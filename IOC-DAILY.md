@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 17, 2026  
-> **Updated:** March 17, 2026 at 11:33 UTC  
+> **Date:** March 18, 2026  
+> **Updated:** March 18, 2026 at 11:33 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://getproxylens23fjvj.s3.us-west-2.amazonaws.com/index.html?eta=3mail@a.b.c0` |
-| `https://geraldoseguros.cl/wp-includes/resources/` |
-| `http://nhn-cafeview.com/view/129384` |
-| `https://delv.ghanapost.vip/zc` |
-| `http://businessrequestverifyportal.com/5227406565/` |
-| `http://roblox.com.ge/games/920587237/NEW-Adopt-Me?privateServerLinkCode=63470692208251573974878282631313` |
-| `https://authentication.ms/JA0lxzW4uCPHEw?0b80-4d97-86d7-0025813a9eda` |
-| `http://kucoinsignin-application.webflow.io/` |
-| `https://blockchain-clone-lyart.vercel.app/html/about.html` |
-| `http://ipfs.io/ipfs/bafkreibatwtiiyvrdtknmnowdmiccbac4irkvgvdzezbjbpl2denqbegpa?alt=271e95bf-d723-44a5-b87a-04324d148e8b` |
-| `https://zulpiyev.github.io/js29/` |
-| `http://airbnb-clone-farukipekcom.vercel.app/stay.html/` |
-| `https://auth-sso--log--capital-i.webflow.io/` |
-| `https://portal-ndax-io-cdn-en-auth.webflow.io/` |
-| `https://yahoojkj.github.io/rogersyahoo.ca.yahoo.com/` |
-| `https://webap-bitmartt.webflow.io/` |
-| `http://ipfs.io/ipfs/bafkreidujedm275llwzis7mglo2hsb2cijkmy3nc7v2pul67fczhpiwobi?eta=3mail@a.b.c0` |
-| `https://klantenservice-crelanhulpsysteem.info/mycs/` |
-| `http://ipfs.io/ipfs/bafkreid3k2q36jqi7s2ido3mo5ck5wjqmwcuuvqdz5qjdimi7min5aodyu?eta=3mail@a.b.c0` |
-| `https://zeellepeysapportnumber.webflow.io/` |
+| `http://w4b-d4naa.cxbb-ofisiaaal.biz.id/` |
+| `https://www.roblox.com.gl/users/437234102662/profile` |
+| `https://www.amazon-clone-rho-nine.vercel.app/` |
+| `https://www.roblox.com.gl/users/205819886412/profile` |
+| `https://roblox.com.ge/users/6019202459/profile` |
+| `https://chartreuse-color-879469.framer.app/` |
+| `https://roblox.com.ge/communities/3315613513/` |
+| `https://kairosystems.com/yanks/hopes-chamelon-working.html?eta=3mail@a.b.c0` |
+| `https://ipfs.io/ipfs/QmZcBAKpQ9j99XkBExQnmgvxDpCvBgz8i8UpyjYtFdjjdR/nbs.htm` |
+| `http://roblox.com.ge/communities/5661312227/Great-Empire` |
+| `https://dhlsupplychaintest.earcu.com/jobs/login` |
+| `https://netfimarketing.com/xda2323c90c3d948e5ub442e5cdq0cc0483c.html` |
+| `https://roblox.com.py/users/5287157150/profile` |
+| `https://effervescent-cucurucho-a3417d.netlify.app/` |
+| `https://vineet112111.github.io/Netflix-clone-project/` |
+| `https://ehtishamaflaq3.github.io/ApexcifyTechnologys_product_listing_website/` |
+| `https://kdthakkar3011-lab.github.io/Amazon-Clone/` |
+| `https://forsale.dynadot.com/agaricproku.com?drefid=2071` |
+| `https://www.agaricproku.com/` |
+| `https://can-netcoins.webflow.io/` |
 
 ---
 
