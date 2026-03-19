@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 18, 2026  
-> **Updated:** March 18, 2026 at 11:33 UTC  
+> **Date:** March 19, 2026  
+> **Updated:** March 19, 2026 at 11:08 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://w4b-d4naa.cxbb-ofisiaaal.biz.id/` |
-| `https://www.roblox.com.gl/users/437234102662/profile` |
-| `https://www.amazon-clone-rho-nine.vercel.app/` |
-| `https://www.roblox.com.gl/users/205819886412/profile` |
-| `https://roblox.com.ge/users/6019202459/profile` |
-| `https://chartreuse-color-879469.framer.app/` |
-| `https://roblox.com.ge/communities/3315613513/` |
-| `https://kairosystems.com/yanks/hopes-chamelon-working.html?eta=3mail@a.b.c0` |
-| `https://ipfs.io/ipfs/QmZcBAKpQ9j99XkBExQnmgvxDpCvBgz8i8UpyjYtFdjjdR/nbs.htm` |
-| `http://roblox.com.ge/communities/5661312227/Great-Empire` |
-| `https://dhlsupplychaintest.earcu.com/jobs/login` |
-| `https://netfimarketing.com/xda2323c90c3d948e5ub442e5cdq0cc0483c.html` |
-| `https://roblox.com.py/users/5287157150/profile` |
-| `https://effervescent-cucurucho-a3417d.netlify.app/` |
-| `https://vineet112111.github.io/Netflix-clone-project/` |
-| `https://ehtishamaflaq3.github.io/ApexcifyTechnologys_product_listing_website/` |
-| `https://kdthakkar3011-lab.github.io/Amazon-Clone/` |
-| `https://forsale.dynadot.com/agaricproku.com?drefid=2071` |
-| `https://www.agaricproku.com/` |
-| `https://can-netcoins.webflow.io/` |
+| `https://owamos.ru/?rid=HKdOY1f` |
+| `https://habiba2442.github.io/website/` |
+| `https://pub-474d02dddcc94bebab789f8789066d06.r2.dev/savedozxxxc.html?email=3mail@b.c/` |
+| `http://rblx.foo/s/roblox-profile` |
+| `https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..@1.5.3/dist/index-2.html/` |
+| `https://seconddimension.028426.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `http://bitmserttlogin.webflow.io/` |
+| `https://ymengsea-dev.github.io/E-commerce-/` |
+| `https://chatgrok6-netizen.github.io/my-projects/` |
+| `https://pub-e66b4b88b1d24aeeaf754f0ecee122c7.r2.dev/index.html` |
+| `https://yaihooo-system.ziltalokka-f21.workers.dev/2606172.67.215.204/` |
+| `https://easybank-project-manan.vercel.app/` |
+| `https://mohsin226240.github.io/Netflix_home/` |
+| `http://vrmirror.pages.dev/konten-zahlungsverkehr/wissen/sicherheit-onlinebanking` |
+| `https://shivani-r-j.github.io/Netflix-UI-Clone/` |
+| `https://pub-06e9bfcde0f04d93be1dedf93164ed44.r2.dev/index.html` |
+| `https://kucoinlogfhn.webflow.io/` |
+| `https://ldgeer-ledger.webflow.io/` |
+| `https://ledger-flaws.vercel.app/` |
+| `https://hellp-ledgerrliv-app.webflow.io/` |
 
 ---
 
