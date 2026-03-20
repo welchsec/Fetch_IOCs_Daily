@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 19, 2026  
-> **Updated:** March 19, 2026 at 11:08 UTC  
+> **Date:** March 20, 2026  
+> **Updated:** March 20, 2026 at 09:27 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://owamos.ru/?rid=HKdOY1f` |
-| `https://habiba2442.github.io/website/` |
-| `https://pub-474d02dddcc94bebab789f8789066d06.r2.dev/savedozxxxc.html?email=3mail@b.c/` |
-| `http://rblx.foo/s/roblox-profile` |
-| `https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..@1.5.3/dist/index-2.html/` |
-| `https://seconddimension.028426.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `http://bitmserttlogin.webflow.io/` |
-| `https://ymengsea-dev.github.io/E-commerce-/` |
-| `https://chatgrok6-netizen.github.io/my-projects/` |
-| `https://pub-e66b4b88b1d24aeeaf754f0ecee122c7.r2.dev/index.html` |
-| `https://yaihooo-system.ziltalokka-f21.workers.dev/2606172.67.215.204/` |
-| `https://easybank-project-manan.vercel.app/` |
-| `https://mohsin226240.github.io/Netflix_home/` |
-| `http://vrmirror.pages.dev/konten-zahlungsverkehr/wissen/sicherheit-onlinebanking` |
-| `https://shivani-r-j.github.io/Netflix-UI-Clone/` |
-| `https://pub-06e9bfcde0f04d93be1dedf93164ed44.r2.dev/index.html` |
-| `https://kucoinlogfhn.webflow.io/` |
-| `https://ldgeer-ledger.webflow.io/` |
-| `https://ledger-flaws.vercel.app/` |
-| `https://hellp-ledgerrliv-app.webflow.io/` |
+| `https://sso--secure--cdn--ndax--authth.webflow.io/` |
+| `https://verication-casefb336384.vercel.app/` |
+| `http://kucoinloginasa.webflow.io/` |
+| `https://rblx.foo/s/dLRycL` |
+| `http://app.635-488.com/` |
+| `http://itrstcptlloggn.webflow.io/` |
+| `https://bve7r6gkoa9xo6rcb7eigsent7.pages.dev/` |
+| `http://login-kucooin.webflow.io/` |
+| `https://kuykoinlogin.webflow.io/` |
+| `https://azerty-46.github.io/` |
+| `https://shreya-3024.github.io/streamflix_netflix_clone/login.html` |
+| `http://kucoxinlogiin.webflow.io/` |
+| `https://www.robiox.com.py/users/174515818466/profile` |
+| `http://linkurl.pk/2Ihu-Ytm` |
+| `http://bitmartxlogink.webflow.io/` |
+| `https://ledgerlive-start.webflow.io/` |
+| `https://roblox.com.ge/users/5792063932/profile` |
+| `https://aumentoesprex.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://netflix-clone-theta-eight.vercel.app/` |
+| `http://kucuinlloginis.webflow.io/` |
 
 ---
 
