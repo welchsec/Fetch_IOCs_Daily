@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 20, 2026  
-> **Updated:** March 20, 2026 at 09:27 UTC  
+> **Date:** March 21, 2026  
+> **Updated:** March 21, 2026 at 09:18 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://sso--secure--cdn--ndax--authth.webflow.io/` |
-| `https://verication-casefb336384.vercel.app/` |
-| `http://kucoinloginasa.webflow.io/` |
-| `https://rblx.foo/s/dLRycL` |
-| `http://app.635-488.com/` |
-| `http://itrstcptlloggn.webflow.io/` |
-| `https://bve7r6gkoa9xo6rcb7eigsent7.pages.dev/` |
-| `http://login-kucooin.webflow.io/` |
-| `https://kuykoinlogin.webflow.io/` |
-| `https://azerty-46.github.io/` |
-| `https://shreya-3024.github.io/streamflix_netflix_clone/login.html` |
-| `http://kucoxinlogiin.webflow.io/` |
-| `https://www.robiox.com.py/users/174515818466/profile` |
-| `http://linkurl.pk/2Ihu-Ytm` |
-| `http://bitmartxlogink.webflow.io/` |
-| `https://ledgerlive-start.webflow.io/` |
-| `https://roblox.com.ge/users/5792063932/profile` |
-| `https://aumentoesprex.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://netflix-clone-theta-eight.vercel.app/` |
-| `http://kucuinlloginis.webflow.io/` |
+| `http://web-blockfi-auth.webflow.io/` |
+| `http://www.itau-landing.vercel.app/` |
+| `https://www.manuelperujo.com/tabs/Y88WE98376.php?yem=am9fYW5uZV93ZWxlc2NodWtAaG90bWFpbC5jb20=&c08b638defbcc2f1294531d40678cef4fa2397047286c39d75f2bfad3755acaeba818a0bb144a9ec6ac50b68e3fa1dd49a891e45fc7435c24f332bd4c862ef76961071013e783c092deaa6f3e705e2bd7f57b6050bd289ddb014` |
+| `http://kurekeans_usa_loagginis.godaddysites.com/` |
+| `http://swiissborglogen.webflow.io/` |
+| `http://swissborg-logine.webflow.io/` |
+| `http://swissborgllogin.webflow.io/` |
+| `http://sso-eng---ca-netcoins-com-cdn--auth.webflow.io/` |
+| `https://easy-bank-kappa.vercel.app/` |
+| `http://www.easy-bank-kappa.vercel.app/` |
+| `https://kuaocaooinlogin.webflow.io/` |
+| `https://abhaspaul1234.github.io/Netflix-clone/` |
+| `http://kquckontlgi.webflow.io/` |
+| `https://kucoinjologin.gitbook.io/` |
+| `http://netcoinloginbutton.webflow.io/` |
+| `http://sso--atomicwallet-cdn---auth.webflow.io/` |
+| `http://signin-coinsquareca.webflow.io/` |
+| `https://secure--sso-netcoins-com-cdn-auth.webflow.io/` |
+| `http://inlogupcold.godaddysites.com/` |
+| `https://www.roblox.com.bn/users/789709881203/profile` |
 
 ---
 
