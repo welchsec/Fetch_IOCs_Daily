@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 21, 2026  
-> **Updated:** March 21, 2026 at 09:18 UTC  
+> **Date:** March 22, 2026  
+> **Updated:** March 22, 2026 at 09:19 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://web-blockfi-auth.webflow.io/` |
-| `http://www.itau-landing.vercel.app/` |
-| `https://www.manuelperujo.com/tabs/Y88WE98376.php?yem=am9fYW5uZV93ZWxlc2NodWtAaG90bWFpbC5jb20=&c08b638defbcc2f1294531d40678cef4fa2397047286c39d75f2bfad3755acaeba818a0bb144a9ec6ac50b68e3fa1dd49a891e45fc7435c24f332bd4c862ef76961071013e783c092deaa6f3e705e2bd7f57b6050bd289ddb014` |
-| `http://kurekeans_usa_loagginis.godaddysites.com/` |
-| `http://swiissborglogen.webflow.io/` |
-| `http://swissborg-logine.webflow.io/` |
-| `http://swissborgllogin.webflow.io/` |
-| `http://sso-eng---ca-netcoins-com-cdn--auth.webflow.io/` |
-| `https://easy-bank-kappa.vercel.app/` |
-| `http://www.easy-bank-kappa.vercel.app/` |
-| `https://kuaocaooinlogin.webflow.io/` |
-| `https://abhaspaul1234.github.io/Netflix-clone/` |
-| `http://kquckontlgi.webflow.io/` |
-| `https://kucoinjologin.gitbook.io/` |
-| `http://netcoinloginbutton.webflow.io/` |
-| `http://sso--atomicwallet-cdn---auth.webflow.io/` |
-| `http://signin-coinsquareca.webflow.io/` |
-| `https://secure--sso-netcoins-com-cdn-auth.webflow.io/` |
-| `http://inlogupcold.godaddysites.com/` |
-| `https://www.roblox.com.bn/users/789709881203/profile` |
+| `http://www.dbanks.vercel.app/` |
+| `http://forkandtablemag.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `https://www.robiox.com.py/games/131209172978121/AUSSIE-TAH-GAME?privateServerLinkCode=408786455077471745884311355671` |
+| `http://roblox.net.pk/games/6872265039/BedWars-Hyper-Kits-LTM?privateServerLinkCode=93447564428893631731284256216997` |
+| `https://www.roblox.re/users/601196459/profile` |
+| `https://www.robiox.com.py/users/332207256884/profile` |
+| `http://bkmr.verifytoken.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `https://portalatualizacao.praxisgeltda.com/port/access_798a241d8f962bc10b38ca9dac2ce1e25dcca08bf1d6ea6dcfb10e2f77dc266c/kZFrfIHFP4oFHHrO9xr/kZFrfIHFP4oFHHrO9xrOCEwZdJ3ZM81GN/` |
+| `https://www.robiox.com.py/users/242580187101/profile` |
+| `http://dana.4waes.xyz/daaawepd/3314988882603407845150c0d9` |
+| `https://www.robiox.com.py/users/308676955131/profile` |
+| `https://account.ads-program-agency.com/` |
+| `https://roblox.net.pk/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=04080319816982537738182349224808` |
+| `https://store.communitychartstyle.co/workshop/AK47-EternalDecay/` |
+| `https://pancake-frontend-delta.vercel.app/collectibles` |
+| `https://pancake-frontend-delta.vercel.app/teams` |
+| `https://pancake-frontend-delta.vercel.app/prediction` |
+| `https://pancake-frontend-delta.vercel.app/farms` |
+| `https://pancake-frontend-delta.vercel.app/pools` |
+| `https://pancake-frontend-delta.vercel.app/syrup` |
 
 ---
 
