@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 22, 2026  
-> **Updated:** March 22, 2026 at 09:19 UTC  
+> **Date:** March 23, 2026  
+> **Updated:** March 23, 2026 at 09:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.dbanks.vercel.app/` |
-| `http://forkandtablemag.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `https://www.robiox.com.py/games/131209172978121/AUSSIE-TAH-GAME?privateServerLinkCode=408786455077471745884311355671` |
-| `http://roblox.net.pk/games/6872265039/BedWars-Hyper-Kits-LTM?privateServerLinkCode=93447564428893631731284256216997` |
-| `https://www.roblox.re/users/601196459/profile` |
-| `https://www.robiox.com.py/users/332207256884/profile` |
-| `http://bkmr.verifytoken.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `https://portalatualizacao.praxisgeltda.com/port/access_798a241d8f962bc10b38ca9dac2ce1e25dcca08bf1d6ea6dcfb10e2f77dc266c/kZFrfIHFP4oFHHrO9xr/kZFrfIHFP4oFHHrO9xrOCEwZdJ3ZM81GN/` |
-| `https://www.robiox.com.py/users/242580187101/profile` |
-| `http://dana.4waes.xyz/daaawepd/3314988882603407845150c0d9` |
-| `https://www.robiox.com.py/users/308676955131/profile` |
-| `https://account.ads-program-agency.com/` |
-| `https://roblox.net.pk/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=04080319816982537738182349224808` |
-| `https://store.communitychartstyle.co/workshop/AK47-EternalDecay/` |
-| `https://pancake-frontend-delta.vercel.app/collectibles` |
-| `https://pancake-frontend-delta.vercel.app/teams` |
-| `https://pancake-frontend-delta.vercel.app/prediction` |
-| `https://pancake-frontend-delta.vercel.app/farms` |
-| `https://pancake-frontend-delta.vercel.app/pools` |
-| `https://pancake-frontend-delta.vercel.app/syrup` |
+| `https://starmobily.com/m/index.html` |
+| `http://flirt-contacts.com/views/fb.php?lang=ca&set=s2&domain=track.globaltracklabs.com&cep=0eTkGECobqKJ40jCmK-8nKDG2qKjMv4_bRuFgbi1gA37fkDh8PWyVcdoKar6655SpVoXykQHldH8Irlndd7cpieAgBDZ1vj4XdY4P_hON3TvTEfXW23nS2Vi2-nAVOadQhJrOjR-GQjwQQ3OheD2aAHs-t0t1y9tr5TiQot-qCvtvAgZPS_5oUxxX88AC7KezUJkJqkG0Y1aBhkqm18RZbnVsi805cKzHqrFWRDZ1J0Xoa-RV3fD0fYI9cKPMv4x07MDPb2hj99WECQyee2GezFKYtx-WpKGjUO4QEzFXNYuhXHgOW9P5qfNGBPxXF0bH7jC5IicniT_GSQNw2NVKHOQDFlxoCOb7mf2jdhZCtXaCxZWIFz7yQszn9f-b5VfELd6W3_JJxWKxLPyTeq9n3mtB9YJRgN6mpt9DZayG81nzvrTEuEUnShz7twN1mIVDqOQBTUBxIJje-8U9Mlb5Y0DBrBmG5qq0ff0ue9yEdgsKgjk8AVxyrssBCJ41YGGPofXBrjOx0oPicT8VDZfCTgU1Z0uz_lcb3ohx80FKEvHtpMlQrSkqXpAf8R48CO28hNQ5HPO4CaBMRDARH3Hzw5uzHrZ0SubLBsCs2335dMfIHcQVOnDlYzn8uaXf_UQrts2rz4MMtudyC5bvNumkyZx-3DSYw3gVyeIINGcpDNfZpBPTP2kmqf1VoeAAxOzT8cKMWTOsgPg7qZ4zz4RdNgk6slAVfwmH6PR7nxadaFuEdsak4mRM8poGnM4DHj9T8ozJJ1eLeTaBuilFxs0lhkqn4DCuso1ZGoTsrY-hwJ12il8g4GwUSKIVNNIFa5_&lptoken=1706715e616a87d38997&ACLID=CP304swGENTQmAEYy_OZ4wMg1ZSouwgo0L2k4AMw1NCYAToCQ0FCAk9OSgdUb3JvbnRvUgExYhAjERjT3vlGc7lQmeJbtAREagNPUkRyIjUxYWVhMTg4MDJjMjQwZTI5MGM4NGM4Y2UxYTY0OGVjLTM=&AdID=2271873621&BanID=1032870271&BanName=Debbie_CA&CampaignID=1013348811&CampaignName=CA_web_native_RON&Location=CA&SiteName=Redtube&SpotID=2500692&SpotName=Redtube+PC+-+Native+Categories` |
+| `https://codingworld00007.github.io/Netflix-clone/` |
+| `http://cyberfish.io/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `https://synetiq.ciamlogin.com/jsdisabled` |
+| `https://facebook.tejaltransportcompany.com/` |
+| `http://akash1033.github.io/Netflix_clone_Project` |
+| `https://meatamask-wallet-en-extension.wasmer.app/` |
+| `https://meatamask-wallet-eng-extension.wasmer.app/` |
+| `http://084793.com/2513501.doc/18a80a/fad0f483-81b2-45c6-ad47-7272058d9cb6` |
+| `https://dwnload---bridge--trezrrr.pages.dev/` |
+| `https://s.teams-ls.com/p/fjbd-cbch/cuqdlwgh` |
+| `https://lnk.ua/ZKUHY4RT2` |
+| `https://prod2.konmune.de/ityw849yrgd3mw15/p102` |
+| `https://creativitblocksonax.pages.dev/` |
+| `https://gracejas.github.io/netflix-clone/` |
+| `https://gaurav8077.github.io/Amazon-Clone-HTML-CSS-/` |
+| `http://devansh01-code.github.io/Netflix-clone-Front-End-` |
+| `https://vwvw-rcblox.com/users/6833150/profile/` |
+| `https://wrtgbuioaspp-hk.icu/` |
 
 ---
 
