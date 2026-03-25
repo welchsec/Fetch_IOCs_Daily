@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 24, 2026  
-> **Updated:** March 24, 2026 at 09:41 UTC  
+> **Date:** March 25, 2026  
+> **Updated:** March 25, 2026 at 09:39 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://homebridges.wixstudio.com/en-suite` |
-| `https://bestroute.aiko.com.mx/Controllers/Incapacidades/plugins/login.php/` |
-| `https://allegro.kpu32f61d21.bond/?id=0H2g3H1X0A5d5E5B9m9E1r2F0g3H3l3r` |
-| `https://mailserver.goteal.io/paga-ofertas/bancolombia/contrase%C3%B1aMano.html` |
-| `https://pop3.goteal.io/paga-ofertas/bancolombia/dinamica.html` |
-| `https://community.goteal.io/paga-ofertas/bancolombia/contrase%C3%B1a.html` |
-| `http://srswwwhatsapppp2026.binzaminrandow.site/` |
-| `https://en-liveledgre.wixstudio.com/us-en` |
-| `https://trzriobridge.wixstudio.com/en-us` |
-| `https://homepagebridges.wixstudio.com/us-en` |
-| `http://mail10.goteal.io/paga-ofertas/bancolombia/contrase%C3%B1a.html` |
-| `http://mailin.goteal.io/paga-ofertas/bancolombia/dinamicaMano.html` |
-| `http://gemini.oracle.gyronee.top/` |
-| `https://www.robiox.com.py/users/262282125512/profile` |
-| `https://mondicsinsurance.com/.bootstrap/pmntfailed/billing/customers/` |
-| `http://smtp2.goteal.io/paga-ofertas/bancolombia/contrase%C3%B1aEmpresas.html` |
-| `https://newmail.goteal.io/paga-ofertas/bancolombia/home.html` |
-| `https://pop3.goteal.io/paga-ofertas/bancolombia/home.html` |
-| `https://shopify-ui.netlify.app/` |
-| `http://ezedinbuchukwuebuka-maker.github.io/netflix` |
+| `https://guv.uxq.mybluehost.me/website_72a929c3/input/login.php` |
+| `https://u.to/YVx3Ig` |
+| `https://utsav568.github.io/github.io/` |
+| `https://bhagirath0111.github.io/Amazon1/` |
+| `http://eemansiddique.github.io/sales-force-static-website` |
+| `https://kiucknlogin.webflow.io/` |
+| `https://kumaraswamybommali.github.io/Ecommerce_UI_Project/` |
+| `https://aevilop.github.io/my-netflix-clone/` |
+| `https://robinhood-invests-log-in.webflow.io/` |
+| `http://ranvijayysinghrathore.github.io/MusicPlayer` |
+| `https://roblox.com.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=28792299428079990719776509390909` |
+| `https://roblox.com.ge/communities/4587297384/` |
+| `https://dfgdh1.pages.dev/gp/new-releases/books/12053/ref=zg_bsnr_pg_2_books?ie=UTF8/` |
+| `https://udev.informedgreetings.com/create-greeting` |
+| `https://yogisandyoginis.com/z7miibp.htm` |
+| `https://roblox.com.ge/games/104714047076534/Fun-combat?privateServerLinkCode=28917267103118307728389105348218` |
+| `https://satyamhub7544.github.io/Netflix-Clone/` |
+| `https://ednaldofaceff-jpg.github.io/netflixpage/` |
+| `https://abhishek040906.github.io/img/` |
+| `https://www.robiox.com.py/games/5814304937/Outfit-Loader-Testing-Place?privateServerLinkCode=813439753017849932846507559915` |
 
 ---
 
