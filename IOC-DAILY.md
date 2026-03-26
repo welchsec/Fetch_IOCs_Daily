@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 25, 2026  
-> **Updated:** March 25, 2026 at 09:39 UTC  
+> **Date:** March 26, 2026  
+> **Updated:** March 26, 2026 at 09:47 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://guv.uxq.mybluehost.me/website_72a929c3/input/login.php` |
-| `https://u.to/YVx3Ig` |
-| `https://utsav568.github.io/github.io/` |
-| `https://bhagirath0111.github.io/Amazon1/` |
-| `http://eemansiddique.github.io/sales-force-static-website` |
-| `https://kiucknlogin.webflow.io/` |
-| `https://kumaraswamybommali.github.io/Ecommerce_UI_Project/` |
-| `https://aevilop.github.io/my-netflix-clone/` |
-| `https://robinhood-invests-log-in.webflow.io/` |
-| `http://ranvijayysinghrathore.github.io/MusicPlayer` |
-| `https://roblox.com.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=28792299428079990719776509390909` |
-| `https://roblox.com.ge/communities/4587297384/` |
-| `https://dfgdh1.pages.dev/gp/new-releases/books/12053/ref=zg_bsnr_pg_2_books?ie=UTF8/` |
-| `https://udev.informedgreetings.com/create-greeting` |
-| `https://yogisandyoginis.com/z7miibp.htm` |
-| `https://roblox.com.ge/games/104714047076534/Fun-combat?privateServerLinkCode=28917267103118307728389105348218` |
-| `https://satyamhub7544.github.io/Netflix-Clone/` |
-| `https://ednaldofaceff-jpg.github.io/netflixpage/` |
-| `https://abhishek040906.github.io/img/` |
-| `https://www.robiox.com.py/games/5814304937/Outfit-Loader-Testing-Place?privateServerLinkCode=813439753017849932846507559915` |
+| `http://icloud-id.support/script/login_2026/index.php` |
+| `http://pemenang2021.blogspot.com/` |
+| `http://shopee5477.blogspot.com/` |
+| `http://faseehs169-shaikh.github.io/NetflixClone` |
+| `http://ptshopee-69.blogspot.com/` |
+| `https://steamcomunuity.cc/tradeoffer/new/?partner=244861394&token=Lj5ArOn8` |
+| `http://find-appleidstore.com/script/login_2026/index.php` |
+| `https://allegro.364934g8934.sbs/?id=2B2s6G8T4R3F4m0Y8U6P7V3o7H1H0i8O` |
+| `https://program-shopee22.blogspot.com/` |
+| `http://ayodele-alayemi-airbnb-clone.vercel.app/` |
+| `http://pragati-it.github.io/Amazon-Clone` |
+| `http://sprightly-longma-4a5bc1.netlify.app/` |
+| `https://welcome-trezo.vercel.app/` |
+| `http://rohan3012cmyk.github.io/AMAZON-UI` |
+| `http://123345678g.blogspot.com/` |
+| `http://ektasinghyadav.github.io/Spotify-Clone` |
+| `http://situs-shopee39.blogspot.com/` |
+| `http://booking.com.searchresults.htm.prop715021.homes/bookingdetails.php` |
+| `http://member129.agency-partner-apply.com/` |
+| `https://mail.myidfindphone.us/findmy_2026_passcode6_login/` |
 
 ---
 
