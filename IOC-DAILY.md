@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 26, 2026  
-> **Updated:** March 26, 2026 at 09:47 UTC  
+> **Date:** March 27, 2026  
+> **Updated:** March 27, 2026 at 09:40 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://icloud-id.support/script/login_2026/index.php` |
-| `http://pemenang2021.blogspot.com/` |
-| `http://shopee5477.blogspot.com/` |
-| `http://faseehs169-shaikh.github.io/NetflixClone` |
-| `http://ptshopee-69.blogspot.com/` |
-| `https://steamcomunuity.cc/tradeoffer/new/?partner=244861394&token=Lj5ArOn8` |
-| `http://find-appleidstore.com/script/login_2026/index.php` |
-| `https://allegro.364934g8934.sbs/?id=2B2s6G8T4R3F4m0Y8U6P7V3o7H1H0i8O` |
-| `https://program-shopee22.blogspot.com/` |
-| `http://ayodele-alayemi-airbnb-clone.vercel.app/` |
-| `http://pragati-it.github.io/Amazon-Clone` |
-| `http://sprightly-longma-4a5bc1.netlify.app/` |
-| `https://welcome-trezo.vercel.app/` |
-| `http://rohan3012cmyk.github.io/AMAZON-UI` |
-| `http://123345678g.blogspot.com/` |
-| `http://ektasinghyadav.github.io/Spotify-Clone` |
-| `http://situs-shopee39.blogspot.com/` |
-| `http://booking.com.searchresults.htm.prop715021.homes/bookingdetails.php` |
-| `http://member129.agency-partner-apply.com/` |
-| `https://mail.myidfindphone.us/findmy_2026_passcode6_login/` |
+| `https://ipfs.io/ipfs/bafkreigqs4tzaw2xdqq2vqnsugqm35e5udbtaj6rkdbh7cbb4gfdhgvrqe?alt=media&token=271e95bf-d723-44a5-b87a-04324d148e8b` |
+| `https://roblox.com.ge/users/9928529756/profile` |
+| `https://amalkrishnakp.github.io/Clone_Netflix/` |
+| `https://harshiiii18.github.io/Netflix-clone/` |
+| `https://miss-kniz.github.io/Amazon/` |
+| `http://odd-dew-3b41.gilbertallan7734.workers.dev/` |
+| `https://roblox.com.py/users/4148887467/profile` |
+| `https://coinsquarelogi.webflow.io/` |
+| `https://nomankhan5667.github.io/Assignment_5/` |
+| `https://abhishekprasad963.github.io/amazon-demo/` |
+| `https://toolethal.github.io/NETFLIX-Home-Page/` |
+| `https://netflix-clone-lovat-theta.vercel.app/` |
+| `https://en---lldgerlive-auth.webflow.io/` |
+| `https://start-l-edger-apply-sso.webflow.io/` |
+| `https://roblox.com.py/users/4171915286/profile` |
+| `https://rafael-ods.github.io/spotify-old/` |
+| `https://easy-bank-landing-page-olive.vercel.app/` |
+| `https://easybank-landing-page-nu.vercel.app/` |
+| `https://easybank-landing-page-ecru-eta.vercel.app/` |
+| `https://parthbhat-stack08.github.io/Netflix-online/` |
 
 ---
 
