@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 27, 2026  
-> **Updated:** March 27, 2026 at 09:40 UTC  
+> **Date:** March 28, 2026  
+> **Updated:** March 28, 2026 at 09:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://ipfs.io/ipfs/bafkreigqs4tzaw2xdqq2vqnsugqm35e5udbtaj6rkdbh7cbb4gfdhgvrqe?alt=media&token=271e95bf-d723-44a5-b87a-04324d148e8b` |
-| `https://roblox.com.ge/users/9928529756/profile` |
-| `https://amalkrishnakp.github.io/Clone_Netflix/` |
-| `https://harshiiii18.github.io/Netflix-clone/` |
-| `https://miss-kniz.github.io/Amazon/` |
-| `http://odd-dew-3b41.gilbertallan7734.workers.dev/` |
-| `https://roblox.com.py/users/4148887467/profile` |
-| `https://coinsquarelogi.webflow.io/` |
-| `https://nomankhan5667.github.io/Assignment_5/` |
-| `https://abhishekprasad963.github.io/amazon-demo/` |
-| `https://toolethal.github.io/NETFLIX-Home-Page/` |
-| `https://netflix-clone-lovat-theta.vercel.app/` |
-| `https://en---lldgerlive-auth.webflow.io/` |
-| `https://start-l-edger-apply-sso.webflow.io/` |
-| `https://roblox.com.py/users/4171915286/profile` |
-| `https://rafael-ods.github.io/spotify-old/` |
-| `https://easy-bank-landing-page-olive.vercel.app/` |
-| `https://easybank-landing-page-nu.vercel.app/` |
-| `https://easybank-landing-page-ecru-eta.vercel.app/` |
-| `https://parthbhat-stack08.github.io/Netflix-online/` |
+| `https://teieperformance.com/app/QBP6cbknunXu5k3Fo8JFzW` |
+| `http://s.teamwi.world/p/fwk-bzz/eqwjnihf` |
+| `http://home-xinqiusports.com/khoviicf` |
+| `https://teieperformance.com/app/rL7SKEuNuvXnUnznULS3BV` |
+| `https://teieperformance.com/app/NxFbpZ4ewwjALMwQQXm7UD` |
+| `https://tranquil-embeds-014754.framer.app/` |
+| `https://teieperformance.com/app/Ga6otwpEh7EheynnkCK8S6` |
+| `http://youthingstrategies.com/api` |
+| `https://teieperformance.com/app/QM3ei6Ry7s7P7ugpY9antV` |
+| `https://teieperformance.com/app/aLmhmcBFDwrBy9fh8KTDNR` |
+| `https://teieperformance.com/app/4QEVKPGMkTgb9hTrU6viR` |
+| `http://iniciarsesionf.wuaze.com/` |
+| `https://jomphefavia-shb.pages.dev/help/contact/650759423073896/` |
+| `https://dpd.dropkivo.cfd/com/` |
+| `https://u98b.xyz/` |
+| `http://alert-variation-631287.framer.app/` |
+| `https://ianpavlovic.github.io/att-script/` |
+| `https://setup-bridge-tze.zapier.app/` |
+| `https://www.robloxc.com.es/users/7048358411/profile` |
+| `https://05913659.com/index.html/` |
 
 ---
 
