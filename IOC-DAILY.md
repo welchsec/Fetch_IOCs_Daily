@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 28, 2026  
-> **Updated:** March 28, 2026 at 09:23 UTC  
+> **Date:** March 29, 2026  
+> **Updated:** March 29, 2026 at 09:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://teieperformance.com/app/QBP6cbknunXu5k3Fo8JFzW` |
-| `http://s.teamwi.world/p/fwk-bzz/eqwjnihf` |
-| `http://home-xinqiusports.com/khoviicf` |
-| `https://teieperformance.com/app/rL7SKEuNuvXnUnznULS3BV` |
-| `https://teieperformance.com/app/NxFbpZ4ewwjALMwQQXm7UD` |
-| `https://tranquil-embeds-014754.framer.app/` |
-| `https://teieperformance.com/app/Ga6otwpEh7EheynnkCK8S6` |
-| `http://youthingstrategies.com/api` |
-| `https://teieperformance.com/app/QM3ei6Ry7s7P7ugpY9antV` |
-| `https://teieperformance.com/app/aLmhmcBFDwrBy9fh8KTDNR` |
-| `https://teieperformance.com/app/4QEVKPGMkTgb9hTrU6viR` |
-| `http://iniciarsesionf.wuaze.com/` |
-| `https://jomphefavia-shb.pages.dev/help/contact/650759423073896/` |
-| `https://dpd.dropkivo.cfd/com/` |
-| `https://u98b.xyz/` |
-| `http://alert-variation-631287.framer.app/` |
-| `https://ianpavlovic.github.io/att-script/` |
-| `https://setup-bridge-tze.zapier.app/` |
-| `https://www.robloxc.com.es/users/7048358411/profile` |
-| `https://05913659.com/index.html/` |
+| `https://icloud.sa.com/verify.php` |
+| `http://icloud.sa.com/plr` |
+| `https://linkurl.pk/a8s-5RW1` |
+| `https://sing-w-w.webcindario.com/` |
+| `http://krakenlogin.co.com/` |
+| `http://chic-muffin-59f7d1.netlify.app/` |
+| `https://store.steamcomrnunilte.com/steamapps/workshop/content/glock18/balance/` |
+| `https://info.remote-otp.com/homepage/corporate-offer?rid=wlyjuv6` |
+| `https://sahilkhanna82.github.io/Amazon-ui-clone/` |
+| `http://arunarnold0809.github.io/Netflix_Clone` |
+| `https://njzq1.cish31dmkad.com:9963/?cid=12` |
+| `https://bet0989.com/` |
+| `https://ca.gov-mng.cfd/dmv` |
+| `http://gov-celularseguro.net/` |
+| `http://icloudsuporte.live/` |
+| `https://idapple-imaps.com/` |
+| `http://icloudmapa.com/415so` |
+| `http://rastreioapple.support/0GwtI` |
+| `http://jhamilan.github.io/Netflix-Clone` |
+| `https://lnk.ink/www.robIox.com.share-code-08bs7d8f017f69c57b139e60d2-type-Serve` |
 
 ---
 
