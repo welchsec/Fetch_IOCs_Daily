@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** March 30, 2026  
-> **Updated:** March 30, 2026 at 10:02 UTC  
+> **Date:** March 31, 2026  
+> **Updated:** March 31, 2026 at 09:51 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://discord.imms.top/` |
-| `https://aumentok.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://pnbahiadecadiz.es/contacto/` |
-| `http://fakewatches.es/` |
-| `http://3rt.site/` |
-| `http://considerate-prism-546071.framer.app/` |
-| `http://adiappl.netlify.app/` |
-| `http://82481.xyz/` |
-| `https://blockbook-ltc-2.nodes.zelcore.io/` |
-| `https://diamondluxe.github.io/AMAZON-REPLICA-LUXE` |
-| `https://sso-exodus-backup-centre.vercel.app/` |
-| `https://dpd.trackgate.cfd/com` |
-| `https://dpd.shipprox.cfd/com` |
-| `https://dpd.trackway.cfd/com` |
-| `https://www.robiox.com.py/users/254344051857/profile` |
-| `https://yummy-world-860880.framer.app/` |
-| `https://readable-click-927199.framer.app/` |
-| `https://intelligent-parsnip-941186.framer.app/` |
-| `https://000000002022222222220000.weebly.com/` |
-| `https://vivacious-advocate-847146.framer.app/` |
+| `https://urlyte.com/y1v0v` |
+| `http://loogin-comndex.godaddysites.com/` |
+| `http://sites.google.com/view/deartsiuvf/accueil` |
+| `https://doge.trusteeglobal.com/` |
+| `https://fidelltyae.one/figm2m/` |
+| `https://fidelltyae.one/figm2m/page.html` |
+| `http://httpss-roblox.co/users/1092230912/profile` |
+| `https://whatioj.cc/` |
+| `http://easydebnk.wpenginepowered.com/trtrt/Online-Banking%20_%20easybank.html` |
+| `https://precitecsaws.com/.well-known/.Greate/login.php` |
+| `https://www.precitecsaws.com/.well-known/.Greate/login.php` |
+| `https://chegouahoraprogramaapoiofinanceiro.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://teieperformance.com/app/uJvRouc9YEnSvMzTmXxcdg` |
+| `https://teieperformance.com/app/MQwTvBJmJCyjqHFocNWmWR` |
+| `http://myportal-spotifycostumerportal-sub-premuim.okdesigns.net/` |
+| `http://habeebakassim.github.io/landing` |
+| `https://geulisbeauty.com/` |
+| `https://gunnusharma598.github.io/kira2` |
+| `https://www.whqpsq.com/` |
+| `https://ggg.ixo.mybluehost.me/ryf/login.php` |
 
 ---
 
