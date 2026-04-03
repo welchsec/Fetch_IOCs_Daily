@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 02, 2026  
-> **Updated:** April 02, 2026 at 09:47 UTC  
+> **Date:** April 03, 2026  
+> **Updated:** April 03, 2026 at 09:40 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://yashaitt.github.io/Netflix-clone/netflix-signup.html` |
-| `http://www.booking-com-clone-kappa.vercel.app/` |
-| `http://f.digitalmaillane.com/igit/4/eqbkr2yNb9z085mxd7NqyoN7agkwbNnicNa91NkxNdN6` |
-| `https://netflix-clone-coral-ten.vercel.app/` |
-| `https://amn1704.github.io/Project3_Netflix-Landing-Page-Clone/` |
-| `https://roblox.com.py/users/6557110906/profile` |
-| `http://net-wok.s3-website.us-east-2.amazonaws.com/` |
-| `https://www.robiox.com.py/users/226332101233/profile` |
-| `https://ipfs.io/ipfs/bafkreigzys3rczbnczb5s7o2r3j5av4izhqvml6gyxah2d6v27apc4rjpy` |
-| `http://greamreaper01.github.io/Netflix` |
-| `https://securebankinggroup.org/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `https://bybitenur.com/` |
-| `https://u.carddsapply.com/` |
-| `http://mitta_mask7.godaddysites.com/` |
-| `https://pranjaldeshmukh3.github.io/Netflix-clone/` |
-| `https://roblox.com.py/games/85811969623710/Sword-Fighting-773855?privateServerLinkCode=12526670538663419359322718502527` |
-| `https://dpd.parcelstatmr.bond/com` |
-| `https://yogisandyoginis.com/zeiuml.htm` |
-| `http://suportkucon.webflow.io/` |
-| `http://www.mettam-muskgolinx1.godaddysites.com/` |
+| `http://bofaanti-frauddept.com/portal_access.html` |
+| `http://bofaanti-frauddept.com/` |
+| `https://linkurl.pk/LmJyUxqA` |
+| `https://roblox.com.ge/communities/8782161760/` |
+| `https://www.robiox.com.py/users/401839881454/profile` |
+| `http://upheollds-laaggniz.godaddysites.com/` |
+| `https://inhouseplumbingcompany-sewer.pages.dev/amazonfresh` |
+| `https://ledger-live-logi.blogspot.com/?m=1` |
+| `http://www.ledger-live-logi.blogspot.com/?m=1` |
+| `http://liveledgr-login.pages.dev/` |
+| `https://legdrs-io-u.pages.dev/` |
+| `https://legdrs-oi-es.pages.dev/` |
+| `http://get-login-lives.pages.dev/` |
+| `https://legdrse-o-start.pages.dev/` |
+| `https://legdrs-o-us.pages.dev/` |
+| `http://netflix-clone-opal-six.vercel.app/` |
+| `https://netflix-clone-neon-three.vercel.app/` |
+| `https://mikretadesse.github.io/netflix-clone/` |
+| `https://reformmembershipcert.wasmer.app/` |
+| `http://migratecertificate.wasmer.app/` |
 
 ---
 
