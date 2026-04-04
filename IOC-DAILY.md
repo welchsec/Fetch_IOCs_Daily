@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 03, 2026  
-> **Updated:** April 03, 2026 at 09:40 UTC  
+> **Date:** April 04, 2026  
+> **Updated:** April 04, 2026 at 09:25 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://bofaanti-frauddept.com/portal_access.html` |
-| `http://bofaanti-frauddept.com/` |
-| `https://linkurl.pk/LmJyUxqA` |
-| `https://roblox.com.ge/communities/8782161760/` |
-| `https://www.robiox.com.py/users/401839881454/profile` |
-| `http://upheollds-laaggniz.godaddysites.com/` |
-| `https://inhouseplumbingcompany-sewer.pages.dev/amazonfresh` |
-| `https://ledger-live-logi.blogspot.com/?m=1` |
-| `http://www.ledger-live-logi.blogspot.com/?m=1` |
-| `http://liveledgr-login.pages.dev/` |
-| `https://legdrs-io-u.pages.dev/` |
-| `https://legdrs-oi-es.pages.dev/` |
-| `http://get-login-lives.pages.dev/` |
-| `https://legdrse-o-start.pages.dev/` |
-| `https://legdrs-o-us.pages.dev/` |
-| `http://netflix-clone-opal-six.vercel.app/` |
-| `https://netflix-clone-neon-three.vercel.app/` |
-| `https://mikretadesse.github.io/netflix-clone/` |
-| `https://reformmembershipcert.wasmer.app/` |
-| `http://migratecertificate.wasmer.app/` |
+| `http://gazing.pp.ua/` |
+| `http://vipvideosxxx.binzaminrandow.site/` |
+| `http://pub-3b2161932db04c4eaa01be3fb152244b.r2.dev/sweetjan.html?email=3mail@b.c` |
+| `https://ingredients-probability-pixel-signals.trycloudflare.com/` |
+| `https://pancakeswapfinances.pages.dev/r@2.webp/` |
+| `http://coddhelp.simdev.ru/css/sga/` |
+| `http://contact-4u9.pages.dev/` |
+| `https://didianeensing-fft-oshehun.pages.dev/help/contact/314943121371618/` |
+| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/xXx.html/` |
+| `http://www.ledfzxsdav-mbnchyrt.gensoftone.li/` |
+| `http://ledfzxsdav-mbnchyrt.gensoftone.li/` |
+| `https://netflix-gui-clone.vercel.app/` |
+| `http://www.netflix-gui-clone.vercel.app/` |
+| `https://dpd.deliveryportalpoint.cfd/com` |
+| `https://dpd.expressroutehub.cfd/com` |
+| `https://dpd.expressroutezone.cfd/com` |
+| `https://dpd.parcelarrivalflow.cfd/com` |
+| `https://dpd.parcelstakzt.bond/uk` |
+| `http://tiktokappfreecoins-hyq85iej8l.edgeone.app/` |
+| `https://learn-bridge.wixstudio.com/bridge` |
 
 ---
 
