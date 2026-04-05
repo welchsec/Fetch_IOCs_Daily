@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 04, 2026  
-> **Updated:** April 04, 2026 at 09:25 UTC  
+> **Date:** April 05, 2026  
+> **Updated:** April 05, 2026 at 09:26 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://gazing.pp.ua/` |
-| `http://vipvideosxxx.binzaminrandow.site/` |
-| `http://pub-3b2161932db04c4eaa01be3fb152244b.r2.dev/sweetjan.html?email=3mail@b.c` |
-| `https://ingredients-probability-pixel-signals.trycloudflare.com/` |
-| `https://pancakeswapfinances.pages.dev/r@2.webp/` |
-| `http://coddhelp.simdev.ru/css/sga/` |
-| `http://contact-4u9.pages.dev/` |
-| `https://didianeensing-fft-oshehun.pages.dev/help/contact/314943121371618/` |
-| `https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/xXx.html/` |
-| `http://www.ledfzxsdav-mbnchyrt.gensoftone.li/` |
-| `http://ledfzxsdav-mbnchyrt.gensoftone.li/` |
-| `https://netflix-gui-clone.vercel.app/` |
-| `http://www.netflix-gui-clone.vercel.app/` |
-| `https://dpd.deliveryportalpoint.cfd/com` |
-| `https://dpd.expressroutehub.cfd/com` |
-| `https://dpd.expressroutezone.cfd/com` |
-| `https://dpd.parcelarrivalflow.cfd/com` |
-| `https://dpd.parcelstakzt.bond/uk` |
-| `http://tiktokappfreecoins-hyq85iej8l.edgeone.app/` |
-| `https://learn-bridge.wixstudio.com/bridge` |
+| `https://dpd.parcelstahdu.bond/com/` |
+| `https://dpd.parcelstahoy.bond/uk/` |
+| `https://dpd.parcelstahou.bond/uk/` |
+| `https://dpd.parcelstahot.bond/uk/` |
+| `https://dpd.parcelstahoi.bond/uk/` |
+| `https://dpd.parcelstahop.bond/uk/` |
+| `https://cashenta.com/Yy7bGR` |
+| `https://www.robiox.com.py/users/381961239698/profile` |
+| `http://p3bvt5dt5ra3gu.my.id/` |
+| `https://trust-blockfi.webflow.io/` |
+| `http://aktydnapyltr-idx.mmexe.my.id/` |
+| `https://netflix-clone-mu-seven.vercel.app/` |
+| `http://www.netflix-clone-mu-seven.vercel.app/` |
+| `https://www.robiox.com.ps/games/920587237/Adopt-Me?privateServerLinkCode=41319586290522207122079569408427` |
+| `https://dpd.parcelroutepoint.cfd/com/` |
+| `https://dpd.parcelfollowhub.cfd/com/` |
+| `https://dpd.parcelroutenotice.cfd/com/` |
+| `https://dpd.parcelsignalpoint.cfd/com/` |
+| `http://bitfghurt-login.webflow.io/` |
+| `https://coinbase.aw-windblocker.com/` |
 
 ---
 
