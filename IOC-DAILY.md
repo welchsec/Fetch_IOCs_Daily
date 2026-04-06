@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 05, 2026  
-> **Updated:** April 05, 2026 at 09:26 UTC  
+> **Date:** April 06, 2026  
+> **Updated:** April 06, 2026 at 09:56 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://dpd.parcelstahdu.bond/com/` |
-| `https://dpd.parcelstahoy.bond/uk/` |
-| `https://dpd.parcelstahou.bond/uk/` |
-| `https://dpd.parcelstahot.bond/uk/` |
-| `https://dpd.parcelstahoi.bond/uk/` |
-| `https://dpd.parcelstahop.bond/uk/` |
-| `https://cashenta.com/Yy7bGR` |
-| `https://www.robiox.com.py/users/381961239698/profile` |
-| `http://p3bvt5dt5ra3gu.my.id/` |
-| `https://trust-blockfi.webflow.io/` |
-| `http://aktydnapyltr-idx.mmexe.my.id/` |
-| `https://netflix-clone-mu-seven.vercel.app/` |
-| `http://www.netflix-clone-mu-seven.vercel.app/` |
-| `https://www.robiox.com.ps/games/920587237/Adopt-Me?privateServerLinkCode=41319586290522207122079569408427` |
-| `https://dpd.parcelroutepoint.cfd/com/` |
-| `https://dpd.parcelfollowhub.cfd/com/` |
-| `https://dpd.parcelroutenotice.cfd/com/` |
-| `https://dpd.parcelsignalpoint.cfd/com/` |
-| `http://bitfghurt-login.webflow.io/` |
-| `https://coinbase.aw-windblocker.com/` |
+| `https://started-trezxio.wixstudio.com/en-us` |
+| `https://iostart-trazoiire.zapier.app/web` |
+| `https://dpd.packageconfirmnotice.cfd/dpd.com/` |
+| `https://dpd.packageconfirmnotice.cfd/dpd.com` |
+| `https://portalofertaspromos.com/paga-ofertas/bancolombia/dinamicaMano.html` |
+| `https://portalofertaspromos.com/paga-ofertas/bancolombia/contrase%C3%B1a.html` |
+| `https://get-intro-startio.zapier.app/enus-start` |
+| `http://info-resmi8-9.blogspot.com/` |
+| `https://www.robiox.com.py/users/243503267003/profile` |
+| `http://upwopldexliang-us.godaddysites.com/` |
+| `http://amazon-clone-eta-one.vercel.app/` |
+| `http://onedrive2212342.s3.us-east-1.amazonaws.com/VIEWPDF/G2026/Scan01232026000` |
+| `http://semanadaortoesportiva.inspirar.com.br/wp-content/languages/cbx/dhl/SwjXAGfNdrOQszH` |
+| `http://home-preview--bitmart.webflow.io/` |
+| `https://live-ledgrhelps.wixstudio.com/live` |
+| `https://navledger.wixstudio.com/eng-en` |
+| `http://netflix-clone-beryl-three.vercel.app/` |
+| `http://spotify-clone-api-js.vercel.app/` |
+| `https://intolezer.wixstudio.com/en-us` |
+| `https://intolezer.wixstudio.com/us-en` |
 
 ---
 
