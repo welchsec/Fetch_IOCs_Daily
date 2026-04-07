@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 06, 2026  
-> **Updated:** April 06, 2026 at 09:56 UTC  
+> **Date:** April 07, 2026  
+> **Updated:** April 07, 2026 at 09:54 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://started-trezxio.wixstudio.com/en-us` |
-| `https://iostart-trazoiire.zapier.app/web` |
-| `https://dpd.packageconfirmnotice.cfd/dpd.com/` |
-| `https://dpd.packageconfirmnotice.cfd/dpd.com` |
-| `https://portalofertaspromos.com/paga-ofertas/bancolombia/dinamicaMano.html` |
-| `https://portalofertaspromos.com/paga-ofertas/bancolombia/contrase%C3%B1a.html` |
-| `https://get-intro-startio.zapier.app/enus-start` |
-| `http://info-resmi8-9.blogspot.com/` |
-| `https://www.robiox.com.py/users/243503267003/profile` |
-| `http://upwopldexliang-us.godaddysites.com/` |
-| `http://amazon-clone-eta-one.vercel.app/` |
-| `http://onedrive2212342.s3.us-east-1.amazonaws.com/VIEWPDF/G2026/Scan01232026000` |
-| `http://semanadaortoesportiva.inspirar.com.br/wp-content/languages/cbx/dhl/SwjXAGfNdrOQszH` |
-| `http://home-preview--bitmart.webflow.io/` |
-| `https://live-ledgrhelps.wixstudio.com/live` |
-| `https://navledger.wixstudio.com/eng-en` |
-| `http://netflix-clone-beryl-three.vercel.app/` |
-| `http://spotify-clone-api-js.vercel.app/` |
-| `https://intolezer.wixstudio.com/en-us` |
-| `https://intolezer.wixstudio.com/us-en` |
+| `http://juno-web-mail-75544b.webflow.io/` |
+| `http://aaktivsipylaterindon.prestocu.biz.id/` |
+| `https://zk-tiantianyingqiu.com/jp/` |
+| `https://coeinsquarreelogi.webflow.io/` |
+| `https://meets-choosing-jefferson-documented.trycloudflare.com/` |
+| `https://login-coinsquaren.webflow.io/` |
+| `https://mankalong.cn/jp/` |
+| `https://balorid.com/Shaw2022service/` |
+| `https://spotifyapp.co.com/` |
+| `http://pembatala4n-pinjamaan.plck.my.id/` |
+| `https://05313659.com/index.html` |
+| `http://aviationmanager.net/` |
+| `https://coeensquareelogin.webflow.io/` |
+| `http://ukjwkx.aviationmanager.net/` |
+| `https://accshomepage-log.github.io/confirm3.html` |
+| `https://coinsquuaarelogin.webflow.io/` |
+| `http://my-bllockifi-logg-in.webflow.io/` |
+| `https://www.robiox.com.py/users/274623304766/profile` |
+| `https://web-coinsquaree.webflow.io/` |
+| `https://rasika00.github.io/Netflix-clone/` |
 
 ---
 
