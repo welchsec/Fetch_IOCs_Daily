@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 07, 2026  
-> **Updated:** April 07, 2026 at 09:54 UTC  
+> **Date:** April 08, 2026  
+> **Updated:** April 08, 2026 at 09:54 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://juno-web-mail-75544b.webflow.io/` |
-| `http://aaktivsipylaterindon.prestocu.biz.id/` |
-| `https://zk-tiantianyingqiu.com/jp/` |
-| `https://coeinsquarreelogi.webflow.io/` |
-| `https://meets-choosing-jefferson-documented.trycloudflare.com/` |
-| `https://login-coinsquaren.webflow.io/` |
-| `https://mankalong.cn/jp/` |
-| `https://balorid.com/Shaw2022service/` |
-| `https://spotifyapp.co.com/` |
-| `http://pembatala4n-pinjamaan.plck.my.id/` |
-| `https://05313659.com/index.html` |
-| `http://aviationmanager.net/` |
-| `https://coeensquareelogin.webflow.io/` |
-| `http://ukjwkx.aviationmanager.net/` |
-| `https://accshomepage-log.github.io/confirm3.html` |
-| `https://coinsquuaarelogin.webflow.io/` |
-| `http://my-bllockifi-logg-in.webflow.io/` |
-| `https://www.robiox.com.py/users/274623304766/profile` |
-| `https://web-coinsquaree.webflow.io/` |
-| `https://rasika00.github.io/Netflix-clone/` |
+| `http://3011i3011.com/` |
+| `https://www.robiox.com.py/users/377059899225/profile` |
+| `https://siwacruz.github.io/info-perfect/` |
+| `https://muhammad-haris014.github.io/epic-webpage/` |
+| `https://booking.com-conflrm-apart-spain.com/8AJTJ6CJ` |
+| `http://www.dimoopoo.ru/Fvc8zCgIK5@ZxOTUl/$3mail@a.b.c0` |
+| `https://funndaciondesoluciones2026.zya.me/` |
+| `https://fastthemegaplay.com/landingpages/1xbt?refCode=sk_w238255c300299l23986p2169_D1xbet-2004&sub_id=D1xbet-2004` |
+| `http://binance-bot.cfd/fckr/coinbase` |
+| `http://booking-com-cf1.prope356184.homes/property-a-Michaelkirchstrasse-21-Berlin-Germany-ssid-4BTIqOfUGdhATG94qduEFjnyLmfhPy.booking` |
+| `https://metazxsdmaskmt.gitbook.io/` |
+| `https://kiciuonlogxn.gitbook.io/` |
+| `http://ai-egao.github.io/Netflix-clone-Pk-only-html-and-CSS-` |
+| `https://gemini-website-new.webflow.io/` |
+| `http://www.dpdlocaiy.cyou/com/` |
+| `http://www.dpdlocaiz.cyou/com/` |
+| `http://www.dpdlocaiz.autos/com/` |
+| `http://www.dpdlocaid.autos/com/` |
+| `http://luminous-dusk-7767cb.netlify.app/home/` |
+| `http://www.dpdlocaiu.cyou/com/` |
 
 ---
 
