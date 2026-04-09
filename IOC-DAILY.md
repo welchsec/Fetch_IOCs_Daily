@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 08, 2026  
-> **Updated:** April 08, 2026 at 09:54 UTC  
+> **Date:** April 09, 2026  
+> **Updated:** April 09, 2026 at 09:59 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://3011i3011.com/` |
-| `https://www.robiox.com.py/users/377059899225/profile` |
-| `https://siwacruz.github.io/info-perfect/` |
-| `https://muhammad-haris014.github.io/epic-webpage/` |
-| `https://booking.com-conflrm-apart-spain.com/8AJTJ6CJ` |
-| `http://www.dimoopoo.ru/Fvc8zCgIK5@ZxOTUl/$3mail@a.b.c0` |
-| `https://funndaciondesoluciones2026.zya.me/` |
-| `https://fastthemegaplay.com/landingpages/1xbt?refCode=sk_w238255c300299l23986p2169_D1xbet-2004&sub_id=D1xbet-2004` |
-| `http://binance-bot.cfd/fckr/coinbase` |
-| `http://booking-com-cf1.prope356184.homes/property-a-Michaelkirchstrasse-21-Berlin-Germany-ssid-4BTIqOfUGdhATG94qduEFjnyLmfhPy.booking` |
-| `https://metazxsdmaskmt.gitbook.io/` |
-| `https://kiciuonlogxn.gitbook.io/` |
-| `http://ai-egao.github.io/Netflix-clone-Pk-only-html-and-CSS-` |
-| `https://gemini-website-new.webflow.io/` |
-| `http://www.dpdlocaiy.cyou/com/` |
-| `http://www.dpdlocaiz.cyou/com/` |
-| `http://www.dpdlocaiz.autos/com/` |
-| `http://www.dpdlocaid.autos/com/` |
-| `http://luminous-dusk-7767cb.netlify.app/home/` |
-| `http://www.dpdlocaiu.cyou/com/` |
+| `http://dpd.boxupx.cfd/com` |
+| `https://applene-jp.buzz/ja` |
+| `https://ressourceshumains.com/?r=5bd3b478-11db-4b76-9498-a0e46353e12b&rg=eu` |
+| `http://ipfs.io/ipfs/bafkreicinwga2mu43qseu4w4l7qjodxfybxu2qxsz4kdvgsuu5r76kbq3u?eta=3mail@a.b.c0` |
+| `https://kksave.com/open/ig/3817558989496429588/DT6say2CKwU` |
+| `https://www.kkinstagram.com/reel/DT6say2CKwU/?igsh=MmJhYnFqOTNoNHcz` |
+| `https://s.teamfw.world/p/vwj-syw/hftjksef/` |
+| `https://web.whatsapp.tl.hl.cn/` |
+| `https://cvprojectsharedocs.top/` |
+| `https://mahmadv3101-cpu.github.io/netflix-clone/` |
+| `https://sdaraecco-morewealth336.appwrite.network/` |
+| `http://ipfs.io/ipfs/bafkreihnez6utgmmn7mglxllbh5thp4dit3w6yzfrd5qihruy6bjiwkqva` |
+| `http://supportkualitas.com/` |
+| `https://alavancagempessoal.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://dukungritelindonesia.com/` |
+| `https://correo-jusbaires-gob-ar.weebly.com/` |
+| `https://webmail-hs-pforzheim-de.weebly.com/` |
+| `https://eastlink-j636bjb47bb8bn4b8vv8b5858v8.weebly.com/` |
+| `https://broad-points-251798.framer.app/` |
+| `https://govcbt.cfd/` |
 
 ---
 
