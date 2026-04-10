@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 09, 2026  
-> **Updated:** April 09, 2026 at 09:59 UTC  
+> **Date:** April 10, 2026  
+> **Updated:** April 10, 2026 at 09:57 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://dpd.boxupx.cfd/com` |
-| `https://applene-jp.buzz/ja` |
-| `https://ressourceshumains.com/?r=5bd3b478-11db-4b76-9498-a0e46353e12b&rg=eu` |
-| `http://ipfs.io/ipfs/bafkreicinwga2mu43qseu4w4l7qjodxfybxu2qxsz4kdvgsuu5r76kbq3u?eta=3mail@a.b.c0` |
-| `https://kksave.com/open/ig/3817558989496429588/DT6say2CKwU` |
-| `https://www.kkinstagram.com/reel/DT6say2CKwU/?igsh=MmJhYnFqOTNoNHcz` |
-| `https://s.teamfw.world/p/vwj-syw/hftjksef/` |
-| `https://web.whatsapp.tl.hl.cn/` |
-| `https://cvprojectsharedocs.top/` |
-| `https://mahmadv3101-cpu.github.io/netflix-clone/` |
-| `https://sdaraecco-morewealth336.appwrite.network/` |
-| `http://ipfs.io/ipfs/bafkreihnez6utgmmn7mglxllbh5thp4dit3w6yzfrd5qihruy6bjiwkqva` |
-| `http://supportkualitas.com/` |
-| `https://alavancagempessoal.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://dukungritelindonesia.com/` |
-| `https://correo-jusbaires-gob-ar.weebly.com/` |
-| `https://webmail-hs-pforzheim-de.weebly.com/` |
-| `https://eastlink-j636bjb47bb8bn4b8vv8b5858v8.weebly.com/` |
-| `https://broad-points-251798.framer.app/` |
-| `https://govcbt.cfd/` |
+| `http://nguyenminhhoangc.github.io/test/` |
+| `http://s117x.xyz/` |
+| `https://netflix-clone-olive-ten.vercel.app/` |
+| `https://mial.suport-apple.cloud/signIn/jp-ja/shop/TP4fUx7y6/` |
+| `https://acc.muralhasolene.pt/Latine_promo/auth/cancel.php` |
+| `http://pacificar-ec.webcindario.com/` |
+| `https://suport-apple.lol/signIn/jp-ja/shop/TP4fUx7y6/` |
+| `https://amzn.openinapp.link/xhzx1` |
+| `https://netflix-clone-eight-teal.vercel.app/` |
+| `https://amzn.openinapp.link/6cg4d` |
+| `https://aumentoultra34.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://odirleidesenhos.com.br/site/Contact/colliction/Tracking/billing.php/` |
+| `https://amzn.openinapp.link/fkmbs` |
+| `https://jodeartio2as3-begfdhhuhhe2bnbq.z02.azurefd.net/` |
+| `https://customer-sp-ines.pages.dev/help/contact/548547764391286/` |
+| `https://live-ldger.framer.wiki/` |
+| `http://www.65866.xyz/` |
+| `https://truea1u83ust5rsjdhbckjsxjd-cwdtaretbsc3gbb7.z03.azurefd.net/` |
+| `http://saksham1122a.github.io/Netflix-Clone` |
+| `https://ugeduecversity.iceiy.com/?i=1` |
 
 ---
 
