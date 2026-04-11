@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 10, 2026  
-> **Updated:** April 10, 2026 at 09:57 UTC  
+> **Date:** April 11, 2026  
+> **Updated:** April 11, 2026 at 09:28 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://nguyenminhhoangc.github.io/test/` |
-| `http://s117x.xyz/` |
-| `https://netflix-clone-olive-ten.vercel.app/` |
-| `https://mial.suport-apple.cloud/signIn/jp-ja/shop/TP4fUx7y6/` |
-| `https://acc.muralhasolene.pt/Latine_promo/auth/cancel.php` |
-| `http://pacificar-ec.webcindario.com/` |
-| `https://suport-apple.lol/signIn/jp-ja/shop/TP4fUx7y6/` |
-| `https://amzn.openinapp.link/xhzx1` |
-| `https://netflix-clone-eight-teal.vercel.app/` |
-| `https://amzn.openinapp.link/6cg4d` |
-| `https://aumentoultra34.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://odirleidesenhos.com.br/site/Contact/colliction/Tracking/billing.php/` |
-| `https://amzn.openinapp.link/fkmbs` |
-| `https://jodeartio2as3-begfdhhuhhe2bnbq.z02.azurefd.net/` |
-| `https://customer-sp-ines.pages.dev/help/contact/548547764391286/` |
-| `https://live-ldger.framer.wiki/` |
-| `http://www.65866.xyz/` |
-| `https://truea1u83ust5rsjdhbckjsxjd-cwdtaretbsc3gbb7.z03.azurefd.net/` |
-| `http://saksham1122a.github.io/Netflix-Clone` |
-| `https://ugeduecversity.iceiy.com/?i=1` |
+| `https://tiktok.newtvmalll.com/` |
+| `https://shop.mallsshops.com/` |
+| `https://newtvmalll.com/` |
+| `https://www.borderclick.com/BC/media/Borderclick/tiktokgenv2.html` |
+| `http://tkiltokdownload.com/` |
+| `http://perguntando2026.com/` |
+| `https://cfs-f2p.pages.dev/` |
+| `http://www.zunar-tiktok.vercel.app/` |
+| `http://tik21hub.net/` |
+| `https://www.web-user-woad.vercel.app/` |
+| `http://euphonious-conkies-b760f6.netlify.app/` |
+| `https://underlying-yellow-pvcskvwi1n-h0erh7j8dp.edgeone.app/` |
+| `http://dt3me.ws/` |
+| `https://1ov.sonnethearts.xyz/la/eng/40-974629-0/page-1/` |
+| `https://easybanklanding.vercel.app/` |
+| `https://8be.sonnethearts.xyz/la/eng/40-974629-0/page-1/` |
+| `https://2we.sonnethearts.xyz/la/eng/40-974629-0/page-1/` |
+| `http://www.ttkpayevent.shop/proximo/tiktok-premium` |
+| `http://zunar-tiktok.vercel.app/` |
+| `https://perkele.vercel.app/` |
 
 ---
 
