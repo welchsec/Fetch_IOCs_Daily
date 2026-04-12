@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 11, 2026  
-> **Updated:** April 11, 2026 at 09:28 UTC  
+> **Date:** April 12, 2026  
+> **Updated:** April 12, 2026 at 09:34 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://tiktok.newtvmalll.com/` |
-| `https://shop.mallsshops.com/` |
-| `https://newtvmalll.com/` |
-| `https://www.borderclick.com/BC/media/Borderclick/tiktokgenv2.html` |
-| `http://tkiltokdownload.com/` |
-| `http://perguntando2026.com/` |
-| `https://cfs-f2p.pages.dev/` |
-| `http://www.zunar-tiktok.vercel.app/` |
-| `http://tik21hub.net/` |
-| `https://www.web-user-woad.vercel.app/` |
-| `http://euphonious-conkies-b760f6.netlify.app/` |
-| `https://underlying-yellow-pvcskvwi1n-h0erh7j8dp.edgeone.app/` |
-| `http://dt3me.ws/` |
-| `https://1ov.sonnethearts.xyz/la/eng/40-974629-0/page-1/` |
-| `https://easybanklanding.vercel.app/` |
-| `https://8be.sonnethearts.xyz/la/eng/40-974629-0/page-1/` |
-| `https://2we.sonnethearts.xyz/la/eng/40-974629-0/page-1/` |
-| `http://www.ttkpayevent.shop/proximo/tiktok-premium` |
-| `http://zunar-tiktok.vercel.app/` |
-| `https://perkele.vercel.app/` |
+| `https://rblx.foo/s/MLdUZm` |
+| `https://emilemoraes.github.io/Netflix-Clone-` |
+| `https://shekharscript.github.io/Netflix-clone/` |
+| `http://www.infinity-zone.com.pl/Steps/auth/login.php` |
+| `http://www.infinity-zone.com.pl/` |
+| `http://whatsappxx2026.binzaminrandow.site/` |
+| `https://ihhttps-roblox.com/login?returnUrl=92269465` |
+| `https://www.robiox.com.py/users/316026077282/profile` |
+| `http://mxx777.net/` |
+| `https://nnyrlalcv.top/?secure_connect=241*fc*&_subid=1ane3j4.f.biar&_token=39qaamu754usa.1775978423.1.8fa05fef3db3372555101a883b503671/` |
+| `http://cloudfv.pages.dev/` |
+| `http://mail.increase.fb-business.com/` |
+| `https://hotelsignbkngguest.help/booking.com_files/vp32ssdaq.html` |
+| `https://edcft2.pages.dev/gp/yourstore?ref_=nav_AccountFlyout_recs/` |
+| `https://www.robiox.com.py/games/140349384867859/Kill-Neko-Girls?privateServerLinkCode=448801323545264517455505981580` |
+| `http://dana4iindoonesiax.evin.my.id/` |
+| `https://nagalakshmigubba.github.io/Amazon-Clone` |
+| `https://roblox.com.ge/games/18737532107/Dont-enter-this-game?privateServerLinkCode=10308681005800169352831338266894` |
+| `http://pemuliha4n-akun-daana.cdex.my.id/` |
+| `https://www.roblox.com.ni/games/142823291/Murder-Mystery-2?privateServerLinkCode=53256774932474091201546497619938` |
 
 ---
 
