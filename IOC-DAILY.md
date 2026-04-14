@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 13, 2026  
-> **Updated:** April 13, 2026 at 10:23 UTC  
+> **Date:** April 14, 2026  
+> **Updated:** April 14, 2026 at 10:03 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://netiflix.vercel.app/` |
-| `http://www.netiflix.vercel.app/` |
-| `http://kreknlugin.godaddysites.com/` |
-| `http://groovgrsrangtoot.duckdns.org/` |
-| `http://kiucun-log.godaddysites.com/` |
-| `http://www.amazon-clone-alpha-gilt-89.vercel.app/` |
-| `http://netcains-login.webflow.io/` |
-| `http://gb.cloudns.qzz.io/` |
-| `http://www.airbnb-clone-final.vercel.app/` |
-| `http://launchpad-nextjs-typescript-facebook-clone.vercel.app/` |
-| `http://my-ledger-liive-login.webflow.io/` |
-| `http://airbnb-clone-eosin-sigma.vercel.app/` |
-| `http://geminiapi.hub42.space/` |
-| `http://loggiinbitmartt.webflow.io/` |
-| `http://www.ledger-com-start.vercel.app/` |
-| `http://www.whatsapp-clone-delta-two.vercel.app/` |
-| `http://meta-maszk-logg-usa.godaddysites.com/` |
-| `https://netflix-clone-red-seven.vercel.app/` |
-| `http://www.netflix-clone-red-seven.vercel.app/` |
-| `http://secure--en--netcoins-com--cdn-auth.webflow.io/` |
+| `http://deepflix-ui.vercel.app/` |
+| `http://statement.amazingholidaycoupons.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `http://uditkumar-99.github.io/amazon-clone` |
+| `http://ak20051908.github.io/netflix_home_page-` |
+| `http://webmail.alertas-de-viaje.mx/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `http://mellifluous-mandazi-cda826.netlify.app/` |
+| `http://dpd.deliveryalertdesk.cfd/com` |
+| `http://abhishekkumarguptadev.github.io/Bharat-Intern-Project02` |
+| `https://formation.pr-universe.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `https://verifylogin.oautoffice.com/` |
+| `https://dibakar8927.github.io/healify/` |
+| `https://www.roblox.com.bn/users/879605848733/profile` |
+| `http://ujjwalnepal11.github.io/e-commerce` |
+| `http://bhavik1996.github.io/Netflix-Clone` |
+| `https://www.net101.eweb12217.online/` |
+| `https://shortlink.st/M1-YqT6E` |
+| `https://qlzzdtk.netlify.app/pesquisa/` |
+| `http://cm-caishenzhengba.com/` |
+| `https://steamcommunntiy.com/agent/mirage` |
+| `http://joycedjos160029.blog5.net/86483541/phantom-wallet` |
 
 ---
 
