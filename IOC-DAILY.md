@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 14, 2026  
-> **Updated:** April 14, 2026 at 10:03 UTC  
+> **Date:** April 15, 2026  
+> **Updated:** April 15, 2026 at 10:04 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://deepflix-ui.vercel.app/` |
-| `http://statement.amazingholidaycoupons.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `http://uditkumar-99.github.io/amazon-clone` |
-| `http://ak20051908.github.io/netflix_home_page-` |
-| `http://webmail.alertas-de-viaje.mx/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `http://mellifluous-mandazi-cda826.netlify.app/` |
-| `http://dpd.deliveryalertdesk.cfd/com` |
-| `http://abhishekkumarguptadev.github.io/Bharat-Intern-Project02` |
-| `https://formation.pr-universe.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `https://verifylogin.oautoffice.com/` |
-| `https://dibakar8927.github.io/healify/` |
-| `https://www.roblox.com.bn/users/879605848733/profile` |
-| `http://ujjwalnepal11.github.io/e-commerce` |
-| `http://bhavik1996.github.io/Netflix-Clone` |
-| `https://www.net101.eweb12217.online/` |
-| `https://shortlink.st/M1-YqT6E` |
-| `https://qlzzdtk.netlify.app/pesquisa/` |
-| `http://cm-caishenzhengba.com/` |
-| `https://steamcommunntiy.com/agent/mirage` |
-| `http://joycedjos160029.blog5.net/86483541/phantom-wallet` |
+| `https://facebook-login-app.blogspot.com/` |
+| `http://www.facebook-faq.se/` |
+| `https://www.facebook-project-seven.vercel.app/` |
+| `https://facebook-clone-rho-six.vercel.app/signin` |
+| `https://facebook-clone-rho-six.vercel.app/forgot` |
+| `http://facebook-clone-alpha-three.vercel.app/` |
+| `http://facebook-gpt-5-recreation.pages.dev/` |
+| `https://www.nike-cyan-three.vercel.app/` |
+| `http://facebook-clone-alpha-three.vercel.app/login` |
+| `https://facebook-project-seven.vercel.app/` |
+| `https://nike-tailwind-ivanscarsella.vercel.app/` |
+| `http://www.nike-tailwind-ivanscarsella.vercel.app/` |
+| `https://nike-cyan-three.vercel.app/` |
+| `http://www.nike-project-kappa.vercel.app/` |
+| `http://nike-phasin.vercel.app/` |
+| `http://www.nike-website-landing-page.vercel.app/` |
+| `http://yogeshch06.github.io/E-commerce-Website` |
+| `http://yaserwebdev.github.io/Nike` |
+| `https://nike-website-landing-page.vercel.app/` |
+| `https://www.niike.vercel.app/` |
 
 ---
 
