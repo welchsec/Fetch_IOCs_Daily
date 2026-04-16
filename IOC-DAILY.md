@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 15, 2026  
-> **Updated:** April 15, 2026 at 10:04 UTC  
+> **Date:** April 16, 2026  
+> **Updated:** April 16, 2026 at 10:03 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://facebook-login-app.blogspot.com/` |
-| `http://www.facebook-faq.se/` |
-| `https://www.facebook-project-seven.vercel.app/` |
-| `https://facebook-clone-rho-six.vercel.app/signin` |
-| `https://facebook-clone-rho-six.vercel.app/forgot` |
-| `http://facebook-clone-alpha-three.vercel.app/` |
-| `http://facebook-gpt-5-recreation.pages.dev/` |
-| `https://www.nike-cyan-three.vercel.app/` |
-| `http://facebook-clone-alpha-three.vercel.app/login` |
-| `https://facebook-project-seven.vercel.app/` |
-| `https://nike-tailwind-ivanscarsella.vercel.app/` |
-| `http://www.nike-tailwind-ivanscarsella.vercel.app/` |
-| `https://nike-cyan-three.vercel.app/` |
-| `http://www.nike-project-kappa.vercel.app/` |
-| `http://nike-phasin.vercel.app/` |
-| `http://www.nike-website-landing-page.vercel.app/` |
-| `http://yogeshch06.github.io/E-commerce-Website` |
-| `http://yaserwebdev.github.io/Nike` |
-| `https://nike-website-landing-page.vercel.app/` |
-| `https://www.niike.vercel.app/` |
+| `http://www.claimofferinstantshop-2.xyz/` |
+| `http://store.communitygamearts.co/workshop/AK47-EternalDecay` |
+| `http://www.dpdlocayo.cyou/com` |
+| `https://booking-confirmation6785175.com/X/608465342191043/` |
+| `https://validacionmsnenproceso.iceiy.com/?i=1` |
+| `https://topcairo.com/6546544/nets.html` |
+| `https://robiox.vercel.app/users/897612041/profile.html/` |
+| `https://store.workshopscommunityawards.com/sharedfiles/filesdetails/id=3669539905/` |
+| `https://admin.kucoin-app.cc/` |
+| `https://itexpertreports.info/reports/hpe-transforming009download.jsp` |
+| `https://roblox.com.ge/games/133333698824895/sentcon?privateServerLinkCode=92767911945091909639507736455140` |
+| `https://mynorgeklarna.wpenginepowered.com/wp-admin/css/colors/blue/KLARNA/passs.htm` |
+| `https://www.pt-shopee1419.blogspot.com/` |
+| `http://santafeeklan2026.blogspot.com/` |
+| `https://lmzxxg.vip/` |
+| `https://docu-sign-firmar.vercel.app/` |
+| `http://www.docu-sign-firmar.vercel.app/` |
+| `http://www.bandsnetworkers.digital/` |
+| `https://bafybeidxahrxhks6sxg55utlzyrp63a57hd3cicdxf7pbsehffe4n7th3u.ipfs.dweb.link/` |
+| `http://nhnarticle-cafe.com/` |
 
 ---
 
