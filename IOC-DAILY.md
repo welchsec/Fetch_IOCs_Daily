@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 16, 2026  
-> **Updated:** April 16, 2026 at 10:03 UTC  
+> **Date:** April 17, 2026  
+> **Updated:** April 17, 2026 at 10:01 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.claimofferinstantshop-2.xyz/` |
-| `http://store.communitygamearts.co/workshop/AK47-EternalDecay` |
-| `http://www.dpdlocayo.cyou/com` |
-| `https://booking-confirmation6785175.com/X/608465342191043/` |
-| `https://validacionmsnenproceso.iceiy.com/?i=1` |
-| `https://topcairo.com/6546544/nets.html` |
-| `https://robiox.vercel.app/users/897612041/profile.html/` |
-| `https://store.workshopscommunityawards.com/sharedfiles/filesdetails/id=3669539905/` |
-| `https://admin.kucoin-app.cc/` |
-| `https://itexpertreports.info/reports/hpe-transforming009download.jsp` |
-| `https://roblox.com.ge/games/133333698824895/sentcon?privateServerLinkCode=92767911945091909639507736455140` |
-| `https://mynorgeklarna.wpenginepowered.com/wp-admin/css/colors/blue/KLARNA/passs.htm` |
-| `https://www.pt-shopee1419.blogspot.com/` |
-| `http://santafeeklan2026.blogspot.com/` |
-| `https://lmzxxg.vip/` |
-| `https://docu-sign-firmar.vercel.app/` |
-| `http://www.docu-sign-firmar.vercel.app/` |
-| `http://www.bandsnetworkers.digital/` |
-| `https://bafybeidxahrxhks6sxg55utlzyrp63a57hd3cicdxf7pbsehffe4n7th3u.ipfs.dweb.link/` |
-| `http://nhnarticle-cafe.com/` |
+| `https://anahuacsportal.vercel.app/` |
+| `https://shortlink.st/FPadWVrW` |
+| `https://amazoneclonevaibhavd.netlify.app/` |
+| `https://search-4784989979-page.pages.dev/help/contact/526653803514104/` |
+| `https://mirzasaadb.github.io/netflixHomePageClone` |
+| `http://www.is.gd/DrUbjB` |
+| `https://28kjhga.pages.dev/-/zh/gp/video/detail/0NU8A04C6PNXJ7NNRFMMJACP09/ref=atv_pp_fi_116/` |
+| `https://28kjhga.pages.dev/-/zh/gp/video/detail/0RYKD085GI8P84ZB1E8KHY6X5O/ref=atv_pp_fi_77/` |
+| `https://docusign-envelope-web.eportalsecure.workers.dev/` |
+| `https://ihtasham-beep.github.io/final_project1/` |
+| `https://docusign-signature.github.io/firmar/` |
+| `https://gretaruppousse.vercel.app/hiaioezmwcxabxga.html/bwurhuzvzgajtx.html` |
+| `https://bregrei-nnolopre-a1f1246.pages.dev/account-support.html/` |
+| `https://yufjh1.pages.dev/errors/validatecaptcha?amzn=xt9q/port+bvnaedykl3tq==&amzn-r=/&field-keywords=` |
+| `https://theprotikraj.github.io/amazonclonee.com/` |
+| `https://longdev1701.github.io/amazon-clone/` |
+| `https://mulavarunreddy.github.io/Webpage./` |
+| `https://easy-bank-btrx.vercel.app/` |
+| `https://discord-clone-mu-five.vercel.app/` |
+| `https://shivam-hr.github.io/netflix-clone/` |
 
 ---
 
