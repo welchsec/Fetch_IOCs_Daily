@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 17, 2026  
-> **Updated:** April 17, 2026 at 10:01 UTC  
+> **Date:** April 18, 2026  
+> **Updated:** April 18, 2026 at 09:35 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://anahuacsportal.vercel.app/` |
-| `https://shortlink.st/FPadWVrW` |
-| `https://amazoneclonevaibhavd.netlify.app/` |
-| `https://search-4784989979-page.pages.dev/help/contact/526653803514104/` |
-| `https://mirzasaadb.github.io/netflixHomePageClone` |
-| `http://www.is.gd/DrUbjB` |
-| `https://28kjhga.pages.dev/-/zh/gp/video/detail/0NU8A04C6PNXJ7NNRFMMJACP09/ref=atv_pp_fi_116/` |
-| `https://28kjhga.pages.dev/-/zh/gp/video/detail/0RYKD085GI8P84ZB1E8KHY6X5O/ref=atv_pp_fi_77/` |
-| `https://docusign-envelope-web.eportalsecure.workers.dev/` |
-| `https://ihtasham-beep.github.io/final_project1/` |
-| `https://docusign-signature.github.io/firmar/` |
-| `https://gretaruppousse.vercel.app/hiaioezmwcxabxga.html/bwurhuzvzgajtx.html` |
-| `https://bregrei-nnolopre-a1f1246.pages.dev/account-support.html/` |
-| `https://yufjh1.pages.dev/errors/validatecaptcha?amzn=xt9q/port+bvnaedykl3tq==&amzn-r=/&field-keywords=` |
-| `https://theprotikraj.github.io/amazonclonee.com/` |
-| `https://longdev1701.github.io/amazon-clone/` |
-| `https://mulavarunreddy.github.io/Webpage./` |
-| `https://easy-bank-btrx.vercel.app/` |
-| `https://discord-clone-mu-five.vercel.app/` |
-| `https://shivam-hr.github.io/netflix-clone/` |
+| `https://www.robiox.com.py/users/490850381843/profile` |
+| `http://www.j309k.xyz/` |
+| `https://roblox.com.ge/users/3015319419/profile` |
+| `https://robiox.com.af/users/669709019/profile` |
+| `https://ipfs.io/ipfs/bafkreigar3b6bpeisgwcaioqyu4ipmmyfixphlxkiuoqv537fojfs3yto4?eta=tanus8@a2cab173a832f1eb1660fb89bf213fc8e70b.com` |
+| `https://www.robiox.com.gr/users/2986575322/profile` |
+| `https://www.robiox.com.py/users/254344051857/profile` |
+| `https://roblox.com.ge/users/9140211410/profile` |
+| `http://forogpolymer.com/igigomaza` |
+| `https://credi-emprende-pichincha-ec.rf.gd/` |
+| `https://seguridadincritada-weld.vercel.app/` |
+| `https://remarkable-macaron-16d234.netlify.app/` |
+| `http://nctreg.savwtck.cn/apusetop/jupindx` |
+| `http://account16.agency-partnerhub-platform.com/` |
+| `https://www.robiox.com.py/users/276665613038/profile` |
+| `https://support.itdepartment.services/page/b3fa6141324644c5ab9b53f3f05f1c42/ad39d8b2f0d6049e980e84d33d430f063` |
+| `https://support.itdepartment.services/i/ad39d8b2f0d6049e980e84d33d430f063` |
+| `https://maida1610.github.io/Amazon-clone/` |
+| `https://www.roblox.com.ni/games/132949000120744/Sword-Fighting-773855?privateServerLinkCode=22817401046054909459957384713936` |
+| `https://instagram-test.vercel.app/` |
 
 ---
 
