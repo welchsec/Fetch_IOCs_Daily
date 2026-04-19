@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 18, 2026  
-> **Updated:** April 18, 2026 at 09:35 UTC  
+> **Date:** April 19, 2026  
+> **Updated:** April 19, 2026 at 09:35 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.robiox.com.py/users/490850381843/profile` |
-| `http://www.j309k.xyz/` |
-| `https://roblox.com.ge/users/3015319419/profile` |
-| `https://robiox.com.af/users/669709019/profile` |
-| `https://ipfs.io/ipfs/bafkreigar3b6bpeisgwcaioqyu4ipmmyfixphlxkiuoqv537fojfs3yto4?eta=tanus8@a2cab173a832f1eb1660fb89bf213fc8e70b.com` |
-| `https://www.robiox.com.gr/users/2986575322/profile` |
-| `https://www.robiox.com.py/users/254344051857/profile` |
-| `https://roblox.com.ge/users/9140211410/profile` |
-| `http://forogpolymer.com/igigomaza` |
-| `https://credi-emprende-pichincha-ec.rf.gd/` |
-| `https://seguridadincritada-weld.vercel.app/` |
-| `https://remarkable-macaron-16d234.netlify.app/` |
-| `http://nctreg.savwtck.cn/apusetop/jupindx` |
-| `http://account16.agency-partnerhub-platform.com/` |
-| `https://www.robiox.com.py/users/276665613038/profile` |
-| `https://support.itdepartment.services/page/b3fa6141324644c5ab9b53f3f05f1c42/ad39d8b2f0d6049e980e84d33d430f063` |
-| `https://support.itdepartment.services/i/ad39d8b2f0d6049e980e84d33d430f063` |
-| `https://maida1610.github.io/Amazon-clone/` |
-| `https://www.roblox.com.ni/games/132949000120744/Sword-Fighting-773855?privateServerLinkCode=22817401046054909459957384713936` |
-| `https://instagram-test.vercel.app/` |
+| `http://dappsolutions.github.io/dapps.html` |
+| `http://365756zxd.com/index_m.html` |
+| `https://365756zxd.com/` |
+| `https://roblox.com.bn/communities/820828498265/OrbanMM2` |
+| `https://roblox.com.bn/communities/591355576375/stallion` |
+| `https://roblox.com.bn/communities/850098116917/Teksms-Community` |
+| `https://www.roblox.com.ml/games/16732694052/Fisch-MERMAID-COVE?privateServerLinkCode=152718980863149266893656884270` |
+| `http://www.betbbbb.com/` |
+| `http://www.betcccc.com/` |
+| `http://www.bethhhh.com/` |
+| `http://www.betiiii.com/` |
+| `http://www.betdddd.com/` |
+| `http://www.betjjjj.com/` |
+| `http://www.vercel1c7e346235f63d5a.vercel.app/` |
+| `http://vercel1c7e346235f63d5a.vercel.app/` |
+| `https://1xlite-49657.bar/` |
+| `https://weblivemultichain.pages.dev/` |
+| `https://support.marketing-partner-join.com/` |
+| `https://robiox.com.ve/games/9872472334/Evade?privateServerLinkCode=20439736069892551363414087206624` |
+| `https://robiox.com.ve/users/8024642797/profile` |
 
 ---
 
