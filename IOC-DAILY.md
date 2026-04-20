@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 19, 2026  
-> **Updated:** April 19, 2026 at 09:35 UTC  
+> **Date:** April 20, 2026  
+> **Updated:** April 20, 2026 at 10:24 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://dappsolutions.github.io/dapps.html` |
-| `http://365756zxd.com/index_m.html` |
-| `https://365756zxd.com/` |
-| `https://roblox.com.bn/communities/820828498265/OrbanMM2` |
-| `https://roblox.com.bn/communities/591355576375/stallion` |
-| `https://roblox.com.bn/communities/850098116917/Teksms-Community` |
-| `https://www.roblox.com.ml/games/16732694052/Fisch-MERMAID-COVE?privateServerLinkCode=152718980863149266893656884270` |
-| `http://www.betbbbb.com/` |
-| `http://www.betcccc.com/` |
-| `http://www.bethhhh.com/` |
-| `http://www.betiiii.com/` |
-| `http://www.betdddd.com/` |
-| `http://www.betjjjj.com/` |
-| `http://www.vercel1c7e346235f63d5a.vercel.app/` |
-| `http://vercel1c7e346235f63d5a.vercel.app/` |
-| `https://1xlite-49657.bar/` |
-| `https://weblivemultichain.pages.dev/` |
-| `https://support.marketing-partner-join.com/` |
-| `https://robiox.com.ve/games/9872472334/Evade?privateServerLinkCode=20439736069892551363414087206624` |
-| `https://robiox.com.ve/users/8024642797/profile` |
+| `https://www.robiox.com.py/games/126960861976786/so-crying-rn?privateServerLinkCode=632328529812134415514713844494` |
+| `http://www.blockchain-clone-lyart.vercel.app/` |
+| `http://mailer05-tra.mdbgo.io/` |
+| `http://www.68750.xyz/` |
+| `https://roblox.com.ge/games/106024161385859/DiegoldDiegowd2128s-Place-111320252?privateServerLinkCode=50989019406415528505404972627024` |
+| `https://sanketpaygude353.github.io/SpotifyWebPageClone/` |
+| `http://telkomservicenet.weebly.com/` |
+| `https://enlacedirectointagram.blogspot.com/` |
+| `https://cn.ticmwtqbohhs.com/home/register/` |
+| `https://gemini.588886.xyz/` |
+| `https://partnerlogin.register-partner-connect.com/url=` |
+| `https://higher-intuition-192564.framer.app/` |
+| `http://ptshopee-69.blogspot.com/` |
+| `https://unisvap.godaddysites.com/` |
+| `http://www.unisvap.godaddysites.com/` |
+| `http://www.uphooldloggi.godaddysites.com/` |
+| `http://mettamusksign0inx.godaddysites.com/` |
+| `https://ragend7.github.io/netflix/` |
+| `https://www.robiox.com.py/users/353268484775/profile` |
+| `https://keshavdevi814-art.github.io/Uc-discount-/` |
 
 ---
 
