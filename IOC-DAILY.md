@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 20, 2026  
-> **Updated:** April 20, 2026 at 10:24 UTC  
+> **Date:** April 21, 2026  
+> **Updated:** April 21, 2026 at 10:06 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.robiox.com.py/games/126960861976786/so-crying-rn?privateServerLinkCode=632328529812134415514713844494` |
-| `http://www.blockchain-clone-lyart.vercel.app/` |
-| `http://mailer05-tra.mdbgo.io/` |
-| `http://www.68750.xyz/` |
-| `https://roblox.com.ge/games/106024161385859/DiegoldDiegowd2128s-Place-111320252?privateServerLinkCode=50989019406415528505404972627024` |
-| `https://sanketpaygude353.github.io/SpotifyWebPageClone/` |
-| `http://telkomservicenet.weebly.com/` |
-| `https://enlacedirectointagram.blogspot.com/` |
-| `https://cn.ticmwtqbohhs.com/home/register/` |
-| `https://gemini.588886.xyz/` |
-| `https://partnerlogin.register-partner-connect.com/url=` |
-| `https://higher-intuition-192564.framer.app/` |
-| `http://ptshopee-69.blogspot.com/` |
-| `https://unisvap.godaddysites.com/` |
-| `http://www.unisvap.godaddysites.com/` |
-| `http://www.uphooldloggi.godaddysites.com/` |
-| `http://mettamusksign0inx.godaddysites.com/` |
-| `https://ragend7.github.io/netflix/` |
-| `https://www.robiox.com.py/users/353268484775/profile` |
-| `https://keshavdevi814-art.github.io/Uc-discount-/` |
+| `http://ahv3ctpms4e.webaccess-alert.comahv3ctpms4e.webaccess-alert.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `http://sucursal-svp.vercel.app/` |
+| `https://creatic.com.ar/trsdx/` |
+| `http://microsoft.account.trustedentity.com/http:/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==7Wl5URVhEWFFDaFtYUF5ZaEBeQ19oR1ZEREBYRVM=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/` |
+| `http://microsoft.account.trustedentity.com/http:/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/?t=EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc&p=6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
+| `http://notifaccountmeta.weeblysite.com/` |
+| `http://microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==1XFhSQ15CXldFbl1eVlhfbkZYRVluQVBCQkZeQ1U=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
+| `http://microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
+| `https://shoopeify.com/` |
+| `https://educaex.net/resr/login.php/` |
+| `http://ndaxxlogogin.webflow.io/` |
+| `http://msword-1273.weeblysite.com/` |
+| `https://www.roblox.com.ml/users/436961731356/profile` |
+| `http://jhgk32onk5lag.jgoe54ag.vip/` |
+| `http://santander-vilkas.pages.dev/` |
+| `http://jc-yg-20230819.pages.dev/` |
+| `https://robloxr.com.es/login?returlUrl=767705078` |
+| `http://my-site-101151-107432.weeblysite.com/` |
+| `https://app-store-0jqn.p-z8jo6y1y.workers.dev/l/AekOFPv1ilo` |
+| `http://lasue8404525.weeblysite.com/` |
 
 ---
 
