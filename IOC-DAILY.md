@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 21, 2026  
-> **Updated:** April 21, 2026 at 10:06 UTC  
+> **Date:** April 22, 2026  
+> **Updated:** April 22, 2026 at 10:07 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://ahv3ctpms4e.webaccess-alert.comahv3ctpms4e.webaccess-alert.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `http://sucursal-svp.vercel.app/` |
-| `https://creatic.com.ar/trsdx/` |
-| `http://microsoft.account.trustedentity.com/http:/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==7Wl5URVhEWFFDaFtYUF5ZaEBeQ19oR1ZEREBYRVM=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/` |
-| `http://microsoft.account.trustedentity.com/http:/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/?t=EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc&p=6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
-| `http://notifaccountmeta.weeblysite.com/` |
-| `http://microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==1XFhSQ15CXldFbl1eVlhfbkZYRVluQVBCQkZeQ1U=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
-| `http://microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
-| `https://shoopeify.com/` |
-| `https://educaex.net/resr/login.php/` |
-| `http://ndaxxlogogin.webflow.io/` |
-| `http://msword-1273.weeblysite.com/` |
-| `https://www.roblox.com.ml/users/436961731356/profile` |
-| `http://jhgk32onk5lag.jgoe54ag.vip/` |
-| `http://santander-vilkas.pages.dev/` |
-| `http://jc-yg-20230819.pages.dev/` |
-| `https://robloxr.com.es/login?returlUrl=767705078` |
-| `http://my-site-101151-107432.weeblysite.com/` |
-| `https://app-store-0jqn.p-z8jo6y1y.workers.dev/l/AekOFPv1ilo` |
-| `http://lasue8404525.weeblysite.com/` |
+| `http://validar-datos-365.iceiy.com/` |
+| `https://staemnaroruv.skin/50` |
+| `https://support251.agency-partner-manage.com/` |
+| `http://member51.strategic-digital-zone.com/` |
+| `https://jnelw-lemp-etiw.p-je675f6e.workers.dev/lp/BWBJA9KG8PI/` |
+| `http://freebrainrots.cc/` |
+| `https://microsoft.account.trustedentity.com/http:/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==8VVFbSldLV15MZ1RXX1FWZ09RTFBnSFlLS09XSlw=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/` |
+| `https://microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==4WV1XRltHW1JAa1hbU11aa0NdQFxrRFVHR0NbRlA=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
+| `http://member14.strategic-digital-zone.com/` |
+| `https://projektpdf.weebly.com/` |
+| `https://dpd-qalvora.click/pl/` |
+| `https://modernremotely.com/m/index` |
+| `http://core-flow-0np5.pdfonlinedocsdocs-outlook-com-s-account.workers.dev/l/3f9NnNW7Pe8` |
+| `https://739995534799835.weebly.com/` |
+| `https://newformx-dnaacostmer.coilerzhou.com/` |
+| `http://base-note-bc65.p-qqvrc942.workers.dev/l/zenorz@1b09f9df444dc0894927b3be5b8007c30ef4.com` |
+| `http://base-note-bc65.p-qqvrc942.workers.dev/l/renum@f24ade20bb1b368248e7a074b1f91de3d875.org` |
+| `https://streamlined-raccoon-849216.framer.app/` |
+| `https://spuiten.weebly.com/` |
+| `https://microsoftsportallog.weebly.com/` |
 
 ---
 
