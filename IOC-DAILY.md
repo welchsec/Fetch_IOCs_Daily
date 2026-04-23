@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 22, 2026  
-> **Updated:** April 22, 2026 at 10:07 UTC  
+> **Date:** April 23, 2026  
+> **Updated:** April 23, 2026 at 10:10 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://validar-datos-365.iceiy.com/` |
-| `https://staemnaroruv.skin/50` |
-| `https://support251.agency-partner-manage.com/` |
-| `http://member51.strategic-digital-zone.com/` |
-| `https://jnelw-lemp-etiw.p-je675f6e.workers.dev/lp/BWBJA9KG8PI/` |
-| `http://freebrainrots.cc/` |
-| `https://microsoft.account.trustedentity.com/http:/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==8VVFbSldLV15MZ1RXX1FWZ09RTFBnSFlLS09XSlw=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/` |
-| `https://microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==4WV1XRltHW1JAa1hbU11aa0NdQFxrRFVHR0NbRlA=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de` |
-| `http://member14.strategic-digital-zone.com/` |
-| `https://projektpdf.weebly.com/` |
-| `https://dpd-qalvora.click/pl/` |
-| `https://modernremotely.com/m/index` |
-| `http://core-flow-0np5.pdfonlinedocsdocs-outlook-com-s-account.workers.dev/l/3f9NnNW7Pe8` |
-| `https://739995534799835.weebly.com/` |
-| `https://newformx-dnaacostmer.coilerzhou.com/` |
-| `http://base-note-bc65.p-qqvrc942.workers.dev/l/zenorz@1b09f9df444dc0894927b3be5b8007c30ef4.com` |
-| `http://base-note-bc65.p-qqvrc942.workers.dev/l/renum@f24ade20bb1b368248e7a074b1f91de3d875.org` |
-| `https://streamlined-raccoon-849216.framer.app/` |
-| `https://spuiten.weebly.com/` |
-| `https://microsoftsportallog.weebly.com/` |
+| `http://benq-vice.s3.us-east-2.amazonaws.com/Ocdph.html` |
+| `http://dpd.lomkarite.cfd/com/` |
+| `http://dpd.flowlina.cfd/com/` |
+| `http://dpd.parnovexa.cfd/com/` |
+| `http://dpd.oalnorex.cfd/com/` |
+| `http://bs1.cbserv202.xyz/h5/` |
+| `http://dpd.melnatorio.cfd/com/` |
+| `https://amex-doc-collection.idmission.com/es-mx/soporte/programas-de-tarjeta/journey/begin?name=RODRIGO+JOSE&PCN=2026106TM00308MXN&amexCardId=platinum_charge&jobId=019d9783-4768-23a7-a961-614c3fad169c` |
+| `http://amex-doc.short.gy/LXXwcN/` |
+| `http://dpd.parcelstakdc.bond/com/` |
+| `http://dpd.parcelstakao.bond/com/` |
+| `http://dpd.hubgrid.cfd/com/` |
+| `http://dpd.marvoteli.cfd/com/` |
+| `http://dpd.calvexor.cfd/com/` |
+| `http://acccounts-center-passwords-and-securityy-nexar.pages.dev/changepass/` |
+| `http://dpd.kelvinor.cfd/com/` |
+| `http://dpd.levnixora.cfd/com/` |
+| `http://d1bc-amanda.systeme.io/coury-and-buehler-physical-thera/` |
+| `http://acccount-center-passwords-and-security-housexew.pages.dev/changepass/` |
+| `http://dpd.hubvera.cfd/com/` |
 
 ---
 
