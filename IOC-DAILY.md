@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 23, 2026  
-> **Updated:** April 23, 2026 at 10:10 UTC  
+> **Date:** April 24, 2026  
+> **Updated:** April 24, 2026 at 10:12 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://benq-vice.s3.us-east-2.amazonaws.com/Ocdph.html` |
-| `http://dpd.lomkarite.cfd/com/` |
-| `http://dpd.flowlina.cfd/com/` |
-| `http://dpd.parnovexa.cfd/com/` |
-| `http://dpd.oalnorex.cfd/com/` |
-| `http://bs1.cbserv202.xyz/h5/` |
-| `http://dpd.melnatorio.cfd/com/` |
-| `https://amex-doc-collection.idmission.com/es-mx/soporte/programas-de-tarjeta/journey/begin?name=RODRIGO+JOSE&PCN=2026106TM00308MXN&amexCardId=platinum_charge&jobId=019d9783-4768-23a7-a961-614c3fad169c` |
-| `http://amex-doc.short.gy/LXXwcN/` |
-| `http://dpd.parcelstakdc.bond/com/` |
-| `http://dpd.parcelstakao.bond/com/` |
-| `http://dpd.hubgrid.cfd/com/` |
-| `http://dpd.marvoteli.cfd/com/` |
-| `http://dpd.calvexor.cfd/com/` |
-| `http://acccounts-center-passwords-and-securityy-nexar.pages.dev/changepass/` |
-| `http://dpd.kelvinor.cfd/com/` |
-| `http://dpd.levnixora.cfd/com/` |
-| `http://d1bc-amanda.systeme.io/coury-and-buehler-physical-thera/` |
-| `http://acccount-center-passwords-and-security-housexew.pages.dev/changepass/` |
-| `http://dpd.hubvera.cfd/com/` |
+| `http://dakshsingh321.github.io/netflixclone` |
+| `https://bonhouse1198.com/82035912/` |
+| `https://alphalocetes.com/sql/index.html` |
+| `https://notifiyedexpress.com/landing/form/e9beb6d3-7210-40a9-8c9b-e5a6d7f57341` |
+| `https://ldlg.lanxiongjc.cn/apusetop/jupindx/` |
+| `https://c138a4a574250606b.servemp3.com/.co` |
+| `https://s.team-vz.com/p/fhtb-mrgw/nwjrmgwv/` |
+| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ikelalz@f16998df69b45d02372df199789ecb181f26.net/` |
+| `http://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ikalet7@f0d27444e52b57df9a381741db952d87265e.org` |
+| `http://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/lp/elarlab@287a18697b8a25c19411686ef61062a3466e.com` |
+| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/lp/falenlab@b123218554f02aa84899220448c5ab0dddd9.net/` |
+| `https://microsoft.merilo.za.com/files/login.php/` |
+| `https://usa-activenow.netlify.app/live` |
+| `https://jieyo-ohdk-45jv.c-01md9x3b.workers.dev/lp/kqnGUyv6rrE` |
+| `https://jetztallesmoeglich.de/mastercard` |
+| `https://fakabeiiabarco.com/` |
+| `http://att-maintenace.weeblysite.com/` |
+| `https://wassss92passsso.weebly.com/` |
+| `http://dencollcstatement0423.weebly.com/` |
+| `https://vemcomnutermaislimit.s3.us-east-005.backblazeb2.com/aumento.html` |
 
 ---
 
