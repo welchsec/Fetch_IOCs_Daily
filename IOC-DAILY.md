@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 24, 2026  
-> **Updated:** April 24, 2026 at 10:12 UTC  
+> **Date:** April 25, 2026  
+> **Updated:** April 25, 2026 at 09:38 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://dakshsingh321.github.io/netflixclone` |
-| `https://bonhouse1198.com/82035912/` |
-| `https://alphalocetes.com/sql/index.html` |
-| `https://notifiyedexpress.com/landing/form/e9beb6d3-7210-40a9-8c9b-e5a6d7f57341` |
-| `https://ldlg.lanxiongjc.cn/apusetop/jupindx/` |
-| `https://c138a4a574250606b.servemp3.com/.co` |
-| `https://s.team-vz.com/p/fhtb-mrgw/nwjrmgwv/` |
-| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ikelalz@f16998df69b45d02372df199789ecb181f26.net/` |
-| `http://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ikalet7@f0d27444e52b57df9a381741db952d87265e.org` |
-| `http://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/lp/elarlab@287a18697b8a25c19411686ef61062a3466e.com` |
-| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/lp/falenlab@b123218554f02aa84899220448c5ab0dddd9.net/` |
-| `https://microsoft.merilo.za.com/files/login.php/` |
-| `https://usa-activenow.netlify.app/live` |
-| `https://jieyo-ohdk-45jv.c-01md9x3b.workers.dev/lp/kqnGUyv6rrE` |
-| `https://jetztallesmoeglich.de/mastercard` |
-| `https://fakabeiiabarco.com/` |
-| `http://att-maintenace.weeblysite.com/` |
-| `https://wassss92passsso.weebly.com/` |
-| `http://dencollcstatement0423.weebly.com/` |
-| `https://vemcomnutermaislimit.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://accountterminationalert.weebly.com/` |
+| `https://docusignsecuredfile0.weebly.com/` |
+| `https://microsoft365niyn.weebly.com/` |
+| `https://willing-gift-685217.framer.app/` |
+| `https://itsuppports.com/?r=c7974179-651d-4cf3-b56c-516ce385d9cb` |
+| `http://id100392.agency-system-gateway.com/` |
+| `http://bafkreif5lfunnqqjfepptecgyu47hthggdzkw6sw6ldu5q7ax5b5k6g4me.ipfs.dweb.link/` |
+| `http://bafkreiduyw74tukcsbnx6qrmjolyk53f5smk3wvexijffc2wr25m6fucme.ipfs.dweb.link/` |
+| `https://program-resmi1212.blogspot.com/` |
+| `https://shopee2559.blogspot.com/` |
+| `http://bafkreia4ul6dp4zesdh2swp3gfxfmyfjn24ayrpytqjg64ypt7rj74gczy.ipfs.dweb.link/` |
+| `http://bafkreihbc6c6upbkrybubyn6ebpkzlwjcjkai4w67ozuhhmgyqed66norq.ipfs.dweb.link/` |
+| `http://bafkreigz4s6q76glb5tpljkrcnzjv66alftcujgh5mmnlshzfmholhbpt4.ipfs.dweb.link/` |
+| `http://bafkreihno5dogy56velr2exfpp3znmmmzgruu2a2u32ws7tqyozztryf2y.ipfs.dweb.link/` |
+| `https://bafkreibbbbfhm75xzfqu2ssgb4zjam5dhkojktvjegtjnoftr3n67gzcna.ipfs.dweb.link/` |
+| `http://bafkreie3a7xaucdsxazp7puvj73h66txlux7hcpqdsy5axahykzrblqmxa.ipfs.dweb.link/` |
+| `http://bafkreihcgtb3y2qsw27le4ns3rsprphmzgyssevzj4xmjjrff7sbahqrou.ipfs.dweb.link/` |
+| `http://bafkreihmcb75y477syzduz3jp5bszmawjavaaarnqg3ctxt75c5ulfen5a.ipfs.dweb.link/` |
+| `http://bafkreifzxev64yfjoabobqw7fovhhkmdva3vlvd3savdmgndxdmtfqtpiu.ipfs.dweb.link/` |
+| `http://web2.pancake.run/info/pairs/0x1051510a285eb573b1b2c8abcc959db7343623ee` |
 
 ---
 
