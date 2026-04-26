@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 25, 2026  
-> **Updated:** April 25, 2026 at 09:38 UTC  
+> **Date:** April 26, 2026  
+> **Updated:** April 26, 2026 at 09:40 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://accountterminationalert.weebly.com/` |
-| `https://docusignsecuredfile0.weebly.com/` |
-| `https://microsoft365niyn.weebly.com/` |
-| `https://willing-gift-685217.framer.app/` |
-| `https://itsuppports.com/?r=c7974179-651d-4cf3-b56c-516ce385d9cb` |
-| `http://id100392.agency-system-gateway.com/` |
-| `http://bafkreif5lfunnqqjfepptecgyu47hthggdzkw6sw6ldu5q7ax5b5k6g4me.ipfs.dweb.link/` |
-| `http://bafkreiduyw74tukcsbnx6qrmjolyk53f5smk3wvexijffc2wr25m6fucme.ipfs.dweb.link/` |
-| `https://program-resmi1212.blogspot.com/` |
-| `https://shopee2559.blogspot.com/` |
-| `http://bafkreia4ul6dp4zesdh2swp3gfxfmyfjn24ayrpytqjg64ypt7rj74gczy.ipfs.dweb.link/` |
-| `http://bafkreihbc6c6upbkrybubyn6ebpkzlwjcjkai4w67ozuhhmgyqed66norq.ipfs.dweb.link/` |
-| `http://bafkreigz4s6q76glb5tpljkrcnzjv66alftcujgh5mmnlshzfmholhbpt4.ipfs.dweb.link/` |
-| `http://bafkreihno5dogy56velr2exfpp3znmmmzgruu2a2u32ws7tqyozztryf2y.ipfs.dweb.link/` |
-| `https://bafkreibbbbfhm75xzfqu2ssgb4zjam5dhkojktvjegtjnoftr3n67gzcna.ipfs.dweb.link/` |
-| `http://bafkreie3a7xaucdsxazp7puvj73h66txlux7hcpqdsy5axahykzrblqmxa.ipfs.dweb.link/` |
-| `http://bafkreihcgtb3y2qsw27le4ns3rsprphmzgyssevzj4xmjjrff7sbahqrou.ipfs.dweb.link/` |
-| `http://bafkreihmcb75y477syzduz3jp5bszmawjavaaarnqg3ctxt75c5ulfen5a.ipfs.dweb.link/` |
-| `http://bafkreifzxev64yfjoabobqw7fovhhkmdva3vlvd3savdmgndxdmtfqtpiu.ipfs.dweb.link/` |
-| `http://web2.pancake.run/info/pairs/0x1051510a285eb573b1b2c8abcc959db7343623ee` |
+| `https://roblox.com.bn/games/74538164085210/sword-fighting-347226` |
+| `http://bafkreia4gwi65juhfno264zzcmomalln4ipqo25lmipuyw5rz52xjfxa24.ipfs.dweb.link/` |
+| `http://bafkreiezyyuwkx6lx4ibhwdclgzdmqqi4o6lbn3h7hjc2mh3o3ms2zxb4q.ipfs.dweb.link/` |
+| `https://bafkreih3eptu6xwmgwzjfhzqnxnn6rwbry2bghrzycrf763i3zfuzf7zya.ipfs.dweb.link/` |
+| `http://bafkreihm3z3w3fm5cbxyrsc577dgyqe24phaporrc4akv75j4rjwtdnuxq.ipfs.dweb.link/` |
+| `http://bafkreia3uxiluctemta2uvlizr5aplsvkqtu3s44vztvd6rxkqbse3xs4q.ipfs.dweb.link/` |
+| `https://bafkreigbsnpw6rhikom5o2sncytbr3tasoqvyj36t62zd7f2cut5aplkmi.ipfs.dweb.link/` |
+| `https://bafkreih3wkaltmrq3b6pcvmzipkbuy4wenacqayqkpkh4iwaaknxhbfb24.ipfs.dweb.link/` |
+| `https://bafkreihgpn6iqstuq5hfgqklmuurtzs4jkvziz2c3w3ozfozgrhohq24gi.ipfs.dweb.link/` |
+| `https://bafkreih6pyu4m4rbzuwj6pqhuxd7rh4wrgpr5yrnwlraygd7d2a5lhrayy.ipfs.dweb.link/` |
+| `https://bafkreiacyfcvz5vacz5fafiwqnsc23hv2gxnrexjlbfdmcofhmleq6mxjq.ipfs.dweb.link/` |
+| `https://ku-coin-log-in-eng.typedream.app/` |
+| `https://bafkreia73vsep2iclhrdtmhqmjga6jvuhaeeg7swqw2tl7koqnk54mqcai.ipfs.dweb.link/` |
+| `https://bafkreie73naukae7z7dex2ermiyscnnfzmzp4afrtx2tv2kqzeitzvej7u.ipfs.dweb.link/` |
+| `https://kucoilogin.webflow.io/` |
+| `https://rbx4you1m.blogspot.com/` |
+| `https://io-kucoin-login-com.typedream.app/` |
+| `http://trezor-bridgeapp.typedream.app/` |
+| `http://bafkreihtairx6c67agqd4wsfouhn3vubvn2kguxpradqednxg7zkh7jhia.ipfs.dweb.link/` |
+| `https://gemini.mianmian.rest/` |
 
 ---
 
