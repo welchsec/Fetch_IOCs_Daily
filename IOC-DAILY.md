@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 26, 2026  
-> **Updated:** April 26, 2026 at 09:40 UTC  
+> **Date:** April 27, 2026  
+> **Updated:** April 27, 2026 at 10:50 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://roblox.com.bn/games/74538164085210/sword-fighting-347226` |
-| `http://bafkreia4gwi65juhfno264zzcmomalln4ipqo25lmipuyw5rz52xjfxa24.ipfs.dweb.link/` |
-| `http://bafkreiezyyuwkx6lx4ibhwdclgzdmqqi4o6lbn3h7hjc2mh3o3ms2zxb4q.ipfs.dweb.link/` |
-| `https://bafkreih3eptu6xwmgwzjfhzqnxnn6rwbry2bghrzycrf763i3zfuzf7zya.ipfs.dweb.link/` |
-| `http://bafkreihm3z3w3fm5cbxyrsc577dgyqe24phaporrc4akv75j4rjwtdnuxq.ipfs.dweb.link/` |
-| `http://bafkreia3uxiluctemta2uvlizr5aplsvkqtu3s44vztvd6rxkqbse3xs4q.ipfs.dweb.link/` |
-| `https://bafkreigbsnpw6rhikom5o2sncytbr3tasoqvyj36t62zd7f2cut5aplkmi.ipfs.dweb.link/` |
-| `https://bafkreih3wkaltmrq3b6pcvmzipkbuy4wenacqayqkpkh4iwaaknxhbfb24.ipfs.dweb.link/` |
-| `https://bafkreihgpn6iqstuq5hfgqklmuurtzs4jkvziz2c3w3ozfozgrhohq24gi.ipfs.dweb.link/` |
-| `https://bafkreih6pyu4m4rbzuwj6pqhuxd7rh4wrgpr5yrnwlraygd7d2a5lhrayy.ipfs.dweb.link/` |
-| `https://bafkreiacyfcvz5vacz5fafiwqnsc23hv2gxnrexjlbfdmcofhmleq6mxjq.ipfs.dweb.link/` |
-| `https://ku-coin-log-in-eng.typedream.app/` |
-| `https://bafkreia73vsep2iclhrdtmhqmjga6jvuhaeeg7swqw2tl7koqnk54mqcai.ipfs.dweb.link/` |
-| `https://bafkreie73naukae7z7dex2ermiyscnnfzmzp4afrtx2tv2kqzeitzvej7u.ipfs.dweb.link/` |
-| `https://kucoilogin.webflow.io/` |
-| `https://rbx4you1m.blogspot.com/` |
-| `https://io-kucoin-login-com.typedream.app/` |
-| `http://trezor-bridgeapp.typedream.app/` |
-| `http://bafkreihtairx6c67agqd4wsfouhn3vubvn2kguxpradqednxg7zkh7jhia.ipfs.dweb.link/` |
-| `https://gemini.mianmian.rest/` |
+| `http://www.instagram-clone-v2-nextjs.vercel.app/` |
+| `http://trezorswalletin.webflow.io/` |
+| `http://www.service-cloudflare.com/` |
+| `http://www.amazon-clone-jet-eight-44.vercel.app/` |
+| `http://loggiinbitmartt.webflow.io/` |
+| `https://netflix-clone-olive-mu.vercel.app/` |
+| `http://www.netflix-clone-olive-mu.vercel.app/` |
+| `http://accounts.9023423.cfd/proxy/c66ea0bb-b98d-4df2-ab07-4e1a31d7ee42/https%3A%2F%2Flogin.kleinanzeigen.de%2Fu%2Flogin%2Fidentifier%3Fstate%3DhKFo2SBqYzRTOExTZURzOXFZUGpoTklUSi1tTjN5SE9ZeDAwYqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDNRbUJ3ZEFkOExoc0lBcDB1ZnhLZHg2eWtfeWFXVmVNo2NpZNkgYU9xNzRDbTVmVUJvTTFKaWZIVGhIbFoySkhYbFZVQ3E` |
+| `http://accounts.9023423.cfd/proxy/68c64423-d32b-48be-b31d-2e94b105d656/https:/login.kleinanzeigen.de/authorize?ext-AppVersion=20164&scope=openid+offline_access+urn:ebay-kleinanzeigen:user&response_type=code&redirect_uri=https:/www.kleinanzeigen.de/m-einloggen-callback.html&state=e5e3de19fa774db6a1593a6b2828f9afcb13c9b47669bc48488f6b988f126f2d099b903c236fa4fba742c18427aef979&code_challenge_method=S256&prompt=login&client_id=aOq74Cm5fUBoM1JifHThHlZ2JHXlVUCq&code_challenge=SWuNuhit_p5wO2PjCLKx3yWibpw5-MWUeQWZ7E_1b8k` |
+| `http://www.chaurax.serv00.net/` |
+| `https://oklahomaweddingpros.com/mkaite/e%cc%81saam/n%cc%8cs/` |
+| `https://woolardsauto.com/stats/safety-validated-access.html` |
+| `https://meekys.mtffx.cn/gpajp/accunt/lginox/` |
+| `http://view-help---auth---bitmert--sso.webflow.io/` |
+| `https://dpd-torvera.link/track` |
+| `http://oauth---apps--sso---kucoin.webflow.io/` |
+| `https://altruistic-successes-879938.framer.app/` |
+| `http://nlink.at/qUda` |
+| `https://ribanholdlogip.gitbook.io/account` |
+| `http://ribanholdlogip.gitbook.io/` |
 
 ---
 
