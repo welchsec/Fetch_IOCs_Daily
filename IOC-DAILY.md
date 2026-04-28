@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 27, 2026  
-> **Updated:** April 27, 2026 at 10:50 UTC  
+> **Date:** April 28, 2026  
+> **Updated:** April 28, 2026 at 10:50 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.instagram-clone-v2-nextjs.vercel.app/` |
-| `http://trezorswalletin.webflow.io/` |
-| `http://www.service-cloudflare.com/` |
-| `http://www.amazon-clone-jet-eight-44.vercel.app/` |
-| `http://loggiinbitmartt.webflow.io/` |
-| `https://netflix-clone-olive-mu.vercel.app/` |
-| `http://www.netflix-clone-olive-mu.vercel.app/` |
-| `http://accounts.9023423.cfd/proxy/c66ea0bb-b98d-4df2-ab07-4e1a31d7ee42/https%3A%2F%2Flogin.kleinanzeigen.de%2Fu%2Flogin%2Fidentifier%3Fstate%3DhKFo2SBqYzRTOExTZURzOXFZUGpoTklUSi1tTjN5SE9ZeDAwYqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDNRbUJ3ZEFkOExoc0lBcDB1ZnhLZHg2eWtfeWFXVmVNo2NpZNkgYU9xNzRDbTVmVUJvTTFKaWZIVGhIbFoySkhYbFZVQ3E` |
-| `http://accounts.9023423.cfd/proxy/68c64423-d32b-48be-b31d-2e94b105d656/https:/login.kleinanzeigen.de/authorize?ext-AppVersion=20164&scope=openid+offline_access+urn:ebay-kleinanzeigen:user&response_type=code&redirect_uri=https:/www.kleinanzeigen.de/m-einloggen-callback.html&state=e5e3de19fa774db6a1593a6b2828f9afcb13c9b47669bc48488f6b988f126f2d099b903c236fa4fba742c18427aef979&code_challenge_method=S256&prompt=login&client_id=aOq74Cm5fUBoM1JifHThHlZ2JHXlVUCq&code_challenge=SWuNuhit_p5wO2PjCLKx3yWibpw5-MWUeQWZ7E_1b8k` |
-| `http://www.chaurax.serv00.net/` |
-| `https://oklahomaweddingpros.com/mkaite/e%cc%81saam/n%cc%8cs/` |
-| `https://woolardsauto.com/stats/safety-validated-access.html` |
-| `https://meekys.mtffx.cn/gpajp/accunt/lginox/` |
-| `http://view-help---auth---bitmert--sso.webflow.io/` |
-| `https://dpd-torvera.link/track` |
-| `http://oauth---apps--sso---kucoin.webflow.io/` |
-| `https://altruistic-successes-879938.framer.app/` |
-| `http://nlink.at/qUda` |
-| `https://ribanholdlogip.gitbook.io/account` |
-| `http://ribanholdlogip.gitbook.io/` |
+| `http://raunak1022.github.io/my-first-project` |
+| `https://verifyverifying-44024c.webflow.io/` |
+| `https://ledgercomstart.vercel.app/` |
+| `http://www.ledgercomstart.vercel.app/` |
+| `http://healthyemployee.me/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `https://anushkakarmakar-14.github.io/Netflix-Clone/` |
+| `https://connect-partner.credit-agency-meta.com/` |
+| `https://abdurahmonabdus2011-collab.github.io/aduraksmon-2` |
+| `https://authsso.productoselbosque.com/` |
+| `http://lnamty.github.io/Spotify-Landing-Page` |
+| `http://enrichsupplies.com/admin` |
+| `https://netflix-clone-plum-two.vercel.app/` |
+| `http://roblox.com.bn/users/602144286077/profile` |
+| `https://a.gobookroom.com/login` |
+| `http://geminei-logi.godaddysites.com/` |
+| `https://partner-signup.program-accounts-agency.com/` |
+| `https://kidtd12.github.io/Netflix-clone/` |
+| `https://amazon-cloned2025.netlify.app/` |
+| `http://www.us-trezzriostart.weebly.com/` |
+| `http://usa_gamini-ushelp.godaddysites.com/` |
 
 ---
 
