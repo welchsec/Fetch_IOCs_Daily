@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 28, 2026  
-> **Updated:** April 28, 2026 at 10:50 UTC  
+> **Date:** April 29, 2026  
+> **Updated:** April 29, 2026 at 10:44 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://raunak1022.github.io/my-first-project` |
-| `https://verifyverifying-44024c.webflow.io/` |
-| `https://ledgercomstart.vercel.app/` |
-| `http://www.ledgercomstart.vercel.app/` |
-| `http://healthyemployee.me/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `https://anushkakarmakar-14.github.io/Netflix-Clone/` |
-| `https://connect-partner.credit-agency-meta.com/` |
-| `https://abdurahmonabdus2011-collab.github.io/aduraksmon-2` |
-| `https://authsso.productoselbosque.com/` |
-| `http://lnamty.github.io/Spotify-Landing-Page` |
-| `http://enrichsupplies.com/admin` |
-| `https://netflix-clone-plum-two.vercel.app/` |
-| `http://roblox.com.bn/users/602144286077/profile` |
-| `https://a.gobookroom.com/login` |
-| `http://geminei-logi.godaddysites.com/` |
-| `https://partner-signup.program-accounts-agency.com/` |
-| `https://kidtd12.github.io/Netflix-clone/` |
-| `https://amazon-cloned2025.netlify.app/` |
-| `http://www.us-trezzriostart.weebly.com/` |
-| `http://usa_gamini-ushelp.godaddysites.com/` |
+| `https://gmininilogenix.gitbook.io/us/` |
+| `https://macdonaldcrutherlhouse.spahotel.guru/` |
+| `https://deltasbymarriottrega.spahotel.guru/` |
+| `http://cadizbahiabyqs.spahotel.guru/` |
+| `http://leenaternationalnearnaughtplacenewdelhirailwaystation.spahotel.guru/` |
+| `https://shopee7878.blogspot.com/` |
+| `https://stleamcommuunity.com/validation/2359873` |
+| `http://lemeridiendubaiferencecentre.spahotel.guru/` |
+| `https://eden-ile-de-france.spahotel.guru/` |
+| `http://towerplazadubai.spahotel.guru/` |
+| `http://towers.spahotel.guru/` |
+| `https://docusign-k7l.roxanne-jspelectrical-com-s-account.workers.dev/a0a2439625db5b97/` |
+| `https://partner-invite.credit-agency-meta.com/` |
+| `https://search.app/YXJBAysYt385trnB9` |
+| `http://09-appinstall.top/ddo/Windows/utility.php` |
+| `http://dpd.rfghjk.cfd/co.uk` |
+| `http://jionet.rt-vip.ip-dynamic.org/` |
+| `https://idzformn.pololuxs.biz.id/` |
+| `https://www.dpdlocahd.shop/com` |
+| `http://bellenbusiness.vercel.app/` |
 
 ---
 
