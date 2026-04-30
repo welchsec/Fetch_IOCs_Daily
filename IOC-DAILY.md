@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** April 29, 2026  
-> **Updated:** April 29, 2026 at 10:44 UTC  
+> **Date:** April 30, 2026  
+> **Updated:** April 30, 2026 at 10:30 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://gmininilogenix.gitbook.io/us/` |
-| `https://macdonaldcrutherlhouse.spahotel.guru/` |
-| `https://deltasbymarriottrega.spahotel.guru/` |
-| `http://cadizbahiabyqs.spahotel.guru/` |
-| `http://leenaternationalnearnaughtplacenewdelhirailwaystation.spahotel.guru/` |
-| `https://shopee7878.blogspot.com/` |
-| `https://stleamcommuunity.com/validation/2359873` |
-| `http://lemeridiendubaiferencecentre.spahotel.guru/` |
-| `https://eden-ile-de-france.spahotel.guru/` |
-| `http://towerplazadubai.spahotel.guru/` |
-| `http://towers.spahotel.guru/` |
-| `https://docusign-k7l.roxanne-jspelectrical-com-s-account.workers.dev/a0a2439625db5b97/` |
-| `https://partner-invite.credit-agency-meta.com/` |
-| `https://search.app/YXJBAysYt385trnB9` |
-| `http://09-appinstall.top/ddo/Windows/utility.php` |
-| `http://dpd.rfghjk.cfd/co.uk` |
-| `http://jionet.rt-vip.ip-dynamic.org/` |
-| `https://idzformn.pololuxs.biz.id/` |
-| `https://www.dpdlocahd.shop/com` |
-| `http://bellenbusiness.vercel.app/` |
+| `http://verificarmicuentaa-microsoft2o26.zya.me/?i=1` |
+| `https://k2gd4y06do-signin-primemembership.thetirecoozie.com/mobile/?auth_max_open=0&ref=wbnj3jJxDZRLTnenCk90RDG1z5nC0sRDTRwYXjGnZfZ9B8FACw1NpBDS3KihRBV4IUYcrL7UU4Z1Pmb8prfTzfoZntbWRYxGqxcB` |
+| `https://search.app/FBky6` |
+| `http://shekharscript.github.io/Netflix-clone` |
+| `https://supportmediaportal.com/mail/?_r=298GNI` |
+| `http://bitmartloginut.webflow.io/` |
+| `https://appleid0.sviluppo.host/App/9ED540E54ERTHRTE0H00000SD54G4en/` |
+| `https://v2sd01v5sd1fb5.sviluppo.host/LP/` |
+| `https://wmt1-7ckc8-8awo-2u7x.pages.dev/appeals/submit-appeal-form/return/` |
+| `https://alvodefinido.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `http://birttmertlogin.webflow.io/` |
+| `https://typsasports.com/order/alibabaNew/index.html` |
+| `https://pub-341f5624d2bc4c8297dedbe9f6b13d25.r2.dev/index.html?ref=secure_redirect&ts=1767152285&v=1.0&ip=5fb735ac&token=b950c175/` |
+| `https://sec-i--itrustcapitall---authh.webflow.io/` |
+| `https://markisa69.com/` |
+| `http://outlookliiee1.weebly.com/` |
+| `http://www.dpdlocazq.cyou/com/` |
+| `http://www.dpdlocakz.shop/com/` |
+| `http://www.dpdlocazr.shop/com/` |
+| `http://www.dpdlocakz.cyou/com/` |
 
 ---
 
