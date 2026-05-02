@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 01, 2026  
-> **Updated:** May 01, 2026 at 10:12 UTC  
+> **Date:** May 02, 2026  
+> **Updated:** May 02, 2026 at 09:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://himeshverma.github.io/NETFLIX-Clone` |
-| `https://traisar--briddge.pages.dev/` |
-| `https://member007.agency-ad-global.com/` |
-| `https://truea1e4dkhbcmjy6tsfky73sjsh-cjdrg2dvexhug6hv.z03.azurefd.net/?_event=51ca274c9ece8da15a84f9e1170c9502` |
-| `https://www.roblox.et/users/5052791292/profile` |
-| `https://uaknm-xvmi-2xq5.c-x7mhmr9c.workers.dev/lp/KQF2VJ5IdBM/` |
-| `http://aquaclaude-09494-9099403-docviewer.clear90489058903-document.workers.dev/` |
-| `http://tovxel-biz-maxrin-17126.pages.dev/heartily_welcome` |
-| `http://vwk-irx-biz-ukp-mxa-sp13ct1.pages.dev/heartily_welcome` |
-| `https://morlen-darvex-biz-hispex-salnor-sp14ct12.pages.dev/heartily_welcome?id=1063158070205240&page_name=SecBoard/` |
-| `https://ntcont.com/connect/meta.html` |
-| `https://kundenservicedkb.stopshopdev.com/logindkb/login.php/` |
-| `https://talktalk-voice-tgsfsr.weeblysite.com/` |
-| `https://www.dpdlocazy.cyou/com/` |
-| `https://convex-pages-690876.framer.app/` |
-| `https://www.dpdlocakc.cyou/com/` |
-| `https://www.dpdlocajo.cyou/com/` |
-| `https://www.dpdlocajx.cyou/com/` |
-| `https://www.dpdlocakg.cyou/com/` |
-| `https://www.dpdlocajf.cyou/com/` |
+| `https://shining-whoever-570303.framer.app/` |
+| `https://inexpensive-leprechaun-012730.framer.app/` |
+| `https://plsfreshui.weebly.com/` |
+| `https://adventurous-tetragon-867322.framer.app/` |
+| `https://www.dpdlocake.shop/com` |
+| `https://www.dpdlocaza.shop/com` |
+| `https://www.dpdlocakx.cyou/com` |
+| `https://www.dpdlocahq.shop/com` |
+| `https://www.dpdlocazt.cyou/com` |
+| `https://www.dpdlocazp.cyou/com` |
+| `https://www.dpdlocahw.cyou/com` |
+| `https://www.dpdlocagb.top/com/` |
+| `https://www.dpdlocajg.top/com/` |
+| `https://www.dpdlocagm.top/com/` |
+| `https://www.dpdlocakv.shop/com/` |
+| `https://www.dpdlocaho.shop/com/` |
+| `https://www.dpdlocagv.shop/com/` |
+| `https://www.dpdlocakk.top/com/` |
+| `https://zsc.com.pk/jobs-1-item/4-accountant-human-resources/Select/index.php/` |
+| `https://9hfs-mwm5-mg0h.countryviewss-communitycaremidwest-com-s-account.workers.dev/66fb5598e6f79157?email=@/` |
 
 ---
 
