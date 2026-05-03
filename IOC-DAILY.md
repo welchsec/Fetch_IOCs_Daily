@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 02, 2026  
-> **Updated:** May 02, 2026 at 09:49 UTC  
+> **Date:** May 03, 2026  
+> **Updated:** May 03, 2026 at 09:57 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://shining-whoever-570303.framer.app/` |
-| `https://inexpensive-leprechaun-012730.framer.app/` |
-| `https://plsfreshui.weebly.com/` |
-| `https://adventurous-tetragon-867322.framer.app/` |
-| `https://www.dpdlocake.shop/com` |
-| `https://www.dpdlocaza.shop/com` |
-| `https://www.dpdlocakx.cyou/com` |
-| `https://www.dpdlocahq.shop/com` |
-| `https://www.dpdlocazt.cyou/com` |
-| `https://www.dpdlocazp.cyou/com` |
-| `https://www.dpdlocahw.cyou/com` |
-| `https://www.dpdlocagb.top/com/` |
-| `https://www.dpdlocajg.top/com/` |
-| `https://www.dpdlocagm.top/com/` |
-| `https://www.dpdlocakv.shop/com/` |
-| `https://www.dpdlocaho.shop/com/` |
-| `https://www.dpdlocagv.shop/com/` |
-| `https://www.dpdlocakk.top/com/` |
-| `https://zsc.com.pk/jobs-1-item/4-accountant-human-resources/Select/index.php/` |
-| `https://9hfs-mwm5-mg0h.countryviewss-communitycaremidwest-com-s-account.workers.dev/66fb5598e6f79157?email=@/` |
+| `https://ipfs.io/ipfs/bafkreigl2k5fptwipwkjwk4ldzsewducdpxhrzcxiaqnfcuygdv5grbrmi?eta=valex9@094892cebb7879740025e9ac3969a04ab52c.com` |
+| `https://www.usupholdbit.com/` |
+| `http://appusujith222-hash.github.io/sample-project` |
+| `https://sportsmanfront.com/` |
+| `http://www.79367.cc/` |
+| `http://www.60623.xyz/` |
+| `http://www.60883.xyz/` |
+| `https://dpd.sarmetaki.cfd/com` |
+| `https://truea4ewy73kejbcksf5rydis7e-a5h3h7h0ghb2e6ge.z03.azurefd.net/` |
+| `http://itpageshubinn.com/392GNGT1` |
+| `http://ipfs.io/ipfs/bafkreie64mx7qaesko55elkghmbc2talbrcnyygn3mebq2pky53hlspiuy` |
+| `https://tir-hra-biz-vap-lri-sp6ct3.pages.dev/heartily_welcome/` |
+| `https://u106b.xyz/` |
+| `http://navigation.conferenciadehumanizacao.com/` |
+| `http://cbmdrmobile.wetlandrestorationecology.com/` |
+| `http://www.admin.2c8674a6-08b4-4dc6-97b9-68ff075bb91f.amlonline.org/` |
+| `http://oasis.professorflapjacks.com/` |
+| `http://www.demo.eolink.rkingoods.com/` |
+| `http://www.test.login.usfreespeech.com/` |
+| `http://www.admin.remote.pearson367.com/` |
 
 ---
 
