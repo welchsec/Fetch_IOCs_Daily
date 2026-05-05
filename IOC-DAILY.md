@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 04, 2026  
-> **Updated:** May 04, 2026 at 10:50 UTC  
+> **Date:** May 05, 2026  
+> **Updated:** May 05, 2026 at 10:25 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://coensqureulogin.webflow.io/` |
-| `http://netflix-clone-coral-three.vercel.app/` |
-| `http://www.uuphuldlugin.godaddysites.com/` |
-| `http://login-netcoin-ca.webflow.io/` |
-| `http://netflix-ui-clone-iota.vercel.app/` |
-| `http://authswiisborgwallet.webflow.io/` |
-| `http://kkucoin-en-webpage.webflow.io/` |
-| `http://projectlicks-box07.vercel.app/` |
-| `http://support91.partner-invoice-network.com/` |
-| `http://www.jexi-bank.vercel.app/` |
-| `http://www.lasvegas-games.ro/wp-content/ngg/modules/photocrati-ajax/template/` |
-| `http://meta-information.invoice-ads-agency.com/` |
-| `http://facebook-request.program-ads-agency.com/` |
-| `http://facebook-program.program-ads-agency.com/` |
-| `http://www.netflix-clone-opal-ten.vercel.app/` |
-| `https://cabanasuspedeal.ro/joik/pages/login.php` |
-| `http://support89.agency-connect-invite.com/url=` |
-| `http://priyanshu222003.github.io/Netflix-Dashboard-Clone` |
-| `http://kiiicinn_logiin.godaddysites.com/` |
-| `https://vabudd-inodda-4a32f45.pages.dev/sasetra-iyogra/` |
+| `http://debi357.github.io/Netflix-clone-website` |
+| `https://meta-business.invoice-ads-process.com/` |
+| `https://www.roblox.com.bi/games/89391218331997/I-DONT-NEED-A-SWORD-TO-SLAP?privateServerLinkCode=11605159453863706697758334864438` |
+| `http://newemessageimportantmain.wasmer.app/fansedge` |
+| `http://invest.credits-center.com/` |
+| `https://rahul010620.github.io/amazon-clone/` |
+| `http://amazon-clone-red-seven.vercel.app/` |
+| `https://closingaccountportaldata.weebly.com/` |
+| `https://shaw211.weebly.com/` |
+| `https://www.roblox.com.et/users/100521388042/profile` |
+| `https://whatsaptasohbettt.netlify.app/` |
+| `http://seahorse-app-3m7wq.ondigitalocean.app/` |
+| `http://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Iverus@91d57aff859f26569d5ce1f2fded9863ccb0.org` |
+| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ihalonpro@335cad0e27833f59bf69194495213931bd4d.com` |
+| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ibelet2@b2a93d08e61e96048c38ed9361b5a1318259.com` |
+| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ijanan@ff7c715dc127794fbce9a1aecc5b6f7088ad.com` |
+| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ilanixhub@0b6ab47f17f9486d554717f950f11baada6b.com` |
+| `https://acimadasnuvens.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `http://bishesh204.github.io/netflix_clone` |
+| `https://www.roblox.et/users/4033081424/profile` |
 
 ---
 
