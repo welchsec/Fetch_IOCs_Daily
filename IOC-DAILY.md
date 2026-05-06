@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 05, 2026  
-> **Updated:** May 05, 2026 at 10:25 UTC  
+> **Date:** May 06, 2026  
+> **Updated:** May 06, 2026 at 10:52 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://debi357.github.io/Netflix-clone-website` |
-| `https://meta-business.invoice-ads-process.com/` |
-| `https://www.roblox.com.bi/games/89391218331997/I-DONT-NEED-A-SWORD-TO-SLAP?privateServerLinkCode=11605159453863706697758334864438` |
-| `http://newemessageimportantmain.wasmer.app/fansedge` |
-| `http://invest.credits-center.com/` |
-| `https://rahul010620.github.io/amazon-clone/` |
-| `http://amazon-clone-red-seven.vercel.app/` |
-| `https://closingaccountportaldata.weebly.com/` |
-| `https://shaw211.weebly.com/` |
-| `https://www.roblox.com.et/users/100521388042/profile` |
-| `https://whatsaptasohbettt.netlify.app/` |
-| `http://seahorse-app-3m7wq.ondigitalocean.app/` |
-| `http://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Iverus@91d57aff859f26569d5ce1f2fded9863ccb0.org` |
-| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ihalonpro@335cad0e27833f59bf69194495213931bd4d.com` |
-| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ibelet2@b2a93d08e61e96048c38ed9361b5a1318259.com` |
-| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ijanan@ff7c715dc127794fbce9a1aecc5b6f7088ad.com` |
-| `https://twhsl-qkns-r1he.p-5jwrf2lw.workers.dev/l/Ilanixhub@0b6ab47f17f9486d554717f950f11baada6b.com` |
-| `https://acimadasnuvens.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `http://bishesh204.github.io/netflix_clone` |
-| `https://www.roblox.et/users/4033081424/profile` |
+| `https://netflix-clone-eta-six.vercel.app/` |
+| `https://amazon-clone-ruby-eight.vercel.app/` |
+| `https://ketanchaturvedi03.github.io/Netflix-Clone/` |
+| `https://raysu929.github.io/facebook-sign-up-form/` |
+| `https://emanwebdv.github.io/EPICODE_M3-W4D4/` |
+| `https://kishanmgr2022-crypto.github.io/Netflix-and-primevideo/` |
+| `http://personal-run-388667.framer.app/` |
+| `https://rahulxsh.github.io/netflix-india/` |
+| `https://ipfs.io/ipfs/bafkreicxnopjfeag6qgjgjcpgyctpqpqr2i4uglpw2j5aiezgtqpwrtgg4` |
+| `https://kuukanlooggin.webflow.io/` |
+| `http://facebook.earnwithsocial.com/` |
+| `https://sso-auths-bitmart-sso.webflow.io/` |
+| `https://enterprise.partner-programhub.com/` |
+| `https://partner-space.partner-programhub.com/` |
+| `http://meta-setup.invoice-ads-manager.com/` |
+| `https://secure--sso-netcoins-com-cdn-auth.webflow.io/` |
+| `https://client-portal.partner-programhub.com/` |
+| `https://bafybeifx3y45tjgiyvmh2nsw2gphpsslw5to6ms3buxp4uhjniykjkqohe.ipfs.dweb.link/?naps` |
+| `https://viraj-9.github.io/netflix-india-clone/` |
+| `https://ahmistics-glitch.github.io/Netflix-Clone-Using-Bootstrap/` |
 
 ---
 
