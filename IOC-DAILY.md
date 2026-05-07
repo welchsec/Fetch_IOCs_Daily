@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 06, 2026  
-> **Updated:** May 06, 2026 at 10:52 UTC  
+> **Date:** May 07, 2026  
+> **Updated:** May 07, 2026 at 10:55 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://netflix-clone-eta-six.vercel.app/` |
-| `https://amazon-clone-ruby-eight.vercel.app/` |
-| `https://ketanchaturvedi03.github.io/Netflix-Clone/` |
-| `https://raysu929.github.io/facebook-sign-up-form/` |
-| `https://emanwebdv.github.io/EPICODE_M3-W4D4/` |
-| `https://kishanmgr2022-crypto.github.io/Netflix-and-primevideo/` |
-| `http://personal-run-388667.framer.app/` |
-| `https://rahulxsh.github.io/netflix-india/` |
-| `https://ipfs.io/ipfs/bafkreicxnopjfeag6qgjgjcpgyctpqpqr2i4uglpw2j5aiezgtqpwrtgg4` |
-| `https://kuukanlooggin.webflow.io/` |
-| `http://facebook.earnwithsocial.com/` |
-| `https://sso-auths-bitmart-sso.webflow.io/` |
-| `https://enterprise.partner-programhub.com/` |
-| `https://partner-space.partner-programhub.com/` |
-| `http://meta-setup.invoice-ads-manager.com/` |
-| `https://secure--sso-netcoins-com-cdn-auth.webflow.io/` |
-| `https://client-portal.partner-programhub.com/` |
-| `https://bafybeifx3y45tjgiyvmh2nsw2gphpsslw5to6ms3buxp4uhjniykjkqohe.ipfs.dweb.link/?naps` |
-| `https://viraj-9.github.io/netflix-india-clone/` |
-| `https://ahmistics-glitch.github.io/Netflix-Clone-Using-Bootstrap/` |
+| `http://www.watrbx.wtf/newlogin` |
+| `http://gemini.200399.xyz/` |
+| `https://txdmv.uphsx.shop/pay/a_index.html/` |
+| `https://ad-account-authentication-office.pages.dev/e-zpass-us/about-/` |
+| `https://www.whatsapp.blogspot.com/` |
+| `http://whatsapp.blogspot.com/` |
+| `https://member131.digital-agency-partners.com/` |
+| `http://member439.meta-agency-center.com/` |
+| `http://meta-authorized.invoice-ads-program.com/` |
+| `https://projeto-dio.vercel.app/pages/login.html/` |
+| `https://meta-payment.bussines-partner-agency.com/` |
+| `https://ledgerlive-nanox-customer-supportcd.vercel.app/ledger%20form/index.html/` |
+| `https://eric-87849-brown.pages.dev/help/contact/493578017371537` |
+| `http://att-agent-transformation-9899ff6587db.herokuapp.com/` |
+| `https://jcs7logistica.com.br/domainalltozz/mnmnznmzupdate.html?eta=miris1@8bda2a4ca78ceaa15060880f15a394b3a90a.com/` |
+| `https://oseusproblemascomlimitacabou.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://saldoturbinadodispinivel.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://reservademaio.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://picassolife.com/.well-known/-/KJksjsj/login.php/` |
+| `https://meta-business.bussines-partner-agency.com/` |
 
 ---
 
