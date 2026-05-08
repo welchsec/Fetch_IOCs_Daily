@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 07, 2026  
-> **Updated:** May 07, 2026 at 10:55 UTC  
+> **Date:** May 08, 2026  
+> **Updated:** May 08, 2026 at 10:12 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.watrbx.wtf/newlogin` |
-| `http://gemini.200399.xyz/` |
-| `https://txdmv.uphsx.shop/pay/a_index.html/` |
-| `https://ad-account-authentication-office.pages.dev/e-zpass-us/about-/` |
-| `https://www.whatsapp.blogspot.com/` |
-| `http://whatsapp.blogspot.com/` |
-| `https://member131.digital-agency-partners.com/` |
-| `http://member439.meta-agency-center.com/` |
-| `http://meta-authorized.invoice-ads-program.com/` |
-| `https://projeto-dio.vercel.app/pages/login.html/` |
-| `https://meta-payment.bussines-partner-agency.com/` |
-| `https://ledgerlive-nanox-customer-supportcd.vercel.app/ledger%20form/index.html/` |
-| `https://eric-87849-brown.pages.dev/help/contact/493578017371537` |
-| `http://att-agent-transformation-9899ff6587db.herokuapp.com/` |
-| `https://jcs7logistica.com.br/domainalltozz/mnmnznmzupdate.html?eta=miris1@8bda2a4ca78ceaa15060880f15a394b3a90a.com/` |
-| `https://oseusproblemascomlimitacabou.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://saldoturbinadodispinivel.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://reservademaio.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://picassolife.com/.well-known/-/KJksjsj/login.php/` |
-| `https://meta-business.bussines-partner-agency.com/` |
+| `https://www.roblox.et/users/425500866/profile` |
+| `https://ntirety.it-admincenter.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
+| `http://member437.meta-agency-center.com/` |
+| `http://mitrra-pgn-gas.lyanan-mrkt.shop/` |
+| `http://xlayaanid-paylternewz.tiaoxsid.my.id/` |
+| `https://tanish-ashu.github.io/javascript-amazon-project/amazon.html` |
+| `http://payltterdanaxids.tubersis.biz.id/` |
+| `https://aumento51.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://aumento72.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://gangotri112.github.io/netflixsite` |
+| `https://maioaceleradorinterno.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://www.robiox.com.py/users/265838454398/profile` |
+| `https://s4w.in/www-roblox-com-users-265838454398-profile` |
+| `https://jubiito1.github.io/Netflix-LandingPage-Clone--HTML-CSS-/` |
+| `https://truea1poihugyfvhbjn-b6dbf0b6g5c4atgq.z03.azurefd.net/` |
+| `http://robiox.com.ps/communities/1620674316/crazygiveaways` |
+| `http://shrmaxanmol.github.io/NetflixClone` |
+| `https://inhouseplumbingcompany-sewer.pages.dev/dp/B0CJKV1J9N?ref=MarsFS_SMP_B0CJKV1J9N` |
+| `https://mansi-html.github.io/online-store-clone/` |
+| `https://www.robiox.com.py/users/261177498576/profile` |
 
 ---
 
