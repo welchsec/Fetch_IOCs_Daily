@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 08, 2026  
-> **Updated:** May 08, 2026 at 10:12 UTC  
+> **Date:** May 09, 2026  
+> **Updated:** May 09, 2026 at 09:58 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.et/users/425500866/profile` |
-| `https://ntirety.it-admincenter.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a` |
-| `http://member437.meta-agency-center.com/` |
-| `http://mitrra-pgn-gas.lyanan-mrkt.shop/` |
-| `http://xlayaanid-paylternewz.tiaoxsid.my.id/` |
-| `https://tanish-ashu.github.io/javascript-amazon-project/amazon.html` |
-| `http://payltterdanaxids.tubersis.biz.id/` |
-| `https://aumento51.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://aumento72.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://gangotri112.github.io/netflixsite` |
-| `https://maioaceleradorinterno.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://www.robiox.com.py/users/265838454398/profile` |
-| `https://s4w.in/www-roblox-com-users-265838454398-profile` |
-| `https://jubiito1.github.io/Netflix-LandingPage-Clone--HTML-CSS-/` |
-| `https://truea1poihugyfvhbjn-b6dbf0b6g5c4atgq.z03.azurefd.net/` |
-| `http://robiox.com.ps/communities/1620674316/crazygiveaways` |
-| `http://shrmaxanmol.github.io/NetflixClone` |
-| `https://inhouseplumbingcompany-sewer.pages.dev/dp/B0CJKV1J9N?ref=MarsFS_SMP_B0CJKV1J9N` |
-| `https://mansi-html.github.io/online-store-clone/` |
-| `https://www.robiox.com.py/users/261177498576/profile` |
+| `https://sanahameed92.github.io/Airbnb-Clone-website/` |
+| `https://yashcode-04.github.io/Airbnb-using-tailwind` |
+| `http://oixjajs-c5aqdpcab4fscccp.z03.azurefd.net/` |
+| `http://widoazaew-arcna4erbzgmb2hn.z03.azurefd.net/` |
+| `http://aikjotsood-tech.github.io/us` |
+| `https://cfrnfaptmttoduy.com/EM373QQX/` |
+| `http://dpd.bqvrxkzpty.cfd/com` |
+| `http://platform-bridge-trezor.zapier.app/` |
+| `https://hughssherika896572396.pages.dev/help/contact/1861319086217/` |
+| `https://customer-sp-brantison1.pages.dev/help/contact/11218915131318` |
+| `https://guas385-houtian-vm.pages.dev/help/contact/772210826617256/` |
+| `https://customer-sp-hernandespule.pages.dev/help/contact/530496333672596/` |
+| `https://grp-atoiner-kalev.pages.dev/help/contact/106246689809207/` |
+| `https://grp-atoiner-kalev.pages.dev/help/contact/737148834616893/` |
+| `https://comtamsabichuongsiungonn.pages.dev/help/contact/8628328040643032606:4700:310c::ac42:2f0c2606:4700:310c::ac42:2f0c/` |
+| `https://hongocha-mytam-dongnhi.pages.dev/help/contact/474610082107864/` |
+| `https://hughssherika896572396.pages.dev/help/contact/5304181757019472606:4700:310c::ac42:2f19/` |
+| `https://ent-klingshirnmadeline.pages.dev/help/contact/501089161935231/` |
+| `https://hughssherika896572396.pages.dev/help/contact/198975720361175/` |
+| `https://aktifkaanpaylaterr4.gyct.my.id/` |
 
 ---
 
