@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 09, 2026  
-> **Updated:** May 09, 2026 at 09:58 UTC  
+> **Date:** May 10, 2026  
+> **Updated:** May 10, 2026 at 10:03 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://sanahameed92.github.io/Airbnb-Clone-website/` |
-| `https://yashcode-04.github.io/Airbnb-using-tailwind` |
-| `http://oixjajs-c5aqdpcab4fscccp.z03.azurefd.net/` |
-| `http://widoazaew-arcna4erbzgmb2hn.z03.azurefd.net/` |
-| `http://aikjotsood-tech.github.io/us` |
-| `https://cfrnfaptmttoduy.com/EM373QQX/` |
-| `http://dpd.bqvrxkzpty.cfd/com` |
-| `http://platform-bridge-trezor.zapier.app/` |
-| `https://hughssherika896572396.pages.dev/help/contact/1861319086217/` |
-| `https://customer-sp-brantison1.pages.dev/help/contact/11218915131318` |
-| `https://guas385-houtian-vm.pages.dev/help/contact/772210826617256/` |
-| `https://customer-sp-hernandespule.pages.dev/help/contact/530496333672596/` |
-| `https://grp-atoiner-kalev.pages.dev/help/contact/106246689809207/` |
-| `https://grp-atoiner-kalev.pages.dev/help/contact/737148834616893/` |
-| `https://comtamsabichuongsiungonn.pages.dev/help/contact/8628328040643032606:4700:310c::ac42:2f0c2606:4700:310c::ac42:2f0c/` |
-| `https://hongocha-mytam-dongnhi.pages.dev/help/contact/474610082107864/` |
-| `https://hughssherika896572396.pages.dev/help/contact/5304181757019472606:4700:310c::ac42:2f19/` |
-| `https://ent-klingshirnmadeline.pages.dev/help/contact/501089161935231/` |
-| `https://hughssherika896572396.pages.dev/help/contact/198975720361175/` |
-| `https://aktifkaanpaylaterr4.gyct.my.id/` |
+| `http://vanshjaiswal-dev.github.io/Netflix` |
+| `http://process-meta.busines-help-center.com/` |
+| `http://setting-meta.busines-help-center.com/` |
+| `http://request-meta.busines-help-center.com/` |
+| `https://www.web-git-erin-update-numericalinputs-uniswap.vercel.app/` |
+| `https://priyanshu-pandey97.github.io/Amazon-Clone/` |
+| `http://dpd.malortrix.cfd/com` |
+| `https://assistgrowth-aidpush-q2z4u6.pages.dev/business.html/` |
+| `https://pkcu.pages.dev/appeal_case_ID/` |
+| `https://rilvax-biz-kantor-1425.pages.dev/form_submit_appeal/` |
+| `http://ashton564.github.io/BT.html` |
+| `http://www.wells-fargo.cc/` |
+| `https://www.vjusqe.shop/` |
+| `https://danaa-iindonesiaa.onn.my.id/` |
+| `https://creatlnlclestl355sn.iceiy.com/?i=1` |
+| `https://s3.dualstack.us-east-1.amazonaws.com/rtsrtgfsgvhgvjhsd5211gvvxtcj.069.udjhss.jnxjnnjn/index.html` |
+| `https://s3-external-2.amazonaws.com/rtsrtgfsgvhgvjhsd5211gvvxtcj.068.udjhss.jnxjnnjn/index.html` |
+| `https://s3.dualstack.us-east-1.amazonaws.com/rtsrtgfsgvhgvjhsd5211gvvxtcj.067.udjhss.jnxjnnjn/index.html` |
+| `https://seller.jxvnxghg.cc/seller/` |
+| `https://seller.jxvnxghg.cc/` |
 
 ---
 
