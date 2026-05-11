@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 10, 2026  
-> **Updated:** May 10, 2026 at 10:03 UTC  
+> **Date:** May 11, 2026  
+> **Updated:** May 11, 2026 at 11:51 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://vanshjaiswal-dev.github.io/Netflix` |
-| `http://process-meta.busines-help-center.com/` |
-| `http://setting-meta.busines-help-center.com/` |
-| `http://request-meta.busines-help-center.com/` |
-| `https://www.web-git-erin-update-numericalinputs-uniswap.vercel.app/` |
-| `https://priyanshu-pandey97.github.io/Amazon-Clone/` |
-| `http://dpd.malortrix.cfd/com` |
-| `https://assistgrowth-aidpush-q2z4u6.pages.dev/business.html/` |
-| `https://pkcu.pages.dev/appeal_case_ID/` |
-| `https://rilvax-biz-kantor-1425.pages.dev/form_submit_appeal/` |
-| `http://ashton564.github.io/BT.html` |
-| `http://www.wells-fargo.cc/` |
-| `https://www.vjusqe.shop/` |
-| `https://danaa-iindonesiaa.onn.my.id/` |
-| `https://creatlnlclestl355sn.iceiy.com/?i=1` |
-| `https://s3.dualstack.us-east-1.amazonaws.com/rtsrtgfsgvhgvjhsd5211gvvxtcj.069.udjhss.jnxjnnjn/index.html` |
-| `https://s3-external-2.amazonaws.com/rtsrtgfsgvhgvjhsd5211gvvxtcj.068.udjhss.jnxjnnjn/index.html` |
-| `https://s3.dualstack.us-east-1.amazonaws.com/rtsrtgfsgvhgvjhsd5211gvvxtcj.067.udjhss.jnxjnnjn/index.html` |
-| `https://seller.jxvnxghg.cc/seller/` |
-| `https://seller.jxvnxghg.cc/` |
+| `https://umobu.com.br/xinfini/` |
+| `http://vfdksvkfndvkbnksfd-d8f9a7g0dzh9dads.z03.azurefd.net/` |
+| `http://www.14210.xyz/` |
+| `http://leddgger--wallet.webflow.io/` |
+| `https://u.dongbeilaobo.com/wap` |
+| `http://authstart-terezor.github.io/` |
+| `https://instalgram.vercel.app/` |
+| `http://www.instalgram.vercel.app/` |
+| `http://amazon-clone-pink-five.vercel.app/` |
+| `http://www.update-exodus-helpcentre.vercel.app/` |
+| `http://instagram-clone-java-full-stack.vercel.app/` |
+| `http://geminuslogi.godaddysites.com/` |
+| `https://derviemprendeecuador.vercel.app/` |
+| `http://www.derviemprendeecuador.vercel.app/` |
+| `https://s3.eu-west-1.amazonaws.com/files.secured.documents.blobcore.com/RFQ.html?eta=` |
+| `https://www.galaxycompliance.info/` |
+| `https://dpd.qzrvtlnkpm.cfd/com` |
+| `https://advertising-campaign-reporting-hub.pages.dev/welcome_to_meta_for_business/*/` |
+| `https://loenwe-hopeagia-noprobs.pages.dev/help/contact/546607415511507` |
+| `https://ke-mehserle-eider.pages.dev/help/contact/553751548154494` |
 
 ---
 
