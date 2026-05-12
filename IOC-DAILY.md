@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 11, 2026  
-> **Updated:** May 11, 2026 at 11:51 UTC  
+> **Date:** May 12, 2026  
+> **Updated:** May 12, 2026 at 11:07 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://umobu.com.br/xinfini/` |
-| `http://vfdksvkfndvkbnksfd-d8f9a7g0dzh9dads.z03.azurefd.net/` |
-| `http://www.14210.xyz/` |
-| `http://leddgger--wallet.webflow.io/` |
-| `https://u.dongbeilaobo.com/wap` |
-| `http://authstart-terezor.github.io/` |
-| `https://instalgram.vercel.app/` |
-| `http://www.instalgram.vercel.app/` |
-| `http://amazon-clone-pink-five.vercel.app/` |
-| `http://www.update-exodus-helpcentre.vercel.app/` |
-| `http://instagram-clone-java-full-stack.vercel.app/` |
-| `http://geminuslogi.godaddysites.com/` |
-| `https://derviemprendeecuador.vercel.app/` |
-| `http://www.derviemprendeecuador.vercel.app/` |
-| `https://s3.eu-west-1.amazonaws.com/files.secured.documents.blobcore.com/RFQ.html?eta=` |
-| `https://www.galaxycompliance.info/` |
-| `https://dpd.qzrvtlnkpm.cfd/com` |
-| `https://advertising-campaign-reporting-hub.pages.dev/welcome_to_meta_for_business/*/` |
-| `https://loenwe-hopeagia-noprobs.pages.dev/help/contact/546607415511507` |
-| `https://ke-mehserle-eider.pages.dev/help/contact/553751548154494` |
+| `https://member17.agency-connect-profile.com/` |
+| `https://ynabioueconus-meriescs-experinces-t.vercel.app/` |
+| `https://www.ynabioueconus-meriescs-experinces-t.vercel.app/` |
+| `https://member427.partner-business-hub.com/` |
+| `https://ftx.claims-notification.com/portal-claims/?id=Y2FsY3VsYXRvYXJlcGl0ZXN0aS5jb20` |
+| `https://desenrolabrasil2026.site/` |
+| `https://www.app86365.cc/` |
+| `https://survey.refassured.com/mbMDN5NK` |
+| `http://survey.refassured.co/mbMDN5NK` |
+| `https://id-meta.busines-help-center.com/` |
+| `http://diogohenriquedotpy.github.io/meus-sites-favoritos` |
+| `http://finnest.ink/yago/index.html` |
+| `https://usa_bluckfilouin.godaddysites.com/` |
+| `https://hughssherika896572396.pages.dev/help/contact/521544119187011/` |
+| `https://loenwe-hopeagia-noprobs.pages.dev/help/contact/289022682371252` |
+| `http://studyioiyy.b-cdn.net/all1.html?eta=mirus2@f0fca16225d1fa713bfefd56bbd8674cead3.org` |
+| `https://novolimitepratodos.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://www.amazon-clone-gray-psi.vercel.app/` |
+| `http://ipfs.io/ipfs/bafybeid77ah547l36ef5c5m7o24ooophtfyhddpm64ku5ubxi6wvdsh3oy` |
+| `https://sites.google.com/view/wetrsfer/accueil/` |
 
 ---
 
