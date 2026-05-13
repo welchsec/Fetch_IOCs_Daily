@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 12, 2026  
-> **Updated:** May 12, 2026 at 11:07 UTC  
+> **Date:** May 13, 2026  
+> **Updated:** May 13, 2026 at 11:19 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://member17.agency-connect-profile.com/` |
-| `https://ynabioueconus-meriescs-experinces-t.vercel.app/` |
-| `https://www.ynabioueconus-meriescs-experinces-t.vercel.app/` |
-| `https://member427.partner-business-hub.com/` |
-| `https://ftx.claims-notification.com/portal-claims/?id=Y2FsY3VsYXRvYXJlcGl0ZXN0aS5jb20` |
-| `https://desenrolabrasil2026.site/` |
-| `https://www.app86365.cc/` |
-| `https://survey.refassured.com/mbMDN5NK` |
-| `http://survey.refassured.co/mbMDN5NK` |
-| `https://id-meta.busines-help-center.com/` |
-| `http://diogohenriquedotpy.github.io/meus-sites-favoritos` |
-| `http://finnest.ink/yago/index.html` |
-| `https://usa_bluckfilouin.godaddysites.com/` |
-| `https://hughssherika896572396.pages.dev/help/contact/521544119187011/` |
-| `https://loenwe-hopeagia-noprobs.pages.dev/help/contact/289022682371252` |
-| `http://studyioiyy.b-cdn.net/all1.html?eta=mirus2@f0fca16225d1fa713bfefd56bbd8674cead3.org` |
-| `https://novolimitepratodos.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://www.amazon-clone-gray-psi.vercel.app/` |
-| `http://ipfs.io/ipfs/bafybeid77ah547l36ef5c5m7o24ooophtfyhddpm64ku5ubxi6wvdsh3oy` |
-| `https://sites.google.com/view/wetrsfer/accueil/` |
+| `https://yeefish0.github.io/steam_login_auth` |
+| `https://www.roblox.et/users/3259117090/profile` |
+| `https://dharmateja887.github.io/Netflix_Clone/` |
+| `http://meta-id19239273.invoice-ads-program.com/` |
+| `https://dpuqq-anbp-t8kh.c-1o2k0n4w.workers.dev/lp/36gE3Qf8hqs/` |
+| `https://novotempoparanovachances.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://embuscadofinanceiromelhor.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `http://robiox.com.ps/communities/9315452333/Lilboiaustin` |
+| `https://hotel-stay83109.com/R73SNHYG` |
+| `http://aicc108-demo.pages.dev/title/81444051.html` |
+| `http://aicc108-demo.pages.dev/title/70177057.html` |
+| `http://aicc108-demo.pages.dev/title/80216376.html` |
+| `http://aicc108-demo.pages.dev/title/81324724.html` |
+| `http://httpss-www-roblox.co/users/67224868/profile` |
+| `http://dpuqq-anbp-t8kh.c-1o2k0n4w.workers.dev/lp/KNqpdhpP-OY` |
+| `https://www.cograsova.net/contacto/` |
+| `https://www.roblox.et/users/7022582195/profile1/profile` |
+| `http://helper01.marketing-agency-partners.com/` |
+| `https://hotel-stay553109.com/ZSX53YDW` |
+| `https://dpd.yhnujm-ie.link/track/` |
 
 ---
 
