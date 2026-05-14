@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 13, 2026  
-> **Updated:** May 13, 2026 at 11:19 UTC  
+> **Date:** May 14, 2026  
+> **Updated:** May 14, 2026 at 11:04 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://yeefish0.github.io/steam_login_auth` |
-| `https://www.roblox.et/users/3259117090/profile` |
-| `https://dharmateja887.github.io/Netflix_Clone/` |
-| `http://meta-id19239273.invoice-ads-program.com/` |
-| `https://dpuqq-anbp-t8kh.c-1o2k0n4w.workers.dev/lp/36gE3Qf8hqs/` |
-| `https://novotempoparanovachances.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://embuscadofinanceiromelhor.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `http://robiox.com.ps/communities/9315452333/Lilboiaustin` |
-| `https://hotel-stay83109.com/R73SNHYG` |
-| `http://aicc108-demo.pages.dev/title/81444051.html` |
-| `http://aicc108-demo.pages.dev/title/70177057.html` |
-| `http://aicc108-demo.pages.dev/title/80216376.html` |
-| `http://aicc108-demo.pages.dev/title/81324724.html` |
-| `http://httpss-www-roblox.co/users/67224868/profile` |
-| `http://dpuqq-anbp-t8kh.c-1o2k0n4w.workers.dev/lp/KNqpdhpP-OY` |
-| `https://www.cograsova.net/contacto/` |
-| `https://www.roblox.et/users/7022582195/profile1/profile` |
-| `http://helper01.marketing-agency-partners.com/` |
-| `https://hotel-stay553109.com/ZSX53YDW` |
-| `https://dpd.yhnujm-ie.link/track/` |
+| `https://instagram.wtcx.lol/VMdfpJbTim` |
+| `https://www.roblox.et/games/9362760174/?privateServerLinkCode=02350367938254599156112010773069` |
+| `https://registra-2026-credi-demon.vercel.app/` |
+| `https://blockbook-tls-1.nodes.zelcore.io/` |
+| `http://lelittoral.spahotel.guru/` |
+| `http://textilia-eg.com/soport/` |
+| `http://member95.business-ad-agency.com/` |
+| `http://m.3011662.com/` |
+| `https://accessboard.co.uk/cpanel/mail/reset/` |
+| `https://nirdex-salvin-biz-vartor-lonvik-sp7ct12.pages.dev/heartily_welcome?id=1654097354899246&page_name=In%C3%A9dito:%20coreograf%C3%ADa%20nueva` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/931285?type=movie` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/1171145?type=movie` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/389?type=movie` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/65494?type=tv` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/1104040?type=movie` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/278?type=movie` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/209401?type=movie` |
+| `https://next-netflix-23rd-kappa.vercel.app/detail/1226863?type=movie` |
+| `http://www.seguritybandemo.vercel.app/` |
+| `http://www.netflix-clone-lyart-zeta-83.vercel.app/` |
 
 ---
 
