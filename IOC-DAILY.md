@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 14, 2026  
-> **Updated:** May 14, 2026 at 11:04 UTC  
+> **Date:** May 15, 2026  
+> **Updated:** May 15, 2026 at 11:08 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://instagram.wtcx.lol/VMdfpJbTim` |
-| `https://www.roblox.et/games/9362760174/?privateServerLinkCode=02350367938254599156112010773069` |
-| `https://registra-2026-credi-demon.vercel.app/` |
-| `https://blockbook-tls-1.nodes.zelcore.io/` |
-| `http://lelittoral.spahotel.guru/` |
-| `http://textilia-eg.com/soport/` |
-| `http://member95.business-ad-agency.com/` |
-| `http://m.3011662.com/` |
-| `https://accessboard.co.uk/cpanel/mail/reset/` |
-| `https://nirdex-salvin-biz-vartor-lonvik-sp7ct12.pages.dev/heartily_welcome?id=1654097354899246&page_name=In%C3%A9dito:%20coreograf%C3%ADa%20nueva` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/931285?type=movie` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/1171145?type=movie` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/389?type=movie` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/65494?type=tv` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/1104040?type=movie` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/278?type=movie` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/209401?type=movie` |
-| `https://next-netflix-23rd-kappa.vercel.app/detail/1226863?type=movie` |
-| `http://www.seguritybandemo.vercel.app/` |
-| `http://www.netflix-clone-lyart-zeta-83.vercel.app/` |
+| `http://t-mobile.mzdglw.top/pay/` |
+| `http://uphold-up.square.site/` |
+| `https://www.roblox.et/users/9801375595/profile` |
+| `http://aicc108-demo.pages.dev/title/80025923.html` |
+| `http://aicc108-demo.pages.dev/title/70195800.html` |
+| `https://tkshopssvip.com/h5/` |
+| `http://tkshopssvip.com/` |
+| `https://customer-sp-alexk.pages.dev/help/contact/137049864733960` |
+| `http://www.partnercenter-dataprocessinghub.me/public/index?ref=business-support-center-DASDFDSYUYEE43FJDSHFSDFsetting%25popup%3fclient_id=889943718806-ual26tplnot2ea8b7n5t4p77keo8eb` |
+| `http://www.partnercenter-dataprocessinghub.me/` |
+| `http://coorporationmail20226.iceiy.com/` |
+| `http://www.service-blueticks-fb-479843.vercel.app/` |
+| `https://nazuk-kabra1111.github.io/amazon-clone/` |
+| `https://www.robiox.com.ps/users/4233503025/profile` |
+| `https://t-mobile.dfezuc.top/pay/` |
+| `https://t-mobile.dmhcua.top/pay/` |
+| `https://t-mobile.gilqud.top/pay?oSs=1A4SS?WFF=rS01Q` |
+| `https://t-mobile.iqfclm.top/pay/` |
+| `https://t-mobile.dfilnx.top/pay?SHU=6TOCX?rTi=QwwT7` |
+| `https://t-mobile.mvulse.top/pay/` |
 
 ---
 
