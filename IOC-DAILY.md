@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 15, 2026  
-> **Updated:** May 15, 2026 at 11:08 UTC  
+> **Date:** May 16, 2026  
+> **Updated:** May 16, 2026 at 10:05 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://t-mobile.mzdglw.top/pay/` |
-| `http://uphold-up.square.site/` |
-| `https://www.roblox.et/users/9801375595/profile` |
-| `http://aicc108-demo.pages.dev/title/80025923.html` |
-| `http://aicc108-demo.pages.dev/title/70195800.html` |
-| `https://tkshopssvip.com/h5/` |
-| `http://tkshopssvip.com/` |
-| `https://customer-sp-alexk.pages.dev/help/contact/137049864733960` |
-| `http://www.partnercenter-dataprocessinghub.me/public/index?ref=business-support-center-DASDFDSYUYEE43FJDSHFSDFsetting%25popup%3fclient_id=889943718806-ual26tplnot2ea8b7n5t4p77keo8eb` |
-| `http://www.partnercenter-dataprocessinghub.me/` |
-| `http://coorporationmail20226.iceiy.com/` |
-| `http://www.service-blueticks-fb-479843.vercel.app/` |
-| `https://nazuk-kabra1111.github.io/amazon-clone/` |
-| `https://www.robiox.com.ps/users/4233503025/profile` |
-| `https://t-mobile.dfezuc.top/pay/` |
-| `https://t-mobile.dmhcua.top/pay/` |
-| `https://t-mobile.gilqud.top/pay?oSs=1A4SS?WFF=rS01Q` |
-| `https://t-mobile.iqfclm.top/pay/` |
-| `https://t-mobile.dfilnx.top/pay?SHU=6TOCX?rTi=QwwT7` |
-| `https://t-mobile.mvulse.top/pay/` |
+| `https://wavellen.github.io/Microsoft-Clone-Home-Page` |
+| `https://restoremycreditreport.com/bniyycir/dfsj` |
+| `https://nycgyroking.com/` |
+| `https://scotiaonlinebank.vercel.app/signinfolder/login.html` |
+| `https://osmconsultancy.com/sd/er/fe/fsa/sdf/179/` |
+| `https://pay-cashapp.com/` |
+| `https://qrco.de/bgmQxO` |
+| `http://xformnewzdnalyan.highway.biz.id/` |
+| `http://xnindodlyandanaa.safaather.biz.id/` |
+| `https://perfects10drywall.com/` |
+| `https://pessoleldept.com/?r=edbd98b8-9ecd-450f-9654-12c624da270c&rg=eu` |
+| `https://survey.refassured.com/mEkpOLRB` |
+| `https://xyfvvfyy.elementor.cloud/AA/A/AR/ES/argentina/ar/ES9D303ESS/ESS4Z3499SES/82CFGU2554/index.html` |
+| `http://pnelcds.ezzzybos.us/` |
+| `https://verifyportal-edocavailableo1e2c2b4.buddyl.workers.dev/` |
+| `http://bafkreigdm2txbgx2janmzdmdnezvdfa7i5kiajzltxpx7tj5nvjxikqvhq.ipfs.dweb.link/` |
+| `http://bafkreigshati7dqqrv7pcc2i3a57areswxppbtjq5c4df3527scof46bhy.ipfs.dweb.link/` |
+| `http://bafkreiekxbe276h45arvmn4phimwdoqhmapypu56rkjcbhibrwfmhm3lxe.ipfs.dweb.link/` |
+| `http://bafkreifjwfze2ce74zbj6xilrzf3wixlub5w7ixt2iofzkd72vtndj7c2a.ipfs.dweb.link/` |
+| `https://tagssemparar.com/` |
 
 ---
 
