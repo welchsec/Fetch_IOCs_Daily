@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 17, 2026  
-> **Updated:** May 17, 2026 at 10:14 UTC  
+> **Date:** May 18, 2026  
+> **Updated:** May 18, 2026 at 12:17 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.dpdlocoqu.cyou/com` |
-| `http://www.dpdlocorz.shop/com` |
-| `http://conexaosegura.pt/` |
-| `https://instagram.com.universal-api.org/` |
-| `http://www.songshuym.com/` |
-| `http://b35aaa.com/poker/109` |
-| `http://microsoft365xx1.iceiy.com/` |
-| `http://ws0utlouk365servic.iceiy.com/` |
-| `https://www.robiox.com.py/games/74978179313503/plz-robux?privateServerLinkCode=751336237830697871524425188575` |
-| `http://www.bet365vip9.net/` |
-| `https://www.286cai.com/` |
-| `https://ec2-13-216-97-34.compute-1.amazonaws.com/` |
-| `https://considerate-kiwi-419137.framer.app/` |
-| `https://accountterminationnoitce.weebly.com/` |
-| `https://automaticresultnotice.weebly.com/` |
-| `https://bgta-p7k2k.sevalla.page/bancolombia` |
-| `https://khaki-shares-665070.framer.app/` |
-| `https://chasemynamdjvndbdeje.weebly.com/` |
-| `https://att-104408.weeblysite.com/` |
-| `https://daring-checkout-920581.framer.app/` |
+| `https://pedagiodigital-flow.com/vias/home.php` |
+| `https://meta-id90013.agency-manager-support.com/` |
+| `http://www.pcn-noticea.top/com/` |
+| `http://www.pcn-noticra.top/com/` |
+| `https://tiktokvc-1330623827.pichk.myqcloud.com/index.html` |
+| `https://40000ylg.com/` |
+| `https://avanteshipping.com/-/easybk-de/` |
+| `https://1289js.com/` |
+| `http://materillos57200.vercel.app/` |
+| `https://isokonsulterna.se/loks/public_html/php/` |
+| `https://wfomega.com/sond/modr1/konda1.html` |
+| `https://www.roblox.com.bn/games/127751800473209/Obby-Vibe-Zone-POSES?privateServerLinkCode=65924314243259842165815914766551` |
+| `https://www.roblox.et/users/2737556637/profile` |
+| `http://materillos720404.vercel.app/` |
+| `http://materillos02245.vercel.app/` |
+| `http://materillos045254.vercel.app/` |
+| `http://materillos052.vercel.app/` |
+| `http://materillos142542.vercel.app/` |
+| `https://www.robiox.com.gr/users/5234691553/profile` |
+| `https://instagram-ftfn88kgl-sebin-leeee.vercel.app/` |
 
 ---
 
