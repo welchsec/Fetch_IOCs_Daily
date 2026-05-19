@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 18, 2026  
-> **Updated:** May 18, 2026 at 12:17 UTC  
+> **Date:** May 19, 2026  
+> **Updated:** May 19, 2026 at 11:50 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://pedagiodigital-flow.com/vias/home.php` |
-| `https://meta-id90013.agency-manager-support.com/` |
-| `http://www.pcn-noticea.top/com/` |
-| `http://www.pcn-noticra.top/com/` |
-| `https://tiktokvc-1330623827.pichk.myqcloud.com/index.html` |
-| `https://40000ylg.com/` |
-| `https://avanteshipping.com/-/easybk-de/` |
-| `https://1289js.com/` |
-| `http://materillos57200.vercel.app/` |
-| `https://isokonsulterna.se/loks/public_html/php/` |
-| `https://wfomega.com/sond/modr1/konda1.html` |
-| `https://www.roblox.com.bn/games/127751800473209/Obby-Vibe-Zone-POSES?privateServerLinkCode=65924314243259842165815914766551` |
-| `https://www.roblox.et/users/2737556637/profile` |
-| `http://materillos720404.vercel.app/` |
-| `http://materillos02245.vercel.app/` |
-| `http://materillos045254.vercel.app/` |
-| `http://materillos052.vercel.app/` |
-| `http://materillos142542.vercel.app/` |
-| `https://www.robiox.com.gr/users/5234691553/profile` |
-| `https://instagram-ftfn88kgl-sebin-leeee.vercel.app/` |
+| `https://insta-clone-application.vercel.app/auth/` |
+| `https://www.insta-clone-application.vercel.app/auth/` |
+| `https://survey.refassured.com/BZXOR4xm` |
+| `http://ning1-ddere5bmduh3h7gd.z03.azurefd.net/` |
+| `http://meta-id17641.program-ads-agency.com/` |
+| `http://meta-id17640.program-ads-agency.com/` |
+| `https://facebook-similer.vercel.app/` |
+| `https://s4w.in/www-roblox-com-users-61778168126-profile` |
+| `https://www.roblox.et/users/6177816816/profile` |
+| `https://thewabisabinook.com/wp-content/nf74nd/china/?email=orix7@07728160d9f0df1aceb2c92383c4262e18c0.org` |
+| `https://sonhaberleri255.shop/auth` |
+| `https://talentsync.co.uk/id.handel.mobile.de/login` |
+| `https://sahityasarokar.com/wp-noon/pages/login.php` |
+| `https://siginjai99.com/bank0famericasecuritymail/?amrldmluzubwywxtywlyzwdvbgyuy29t=` |
+| `http://b35n.com/poker/109` |
+| `https://trackmypackges-ups.fwe.pfz.mybluehost.me/us/en/homepage` |
+| `http://hausmeister38.de/edwardhopwooddmd` |
+| `https://r.roblotx.co/users/14085142931/profile` |
+| `https://www.roblox.com.ml/games/74665200965542/Travel-To-Meet-Neko?privateServerLinkCode=034074815360930863747828703952` |
+| `https://www.roblox.com.ml/games/134694592211993/meet-to-neko?privateServerLinkCode=034074815360930863747828703952` |
 
 ---
 
