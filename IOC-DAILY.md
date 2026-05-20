@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 19, 2026  
-> **Updated:** May 19, 2026 at 11:50 UTC  
+> **Date:** May 20, 2026  
+> **Updated:** May 20, 2026 at 11:38 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://insta-clone-application.vercel.app/auth/` |
-| `https://www.insta-clone-application.vercel.app/auth/` |
-| `https://survey.refassured.com/BZXOR4xm` |
-| `http://ning1-ddere5bmduh3h7gd.z03.azurefd.net/` |
-| `http://meta-id17641.program-ads-agency.com/` |
-| `http://meta-id17640.program-ads-agency.com/` |
-| `https://facebook-similer.vercel.app/` |
-| `https://s4w.in/www-roblox-com-users-61778168126-profile` |
-| `https://www.roblox.et/users/6177816816/profile` |
-| `https://thewabisabinook.com/wp-content/nf74nd/china/?email=orix7@07728160d9f0df1aceb2c92383c4262e18c0.org` |
-| `https://sonhaberleri255.shop/auth` |
-| `https://talentsync.co.uk/id.handel.mobile.de/login` |
-| `https://sahityasarokar.com/wp-noon/pages/login.php` |
-| `https://siginjai99.com/bank0famericasecuritymail/?amrldmluzubwywxtywlyzwdvbgyuy29t=` |
-| `http://b35n.com/poker/109` |
-| `https://trackmypackges-ups.fwe.pfz.mybluehost.me/us/en/homepage` |
-| `http://hausmeister38.de/edwardhopwooddmd` |
-| `https://r.roblotx.co/users/14085142931/profile` |
-| `https://www.roblox.com.ml/games/74665200965542/Travel-To-Meet-Neko?privateServerLinkCode=034074815360930863747828703952` |
-| `https://www.roblox.com.ml/games/134694592211993/meet-to-neko?privateServerLinkCode=034074815360930863747828703952` |
+| `https://s4w.in/roblox-com-users-9696597261-profile` |
+| `https://www.roblox.et/users/1336597261/profile` |
+| `http://www.apex-bet365.com/` |
+| `https://lnk.ink/www.robIox.com.users-8137420814-profile` |
+| `https://robloxc.com.es/users/570224686/profile` |
+| `https://www.meek-bet365.com.cn/` |
+| `https://tiktokshopsell.com/` |
+| `https://ykone-tiktok.shop/login?next=%2F` |
+| `https://www.ykone-tiktok.shop/` |
+| `https://www.fancy-bet365.com.cn/` |
+| `https://ready-bet365.com.cn/` |
+| `http://crest-bet365.com/` |
+| `https://plane-bet365.com.cn/` |
+| `https://yummy-bet365.com.cn/` |
+| `https://frank-bet365.com.cn/` |
+| `https://coastal-bet365.com.cn/` |
+| `https://www.sunny-bet365.com.cn/` |
+| `https://www.paris-bet365.com.cn/` |
+| `https://www.basic-bet365.com.cn/` |
+| `https://www.search-bet365.com.cn/` |
 
 ---
 
