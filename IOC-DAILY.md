@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 20, 2026  
-> **Updated:** May 20, 2026 at 11:38 UTC  
+> **Date:** May 21, 2026  
+> **Updated:** May 21, 2026 at 11:57 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://s4w.in/roblox-com-users-9696597261-profile` |
-| `https://www.roblox.et/users/1336597261/profile` |
-| `http://www.apex-bet365.com/` |
-| `https://lnk.ink/www.robIox.com.users-8137420814-profile` |
-| `https://robloxc.com.es/users/570224686/profile` |
-| `https://www.meek-bet365.com.cn/` |
-| `https://tiktokshopsell.com/` |
-| `https://ykone-tiktok.shop/login?next=%2F` |
-| `https://www.ykone-tiktok.shop/` |
-| `https://www.fancy-bet365.com.cn/` |
-| `https://ready-bet365.com.cn/` |
-| `http://crest-bet365.com/` |
-| `https://plane-bet365.com.cn/` |
-| `https://yummy-bet365.com.cn/` |
-| `https://frank-bet365.com.cn/` |
-| `https://coastal-bet365.com.cn/` |
-| `https://www.sunny-bet365.com.cn/` |
-| `https://www.paris-bet365.com.cn/` |
-| `https://www.basic-bet365.com.cn/` |
-| `https://www.search-bet365.com.cn/` |
+| `http://live-join-gooqle-meet.4-c4.com/` |
+| `http://ecortbabylon.site/gmail/asdasd` |
+| `http://livemeetcall.xyz/` |
+| `http://ecortbabylon.site/login/test` |
+| `http://ecortbabylon.site/duo/test` |
+| `http://ecortbabylon.site/meet/asda` |
+| `http://ecortbabylon.site/review/test` |
+| `http://ecortbabylon.site/cashpin` |
+| `http://ecortbabylon.site/` |
+| `http://ecortbabylon.site/location/test` |
+| `http://ecortbabylon.site/google-meet/test` |
+| `http://ecortbabylon.site/location-live/test` |
+| `http://ecortbabylon.site/live/test` |
+| `http://app-pancakeswap.to/` |
+| `http://metamaskwallet.to/` |
+| `https://mirandaromario09.github.io/estudo-html-div-span/` |
+| `http://mahmoudallammahmoud088-cell.github.io/faceName` |
+| `https://picture-ads-202665.pages.dev/facebook.com-id-00463710.html` |
+| `https://picture-ads-202665.pages.dev/facebook.com-id-00463710` |
+| `https://iglarchiv.de/kolkmanncourtbuilder` |
 
 ---
 
