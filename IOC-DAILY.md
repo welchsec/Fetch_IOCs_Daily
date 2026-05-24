@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 23, 2026  
-> **Updated:** May 23, 2026 at 10:17 UTC  
+> **Date:** May 24, 2026  
+> **Updated:** May 24, 2026 at 10:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://sfke-cahmcjf3b4fagvat.z03.azurefd.net/` |
-| `http://wvwlistgtsfrsdrtosthts.fwh.is/` |
-| `http://kakefot735bezill.crabdance.com/NBJGUHY-SBDGFCVDF/LHKJOUI-CQDSEZXA/VFGTHY-PMOLKJU/` |
-| `https://saldonuturbinado.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://www.9268365.com/` |
-| `https://789789365.com/` |
-| `https://www.9238365.com/` |
-| `http://soporcoabepmx-01--sopoortcobaepmx.replit.app/` |
-| `https://2111365.com/` |
-| `https://www.9555365.com/` |
-| `https://5513333.com/` |
-| `https://www.2345665432.vercel.app/` |
-| `https://bet3658888.com/` |
-| `http://instagram-reels-fofocajds-id72h.github.io/L` |
-| `https://66365365.com/` |
-| `https://t-mobile.hkmxwc.top/pay/` |
-| `https://t-mobile.exajpc.top/pay/` |
-| `https://t-mobile.hrtasn.top/pay/` |
-| `https://t-mobile.htufgk.top/pay/` |
-| `https://t-mobile.iovncq.top/pay/` |
+| `https://appleservice.sviluppo.host/Login/510515CEERT0I12UO12QSDR000008U41SDC0SDVDF0BF005TYYJ1510D5FV1ZE51F04/` |
+| `https://appleservice.sviluppo.host/Login/510515CEERT0I12UO12QSDR000008U41SDC0SDVDF0BF005TYYJ1510D5FV1ZE51F04/3` |
+| `https://acc.partner-credit-submission.com/__;!!Bt8R...` |
+| `https://www-robloxk.com/login?returlUrl=559211103` |
+| `https://business-secure-login.vercel.app/olb/app/logon-web` |
+| `https://estudiocils.com.ar/198198/redirect` |
+| `https://portallogin-pchincha.zya.me/` |
+| `https://mipchincha-2026.zya.me/` |
+| `https://nuevacarteradeclientes--manita121.replit.app/` |
+| `https://on3.305.myftpupload.com/cor/correos-2025-normal/correos-2025-normal/pages/alert.php` |
+| `https://lnk.ink/6gEcq` |
+| `http://gamefrenzy180.info/` |
+| `http://eqe-qhx-biz-rkp-vtn-sp3ct1.pages.dev/form_submit_appeal/` |
+| `http://www.27842636365.com/` |
+| `http://cn-hht-web-whatsapp.com.cn/shop/configs/index.php` |
+| `https://support-uphold-cdn-auth.weebly.com/` |
+| `https://web.cccoinbase.com/` |
+| `https://dpd.tqzvrpn.cfd/com/` |
+| `https://dpd.tonvexar.cfd/com/` |
+| `https://dpd.tqplvxn.cfd/com/` |
 
 ---
 
