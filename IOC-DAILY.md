@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 24, 2026  
-> **Updated:** May 24, 2026 at 10:23 UTC  
+> **Date:** May 25, 2026  
+> **Updated:** May 25, 2026 at 12:15 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://appleservice.sviluppo.host/Login/510515CEERT0I12UO12QSDR000008U41SDC0SDVDF0BF005TYYJ1510D5FV1ZE51F04/` |
-| `https://appleservice.sviluppo.host/Login/510515CEERT0I12UO12QSDR000008U41SDC0SDVDF0BF005TYYJ1510D5FV1ZE51F04/3` |
-| `https://acc.partner-credit-submission.com/__;!!Bt8R...` |
-| `https://www-robloxk.com/login?returlUrl=559211103` |
-| `https://business-secure-login.vercel.app/olb/app/logon-web` |
-| `https://estudiocils.com.ar/198198/redirect` |
-| `https://portallogin-pchincha.zya.me/` |
-| `https://mipchincha-2026.zya.me/` |
-| `https://nuevacarteradeclientes--manita121.replit.app/` |
-| `https://on3.305.myftpupload.com/cor/correos-2025-normal/correos-2025-normal/pages/alert.php` |
-| `https://lnk.ink/6gEcq` |
-| `http://gamefrenzy180.info/` |
-| `http://eqe-qhx-biz-rkp-vtn-sp3ct1.pages.dev/form_submit_appeal/` |
-| `http://www.27842636365.com/` |
-| `http://cn-hht-web-whatsapp.com.cn/shop/configs/index.php` |
-| `https://support-uphold-cdn-auth.weebly.com/` |
-| `https://web.cccoinbase.com/` |
-| `https://dpd.tqzvrpn.cfd/com/` |
-| `https://dpd.tonvexar.cfd/com/` |
-| `https://dpd.tqplvxn.cfd/com/` |
+| `https://acc.partner-credit-submission.com/__;!!bt8rzum9aw...` |
+| `http://p25x.top/` |
+| `http://www.h19x.top/` |
+| `https://meditationsmoebel.info/PL-1466-160526/?u=14C1466&e=bogdan_wym%` |
+| `http://www.83094.xyz/` |
+| `http://roblox.com.et/communities/811227185660/OnlyTheFamily` |
+| `http://www.16096.xyz/` |
+| `https://icloud.you/joshy911` |
+| `http://helpdeskk.sviluppo.host/fil/` |
+| `https://alert-esl.cfd/` |
+| `https://esl-claims.lat/` |
+| `http://www.messenger-clone-delta-two.vercel.app/` |
+| `http://www.messenger-clone-gamma-two.vercel.app/` |
+| `https://www.messenger-one-eta.vercel.app/` |
+| `https://www.messenger-clone-delta-eight.vercel.app/` |
+| `http://davqorim-biz-zarkequla-21t6n26tz.netlify.app/` |
+| `http://s75u-zdsqx-zyof3f-rf4b0m.netlify.app/` |
+| `http://www.portal-uphold-cdn-com.weebly.com/` |
+| `http://eldurmienteelquino.cl/wp-includes/zzz/` |
+| `https://ziply.pk/TDECkw` |
 
 ---
 
