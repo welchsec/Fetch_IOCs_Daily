@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 25, 2026  
-> **Updated:** May 25, 2026 at 12:15 UTC  
+> **Date:** May 28, 2026  
+> **Updated:** May 28, 2026 at 12:16 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://acc.partner-credit-submission.com/__;!!bt8rzum9aw...` |
-| `http://p25x.top/` |
-| `http://www.h19x.top/` |
-| `https://meditationsmoebel.info/PL-1466-160526/?u=14C1466&e=bogdan_wym%` |
-| `http://www.83094.xyz/` |
-| `http://roblox.com.et/communities/811227185660/OnlyTheFamily` |
-| `http://www.16096.xyz/` |
-| `https://icloud.you/joshy911` |
-| `http://helpdeskk.sviluppo.host/fil/` |
-| `https://alert-esl.cfd/` |
-| `https://esl-claims.lat/` |
-| `http://www.messenger-clone-delta-two.vercel.app/` |
-| `http://www.messenger-clone-gamma-two.vercel.app/` |
-| `https://www.messenger-one-eta.vercel.app/` |
-| `https://www.messenger-clone-delta-eight.vercel.app/` |
-| `http://davqorim-biz-zarkequla-21t6n26tz.netlify.app/` |
-| `http://s75u-zdsqx-zyof3f-rf4b0m.netlify.app/` |
-| `http://www.portal-uphold-cdn-com.weebly.com/` |
-| `http://eldurmienteelquino.cl/wp-includes/zzz/` |
-| `https://ziply.pk/TDECkw` |
+| `https://siqmnslxng.github.io/quickpalverify` |
+| `https://matesanto.com/choiceandcontrol/choiceandcontrol.htm` |
+| `http://www.gov-parkingqt.cyou/com/` |
+| `https://bellverify-0d5803.webflow.io/` |
+| `https://acn-awards.com/01KSK8ZWGJF0VDAGB43YXQ9SDE` |
+| `http://info-resmi365.blogspot.com/?m=1` |
+| `http://www.gov-parkingqq.top/com/` |
+| `http://www.gov-parkingqw.top/com/` |
+| `http://zum.csam.in/page/Garenaffteam/x-3page/` |
+| `https://info-resmi754.blogspot.com/?m=1` |
+| `http://info-resmi471.blogspot.com/?m=1` |
+| `https://www.roblox.com.bn/users/106068315423/profile` |
+| `https://servi.rodiviasdigital.com/` |
+| `https://day.nowiggins.info/?app_vl=ZYFwlHFpbWKEmLqxy5qmnnx0YsC2wa-TpaiVYsBxj2phmqOgnLFwrYw&e=jalves%40desilvagates.com&sui=%7Bsui%7D&fn=&ln=&p=&z=PLNONARAW-2805-VULTUR10` |
+| `https://saraghrar.scholarlumni.info/ga/click/2-6817817-9-8777-17152-9409-87490df288-70783ab8a9` |
+| `http://www.mitamassk-looggin.godaddysites.com/` |
+| `http://security.live.com.office.u24o365.mcafee.devshn.net/` |
+| `https://chongtar.ekklesiadallas.info/ga/click/2-11304507-10-8679-16967-9302-da7ffce0ac-0f5aa4aa87` |
+| `https://fbcloned.vercel.app/` |
+| `http://netflixpage.webflow.io/` |
 
 ---
 
