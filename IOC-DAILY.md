@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 28, 2026  
-> **Updated:** May 28, 2026 at 12:16 UTC  
+> **Date:** May 29, 2026  
+> **Updated:** May 29, 2026 at 11:58 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://siqmnslxng.github.io/quickpalverify` |
-| `https://matesanto.com/choiceandcontrol/choiceandcontrol.htm` |
-| `http://www.gov-parkingqt.cyou/com/` |
-| `https://bellverify-0d5803.webflow.io/` |
-| `https://acn-awards.com/01KSK8ZWGJF0VDAGB43YXQ9SDE` |
-| `http://info-resmi365.blogspot.com/?m=1` |
-| `http://www.gov-parkingqq.top/com/` |
-| `http://www.gov-parkingqw.top/com/` |
-| `http://zum.csam.in/page/Garenaffteam/x-3page/` |
-| `https://info-resmi754.blogspot.com/?m=1` |
-| `http://info-resmi471.blogspot.com/?m=1` |
-| `https://www.roblox.com.bn/users/106068315423/profile` |
-| `https://servi.rodiviasdigital.com/` |
-| `https://day.nowiggins.info/?app_vl=ZYFwlHFpbWKEmLqxy5qmnnx0YsC2wa-TpaiVYsBxj2phmqOgnLFwrYw&e=jalves%40desilvagates.com&sui=%7Bsui%7D&fn=&ln=&p=&z=PLNONARAW-2805-VULTUR10` |
-| `https://saraghrar.scholarlumni.info/ga/click/2-6817817-9-8777-17152-9409-87490df288-70783ab8a9` |
-| `http://www.mitamassk-looggin.godaddysites.com/` |
-| `http://security.live.com.office.u24o365.mcafee.devshn.net/` |
-| `https://chongtar.ekklesiadallas.info/ga/click/2-11304507-10-8679-16967-9302-da7ffce0ac-0f5aa4aa87` |
-| `https://fbcloned.vercel.app/` |
-| `http://netflixpage.webflow.io/` |
+| `https://lnsta.fr/` |
+| `http://flverr-verlflcation.com/work/verifyfreelancer` |
+| `http://req-sup405902.lol/view/es` |
+| `https://heritagetimileyin85-cloud.github.io/Live-Coding-Test-One` |
+| `http://jaswanthlakshman.github.io/NetflixClone` |
+| `http://starlit-marshmallow-de6581.netlify.app/` |
+| `https://robnhodlogen.gitbook.io/account` |
+| `http://robnhodlogen.gitbook.io/` |
+| `https://www.roblox.com.ml/users/163938510545/profile` |
+| `https://www.robiox.com.ua/users/6541002943/profile` |
+| `http://fistralbeachadultsonly.spahotel.guru/` |
+| `https://rs-iniciaratendimentohoje.shop/` |
+| `http://information-progress.digital/fv/chek-inf` |
+| `https://jovial-malasada-d5b763tyhd.netlify.app/` |
+| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/portfolio` |
+| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/positions` |
+| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/explore` |
+| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/swap` |
+| `https://sohamp2108.github.io/Amazon-Clone` |
+| `http://wellobd.info/path-50/TenderRFPDoc.php` |
 
 ---
 
