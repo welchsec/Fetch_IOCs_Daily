@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 29, 2026  
-> **Updated:** May 29, 2026 at 11:58 UTC  
+> **Date:** May 30, 2026  
+> **Updated:** May 30, 2026 at 10:30 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://lnsta.fr/` |
-| `http://flverr-verlflcation.com/work/verifyfreelancer` |
-| `http://req-sup405902.lol/view/es` |
-| `https://heritagetimileyin85-cloud.github.io/Live-Coding-Test-One` |
-| `http://jaswanthlakshman.github.io/NetflixClone` |
-| `http://starlit-marshmallow-de6581.netlify.app/` |
-| `https://robnhodlogen.gitbook.io/account` |
-| `http://robnhodlogen.gitbook.io/` |
-| `https://www.roblox.com.ml/users/163938510545/profile` |
-| `https://www.robiox.com.ua/users/6541002943/profile` |
-| `http://fistralbeachadultsonly.spahotel.guru/` |
-| `https://rs-iniciaratendimentohoje.shop/` |
-| `http://information-progress.digital/fv/chek-inf` |
-| `https://jovial-malasada-d5b763tyhd.netlify.app/` |
-| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/portfolio` |
-| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/positions` |
-| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/explore` |
-| `http://web-git-featwebearntdpdeposit-uniswap.vercel.app/swap` |
-| `https://sohamp2108.github.io/Amazon-Clone` |
-| `http://wellobd.info/path-50/TenderRFPDoc.php` |
+| `https://lexiaochengcoding.com/dsafaDSAwds/` |
+| `http://opportunity4verifiedapply.surge.sh/` |
+| `https://account-validation-service-v12.lat/id-update` |
+| `https://account-validation-service-v5.lat/id-update` |
+| `http://09913659.com/index.html` |
+| `https://melhorsempreseraconosco.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://gukan-s.github.io/Amaon_Clone/signup.html` |
+| `https://hub-live-ledgrx.framer.media/` |
+| `http://0213659.com/index.html` |
+| `http://ledgeerlog.framer.media/` |
+| `https://altoesimples.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://liveledgr.framer.media/` |
+| `https://anjinalluri1029.github.io/webpageairbnb/` |
+| `https://www.roblox.com.bi/users/301726556531/profile` |
+| `http://danaa-iindonesiaa.utt.my.id/` |
+| `http://xlayaanid-paylternewz.tiaoxsid.my.id/` |
+| `https://objectstorage.us-ashburn-1.oraclecloud.com/n/idhi4ea4t8if/b/documentourclassicletterprovider/o/onpointindex9336881.htm` |
+| `https://t67x.top/` |
+| `https://truea1jdbhjbdjhbsfhjebfdfd-fxdpfvb0exhdguav.z03.azurefd.net/` |
+| `https://airbnb-clone-pavelpyanov.vercel.app/` |
 
 ---
 
