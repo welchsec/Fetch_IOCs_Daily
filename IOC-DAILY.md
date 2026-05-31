@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 30, 2026  
-> **Updated:** May 30, 2026 at 10:30 UTC  
+> **Date:** May 31, 2026  
+> **Updated:** May 31, 2026 at 10:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://lexiaochengcoding.com/dsafaDSAwds/` |
-| `http://opportunity4verifiedapply.surge.sh/` |
-| `https://account-validation-service-v12.lat/id-update` |
-| `https://account-validation-service-v5.lat/id-update` |
-| `http://09913659.com/index.html` |
-| `https://melhorsempreseraconosco.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://gukan-s.github.io/Amaon_Clone/signup.html` |
-| `https://hub-live-ledgrx.framer.media/` |
-| `http://0213659.com/index.html` |
-| `http://ledgeerlog.framer.media/` |
-| `https://altoesimples.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://liveledgr.framer.media/` |
-| `https://anjinalluri1029.github.io/webpageairbnb/` |
-| `https://www.roblox.com.bi/users/301726556531/profile` |
-| `http://danaa-iindonesiaa.utt.my.id/` |
-| `http://xlayaanid-paylternewz.tiaoxsid.my.id/` |
-| `https://objectstorage.us-ashburn-1.oraclecloud.com/n/idhi4ea4t8if/b/documentourclassicletterprovider/o/onpointindex9336881.htm` |
-| `https://t67x.top/` |
-| `https://truea1jdbhjbdjhbsfhjebfdfd-fxdpfvb0exhdguav.z03.azurefd.net/` |
-| `https://airbnb-clone-pavelpyanov.vercel.app/` |
+| `https://www.robiox.com.py/users/209515475456/profile` |
+| `http://info-resmi699.blogspot.com/?m=1` |
+| `http://1615666111.com/` |
+| `http://1615666999.com/` |
+| `https://info-resmi079.blogspot.com/` |
+| `https://roblox.com.ug/communities/2164381119/` |
+| `https://roblox.com.bz/communities/4559625693/` |
+| `https://q-r.to/bgq6Pa` |
+| `https://l.ead.me/bgq6Pa` |
+| `https://svteamconmmunity.com/gift/72503` |
+| `https://www.runten8126.vip/` |
+| `https://www.ruten888.vip/` |
+| `https://www.r.oblox.com.et/communities/9760890242/OsaragiPlays-Official-Fan-Group-TRE` |
+| `https://m-facebooks.vn/dangky-thong-tin-tuyen-ctv?a` |
+| `https://www.chkfortnite.cfd/` |
+| `https://www.roblox.com.bi/games/99205951663862/Squid-Game-Season-3-Jump-Rope-BACK-AND-BETTER?privateServerLinkCode=35976373059471016383959043181064&game_id=99205951663862&game_name=Squid-Game-Season-3-Jump-Rope-BACK-AND-BETTER` |
+| `https://www.roblox.com.bi/games/130733429041738/NEW-Squabble-Game-RP?privateServerLinkCode=35976373059471016383959043181064&game_id=130733429041738&game_name=NEW-Squabble-Game-RP` |
+| `http://calorie.electricbrae.info/ga/click/2-17716069-34-8549-16720-9190-60746545c2-4eec81fa06` |
+| `https://instagramdefrancisco.blogspot.com/2024/09/instagram.html` |
+| `http://www.15682.xyz/` |
 
 ---
 
