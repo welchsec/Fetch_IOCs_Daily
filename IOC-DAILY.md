@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** May 31, 2026  
-> **Updated:** May 31, 2026 at 10:49 UTC  
+> **Date:** June 01, 2026  
+> **Updated:** June 01, 2026 at 14:42 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.robiox.com.py/users/209515475456/profile` |
-| `http://info-resmi699.blogspot.com/?m=1` |
-| `http://1615666111.com/` |
-| `http://1615666999.com/` |
-| `https://info-resmi079.blogspot.com/` |
-| `https://roblox.com.ug/communities/2164381119/` |
-| `https://roblox.com.bz/communities/4559625693/` |
-| `https://q-r.to/bgq6Pa` |
-| `https://l.ead.me/bgq6Pa` |
-| `https://svteamconmmunity.com/gift/72503` |
-| `https://www.runten8126.vip/` |
-| `https://www.ruten888.vip/` |
-| `https://www.r.oblox.com.et/communities/9760890242/OsaragiPlays-Official-Fan-Group-TRE` |
-| `https://m-facebooks.vn/dangky-thong-tin-tuyen-ctv?a` |
-| `https://www.chkfortnite.cfd/` |
-| `https://www.roblox.com.bi/games/99205951663862/Squid-Game-Season-3-Jump-Rope-BACK-AND-BETTER?privateServerLinkCode=35976373059471016383959043181064&game_id=99205951663862&game_name=Squid-Game-Season-3-Jump-Rope-BACK-AND-BETTER` |
-| `https://www.roblox.com.bi/games/130733429041738/NEW-Squabble-Game-RP?privateServerLinkCode=35976373059471016383959043181064&game_id=130733429041738&game_name=NEW-Squabble-Game-RP` |
-| `http://calorie.electricbrae.info/ga/click/2-17716069-34-8549-16720-9190-60746545c2-4eec81fa06` |
-| `https://instagramdefrancisco.blogspot.com/2024/09/instagram.html` |
-| `http://www.15682.xyz/` |
+| `https://ishakaushik31.github.io/amazon-clone` |
+| `http://tsess-29e.pages.dev/` |
+| `https://oyekaleisrael2-dev.github.io/netflix` |
+| `http://sp1ct6-frapvik-biz-vrolnex-drament.pages.dev/` |
+| `https://yn7uuf.sbs/o/hxu17/1769963912159#selectedbank9` |
+| `https://ue2wgw.sbs/o/hxu17/1769963912159#selectedbank9` |
+| `https://z2whjt.casa/o/hxu17/1769963912159#selectedbank9` |
+| `https://z9vgtm.cfd/o/hxu17/1769963912159#selectedbank9` |
+| `https://www.roblox.com.et/users/303206379005/profile` |
+| `https://vz7qxn.cfd/o/hxu17/1769963912159#selectedbank9` |
+| `http://11.gu1gu1.ccwu.cc/` |
+| `https://svteamconmmunity.com/promo/7225533` |
+| `https://f-binance.com/` |
+| `http://www.update-billing-netflix.shekinahglory.co.zw/` |
+| `https://www-mfacebook.com.vn/sinhdeptrai2929?a&l` |
+| `http://u20n.top/` |
+| `https://exoreuswalle-ot.webflow.io/` |
+| `http://syncethernet.pages.dev/` |
+| `https://identity-google.info/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&dsh=S-1391434002%3A1780312270343217&followup=https%3A%2F%2Faccounts.google.com%2F&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWa2PatgkI6aIEcIWchuNGJmgKfHIAAu4b2ToZ89mMJbxFiVUjLuMu4ZzgCHEdd8gvn9_ecwGDQA3g` |
+| `https://identity-google.info/` |
 
 ---
 
