@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 02, 2026  
-> **Updated:** June 02, 2026 at 12:31 UTC  
+> **Date:** June 03, 2026  
+> **Updated:** June 03, 2026 at 13:02 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://galeripemenangshopee012.blogspot.com/` |
-| `http://galeri-promo2021.blogspot.com/` |
-| `https://bafkreiegbqbcfv3bye424hhdqirq2wqiftdkjywtxlivtmx4zyhzkotcta.ipfs.dweb.link/` |
-| `http://t-mobile.rxomdi.top/pay` |
-| `http://t-mobile.cvnghb.top/pay` |
-| `http://t-mobile.ptdqsu.top/pay` |
-| `http://t-mobile.efmsox.top/pay` |
-| `http://t-mobile.fktngc.top/pay` |
-| `http://galerihadiah559.blogspot.com/?m=1` |
-| `http://galeri-undian-shopee2020.blogspot.com/` |
-| `https://novidadenova.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `http://galerihadiahshopee511.blogspot.com/` |
-| `https://gebyarundian-shopee44.blogspot.com/` |
-| `http://promohadiah486.blogspot.com/` |
-| `http://sp1ct6-trapvik-biz-vromtek-slurnor.pages.dev/` |
-| `http://sp1ct6-vraqnix-biz-glarnor-drulvik.pages.dev/` |
-| `https://inner.website/4344af72ew3069422559d09be36bc87a620a.html` |
-| `https://coinbase_y_login.godaddysites.com/` |
-| `http://www.coinbase_y_login.godaddysites.com/` |
-| `https://l-iniciarmeuatendimentoatualizado.shop/` |
+| `https://billiway.netlify.app/` |
+| `https://theuber.com.au/` |
+| `https://patterndomain.info/420-1524-290526/[email%C2%A0protected` |
+| `https://ledgers.at/` |
+| `https://portal.rodiviasdigital.com/` |
+| `http://sp1ct6-slarnor-biz-qravtek-vromnix.pages.dev/` |
+| `http://sp1ct6-slurnax-biz-trapnix-plovtek.pages.dev/` |
+| `https://cubelat.nowo-cube.lat/file_search.php?urls=jF3x6e7z4osN0` |
+| `https://instagram-clone-green-nine.vercel.app/index.html/` |
+| `http://www.oportoflowers.pt/review-docusgn-doc/` |
+| `http://15851.xyz/` |
+| `http://resarch.markusscholz.info/ga/click/2-8210514-10-8494-16604-9112-17afc9ad5f-8e8d449b6a` |
+| `https://daveblocher.info/?app_vl=ZoRwlHFpbWKEmLqxy5qmnnx0YsC2wa-TpaiVYsBxj2phmqOgnLFwrYw&e=coran@3f88978af634c75916f0c6fd1bcc132a8c71.com&sui=%7Bsui%7D&fn=anna&ln=ziendalska&p=1&z=PLNAMECL-0106-DIG01` |
+| `http://www.15387.xyz/` |
+| `https://patterndomain.info/420-1524-290526/email@example.com` |
+| `https://www.navyfederall.com.pinnacletrustbank.com/loans-cards/mortgage.html` |
+| `https://www.navyfederall.com.pinnacletrustbank.com/loans-cards/credit-cards/faqs.html` |
+| `https://www.navyfederall.com.pinnacletrustbank.com/makingcents/home-ownership.html` |
+| `https://www.navyfederall.com.pinnacletrustbank.com/membership/benefits.html` |
+| `https://www.navyfederall.com.pinnacletrustbank.com/services/security/report-fraud.html` |
 
 ---
 
