@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 03, 2026  
-> **Updated:** June 03, 2026 at 13:02 UTC  
+> **Date:** June 04, 2026  
+> **Updated:** June 04, 2026 at 11:41 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://billiway.netlify.app/` |
-| `https://theuber.com.au/` |
-| `https://patterndomain.info/420-1524-290526/[email%C2%A0protected` |
-| `https://ledgers.at/` |
-| `https://portal.rodiviasdigital.com/` |
-| `http://sp1ct6-slarnor-biz-qravtek-vromnix.pages.dev/` |
-| `http://sp1ct6-slurnax-biz-trapnix-plovtek.pages.dev/` |
-| `https://cubelat.nowo-cube.lat/file_search.php?urls=jF3x6e7z4osN0` |
-| `https://instagram-clone-green-nine.vercel.app/index.html/` |
-| `http://www.oportoflowers.pt/review-docusgn-doc/` |
-| `http://15851.xyz/` |
-| `http://resarch.markusscholz.info/ga/click/2-8210514-10-8494-16604-9112-17afc9ad5f-8e8d449b6a` |
-| `https://daveblocher.info/?app_vl=ZoRwlHFpbWKEmLqxy5qmnnx0YsC2wa-TpaiVYsBxj2phmqOgnLFwrYw&e=coran@3f88978af634c75916f0c6fd1bcc132a8c71.com&sui=%7Bsui%7D&fn=anna&ln=ziendalska&p=1&z=PLNAMECL-0106-DIG01` |
-| `http://www.15387.xyz/` |
-| `https://patterndomain.info/420-1524-290526/email@example.com` |
-| `https://www.navyfederall.com.pinnacletrustbank.com/loans-cards/mortgage.html` |
-| `https://www.navyfederall.com.pinnacletrustbank.com/loans-cards/credit-cards/faqs.html` |
-| `https://www.navyfederall.com.pinnacletrustbank.com/makingcents/home-ownership.html` |
-| `https://www.navyfederall.com.pinnacletrustbank.com/membership/benefits.html` |
-| `https://www.navyfederall.com.pinnacletrustbank.com/services/security/report-fraud.html` |
+| `http://www.ca7033vip.com/` |
+| `https://gogo4wz6qn.billbutterworth.com/` |
+| `http://sp1ct6-slapnix-biz-qravtek-plovrax.pages.dev/` |
+| `http://www.15381.xyz/` |
+| `http://www.15416.xyz/` |
+| `https://navyfederall.com.pinnacletrustbank.com/checking-savings/savings/emergency-fund.html` |
+| `https://confirm-address-changing.vercel.app/` |
+| `https://confirm-address-changing.vercel.app/antibot` |
+| `http://www.remodelinctext.weebly.com/` |
+| `http://business-for-globalvision-labs-i5y.pages.dev/appeals/submit-appeal-form/return` |
+| `https://secure.divertido.juegos/education_redirect_second?475d964a-0243-46bf-aefd-66da26254efa` |
+| `https://secure.divertido.juegos/107519/8af662/475d964a-0243-46bf-aefd-66da26254efa/` |
+| `http://advertiser-policy-notice-system.pages.dev/appeals/submit-appeal-form/return` |
+| `http://advertiser-enforcement-alert.pages.dev/appeals/submit-appeal-form/return` |
+| `http://kazmabatool.github.io/Netflix-Clone` |
+| `http://www.ecommerce-website-nine-hazel.vercel.app/` |
+| `http://www.chitvk.hop.ru/` |
+| `https://ecommerce-website-nine-hazel.vercel.app/` |
+| `https://www.pratistaglow.com/` |
+| `https://www.galeri-pemenang-shopee43.blogspot.com/` |
 
 ---
 
