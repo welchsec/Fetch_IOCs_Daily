@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 04, 2026  
-> **Updated:** June 04, 2026 at 11:41 UTC  
+> **Date:** June 05, 2026  
+> **Updated:** June 05, 2026 at 11:53 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.ca7033vip.com/` |
-| `https://gogo4wz6qn.billbutterworth.com/` |
-| `http://sp1ct6-slapnix-biz-qravtek-plovrax.pages.dev/` |
-| `http://www.15381.xyz/` |
-| `http://www.15416.xyz/` |
-| `https://navyfederall.com.pinnacletrustbank.com/checking-savings/savings/emergency-fund.html` |
-| `https://confirm-address-changing.vercel.app/` |
-| `https://confirm-address-changing.vercel.app/antibot` |
-| `http://www.remodelinctext.weebly.com/` |
-| `http://business-for-globalvision-labs-i5y.pages.dev/appeals/submit-appeal-form/return` |
-| `https://secure.divertido.juegos/education_redirect_second?475d964a-0243-46bf-aefd-66da26254efa` |
-| `https://secure.divertido.juegos/107519/8af662/475d964a-0243-46bf-aefd-66da26254efa/` |
-| `http://advertiser-policy-notice-system.pages.dev/appeals/submit-appeal-form/return` |
-| `http://advertiser-enforcement-alert.pages.dev/appeals/submit-appeal-form/return` |
-| `http://kazmabatool.github.io/Netflix-Clone` |
-| `http://www.ecommerce-website-nine-hazel.vercel.app/` |
-| `http://www.chitvk.hop.ru/` |
-| `https://ecommerce-website-nine-hazel.vercel.app/` |
-| `https://www.pratistaglow.com/` |
-| `https://www.galeri-pemenang-shopee43.blogspot.com/` |
+| `http://www.gov-parkingsii.cyou/com` |
+| `https://t-mobile.sdxwuo.top/pay` |
+| `https://t-mobile.bwcdkz.top/pay` |
+| `https://t-mobile.rokpbm.top/pay` |
+| `http://t-mobile.therqz.top/pay/` |
+| `http://oakandgarden.eu/` |
+| `http://id8319832apple.sviluppo.host/8209398182/` |
+| `https://dpd.twplqxr.cfd/com` |
+| `https://dpd.gnwrzkp.icu/com` |
+| `https://dpd.kzwlnxp.icu/com` |
+| `https://dpd.cxrmptv.club/com` |
+| `https://www.roblox.com.bn/games/18687417158/FIXES-Forsaken?privateServerLinkCode=32521013251177191579040166837938&game_id=18687417158&game_name=FIXES-Forsaken` |
+| `https://facebooks.com.vn/qla4ovqxkcj/?a&l` |
+| `https://m.365365e.app/eng/home/index` |
+| `http://www.usbankproject2.vercel.app/` |
+| `https://ldgkooejkd.azulab24.workers.dev/` |
+| `https://www.robiox.com.gr/users/2634492674/profile/` |
+| `https://customer-sp-alexk.pages.dev/help/contact/282824571426767/` |
+| `http://vaibhavexpo.com/veterinaryeducationtoday/leebakeropendocaccess.html` |
+| `https://business-for-brynvero-8jq.pages.dev/login/` |
 
 ---
 
