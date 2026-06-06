@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 05, 2026  
-> **Updated:** June 05, 2026 at 11:53 UTC  
+> **Date:** June 06, 2026  
+> **Updated:** June 06, 2026 at 10:46 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.gov-parkingsii.cyou/com` |
-| `https://t-mobile.sdxwuo.top/pay` |
-| `https://t-mobile.bwcdkz.top/pay` |
-| `https://t-mobile.rokpbm.top/pay` |
-| `http://t-mobile.therqz.top/pay/` |
-| `http://oakandgarden.eu/` |
-| `http://id8319832apple.sviluppo.host/8209398182/` |
-| `https://dpd.twplqxr.cfd/com` |
-| `https://dpd.gnwrzkp.icu/com` |
-| `https://dpd.kzwlnxp.icu/com` |
-| `https://dpd.cxrmptv.club/com` |
-| `https://www.roblox.com.bn/games/18687417158/FIXES-Forsaken?privateServerLinkCode=32521013251177191579040166837938&game_id=18687417158&game_name=FIXES-Forsaken` |
-| `https://facebooks.com.vn/qla4ovqxkcj/?a&l` |
-| `https://m.365365e.app/eng/home/index` |
-| `http://www.usbankproject2.vercel.app/` |
-| `https://ldgkooejkd.azulab24.workers.dev/` |
-| `https://www.robiox.com.gr/users/2634492674/profile/` |
-| `https://customer-sp-alexk.pages.dev/help/contact/282824571426767/` |
-| `http://vaibhavexpo.com/veterinaryeducationtoday/leebakeropendocaccess.html` |
-| `https://business-for-brynvero-8jq.pages.dev/login/` |
+| `http://usps.postros.shop/update` |
+| `http://voicemailnotificationportal-5769909.pages.dev/` |
+| `https://www.roblox.com.ml/users/135466932745/profile` |
+| `https://server-index-page--eefostar.replit.app/` |
+| `https://instagram-1ogin.duckdns.org/login?next=/dashboard` |
+| `https://customer-sp-bayerjohnathan.pages.dev/help/contact/121968172266500/` |
+| `https://sp-bayerjohnathan132.pages.dev/help/contact/474001932705547/` |
+| `https://sp-bayerjohnathan132.pages.dev/help/contact/450075211827186/` |
+| `https://sp-bayerjohnathan132.pages.dev/help/contact/351882271779627/` |
+| `https://rajatsaini90420.github.io/Amazon-Clone-Website/sign.html` |
+| `http://webmail.photosnsfw.com/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380` |
+| `http://webmail.photosnsfw.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380` |
+| `https://ekmithu.github.io/Netflix-Clone` |
+| `https://muzammil4464.github.io/amazon-redesign-by-muzammil` |
+| `https://santanderenlinea.github.io/prestamo.com/` |
+| `https://santanderenlinea.github.io/prestamo.com` |
+| `http://sp0ct0-vexnar-biz-plenko-zurta.pages.dev/` |
+| `https://sp10ct6-qoltek-biz-franvor-plurnix.pages.dev/` |
+| `https://companypolicy.com.au/?r=b31e5d7f-9d2d-4004-ba5f-5e9534e147c6&rg=eu` |
+| `https://block-fi-login.blogspot.com/?m=1` |
 
 ---
 
