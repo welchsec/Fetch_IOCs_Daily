@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 06, 2026  
-> **Updated:** June 06, 2026 at 10:46 UTC  
+> **Date:** June 07, 2026  
+> **Updated:** June 07, 2026 at 10:57 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://usps.postros.shop/update` |
-| `http://voicemailnotificationportal-5769909.pages.dev/` |
-| `https://www.roblox.com.ml/users/135466932745/profile` |
-| `https://server-index-page--eefostar.replit.app/` |
-| `https://instagram-1ogin.duckdns.org/login?next=/dashboard` |
-| `https://customer-sp-bayerjohnathan.pages.dev/help/contact/121968172266500/` |
-| `https://sp-bayerjohnathan132.pages.dev/help/contact/474001932705547/` |
-| `https://sp-bayerjohnathan132.pages.dev/help/contact/450075211827186/` |
-| `https://sp-bayerjohnathan132.pages.dev/help/contact/351882271779627/` |
-| `https://rajatsaini90420.github.io/Amazon-Clone-Website/sign.html` |
-| `http://webmail.photosnsfw.com/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380` |
-| `http://webmail.photosnsfw.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380` |
-| `https://ekmithu.github.io/Netflix-Clone` |
-| `https://muzammil4464.github.io/amazon-redesign-by-muzammil` |
-| `https://santanderenlinea.github.io/prestamo.com/` |
-| `https://santanderenlinea.github.io/prestamo.com` |
-| `http://sp0ct0-vexnar-biz-plenko-zurta.pages.dev/` |
-| `https://sp10ct6-qoltek-biz-franvor-plurnix.pages.dev/` |
-| `https://companypolicy.com.au/?r=b31e5d7f-9d2d-4004-ba5f-5e9534e147c6&rg=eu` |
-| `https://block-fi-login.blogspot.com/?m=1` |
+| `https://roblox.et/communities/9110392943/BaddiesZ` |
+| `https://services-publics.grupozasacr.com/infospage.php` |
+| `https://services-publics.grupozasacr.com/` |
+| `https://www.roblox.com.bi/users/576024904941/profile` |
+| `https://www.robiox.com.gr/users/6491303489/profile/` |
+| `https://www.roblox.com.bn/games/131623223084840/Escape-Tsunami-For-Brainrots?privateServerLinkCode=80674271570847510930111301270272/` |
+| `https://s.teamwj.com/p/lza-qjt/eqwjnihf/` |
+| `https://claims-fraud-esl-org.xyz/` |
+| `https://sp5ct6-druntex-biz-fralnix-plamvor.pages.dev/` |
+| `https://sp10ct6-tralvik-biz-frunex-qormax.pages.dev/` |
+| `https://sp5ct6-drurnor-biz-framnik-plaqtex.pages.dev/` |
+| `https://sp5ct6-tramnex-biz-vraqtor-slarnik.pages.dev/` |
+| `https://sp10ct6-drantem-biz-glurnik-fralnex.pages.dev/` |
+| `https://sp5ct6-glurnor-biz-fraltek-plaqnix.pages.dev/` |
+| `https://sp5ct6-glarnor-biz-framtex-slurnax.pages.dev/` |
+| `https://sp10ct6-glurnik-biz-qortem-vrolax.pages.dev/` |
+| `https://sp10ct6-braltex-biz-vorqan-glunor.pages.dev/` |
+| `https://sp5ct6-slortik-biz-qravnex-glamvor.pages.dev/` |
+| `https://sp10ct6-dravtek-biz-glanvor-xurnik.pages.dev/` |
+| `https://sp5ct6-plaqvor-biz-glarnik-fraltex.pages.dev/` |
 
 ---
 
