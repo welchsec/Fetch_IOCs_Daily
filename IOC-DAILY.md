@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 08, 2026  
-> **Updated:** June 08, 2026 at 12:53 UTC  
+> **Date:** June 09, 2026  
+> **Updated:** June 09, 2026 at 11:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://ghanapoest.eu.cc/gh` |
-| `https://lnk.ink/KLoo3` |
-| `https://hellpdesk.at/?r=d614261b-37fd-45ba-aea9-b8c120f1bc86` |
-| `http://lord.kiinoasnacks.info/ga/click/2-7363688-10-8687-16978-9312-3a966f0ffa-c94b5c9a3d` |
-| `https://scotiawealthmanagement.com.cobblestonesw.com/` |
-| `http://bafkreifjwfze2ce74zbj6xilrzf3wixlub5w7ixt2iofzkd72vtndj7c2a.ipfs.dweb.link/` |
-| `https://www.invfn.live/id/login` |
-| `http://72264.xyz/` |
-| `https://account.remote-otp.com/login?rid=cc4AdeZ` |
-| `https://web-git-05-20-featwebshowread-onlytokeninfoforex-4642a4-uniswap.vercel.app/portfolio/nfts` |
-| `https://cooltentregas.com.br/cumm/AMENCN-1/en.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=Z2FsaWsyQGJhMzA1MzY0Y2E0YjMxNjc2YmEwM2ZhMzg0OTQwNGNlYTdiOC5jb20=&.rand=13InboxLight.aspx?n=1774256418&fid=4#n=1252899642&fid=1&fav=1` |
-| `https://cooltentregas.com.br/cumm/AMENCN-1/?email=galik2@ba305364ca4b31676ba03fa3849404cea7b8.com` |
-| `https://www.roblox.com.bn/games/85185336463154/steal-a-sleykizz?privateServerLinkCode=32521013251177191579040166837938&game_id=85185336463154&game_name=steal-a-sleykizz` |
-| `http://coin-bse-app.zapier.app/` |
-| `https://l0glnn-m1croqx0qftcom-0utloolx1drvvefil3es.fwh.is/index.html?email=lorumlab@49a20767dfe6cd447667491d2770bdd532c5.org` |
-| `http://www.mitaomaodou.com/` |
-| `https://memnunpendcert.wasmer.app/` |
-| `http://bafkreia7m7wyi7xnltk5kqkoy4m3nssthp2vnjertouskbhqknycjtb2o4.ipfs.dweb.link/` |
-| `https://cuuibase_prou_logi.godaddysites.com/` |
-| `http://www.cuuibase_prou_logi.godaddysites.com/` |
+| `https://ig.do/ROBLOX` |
+| `https://communications.office-teams.net/home/332f4e1818dd4c7a94407bbdffd51124/d6d66a555073743b3bc8552bd846df275` |
+| `https://communications.office-teams.net/i/d6d66a555073743b3bc8552bd846df275` |
+| `https://www.jjhdgtv.vercel.app/` |
+| `https://pemenang2021.blogspot.com/?m=1` |
+| `https://www.pemenang2021.blogspot.com/?m=1` |
+| `http://www.info-shopee6557.blogspot.com/` |
+| `https://trzcioa.carroll-230.workers.dev/` |
+| `http://bafkreicr32aghebeyvfkqwvv5vbffidbe6eeq6goybmtz35ky2p5rnn5xu.ipfs.dweb.link/` |
+| `https://17080.xyz/` |
+| `https://m.yl0668.com/` |
+| `https://m.mg723.com/` |
+| `https://ptshopee446.blogspot.com/?m=1` |
+| `http://www.ptshopee446.blogspot.com/?m=1` |
+| `http://www.14197.xyz/` |
+| `https://vsilex.com/docusign/Windows/utility.php/download/index.php/download/index.php/` |
+| `http://shao2-faeud9e8gherf8a2.z02.azurefd.net/` |
+| `https://bet6612.com/m` |
+| `https://dpd.lqmvxtrp.cfd/com` |
+| `https://leagueleap.makemywebdesign.com.au/public/images/placeholder/access/?email=janon9@388ecda16066295debb4bf626b81547144d8.net` |
 
 ---
 
