@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 09, 2026  
-> **Updated:** June 09, 2026 at 11:49 UTC  
+> **Date:** June 10, 2026  
+> **Updated:** June 10, 2026 at 12:10 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://ig.do/ROBLOX` |
-| `https://communications.office-teams.net/home/332f4e1818dd4c7a94407bbdffd51124/d6d66a555073743b3bc8552bd846df275` |
-| `https://communications.office-teams.net/i/d6d66a555073743b3bc8552bd846df275` |
-| `https://www.jjhdgtv.vercel.app/` |
-| `https://pemenang2021.blogspot.com/?m=1` |
-| `https://www.pemenang2021.blogspot.com/?m=1` |
-| `http://www.info-shopee6557.blogspot.com/` |
-| `https://trzcioa.carroll-230.workers.dev/` |
-| `http://bafkreicr32aghebeyvfkqwvv5vbffidbe6eeq6goybmtz35ky2p5rnn5xu.ipfs.dweb.link/` |
-| `https://17080.xyz/` |
-| `https://m.yl0668.com/` |
-| `https://m.mg723.com/` |
-| `https://ptshopee446.blogspot.com/?m=1` |
-| `http://www.ptshopee446.blogspot.com/?m=1` |
-| `http://www.14197.xyz/` |
-| `https://vsilex.com/docusign/Windows/utility.php/download/index.php/download/index.php/` |
-| `http://shao2-faeud9e8gherf8a2.z02.azurefd.net/` |
-| `https://bet6612.com/m` |
-| `https://dpd.lqmvxtrp.cfd/com` |
-| `https://leagueleap.makemywebdesign.com.au/public/images/placeholder/access/?email=janon9@388ecda16066295debb4bf626b81547144d8.net` |
+| `https://track-ghk.click/gh` |
+| `https://lnk.ink/eBflI` |
+| `https://pahdidj.one/gh` |
+| `https://lnk.ink/PnsMC` |
+| `https://rodovias-dr9.pages.dev/` |
+| `https://asdwspotify.beer/` |
+| `https://links.votrentreprise.com/v/c43/s2mISWZmLhcuT1sABTWo03/8c2b33c8/` |
+| `https://1555365.com/` |
+| `https://www.robiox.com.ps/communities/573771402/TAZEGROUP` |
+| `https://jangkautotoo.com/` |
+| `https://bafkreifuiu3tudoctwygusc7lktugtwmwhfh7uqn2xafijbcgvbtknc5tu.ipfs.dweb.link/` |
+| `http://www.instagram-xi-opal.vercel.app/` |
+| `https://by8662.com/` |
+| `https://s4w.in/InFKv` |
+| `https://alpahidatakayama.spahotel.guru/` |
+| `http://alpinahidatakayama.spahotel.guru/` |
+| `https://urlto.me/25uq7` |
+| `https://www.roblox.com.ml/users/172594173823/profile` |
+| `https://track-ghk.help/gh` |
+| `https://lnk.ink/uUF8I` |
 
 ---
 
