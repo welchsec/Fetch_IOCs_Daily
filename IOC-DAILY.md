@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 12, 2026  
-> **Updated:** June 12, 2026 at 12:08 UTC  
+> **Date:** June 13, 2026  
+> **Updated:** June 13, 2026 at 11:05 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://klelnanzeigen-deutsch.de-stvc7124.info/getpaymentm/195904461/m` |
-| `https://www.roblox.com.ml/games/12055526085/Unknown-Story-Game-OFFICIAL?privateServerLinkCode=376373476201820323465283384846` |
-| `https://saicharan-devoju.github.io/Netflix-clone` |
-| `http://geminiloginm.webflow.io/` |
-| `https://www.roblox.et/users/6612509654/profile` |
-| `https://talktalkaccountvalidationrequired.framer.website/` |
-| `https://sign-in-to-xfinity-1053.weebly.com/` |
-| `https://aware-assistant-407030.framer.app/` |
-| `https://xfinitymailmkd.weebly.com/` |
-| `https://clever-english-003746.framer.app/` |
-| `https://attractive-research-275363.framer.app/` |
-| `https://sbcverify-143788.webflow.io/` |
-| `https://numerical-actions-551048.framer.app/` |
-| `https://www.instagram-clone-xi-one.vercel.app/` |
-| `https://mysharepint7ca5b35b53e1.zuerichs.com/` |
-| `https://mysharepint7ca5b35b53e1.zuerichs.com/verify/2d9e88d2-90d8-4c46-8f11-bdbc4cc2e0fe` |
-| `https://uniswap.uzheths.blockchain-group.ch/` |
-| `https://fdfsdasg.weebly.com/` |
-| `https://www.whatsappclone-inky.vercel.app/` |
-| `https://www.instagramclone-umber.vercel.app/` |
+| `https://happy-ice-990137.framer.app/` |
+| `https://usc1.contabostorage.com/2c982e1d6d4c4f9d9a5d2f875ea22c09:oop/all-domaiin.html` |
+| `https://lihi2.me/k5ia1` |
+| `https://fiverr-work-space.pro/project/maria4` |
+| `https://absolutecaninepa.com/DocuSign/Mac/utility.php/` |
+| `https://ig.do/roblox-profile-3367628-profile` |
+| `https://www.clone-instagram-by-enju.vercel.app/` |
+| `https://en-exod-us.zapier.app/` |
+| `http://www.poijngh.weebly.com/` |
+| `http://www.msnservicesecuritym.weebly.com/` |
+| `https://info-resmi991.blogspot.com/` |
+| `http://roblox.et/communities/1569757319/The-MonkeyMan-Fan-Club` |
+| `http://ipfs.io/ipns/k51qzi5uqu5dhbyirysqf4hmet8loes3boujt0q6xlnyzi3tdd5uc2m7u3h0uv` |
+| `https://gc-controles.duckdns.org/` |
+| `https://eugeniewun72-englichs302.pages.dev/help/contact/596228859447525/` |
+| `https://marketbuffalo.click/` |
+| `https://shirim.co.il/marl/` |
+| `https://matesanto.com/distinguishedcare/distinguishedcare.htm` |
+| `https://pagamento-pedagio.dynv6.net/` |
+| `https://tracking.sellandsell.com/dashboard/images/.jakH/` |
 
 ---
 
