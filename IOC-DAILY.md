@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 13, 2026  
-> **Updated:** June 13, 2026 at 11:05 UTC  
+> **Date:** June 14, 2026  
+> **Updated:** June 14, 2026 at 11:20 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://happy-ice-990137.framer.app/` |
-| `https://usc1.contabostorage.com/2c982e1d6d4c4f9d9a5d2f875ea22c09:oop/all-domaiin.html` |
-| `https://lihi2.me/k5ia1` |
-| `https://fiverr-work-space.pro/project/maria4` |
-| `https://absolutecaninepa.com/DocuSign/Mac/utility.php/` |
-| `https://ig.do/roblox-profile-3367628-profile` |
-| `https://www.clone-instagram-by-enju.vercel.app/` |
-| `https://en-exod-us.zapier.app/` |
-| `http://www.poijngh.weebly.com/` |
-| `http://www.msnservicesecuritym.weebly.com/` |
-| `https://info-resmi991.blogspot.com/` |
-| `http://roblox.et/communities/1569757319/The-MonkeyMan-Fan-Club` |
-| `http://ipfs.io/ipns/k51qzi5uqu5dhbyirysqf4hmet8loes3boujt0q6xlnyzi3tdd5uc2m7u3h0uv` |
-| `https://gc-controles.duckdns.org/` |
-| `https://eugeniewun72-englichs302.pages.dev/help/contact/596228859447525/` |
-| `https://marketbuffalo.click/` |
-| `https://shirim.co.il/marl/` |
-| `https://matesanto.com/distinguishedcare/distinguishedcare.htm` |
-| `https://pagamento-pedagio.dynv6.net/` |
-| `https://tracking.sellandsell.com/dashboard/images/.jakH/` |
+| `https://www.tioshxnsu.top/` |
+| `https://www.roblox.com.et/users/276111199329/profile` |
+| `https://old.citiretailservices.citibankonlline.com/?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc4MTM5NDgzNSwiaWF0IjoxNzgxMzg3NjM1LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMnNjNTdkYWoxYjVxZXNibmsxYXVkZ3AiLCJuYmYiOjE3ODEzODc2MzUsInRzIjoxNzgxMzg3NjM1MDUyNzYxfQ.OQzJHyNkOo-uJxtejQEvn2vC7rujHxI8MEMutF1U5mU&sid=5f734050-6772-11f1-a590-843cf7263a1a` |
+| `https://www.robiox.com.py/users/416132331125/profile` |
+| `http://steamcomimunity.com/tradeoffer/new/partner=783662133token=l4hhebGA21835` |
+| `https://cityinnparis.hostel.town/` |
+| `https://studio3-st3.com/document.php/` |
+| `http://enzzodasul.github.io/pagina_netflix_recriada` |
+| `https://www.adb-secure.vercel.app/` |
+| `https://www.tonken.cc/download/` |
+| `http://amazonwebservices.security-unauthorised-request.com/login/zWDOx0s0gIihk38-aQieIuFbpbkAZ0v32U0c=1AA==0UV1RSl9eb1xfV1le/OU7jtVLNJA1gbiNb6px9GtUDewiAWseu` |
+| `http://www.pemenangshopee555.blogspot.com/?m=1` |
+| `http://rohitprajapati23.github.io/Netflix_Clone` |
+| `https://tp.tptokenapp.com/` |
+| `https://madamabistrot.hostel.town/` |
+| `https://axfuehpruurx.objectstorage.ap-kulai-2.oci.customer-oci.com/n/axfuehpruurx/b/voicemail-mic12062026vm73078voice5625879mail2840protected036734mic/o/core.html` |
+| `http://ww1.citibankonlline.com/?dmn=citibankonlline.com` |
+| `https://store.citiretailservices.citibankonlline.com/?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc4MTM4OTQ0NywiaWF0IjoxNzgxMzgyMjQ3LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMnNicmRwcG04Y3FudDlvbW8ybDRxOGUiLCJuYmYiOjE3ODEzODIyNDcsInRzIjoxNzgxMzgyMjQ3MjY5NjQyfQ.vlmmHjvnIhRPygyjHLRUd9ITIWYQij9D1wDqJV9rFlI&sid=d414d827-6765-11f1-9ecd-d8df52ce385d` |
+| `http://costmerznpaylteridnx.sufisme.web.id/` |
+| `https://m.365bet332.com/eng/home/index/` |
 
 ---
 
