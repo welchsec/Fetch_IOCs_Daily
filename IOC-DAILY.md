@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 14, 2026  
-> **Updated:** June 14, 2026 at 11:20 UTC  
+> **Date:** June 15, 2026  
+> **Updated:** June 15, 2026 at 14:50 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.tioshxnsu.top/` |
-| `https://www.roblox.com.et/users/276111199329/profile` |
-| `https://old.citiretailservices.citibankonlline.com/?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc4MTM5NDgzNSwiaWF0IjoxNzgxMzg3NjM1LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMnNjNTdkYWoxYjVxZXNibmsxYXVkZ3AiLCJuYmYiOjE3ODEzODc2MzUsInRzIjoxNzgxMzg3NjM1MDUyNzYxfQ.OQzJHyNkOo-uJxtejQEvn2vC7rujHxI8MEMutF1U5mU&sid=5f734050-6772-11f1-a590-843cf7263a1a` |
-| `https://www.robiox.com.py/users/416132331125/profile` |
-| `http://steamcomimunity.com/tradeoffer/new/partner=783662133token=l4hhebGA21835` |
-| `https://cityinnparis.hostel.town/` |
-| `https://studio3-st3.com/document.php/` |
-| `http://enzzodasul.github.io/pagina_netflix_recriada` |
-| `https://www.adb-secure.vercel.app/` |
-| `https://www.tonken.cc/download/` |
-| `http://amazonwebservices.security-unauthorised-request.com/login/zWDOx0s0gIihk38-aQieIuFbpbkAZ0v32U0c=1AA==0UV1RSl9eb1xfV1le/OU7jtVLNJA1gbiNb6px9GtUDewiAWseu` |
-| `http://www.pemenangshopee555.blogspot.com/?m=1` |
-| `http://rohitprajapati23.github.io/Netflix_Clone` |
-| `https://tp.tptokenapp.com/` |
-| `https://madamabistrot.hostel.town/` |
-| `https://axfuehpruurx.objectstorage.ap-kulai-2.oci.customer-oci.com/n/axfuehpruurx/b/voicemail-mic12062026vm73078voice5625879mail2840protected036734mic/o/core.html` |
-| `http://ww1.citibankonlline.com/?dmn=citibankonlline.com` |
-| `https://store.citiretailservices.citibankonlline.com/?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc4MTM4OTQ0NywiaWF0IjoxNzgxMzgyMjQ3LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMnNicmRwcG04Y3FudDlvbW8ybDRxOGUiLCJuYmYiOjE3ODEzODIyNDcsInRzIjoxNzgxMzgyMjQ3MjY5NjQyfQ.vlmmHjvnIhRPygyjHLRUd9ITIWYQij9D1wDqJV9rFlI&sid=d414d827-6765-11f1-9ecd-d8df52ce385d` |
-| `http://costmerznpaylteridnx.sufisme.web.id/` |
-| `https://m.365bet332.com/eng/home/index/` |
+| `https://dardsaaz.com/docusign/Mac/utility.php/download/download/index.php/` |
+| `http://www.gov-parkingrw.top/com/` |
+| `http://www.matesanto.com/dbnspa/dbnspa.htm` |
+| `https://www.site-4hencvzd9.godaddysites.com/` |
+| `http://www.gov-parkingrq.cyou/com/` |
+| `http://yashank-25.github.io/Amazon-Fronted-Project` |
+| `http://fiverr-orders-payment.pro/work/new-orders` |
+| `http://brachunchun.com/js/made.in.china/membercenter.made-in-china.com/index.html` |
+| `http://www.gov-parkingrq.shop/com/` |
+| `http://chloewnavalcert.wasmer.app/lhava-technologies` |
+| `https://girope.hu/doc/` |
+| `http://e03e0b58f0508f4c70296c7a04bec13d81dd03edb3f819f2b2e0c01ae4.pages.dev/` |
+| `http://gaamsinilogon.webflow.io/` |
+| `https://fnlocker.one/` |
+| `https://www.shopeeid4888.blogspot.com/` |
+| `http://8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d9.pages.dev/` |
+| `http://swisborg-logiapp.webflow.io/` |
+| `http://www.alncsc.fit/Adobe/Adobefile.html` |
+| `http://t-mobile.swvuxm.top/pay/_frame/a_index.html` |
+| `https://m-mrcatsports.com/` |
 
 ---
 
