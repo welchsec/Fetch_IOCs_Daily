@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 15, 2026  
-> **Updated:** June 15, 2026 at 14:50 UTC  
+> **Date:** June 16, 2026  
+> **Updated:** June 16, 2026 at 13:19 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://dardsaaz.com/docusign/Mac/utility.php/download/download/index.php/` |
-| `http://www.gov-parkingrw.top/com/` |
-| `http://www.matesanto.com/dbnspa/dbnspa.htm` |
-| `https://www.site-4hencvzd9.godaddysites.com/` |
-| `http://www.gov-parkingrq.cyou/com/` |
-| `http://yashank-25.github.io/Amazon-Fronted-Project` |
-| `http://fiverr-orders-payment.pro/work/new-orders` |
-| `http://brachunchun.com/js/made.in.china/membercenter.made-in-china.com/index.html` |
-| `http://www.gov-parkingrq.shop/com/` |
-| `http://chloewnavalcert.wasmer.app/lhava-technologies` |
-| `https://girope.hu/doc/` |
-| `http://e03e0b58f0508f4c70296c7a04bec13d81dd03edb3f819f2b2e0c01ae4.pages.dev/` |
-| `http://gaamsinilogon.webflow.io/` |
-| `https://fnlocker.one/` |
-| `https://www.shopeeid4888.blogspot.com/` |
-| `http://8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d9.pages.dev/` |
-| `http://swisborg-logiapp.webflow.io/` |
-| `http://www.alncsc.fit/Adobe/Adobefile.html` |
-| `http://t-mobile.swvuxm.top/pay/_frame/a_index.html` |
-| `https://m-mrcatsports.com/` |
+| `https://notifications-iqeq.com/ao2phuaeswxtsfpx` |
+| `https://www.lootscanner.one/` |
+| `https://www.exodussupport.vercel.app/` |
+| `https://www.pemenangshopee389.blogspot.com/` |
+| `https://netflix-gpt-fawn.vercel.app/` |
+| `https://www.netflix-gpt-fawn.vercel.app/` |
+| `https://port10.govisibl.com/dlv/c.php?cca=273138&ccz=6740&cid=w0qoior66jk9dp5j31ojdcta&siteid=` |
+| `http://www.gov-parkingrs.cyou/com/` |
+| `https://notifyhubss.net/p79cfdcffib07c4c86i95c0e8767468bb788.html` |
+| `http://www.aa1998brazil.com/` |
+| `https://s.teams-rl.com/p/fjbd-cbch/capluzli/` |
+| `http://aktiffkan-paylater.zjj.my.id/` |
+| `http://api-wsource1-epc78300000000000152669tfn-homesolution.educacaosobredrogas.com.br/auth/login.php` |
+| `http://api-wsource1-epc78300000000000152669tfn-homesolution.educacaosobredrogas.com.br/` |
+| `http://f.digital-pathway.com/igit/4/3j2dl7xZoybbz27hxrZxbdZbyolggZbsyZxslZ4hZxZq` |
+| `http://mrako.vip/promo.html` |
+| `https://swaeba-bilal.github.io/Amazon_clone` |
+| `https://flowcode.com/p/eKbEkkGTmy?fc=0` |
+| `https://flowcode.com/p/eKbE4JCrHT?fc=0` |
+| `https://rahul-kumar-mahato.github.io/netflix` |
 
 ---
 
