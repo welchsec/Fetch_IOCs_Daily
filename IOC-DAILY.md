@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 16, 2026  
-> **Updated:** June 16, 2026 at 13:19 UTC  
+> **Date:** June 17, 2026  
+> **Updated:** June 17, 2026 at 12:42 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://notifications-iqeq.com/ao2phuaeswxtsfpx` |
-| `https://www.lootscanner.one/` |
-| `https://www.exodussupport.vercel.app/` |
-| `https://www.pemenangshopee389.blogspot.com/` |
-| `https://netflix-gpt-fawn.vercel.app/` |
-| `https://www.netflix-gpt-fawn.vercel.app/` |
-| `https://port10.govisibl.com/dlv/c.php?cca=273138&ccz=6740&cid=w0qoior66jk9dp5j31ojdcta&siteid=` |
-| `http://www.gov-parkingrs.cyou/com/` |
-| `https://notifyhubss.net/p79cfdcffib07c4c86i95c0e8767468bb788.html` |
-| `http://www.aa1998brazil.com/` |
-| `https://s.teams-rl.com/p/fjbd-cbch/capluzli/` |
-| `http://aktiffkan-paylater.zjj.my.id/` |
-| `http://api-wsource1-epc78300000000000152669tfn-homesolution.educacaosobredrogas.com.br/auth/login.php` |
-| `http://api-wsource1-epc78300000000000152669tfn-homesolution.educacaosobredrogas.com.br/` |
-| `http://f.digital-pathway.com/igit/4/3j2dl7xZoybbz27hxrZxbdZbyolggZbsyZxslZ4hZxZq` |
-| `http://mrako.vip/promo.html` |
-| `https://swaeba-bilal.github.io/Amazon_clone` |
-| `https://flowcode.com/p/eKbEkkGTmy?fc=0` |
-| `https://flowcode.com/p/eKbE4JCrHT?fc=0` |
-| `https://rahul-kumar-mahato.github.io/netflix` |
+| `https://hklogin.uat.mizuhoscfglobal.com/oauth2/authorize?response_type=code&client_id=bca4f495-a205-4cb4-8b0a-07f4d88a7584&scope=openid%20email%20profile&state=CeEiDbj5pJ71cSO2lzi7pvcGOXH7mmevbD7DFNqgeXo%3D&redirect_uri=https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth&nonce=-f1ca21YpsZjdNfCQ4Svmqe-0XxilP2uxOGLJ32BGs8` |
+| `https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth` |
+| `https://docment.e-docssign.net/education_redirect_second?5372b28b-1718-482e-afd8-5ae0571cba68` |
+| `https://docment.e-docssign.net/a6f4ab/5372b28b-1718-482e-afd8-5ae0571cba68` |
+| `https://alexgalho.com.br/anodur` |
+| `https://t.securefile.co.uk/education_redirect_second?5149d8f8-2a2f-43e8-ab82-b20f0750242f` |
+| `https://t.securefile.co.uk/xc107251229/4b366a/5149d8f8-2a2f-43e8-ab82-b20f0750242f` |
+| `https://www.roblox.com.ml/users/332706131242/profile` |
+| `https://aumentoja83.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://aumento86.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://dd1.qzz.io/dana/x8ab5/` |
+| `https://connexion-app.com/clientes/login.php` |
+| `https://www.ffxko.com/` |
+| `https://unrivaled-meringue-509c76.netlify.app/` |
+| `http://thrshopee29.blogspot.com/?m=1` |
+| `http://thrshopee16.blogspot.com/` |
+| `https://getvalued.live/` |
+| `https://owa-production-26ca.up.railway.app/` |
+| `https://www.pagesystemsupportfor.vercel.app/` |
+| `https://aktiffkan-paylater.whh.my.id/` |
 
 ---
 
