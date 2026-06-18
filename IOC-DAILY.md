@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 17, 2026  
-> **Updated:** June 17, 2026 at 12:42 UTC  
+> **Date:** June 18, 2026  
+> **Updated:** June 18, 2026 at 12:14 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://hklogin.uat.mizuhoscfglobal.com/oauth2/authorize?response_type=code&client_id=bca4f495-a205-4cb4-8b0a-07f4d88a7584&scope=openid%20email%20profile&state=CeEiDbj5pJ71cSO2lzi7pvcGOXH7mmevbD7DFNqgeXo%3D&redirect_uri=https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth&nonce=-f1ca21YpsZjdNfCQ4Svmqe-0XxilP2uxOGLJ32BGs8` |
-| `https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth` |
-| `https://docment.e-docssign.net/education_redirect_second?5372b28b-1718-482e-afd8-5ae0571cba68` |
-| `https://docment.e-docssign.net/a6f4ab/5372b28b-1718-482e-afd8-5ae0571cba68` |
-| `https://alexgalho.com.br/anodur` |
-| `https://t.securefile.co.uk/education_redirect_second?5149d8f8-2a2f-43e8-ab82-b20f0750242f` |
-| `https://t.securefile.co.uk/xc107251229/4b366a/5149d8f8-2a2f-43e8-ab82-b20f0750242f` |
-| `https://www.roblox.com.ml/users/332706131242/profile` |
-| `https://aumentoja83.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://aumento86.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://dd1.qzz.io/dana/x8ab5/` |
-| `https://connexion-app.com/clientes/login.php` |
-| `https://www.ffxko.com/` |
-| `https://unrivaled-meringue-509c76.netlify.app/` |
-| `http://thrshopee29.blogspot.com/?m=1` |
-| `http://thrshopee16.blogspot.com/` |
-| `https://getvalued.live/` |
-| `https://owa-production-26ca.up.railway.app/` |
-| `https://www.pagesystemsupportfor.vercel.app/` |
-| `https://aktiffkan-paylater.whh.my.id/` |
+| `https://www.appealhelpspage.store/` |
+| `https://shopee8717.blogspot.com/?m=1` |
+| `https://www.shopee8717.blogspot.com/?m=1` |
+| `https://sx.xmugrg.net/supprtdocs-remitstatementpdf/office/` |
+| `https://www.roblox.com.ml/users/172861273338/profile` |
+| `http://www.gov-parkingtp.shop/com/` |
+| `https://s4w.in/www-roblox-com-users-812313349401-profile` |
+| `http://t-mobile.onmilz.top/pay` |
+| `https://dao1-6em8.vercel.app/capcha.html` |
+| `http://www.tinyurl.com/n6ev77je/` |
+| `https://coningmarincert.wasmer.app/` |
+| `http://openseadrops62256.netlify.app/` |
+| `https://cpcontacts.20-120-116-237.cprapid.com/art?c_ds_na=rlnnUjydXNLf5p6CgeXslEPo3SbdorSlTZFwKVwwwa&c_ds_no=%2A%2F%2A` |
+| `http://cpcontacts.20-120-116-237.cprapid.com/` |
+| `https://www.roblox.com.ml/users/215772827141/profile` |
+| `https://www.coinbase-wallets.blogspot.com/?m=1` |
+| `https://coinbase-wallets.blogspot.com/?m=1` |
+| `https://fza.zkq.temporary.site/wp-content/uploads/2021/silhouette.html` |
+| `https://tanishq98714.github.io/amazon.github.io/` |
+| `https://tanishq98714.github.io/amazon.github.io` |
 
 ---
 
