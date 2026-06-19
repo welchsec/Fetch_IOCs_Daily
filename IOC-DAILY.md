@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 18, 2026  
-> **Updated:** June 18, 2026 at 12:14 UTC  
+> **Date:** June 19, 2026  
+> **Updated:** June 19, 2026 at 12:37 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.appealhelpspage.store/` |
-| `https://shopee8717.blogspot.com/?m=1` |
-| `https://www.shopee8717.blogspot.com/?m=1` |
-| `https://sx.xmugrg.net/supprtdocs-remitstatementpdf/office/` |
-| `https://www.roblox.com.ml/users/172861273338/profile` |
-| `http://www.gov-parkingtp.shop/com/` |
-| `https://s4w.in/www-roblox-com-users-812313349401-profile` |
-| `http://t-mobile.onmilz.top/pay` |
-| `https://dao1-6em8.vercel.app/capcha.html` |
-| `http://www.tinyurl.com/n6ev77je/` |
-| `https://coningmarincert.wasmer.app/` |
-| `http://openseadrops62256.netlify.app/` |
-| `https://cpcontacts.20-120-116-237.cprapid.com/art?c_ds_na=rlnnUjydXNLf5p6CgeXslEPo3SbdorSlTZFwKVwwwa&c_ds_no=%2A%2F%2A` |
-| `http://cpcontacts.20-120-116-237.cprapid.com/` |
-| `https://www.roblox.com.ml/users/215772827141/profile` |
-| `https://www.coinbase-wallets.blogspot.com/?m=1` |
-| `https://coinbase-wallets.blogspot.com/?m=1` |
-| `https://fza.zkq.temporary.site/wp-content/uploads/2021/silhouette.html` |
-| `https://tanishq98714.github.io/amazon.github.io/` |
-| `https://tanishq98714.github.io/amazon.github.io` |
+| `http://ai-start-faq-trezoor.typedream.app/` |
+| `http://faq-trezr-public-en.typedream.app/` |
+| `https://sarsdar.assuredwebtest.info/ga/click/2-6756391-9-9824-19244-10568-0e851c108c-f413840706` |
+| `http://faq-trezo-or-hard-ware-walle-t.typedream.app/` |
+| `http://trezoor-io-learn-cdn.typedream.app/` |
+| `https://enfermeriacanaria.com/112/NRD/9d04148/Sign_in.php/` |
+| `http://www.gov-parkingtn.top/com/` |
+| `https://360plus.net/eng/` |
+| `https://enfermeriacanaria.com/112/NRD/b3287fe/Sign_in.php/` |
+| `http://steamnconmunity.ru/Id/7656193558567372` |
+| `https://www.fortchamp.pro/` |
+| `http://swapdev.clovernode.com/` |
+| `https://gerenciadorcaixaempresas.com/` |
+| `http://conobse_prologe.godaddysites.com/` |
+| `https://www.roblox.com.ml/users/352738762333/profile` |
+| `https://enfermeriacanaria.com/112/NRD/15b627f/Sign_in.php/` |
+| `https://fuv.jbw.temporary.site/112/NRD/4e19a18/Sign_in.php/` |
+| `http://sarsdar.assuredwebtest.info/ga/click/2-68520954-174-9784-19120-10502-591f7a8b27-3108a8d734` |
+| `https://sicpac.com/sales` |
+| `https://pedagiodigitalonline.email/ecovias/home.php` |
 
 ---
 
