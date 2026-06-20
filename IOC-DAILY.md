@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 19, 2026  
-> **Updated:** June 19, 2026 at 12:37 UTC  
+> **Date:** June 20, 2026  
+> **Updated:** June 20, 2026 at 11:04 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://ai-start-faq-trezoor.typedream.app/` |
-| `http://faq-trezr-public-en.typedream.app/` |
-| `https://sarsdar.assuredwebtest.info/ga/click/2-6756391-9-9824-19244-10568-0e851c108c-f413840706` |
-| `http://faq-trezo-or-hard-ware-walle-t.typedream.app/` |
-| `http://trezoor-io-learn-cdn.typedream.app/` |
-| `https://enfermeriacanaria.com/112/NRD/9d04148/Sign_in.php/` |
-| `http://www.gov-parkingtn.top/com/` |
-| `https://360plus.net/eng/` |
-| `https://enfermeriacanaria.com/112/NRD/b3287fe/Sign_in.php/` |
-| `http://steamnconmunity.ru/Id/7656193558567372` |
-| `https://www.fortchamp.pro/` |
-| `http://swapdev.clovernode.com/` |
-| `https://gerenciadorcaixaempresas.com/` |
-| `http://conobse_prologe.godaddysites.com/` |
-| `https://www.roblox.com.ml/users/352738762333/profile` |
-| `https://enfermeriacanaria.com/112/NRD/15b627f/Sign_in.php/` |
-| `https://fuv.jbw.temporary.site/112/NRD/4e19a18/Sign_in.php/` |
-| `http://sarsdar.assuredwebtest.info/ga/click/2-68520954-174-9784-19120-10502-591f7a8b27-3108a8d734` |
-| `https://sicpac.com/sales` |
-| `https://pedagiodigitalonline.email/ecovias/home.php` |
+| `http://acct.caixesp-finbk.com/es` |
+| `http://security-indexer--adamlee160686.replit.app/` |
+| `https://www.roblox.com.ml/users/212690429527/profile` |
+| `http://jbapamxtra.my/` |
+| `https://bitly.cx/wQATO` |
+| `https://urlto.me/163234` |
+| `https://www.gov-parkingtp.cyou/com` |
+| `https://www.roblox.com.mu/users/8060917328/profile` |
+| `https://cw9h-2avi-96oj.jennifer-jencrosslaw-com-s-account.workers.dev/` |
+| `http://adityajoshi2628-collab.github.io/sem2.github.io` |
+| `https://aumentoja001.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://enfermeriacanaria.com/112/NRD/0e069cf/Sign_in.php/` |
+| `https://enfermeriacanaria.com/112/NRD/aae1c61/Sign_in.php/` |
+| `https://enfermeriacanaria.com/112/NRD/3a1e1e6/Sign_in.php/` |
+| `https://enfermeriacanaria.com/112/NRD/cbff321/Sign_in.php/` |
+| `https://fuv.jbw.temporary.site/112/NRD/1364f3c/Account/Account.php/` |
+| `https://suemaisnovoupgradeaumento.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://enfermeriacanaria.com/112/NRD/4e19a18/Sign_in.php/` |
+| `http://in.flea.biz.id/dana.bantuan` |
+| `https://vaaiidu.github.io/amazon/` |
 
 ---
 
