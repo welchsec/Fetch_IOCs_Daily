@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 20, 2026  
-> **Updated:** June 20, 2026 at 11:04 UTC  
+> **Date:** June 21, 2026  
+> **Updated:** June 21, 2026 at 11:36 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://acct.caixesp-finbk.com/es` |
-| `http://security-indexer--adamlee160686.replit.app/` |
-| `https://www.roblox.com.ml/users/212690429527/profile` |
-| `http://jbapamxtra.my/` |
-| `https://bitly.cx/wQATO` |
-| `https://urlto.me/163234` |
-| `https://www.gov-parkingtp.cyou/com` |
-| `https://www.roblox.com.mu/users/8060917328/profile` |
-| `https://cw9h-2avi-96oj.jennifer-jencrosslaw-com-s-account.workers.dev/` |
-| `http://adityajoshi2628-collab.github.io/sem2.github.io` |
-| `https://aumentoja001.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://enfermeriacanaria.com/112/NRD/0e069cf/Sign_in.php/` |
-| `https://enfermeriacanaria.com/112/NRD/aae1c61/Sign_in.php/` |
-| `https://enfermeriacanaria.com/112/NRD/3a1e1e6/Sign_in.php/` |
-| `https://enfermeriacanaria.com/112/NRD/cbff321/Sign_in.php/` |
-| `https://fuv.jbw.temporary.site/112/NRD/1364f3c/Account/Account.php/` |
-| `https://suemaisnovoupgradeaumento.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://enfermeriacanaria.com/112/NRD/4e19a18/Sign_in.php/` |
-| `http://in.flea.biz.id/dana.bantuan` |
-| `https://vaaiidu.github.io/amazon/` |
+| `http://mobile.jnzqbkbllo.com/` |
+| `http://m.m-kokosports.com/` |
+| `http://rabia-irshad2.github.io/amazon-clone` |
+| `http://thiagoaas.github.io/Recria-o-NETFLIX` |
+| `http://fiverr-orders-sale.pro/project/mary2` |
+| `http://smamuga.sidikmu.com/files/ali/alibaba/index.html` |
+| `https://radiorsj.be/baj/fe56a0fae333cf8/login.php` |
+| `http://allegrolokalnie.aukcja53725.cfd/oferta/bmw-e46-320d/73441` |
+| `http://t-mobile.okrwjf.top/pay/_frame/a_index.html` |
+| `http://truonghoanglien2007-spec.github.io/amazon-web` |
+| `https://botuque-homes9811.com/63616/` |
+| `http://atakilit-git.github.io/Apple-bootstrap` |
+| `http://www.webfun.website/landingpages/fe996bbf-3dce-487c-acd3-4a69200fa8a0/dmushm7cirtej6cjlv3ip3hmyar0lmwdfjsmgio69ik` |
+| `https://his-examine-armor-nascar.trycloudflare.com/login.html/` |
+| `https://ithelptoday.net/d5ca0d8a-16df-415b-ab28-06203f45739b/a/b605427b-b078-4dbe-9533-b003eeeb2032/ccp?lid=c7847fdc-9af1-4e9e-9190-b58574c0f31c/` |
+| `https://us-trezor-login-start.typedream.app/` |
+| `https://www.roblox.com.bi/users/759967517313/profile` |
+| `http://fariskt.github.io/airbnb-clone` |
+| `https://s.teams-ic.com/p/fjbd-cbcr/xzkpaqni` |
+| `https://santander.es.app.aviso2.mydomain.zone/stvm/login.php` |
 
 ---
 
