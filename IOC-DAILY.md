@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 21, 2026  
-> **Updated:** June 21, 2026 at 11:36 UTC  
+> **Date:** June 22, 2026  
+> **Updated:** June 22, 2026 at 14:18 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://mobile.jnzqbkbllo.com/` |
-| `http://m.m-kokosports.com/` |
-| `http://rabia-irshad2.github.io/amazon-clone` |
-| `http://thiagoaas.github.io/Recria-o-NETFLIX` |
-| `http://fiverr-orders-sale.pro/project/mary2` |
-| `http://smamuga.sidikmu.com/files/ali/alibaba/index.html` |
-| `https://radiorsj.be/baj/fe56a0fae333cf8/login.php` |
-| `http://allegrolokalnie.aukcja53725.cfd/oferta/bmw-e46-320d/73441` |
-| `http://t-mobile.okrwjf.top/pay/_frame/a_index.html` |
-| `http://truonghoanglien2007-spec.github.io/amazon-web` |
-| `https://botuque-homes9811.com/63616/` |
-| `http://atakilit-git.github.io/Apple-bootstrap` |
-| `http://www.webfun.website/landingpages/fe996bbf-3dce-487c-acd3-4a69200fa8a0/dmushm7cirtej6cjlv3ip3hmyar0lmwdfjsmgio69ik` |
-| `https://his-examine-armor-nascar.trycloudflare.com/login.html/` |
-| `https://ithelptoday.net/d5ca0d8a-16df-415b-ab28-06203f45739b/a/b605427b-b078-4dbe-9533-b003eeeb2032/ccp?lid=c7847fdc-9af1-4e9e-9190-b58574c0f31c/` |
-| `https://us-trezor-login-start.typedream.app/` |
-| `https://www.roblox.com.bi/users/759967517313/profile` |
-| `http://fariskt.github.io/airbnb-clone` |
-| `https://s.teams-ic.com/p/fjbd-cbcr/xzkpaqni` |
-| `https://santander.es.app.aviso2.mydomain.zone/stvm/login.php` |
+| `http://www.web-oulugames.com/` |
+| `https://www.dbsgate.bnxway.us/connx/register.php` |
+| `https://xmlf-ag9n-th11.mgeorgatos-netw1-com-s-account.workers.dev/73603076837c4d77` |
+| `https://www.vailivre.com/` |
+| `https://free.flowrodovias.site/` |
+| `https://pagar.freeflow-pedagio.com/` |
+| `http://bafkreif4avj7xqz25ftc6h5oobt4c2zrfht3pgkfv63loabq6zsh25n4ju.ipfs.dweb.link/` |
+| `http://www.ksvlebvpamqlxtngieulcbalpcbgfglpvcbtmkqiyr.rest/` |
+| `https://metamsk_us_logi.godaddysites.com/` |
+| `http://www.metamsk_us_logi.godaddysites.com/` |
+| `https://ihtisham-dev.github.io/amazon-clone-ui` |
+| `https://www.akunmitrakerja.com/login` |
+| `http://www.akunmitrakerja.com/profile/` |
+| `http://signmeta_mask_in.godaddysites.com/` |
+| `http://www.signmeta_mask_in.godaddysites.com/` |
+| `http://administration1.wasmer.app/` |
+| `http://meetasmjklogin.webflow.io/` |
+| `http://krakenloginv.webflow.io/` |
+| `http://metamaskkcrypt0login.webflow.io/` |
+| `https://dna-cash.myshink.com/nbsyg/` |
 
 ---
 
