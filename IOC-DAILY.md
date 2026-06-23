@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 22, 2026  
-> **Updated:** June 22, 2026 at 14:18 UTC  
+> **Date:** June 23, 2026  
+> **Updated:** June 23, 2026 at 11:48 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.web-oulugames.com/` |
-| `https://www.dbsgate.bnxway.us/connx/register.php` |
-| `https://xmlf-ag9n-th11.mgeorgatos-netw1-com-s-account.workers.dev/73603076837c4d77` |
-| `https://www.vailivre.com/` |
-| `https://free.flowrodovias.site/` |
-| `https://pagar.freeflow-pedagio.com/` |
-| `http://bafkreif4avj7xqz25ftc6h5oobt4c2zrfht3pgkfv63loabq6zsh25n4ju.ipfs.dweb.link/` |
-| `http://www.ksvlebvpamqlxtngieulcbalpcbgfglpvcbtmkqiyr.rest/` |
-| `https://metamsk_us_logi.godaddysites.com/` |
-| `http://www.metamsk_us_logi.godaddysites.com/` |
-| `https://ihtisham-dev.github.io/amazon-clone-ui` |
-| `https://www.akunmitrakerja.com/login` |
-| `http://www.akunmitrakerja.com/profile/` |
-| `http://signmeta_mask_in.godaddysites.com/` |
-| `http://www.signmeta_mask_in.godaddysites.com/` |
-| `http://administration1.wasmer.app/` |
-| `http://meetasmjklogin.webflow.io/` |
-| `http://krakenloginv.webflow.io/` |
-| `http://metamaskkcrypt0login.webflow.io/` |
-| `https://dna-cash.myshink.com/nbsyg/` |
+| `http://qarzdeals.com/steve/netflix` |
+| `https://azfit.com.br/sahmel/associates.html` |
+| `http://www.amazon-app7.biz.id/` |
+| `http://aizhara.apsny.land/assfv43/log.php/` |
+| `https://clone-project-omega.vercel.app/` |
+| `https://www.clone-project-omega.vercel.app/` |
+| `https://nehagupta-coder.github.io/Amazon-Clone/` |
+| `https://121deo.senes.at/stakings/signup.php` |
+| `https://www.pt-shopee1122.blogspot.com/` |
+| `https://www.gov-parkinguu.shop/com` |
+| `https://www.roblox.com.et/communities/735589887719/Graw-a-garden_2Fan` |
+| `https://mail.apple-icloud.us/ICL26/` |
+| `https://hr-messages.com/?keyname=IVwkYqp` |
+| `http://springboardpools.com/wp-content/McCarthy_Holdings_Inc` |
+| `https://doglep.com/sign-in?hash=2&language=en&op_token=JzzN2sCBRb0ik7FDOzNGxoxGedzzDoGkk5aqWHwsRG6fZY1MtjSoGycsaVgtmbzg3MRjilwqIwfGCKHWeMYOl8mzYSKbIBQJFWY&uuid=afc99a94-766f-4051-becb-fc7da2666b9d` |
+| `https://mail.icloud-com.co/ICL264/` |
+| `http://www.fortchecker.one/` |
+| `http://www.shopeetbk511.blogspot.com/` |
+| `https://raghav-0808.github.io/amazon_clone/` |
+| `https://sqlsculptor.github.io/netflix_clone/` |
 
 ---
 
