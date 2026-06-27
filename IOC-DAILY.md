@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 26, 2026  
-> **Updated:** June 26, 2026 at 11:35 UTC  
+> **Date:** June 27, 2026  
+> **Updated:** June 27, 2026 at 10:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://swami-ram.github.io/amazon/` |
-| `https://sucursalvnbancol.vercel.app/` |
-| `https://wilfriedngounnou75-byte.github.io/posi/` |
-| `http://www.gcdllp.com/` |
-| `http://www.3697.org/` |
-| `https://divyanshhydv7905.github.io/Netflix/` |
-| `https://www.joeueiu.vercel.app/` |
-| `https://www.vodafone-lauf.de/reparaturservice` |
-| `http://web-git-06-17-featwebaddportfoliopoolsanimatednu-18150b-uniswap.vercel.app/portfolio/activity` |
-| `http://web-git-06-17-featwebaddportfoliopoolsanimatednu-18150b-uniswap.vercel.app/portfolio/nfts` |
-| `http://web-git-06-17-featwebaddportfoliopoolsanimatednu-18150b-uniswap.vercel.app/portfolio/tokens` |
-| `https://sso-security.com/E.OkM7MicIJHgXS2aSaA?=3Duserid&am=` |
-| `http://man1-bafwfreze8c8dgde.z02.azurefd.net/` |
-| `http://otkook.webflow.io/` |
-| `https://store.workshopcommunitymodes.com/sharedfiles/filesdetails/id=3528164/` |
-| `http://email-verification.freedev.app/` |
-| `https://www.roblox.com.ml/games/79683690000534/SWMG-Advanced-Restraint-System-City?privateServerLinkCode=533164501954033669727844947343` |
-| `http://dpdco-uk.cfd/uk` |
-| `https://digital-trzo-start.square.site/` |
-| `https://toki-gov-tr-17.vercel.app/giris.php/` |
+| `http://03365pay.com/` |
+| `https://areaexclusiva.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://www.robiox.com.gr/users/6955289390/profile/` |
+| `http://jwgl.my.m.luxurylifebrand.com/` |
+| `https://www.borderclick.com/BC/media/Borderclick/Files/free-7up-robux.html` |
+| `https://www.roblox.com.ml/users/189325325212/profile` |
+| `https://inoutlconfirmar.webcindario.com/` |
+| `https://enlineaecuadorcredito-2026-enlinea--serviciosubii.replit.app/` |
+| `https://payme-paypal.com/login` |
+| `http://ig.do/usersroblox8898154689profile` |
+| `https://icloud.com.gr/njH/l/cnD` |
+| `http://icloud.com.gr/njH/lcnD` |
+| `https://nwp6qjrhd.kapsalontulp.nl/` |
+| `https://zeqaw.xyz/KKFzS/z6hwy2nfkrAeTezUP5w2F2ifVQP1vHpSNh7TFXqjmiWIeJwGVS6RQJTD0z9id54P8990hjm7A2DYnH0HjQ-Q/1782486964766/` |
+| `http://www.kronosquantity.vip/` |
+| `http://payme-paypal.com/` |
+| `http://metamasklogino.webflow.io/` |
+| `https://expensestatus.com/2513501.doc/18a80a/fad0f483-81b2-45c6-ad47-7272058d9cb6/` |
+| `http://bancolaumentatucupo-net.vercel.app/` |
+| `https://www.uspsmailjourney.com/uspsmailjourney.com/%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%A2%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%EF%BF%BD/` |
 
 ---
 
