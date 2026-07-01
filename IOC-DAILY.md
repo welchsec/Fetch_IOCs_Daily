@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** June 30, 2026  
-> **Updated:** June 30, 2026 at 11:35 UTC  
+> **Date:** July 01, 2026  
+> **Updated:** July 01, 2026 at 11:47 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://xbt8x82irz1kbcyq.hgsa226.com/` |
-| `https://ws.page-instant-whatsapp.com.cn/` |
-| `https://allegro-powiadomienia.shop/` |
-| `http://nachocebu.hostel.town/` |
-| `http://glovent.vu/` |
-| `https://nekofreegateway.dancerblade70.workers.dev/` |
-| `http://yxjackiczspdpbo.hnister.info/leds/` |
-| `http://connexion-ar24.nmuser.fr/mslce/` |
-| `http://one.fallup.xyz/` |
-| `https://prjrv.an1zf.xyz/dh` |
-| `https://tftue.an1zf.xyz/dh` |
-| `https://f36v.top/` |
-| `http://paypalus.qzz.io/` |
-| `https://njj.standard.us-east-1.oortstorages.com/filez.hw?eta=a.b@c` |
-| `https://pmlqd.an1zf.xyz/dh` |
-| `http://731656.cc/` |
-| `http://a1.8uzq.com/index.html` |
-| `https://xzwcr.an1zf.xyz/dh` |
-| `https://blog-y124235.blogspot.com/` |
-| `https://www.roblox.et/communities/6898643524/Blade-Ball-Wiggity-Ticket` |
+| `https://me660.com/` |
+| `http://www.yhdc111.com/` |
+| `https://www.dz11.vip/` |
+| `https://coteaqui.planosparavc.com.br/consorciocx/` |
+| `https://mwizz.leadsbr.com.br/latest/index.php/campaigns/qj564w317146c/track-url/tl753omtkb720/294ae0343bc4078eb3dbc23f8ef4fede6069f885` |
+| `https://k7winta.com/` |
+| `https://18075.xyz/` |
+| `https://dvhuu.ia2nz.xyz/dh` |
+| `https://www.tw-im-whatsapp.tw.cn/` |
+| `http://tw-h5pc-whatsapp.tw.cn/` |
+| `http://0146442.com/` |
+| `http://0129223.com/` |
+| `http://wwwj61.me/` |
+| `https://hga750.com/` |
+| `http://sw3t.cc/` |
+| `http://ba7zi.com/` |
+| `https://kwlke.ia2nz.xyz/dh` |
+| `https://rroblox.wf/users/1062657295/profile` |
+| `https://rashmisharma3005.github.io/amazon-clone` |
+| `https://kkotwal961-pixel.github.io/login.com/` |
 
 ---
 
