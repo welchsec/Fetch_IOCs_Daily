@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 01, 2026  
-> **Updated:** July 01, 2026 at 11:47 UTC  
+> **Date:** July 02, 2026  
+> **Updated:** July 02, 2026 at 11:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://me660.com/` |
-| `http://www.yhdc111.com/` |
-| `https://www.dz11.vip/` |
-| `https://coteaqui.planosparavc.com.br/consorciocx/` |
-| `https://mwizz.leadsbr.com.br/latest/index.php/campaigns/qj564w317146c/track-url/tl753omtkb720/294ae0343bc4078eb3dbc23f8ef4fede6069f885` |
-| `https://k7winta.com/` |
-| `https://18075.xyz/` |
-| `https://dvhuu.ia2nz.xyz/dh` |
-| `https://www.tw-im-whatsapp.tw.cn/` |
-| `http://tw-h5pc-whatsapp.tw.cn/` |
-| `http://0146442.com/` |
-| `http://0129223.com/` |
-| `http://wwwj61.me/` |
-| `https://hga750.com/` |
-| `http://sw3t.cc/` |
-| `http://ba7zi.com/` |
-| `https://kwlke.ia2nz.xyz/dh` |
-| `https://rroblox.wf/users/1062657295/profile` |
-| `https://rashmisharma3005.github.io/amazon-clone` |
-| `https://kkotwal961-pixel.github.io/login.com/` |
+| `https://china-wendingonline.com/?ExportExtend&Expire=` |
+| `http://qbappointmentpro.com/` |
+| `http://s35g.top/` |
+| `http://dravelo-gld-ventari-r2t7qp34.pages.dev/` |
+| `https://j105a.vip/` |
+| `https://arsrv239c1d0e77d1.s3.us-east-1.amazonaws.com/index.html#martinr@ehtc.com` |
+| `https://bookkeeper.co.tz/1/bWFydGluckBlaHRjLmNvbQ==` |
+| `https://57365h.net/` |
+| `https://gamane-login.webflow.io/` |
+| `https://exclusive-whatapp.hl.cn/` |
+| `https://abarrotodo.com/nick/ncl/home` |
+| `https://abarrotodo.com/nick/ncl/home/` |
+| `http://educationpolicy-euff.keelingsobotka.com/` |
+| `http://qbappointmentbook.com/` |
+| `https://abarrotodo.com/nick/ncl/home/nkl-log.php` |
+| `https://valorrostertwilight.s3.ap-northeast-2.amazonaws.com/sodium` |
+| `https://interactive-whatapp.hl.cn/` |
+| `http://professional-whatapp.hl.cn/` |
+| `https://aumentoli01.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://zilotti.com/vm.microsoft/auth/add.php` |
 
 ---
 
