@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 02, 2026  
-> **Updated:** July 02, 2026 at 11:23 UTC  
+> **Date:** July 03, 2026  
+> **Updated:** July 03, 2026 at 11:20 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://china-wendingonline.com/?ExportExtend&Expire=` |
-| `http://qbappointmentpro.com/` |
-| `http://s35g.top/` |
-| `http://dravelo-gld-ventari-r2t7qp34.pages.dev/` |
-| `https://j105a.vip/` |
-| `https://arsrv239c1d0e77d1.s3.us-east-1.amazonaws.com/index.html#martinr@ehtc.com` |
-| `https://bookkeeper.co.tz/1/bWFydGluckBlaHRjLmNvbQ==` |
-| `https://57365h.net/` |
-| `https://gamane-login.webflow.io/` |
-| `https://exclusive-whatapp.hl.cn/` |
-| `https://abarrotodo.com/nick/ncl/home` |
-| `https://abarrotodo.com/nick/ncl/home/` |
-| `http://educationpolicy-euff.keelingsobotka.com/` |
-| `http://qbappointmentbook.com/` |
-| `https://abarrotodo.com/nick/ncl/home/nkl-log.php` |
-| `https://valorrostertwilight.s3.ap-northeast-2.amazonaws.com/sodium` |
-| `https://interactive-whatapp.hl.cn/` |
-| `http://professional-whatapp.hl.cn/` |
-| `https://aumentoli01.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://zilotti.com/vm.microsoft/auth/add.php` |
+| `https://validationoutlook365ing.site.je/` |
+| `https://weedfreegardening.com/` |
+| `https://dovishfinancialservices.com/wp-content/uploads/2026/43rd/index.html` |
+| `https://exodus.page/` |
+| `http://trezor.wallet-web3.com.cn/` |
+| `https://j107b.vip/` |
+| `http://biglobe.duckdns.org/` |
+| `https://www.uspsmailjourney.com/uspsmailjourney.com/%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%A2%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%80%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%EF%BF%BD/` |
+| `http://sp0ct0-zorval-biz-talpra-mesqi.pages.dev/` |
+| `http://app.serrenon.com/` |
+| `http://rlavor-bintel-db3006bnh-mrkt-grendal.pages.dev/` |
+| `http://nk.xoexfml.net/safer/safe` |
+| `https://www.roblox.com.ml/users/183888298065/profile` |
+| `https://docusign.well-done.kz/cgi-bin/Windows/utility.php/download/index.php/download/index.php` |
+| `https://correos-institucionallco2026x.iceiy.com/?i=1` |
+| `https://ngfffgygt.vgho9-foqhfoq.com:15681/?inviteCode=64298&cid=118` |
+| `https://auth-spectrum-net-login-webmail.framer.website/?referer=urlvanish.com%2F4fcf4f71` |
+| `https://urlvanish.com/4fcf4f71` |
+| `https://verifwsa.iceiy.com/?i=1` |
+| `http://hwq-hyrws.wasmer.app/` |
 
 ---
 
