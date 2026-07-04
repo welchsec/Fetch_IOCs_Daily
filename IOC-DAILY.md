@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 03, 2026  
-> **Updated:** July 03, 2026 at 11:20 UTC  
+> **Date:** July 04, 2026  
+> **Updated:** July 04, 2026 at 10:44 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://validationoutlook365ing.site.je/` |
-| `https://weedfreegardening.com/` |
-| `https://dovishfinancialservices.com/wp-content/uploads/2026/43rd/index.html` |
-| `https://exodus.page/` |
-| `http://trezor.wallet-web3.com.cn/` |
-| `https://j107b.vip/` |
-| `http://biglobe.duckdns.org/` |
-| `https://www.uspsmailjourney.com/uspsmailjourney.com/%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%A2%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%80%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%EF%BF%BD/` |
-| `http://sp0ct0-zorval-biz-talpra-mesqi.pages.dev/` |
-| `http://app.serrenon.com/` |
-| `http://rlavor-bintel-db3006bnh-mrkt-grendal.pages.dev/` |
-| `http://nk.xoexfml.net/safer/safe` |
-| `https://www.roblox.com.ml/users/183888298065/profile` |
-| `https://docusign.well-done.kz/cgi-bin/Windows/utility.php/download/index.php/download/index.php` |
-| `https://correos-institucionallco2026x.iceiy.com/?i=1` |
-| `https://ngfffgygt.vgho9-foqhfoq.com:15681/?inviteCode=64298&cid=118` |
-| `https://auth-spectrum-net-login-webmail.framer.website/?referer=urlvanish.com%2F4fcf4f71` |
-| `https://urlvanish.com/4fcf4f71` |
-| `https://verifwsa.iceiy.com/?i=1` |
-| `http://hwq-hyrws.wasmer.app/` |
+| `http://parkom.xyz/` |
+| `http://bervani-gld-zarqumi-r2x6hz83.pages.dev/` |
+| `https://www.robiox.com.py/communities/214543246234/_Xx` |
+| `https://661815.com/` |
+| `https://j110l.vip/` |
+| `https://danae.com.br/it/persone-e-famiglie/content/internetbanking/common/extra-content-login/` |
+| `http://xelvani-gld-zormela-r4x6hz81.pages.dev/` |
+| `http://roblox.com.ml/users/274043370317/profile` |
+| `http://www.88465.xyz/` |
+| `https://renoveseumaisnovolimite.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://www.88680.xyz/` |
+| `http://www.88764.xyz/` |
+| `http://www.88446.xyz/` |
+| `http://www.88443.xyz/` |
+| `https://exel.programcraftsoft.com/?etext=2202.zIegtVs-6fQw2dcDO3UXz46QBmGpl2e8eO2tWpb80m93t5E9-d0H1Cw_kGeM4_4zrA7UdxCygaplpMXM0QRkryNf9NAqcbE3WyrxqFD-jg7J_2qjRP2hEyHFr_7HX5vlL4HIiwHOD1hTlbWd8W7jL2x3dmh5d2dteWdkZXpxZm0.dcb801bbf95e65ae3a506bb4701a3f1362d7c93e` |
+| `http://test.solutioncata.online/` |
+| `https://imtkone.top/` |
+| `http://abialine.ng/ffr` |
+| `http://peachexch.info/` |
+| `https://shopeethmyaaffiliate.net/user/login` |
 
 ---
 
