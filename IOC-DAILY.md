@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 04, 2026  
-> **Updated:** July 04, 2026 at 10:44 UTC  
+> **Date:** July 05, 2026  
+> **Updated:** July 05, 2026 at 10:53 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://parkom.xyz/` |
-| `http://bervani-gld-zarqumi-r2x6hz83.pages.dev/` |
-| `https://www.robiox.com.py/communities/214543246234/_Xx` |
-| `https://661815.com/` |
-| `https://j110l.vip/` |
-| `https://danae.com.br/it/persone-e-famiglie/content/internetbanking/common/extra-content-login/` |
-| `http://xelvani-gld-zormela-r4x6hz81.pages.dev/` |
-| `http://roblox.com.ml/users/274043370317/profile` |
-| `http://www.88465.xyz/` |
-| `https://renoveseumaisnovolimite.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://www.88680.xyz/` |
-| `http://www.88764.xyz/` |
-| `http://www.88446.xyz/` |
-| `http://www.88443.xyz/` |
-| `https://exel.programcraftsoft.com/?etext=2202.zIegtVs-6fQw2dcDO3UXz46QBmGpl2e8eO2tWpb80m93t5E9-d0H1Cw_kGeM4_4zrA7UdxCygaplpMXM0QRkryNf9NAqcbE3WyrxqFD-jg7J_2qjRP2hEyHFr_7HX5vlL4HIiwHOD1hTlbWd8W7jL2x3dmh5d2dteWdkZXpxZm0.dcb801bbf95e65ae3a506bb4701a3f1362d7c93e` |
-| `http://test.solutioncata.online/` |
-| `https://imtkone.top/` |
-| `http://abialine.ng/ffr` |
-| `http://peachexch.info/` |
-| `https://shopeethmyaaffiliate.net/user/login` |
+| `https://cnivok-krelna-mk3006tgb-bjbyh-2ch378.pages.dev/` |
+| `http://j99w.vip/` |
+| `https://www.72597.xyz/` |
+| `https://qurnela-gld-zelmora-a6t2dk87.pages.dev/send_appeal_request` |
+| `https://driksjb11jul.kaisen.my.id/` |
+| `http://dragon95.net/` |
+| `https://www.roblox.com.ml/users/332468864158/profile` |
+| `https://robiox.com.gr/users/1306582837/profile` |
+| `https://pwn1i-7mx-e83-7be-za3yks.pages.dev/` |
+| `http://encouraging-selfie-733175.framer.app/` |
+| `https://vo.la/a9EBH1M` |
+| `https://www.roblox.com.mu/games/142823291/Murder-Mystery-2?privateServerLinkCode=60605320627771840183253816519798` |
+| `http://validaciionlive.fwh.is/` |
+| `http://shivamkohli1989.github.io/aple-chk` |
+| `https://pancakeswapfinances.pages.dev/s.@2.webp/` |
+| `https://www.uspsmailjourney.com/uspsmailjourney.com/%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%EF%BF%BD/` |
+| `http://roblox.et/users/1473564975/profile` |
+| `http://claim1-txt-esl-org.help/` |
+| `https://s.team-p.my/p/ldfx-fupn/wtoihdnb` |
+| `http://moonpay-commerce-8nbxkcgb9-heliofi.vercel.app/` |
 
 ---
 
