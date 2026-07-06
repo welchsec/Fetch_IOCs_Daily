@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 05, 2026  
-> **Updated:** July 05, 2026 at 10:53 UTC  
+> **Date:** July 06, 2026  
+> **Updated:** July 06, 2026 at 12:31 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://cnivok-krelna-mk3006tgb-bjbyh-2ch378.pages.dev/` |
-| `http://j99w.vip/` |
-| `https://www.72597.xyz/` |
-| `https://qurnela-gld-zelmora-a6t2dk87.pages.dev/send_appeal_request` |
-| `https://driksjb11jul.kaisen.my.id/` |
-| `http://dragon95.net/` |
-| `https://www.roblox.com.ml/users/332468864158/profile` |
-| `https://robiox.com.gr/users/1306582837/profile` |
-| `https://pwn1i-7mx-e83-7be-za3yks.pages.dev/` |
-| `http://encouraging-selfie-733175.framer.app/` |
-| `https://vo.la/a9EBH1M` |
-| `https://www.roblox.com.mu/games/142823291/Murder-Mystery-2?privateServerLinkCode=60605320627771840183253816519798` |
-| `http://validaciionlive.fwh.is/` |
-| `http://shivamkohli1989.github.io/aple-chk` |
-| `https://pancakeswapfinances.pages.dev/s.@2.webp/` |
-| `https://www.uspsmailjourney.com/uspsmailjourney.com/%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%82%C3%83%C2%83%C3%82%C2%82%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%83%C3%83%C2%82%C3%82%C2%83%C3%83%C2%83%C3%82%C2%82%EF%BF%BD/` |
-| `http://roblox.et/users/1473564975/profile` |
-| `http://claim1-txt-esl-org.help/` |
-| `https://s.team-p.my/p/ldfx-fupn/wtoihdnb` |
-| `http://moonpay-commerce-8nbxkcgb9-heliofi.vercel.app/` |
+| `https://15846.xyz/` |
+| `http://www.15822.xyz/` |
+| `https://www.roblox.com.ml/users/270353583680/profile` |
+| `http://www.15831.xyz/` |
+| `http://www.15830.xyz/` |
+| `http://www.15840.xyz/` |
+| `http://www.15825.xyz/` |
+| `http://junkbegonedumpsters.com/wp-includes/theme-compat/rschxym/cmron1i/fhzpatq/sanctuary/fe.html` |
+| `https://company-notice.com/VIMy9K` |
+| `https://www.datchan514-sjjj.blogspot.com/` |
+| `https://www.roblox.com.ml/users/487767760418/profile` |
+| `https://every-severe-order.replit.app/` |
+| `http://black-waterfall-ff49.chenxu-ltch-cn.workers.dev/ndex/` |
+| `http://r7f1c8d4a6e23f9c5d1a7b0e4c8f6291.oimf.com.tr/` |
+| `https://s.team-p.my/p/hbie-apnf/mgcqoxuz` |
+| `https://karminvekona.alwaysdata.net/o/` |
+| `https://garvsinghdevops.github.io/Netflix-Clone` |
+| `http://awesome-sapphire-coyote.31-22-7-7.cpanel.site/registrar/` |
+| `https://w.whatsopp.xyz/` |
+| `http://www.72028.xyz/` |
 
 ---
 
