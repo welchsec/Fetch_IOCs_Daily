@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 06, 2026  
-> **Updated:** July 06, 2026 at 12:31 UTC  
+> **Date:** July 07, 2026  
+> **Updated:** July 07, 2026 at 11:34 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://15846.xyz/` |
-| `http://www.15822.xyz/` |
-| `https://www.roblox.com.ml/users/270353583680/profile` |
-| `http://www.15831.xyz/` |
-| `http://www.15830.xyz/` |
-| `http://www.15840.xyz/` |
-| `http://www.15825.xyz/` |
-| `http://junkbegonedumpsters.com/wp-includes/theme-compat/rschxym/cmron1i/fhzpatq/sanctuary/fe.html` |
-| `https://company-notice.com/VIMy9K` |
-| `https://www.datchan514-sjjj.blogspot.com/` |
-| `https://www.roblox.com.ml/users/487767760418/profile` |
-| `https://every-severe-order.replit.app/` |
-| `http://black-waterfall-ff49.chenxu-ltch-cn.workers.dev/ndex/` |
-| `http://r7f1c8d4a6e23f9c5d1a7b0e4c8f6291.oimf.com.tr/` |
-| `https://s.team-p.my/p/hbie-apnf/mgcqoxuz` |
-| `https://karminvekona.alwaysdata.net/o/` |
-| `https://garvsinghdevops.github.io/Netflix-Clone` |
-| `http://awesome-sapphire-coyote.31-22-7-7.cpanel.site/registrar/` |
-| `https://w.whatsopp.xyz/` |
-| `http://www.72028.xyz/` |
+| `http://faizan-khanjada.github.io/amazon-web-clone/` |
+| `http://https--www-roblox.cam/users/1179291790/profile` |
+| `https://www.roblox.com.ml/users/386636816310/profile` |
+| `https://whhaattss.blogspot.com/` |
+| `http://brenox-filda-d5c471-shrr.pages.dev/` |
+| `https://bebidasdelivery-ze.shop/` |
+| `http://telnavi-gld-zarqumi-a2x9dw67.pages.dev/` |
+| `https://alufast.com.br/Contractdocument/Contract_Document768726.html` |
+| `https://ig.do/Blox-Fruits-private-Server-Code-824334331232317323432370930` |
+| `https://shapeuclinic.in/myGov/au/Sign-in/index4.php/` |
+| `https://bts-cge.028426.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a/` |
+| `https://updates.webaccess-alert.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a/` |
+| `https://www.robiox.com.py/users/254572279895/profile/` |
+| `https://www.robiox.com.py/users/263343757321/profile/` |
+| `https://www.robiox.com.py/users/357553083881/profile/` |
+| `https://floppoker.com.br/odk/all11.html?eta=3mail@a.b.c0/` |
+| `https://vo.la/TukgeLp` |
+| `https://fortrun.top/` |
+| `https://mail_clthomas.kmdastur.co/outlookencrpt/mins.html?775&1*1howd4r*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw6s7CBhACEiwAuHQckmMG4jVCQEvK3DNGEDrqDGuST1wMvQ9_63A__PM9DZlTksBhfJzmTBoC28MQAvD_BwE&gbraid=0AAAAAD_qHs_7MG` |
+| `https://khushitiwari78.github.io/amazon-clone/` |
 
 ---
 
