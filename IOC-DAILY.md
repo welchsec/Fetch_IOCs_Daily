@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 07, 2026  
-> **Updated:** July 07, 2026 at 11:34 UTC  
+> **Date:** July 08, 2026  
+> **Updated:** July 08, 2026 at 10:51 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://faizan-khanjada.github.io/amazon-web-clone/` |
-| `http://https--www-roblox.cam/users/1179291790/profile` |
-| `https://www.roblox.com.ml/users/386636816310/profile` |
-| `https://whhaattss.blogspot.com/` |
-| `http://brenox-filda-d5c471-shrr.pages.dev/` |
-| `https://bebidasdelivery-ze.shop/` |
-| `http://telnavi-gld-zarqumi-a2x9dw67.pages.dev/` |
-| `https://alufast.com.br/Contractdocument/Contract_Document768726.html` |
-| `https://ig.do/Blox-Fruits-private-Server-Code-824334331232317323432370930` |
-| `https://shapeuclinic.in/myGov/au/Sign-in/index4.php/` |
-| `https://bts-cge.028426.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a/` |
-| `https://updates.webaccess-alert.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a/` |
-| `https://www.robiox.com.py/users/254572279895/profile/` |
-| `https://www.robiox.com.py/users/263343757321/profile/` |
-| `https://www.robiox.com.py/users/357553083881/profile/` |
-| `https://floppoker.com.br/odk/all11.html?eta=3mail@a.b.c0/` |
-| `https://vo.la/TukgeLp` |
-| `https://fortrun.top/` |
-| `https://mail_clthomas.kmdastur.co/outlookencrpt/mins.html?775&1*1howd4r*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw6s7CBhACEiwAuHQckmMG4jVCQEvK3DNGEDrqDGuST1wMvQ9_63A__PM9DZlTksBhfJzmTBoC28MQAvD_BwE&gbraid=0AAAAAD_qHs_7MG` |
-| `https://khushitiwari78.github.io/amazon-clone/` |
+| `http://9659aap19.vip/` |
+| `http://tt-come.cfd/` |
+| `https://www.roblox.com.ml/users/282564278986/profile` |
+| `http://bafkreiak6rgnyp5ck6773bzh327hyjmfcbs7i6t6ihj35zuz2vljnyuh54.ipfs.dweb.link/` |
+| `http://tksm.eu.cc/` |
+| `https://www.roblox.com.ml/users/6063323759/profile` |
+| `https://rnivok-zrelna-3tx94c-qjbyh-7rw823.pages.dev/` |
+| `https://www.robiox.com.py/users/446325151881/profile` |
+| `https://sso---en-ca--netcoins---com-cdn-auths.webflow.io/` |
+| `https://flyaairlogis-dp1f8pq5osbp.edgeone.dev/` |
+| `https://gzyzlsw.com/` |
+| `http://www.242626.cc/` |
+| `https://paag001.me/` |
+| `https://spotifyclonefirst.netlify.app/` |
+| `http://www.365outlookcl.webcindario.com/` |
+| `https://danapinjam0.biz.id/` |
+| `https://www.x7818.cc/` |
+| `https://www.xpj560.cc/` |
+| `http://main.d37khhekj0pd6u.amplifyapp.com/` |
+| `https://urlto.me/2XAd6.mp3` |
 
 ---
 
