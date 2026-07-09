@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 08, 2026  
-> **Updated:** July 08, 2026 at 10:51 UTC  
+> **Date:** July 09, 2026  
+> **Updated:** July 09, 2026 at 11:40 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://9659aap19.vip/` |
-| `http://tt-come.cfd/` |
-| `https://www.roblox.com.ml/users/282564278986/profile` |
-| `http://bafkreiak6rgnyp5ck6773bzh327hyjmfcbs7i6t6ihj35zuz2vljnyuh54.ipfs.dweb.link/` |
-| `http://tksm.eu.cc/` |
-| `https://www.roblox.com.ml/users/6063323759/profile` |
-| `https://rnivok-zrelna-3tx94c-qjbyh-7rw823.pages.dev/` |
-| `https://www.robiox.com.py/users/446325151881/profile` |
-| `https://sso---en-ca--netcoins---com-cdn-auths.webflow.io/` |
-| `https://flyaairlogis-dp1f8pq5osbp.edgeone.dev/` |
-| `https://gzyzlsw.com/` |
-| `http://www.242626.cc/` |
-| `https://paag001.me/` |
-| `https://spotifyclonefirst.netlify.app/` |
-| `http://www.365outlookcl.webcindario.com/` |
-| `https://danapinjam0.biz.id/` |
-| `https://www.x7818.cc/` |
-| `https://www.xpj560.cc/` |
-| `http://main.d37khhekj0pd6u.amplifyapp.com/` |
-| `https://urlto.me/2XAd6.mp3` |
+| `https://www.g87365.com/` |
+| `http://www.17669.xyz/` |
+| `https://unl.one/httpswwwrobloxcomusers10091533529profile.lnk` |
+| `https://click-hostopoint-ch-redirect5824312.blogspot.com/` |
+| `http://www.kmnnn.top/` |
+| `http://netcoineslogi-online.webflow.io/` |
+| `http://rxwewexex.pages.dev/` |
+| `https://bitter-field-0217.bphtejsvsddjaln.workers.dev/facebook.com-1027275509` |
+| `http://www.mvo.org.rw/cam/Dropbox%20Scampage/` |
+| `https://platinuonroxo.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `http://review.quality-account.com/secret=xs/` |
+| `https://facebook-partner.blogspot.com/?m=1` |
+| `https://sp0ct-farnok-biz-zelvix-qorlam.pages.dev/` |
+| `https://sp0ct-korqal-biz-forlen-havrix.pages.dev/` |
+| `https://sp0ct-barnix-biz-welqor-pavlem.pages.dev/` |
+| `https://sp0ct-corqam-biz-xorvik-delnex.pages.dev/` |
+| `http://pn2updateserver.b-cdn.net/chmelnall2.html` |
+| `http://appiholilogis.godaddysites.com/` |
+| `http://xelmor-brinka-c4b571-thrr.pages.dev/` |
+| `https://www.roblox.com.ml/users/468813438810/profile` |
 
 ---
 
