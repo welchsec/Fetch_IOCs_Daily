@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 09, 2026  
-> **Updated:** July 09, 2026 at 11:40 UTC  
+> **Date:** July 10, 2026  
+> **Updated:** July 10, 2026 at 11:37 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.g87365.com/` |
-| `http://www.17669.xyz/` |
-| `https://unl.one/httpswwwrobloxcomusers10091533529profile.lnk` |
-| `https://click-hostopoint-ch-redirect5824312.blogspot.com/` |
-| `http://www.kmnnn.top/` |
-| `http://netcoineslogi-online.webflow.io/` |
-| `http://rxwewexex.pages.dev/` |
-| `https://bitter-field-0217.bphtejsvsddjaln.workers.dev/facebook.com-1027275509` |
-| `http://www.mvo.org.rw/cam/Dropbox%20Scampage/` |
-| `https://platinuonroxo.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `http://review.quality-account.com/secret=xs/` |
-| `https://facebook-partner.blogspot.com/?m=1` |
-| `https://sp0ct-farnok-biz-zelvix-qorlam.pages.dev/` |
-| `https://sp0ct-korqal-biz-forlen-havrix.pages.dev/` |
-| `https://sp0ct-barnix-biz-welqor-pavlem.pages.dev/` |
-| `https://sp0ct-corqam-biz-xorvik-delnex.pages.dev/` |
-| `http://pn2updateserver.b-cdn.net/chmelnall2.html` |
-| `http://appiholilogis.godaddysites.com/` |
-| `http://xelmor-brinka-c4b571-thrr.pages.dev/` |
-| `https://www.roblox.com.ml/users/468813438810/profile` |
+| `https://messenger-clone-taupe.vercel.app/` |
+| `https://www.messenger-clone-taupe.vercel.app/` |
+| `http://zhongshujuan.com/` |
+| `http://chatgpt0005.eu.org/blog/discord-patch-notes-october-7-2025` |
+| `https://www.roblox.com.ml/games/15884350761/UPDATE-Bloody-Ragdoll-Engine-Remastered?privateServerLinkCode=145044208057261336158114392125` |
+| `https://fidel-itjy.cyou/yh88msj` |
+| `https://fidell-tym.cyou/m35hrs/` |
+| `https://ws-whmalopp.lat/alysheng/` |
+| `https://fidei-itjy.cyou/cjo7mzu/` |
+| `https://canvathai.net/canva-pro/` |
+| `https://aktifkaans-xpayllteer.duztorin.biz.id/` |
+| `http://aktifkandisinicxcx.mizone.biz.id/` |
+| `http://niralist.com.tr/ngsyubh/mwgd1ak/aruzoks/wp-sx1116/dmlkorea.html` |
+| `https://onramp-demo-application-git-main-coinbase-vercel.vercel.app/fund` |
+| `https://canvathai.net/canva-plan/` |
+| `https://roblox.com.mu/communities/3183938804/Dragadopt` |
+| `https://trezrsuiteweb.blogspot.com/` |
+| `http://www.trezrsuiteweb.blogspot.com/` |
+| `http://bsivok-tlnar-za3006qaz-djbyh-2st349.pages.dev/` |
+| `https://apfpanafrican.com/5abd/` |
 
 ---
 
