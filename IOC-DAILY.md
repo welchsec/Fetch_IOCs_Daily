@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 10, 2026  
-> **Updated:** July 10, 2026 at 11:37 UTC  
+> **Date:** July 11, 2026  
+> **Updated:** July 11, 2026 at 10:06 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://messenger-clone-taupe.vercel.app/` |
-| `https://www.messenger-clone-taupe.vercel.app/` |
-| `http://zhongshujuan.com/` |
-| `http://chatgpt0005.eu.org/blog/discord-patch-notes-october-7-2025` |
-| `https://www.roblox.com.ml/games/15884350761/UPDATE-Bloody-Ragdoll-Engine-Remastered?privateServerLinkCode=145044208057261336158114392125` |
-| `https://fidel-itjy.cyou/yh88msj` |
-| `https://fidell-tym.cyou/m35hrs/` |
-| `https://ws-whmalopp.lat/alysheng/` |
-| `https://fidei-itjy.cyou/cjo7mzu/` |
-| `https://canvathai.net/canva-pro/` |
-| `https://aktifkaans-xpayllteer.duztorin.biz.id/` |
-| `http://aktifkandisinicxcx.mizone.biz.id/` |
-| `http://niralist.com.tr/ngsyubh/mwgd1ak/aruzoks/wp-sx1116/dmlkorea.html` |
-| `https://onramp-demo-application-git-main-coinbase-vercel.vercel.app/fund` |
-| `https://canvathai.net/canva-plan/` |
-| `https://roblox.com.mu/communities/3183938804/Dragadopt` |
-| `https://trezrsuiteweb.blogspot.com/` |
-| `http://www.trezrsuiteweb.blogspot.com/` |
-| `http://bsivok-tlnar-za3006qaz-djbyh-2st349.pages.dev/` |
-| `https://apfpanafrican.com/5abd/` |
+| `http://markerlessar.com/alldr/9986099860/dmh1cnRhZG9AbGFjYXJlLm9yZw==` |
+| `https://macroj1f20mg35-eucbgkdadtf6cdd2.z03.azurefd.net/` |
+| `https://www.robiox.com.py/users/244754072376/profile` |
+| `https://s4w.in/https-www-roblox-com-users-8507824409-profile` |
+| `https://www.roblox.com.mu/games/8832438757/PVP-Sword-Fighting?privateServerLinkCode=45354504321536488867162702735753` |
+| `https://www--roblox.co/users/1078324716/profile` |
+| `http://vra412il-qom53er-4zgfb3wx-gthn-aravik.pages.dev/` |
+| `http://wexewxx-6o0.pages.dev/` |
+| `https://bmediaagency.com/uploads/access/made.in.chine/membercenter.made-in-china.com/index.html` |
+| `https://bmediaagency.com/uploads/access/made.in.chine/membercenter.made-in-china.com/index.html/` |
+| `https://www.roblox.com.am/users/315786304316/profile` |
+| `http://www.14277.xyz/` |
+| `http://qiguangwhcm.com/` |
+| `https://s4w.in/https-www-roblox-com-users-10150120701-profile` |
+| `http://coinprotect.cc/` |
+| `http://www.fortes.my/` |
+| `https://www.roblox.com.ml/users/413899391385/profile/` |
+| `https://japan-aotucheck.index-sign013.wtttt20hc13.cc/5f4dcc3b5aa765d61d8327deb882cf99/` |
+| `https://ppt.cc/fNVaKx` |
+| `https://oj.jo/internal/web-sso/` |
 
 ---
 
