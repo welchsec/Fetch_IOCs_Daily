@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 12, 2026  
-> **Updated:** July 12, 2026 at 10:15 UTC  
+> **Date:** July 13, 2026  
+> **Updated:** July 13, 2026 at 11:45 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.facebookphotospage.blogspot.com/` |
-| `http://sp32ct-molzar-biz-kelnik-vutra.pages.dev/` |
-| `http://sp32ct-qurnik-biz-lomvak-sutra.pages.dev/` |
-| `https://www.roblox.com.ml/users/395561034796/profile` |
-| `https://www.apps9-facebook.blogspot.com/` |
-| `http://www.thtrjhtyjjfd.weebly.com/` |
-| `http://www.microsoftfinancialsummary.weebly.com/` |
-| `http://www.barreauilu.weebly.com/` |
-| `http://166798365756.com/` |
-| `https://apps9-facebook.blogspot.com/?m=1` |
-| `http://dravora-gld-lentavi-r7x1dk83.pages.dev/` |
-| `https://5s3r-e4nm1-xkrstg-elt-4pt.pages.dev/` |
-| `https://15xwq5-edp-ar6lu-jijfj7-ml8.pages.dev/` |
-| `http://dravoni-gld-zarqumi-r1x3hp74.pages.dev/` |
-| `http://ebrt-fvcgzd-a1t6mb-9q0-1ri7.pages.dev/` |
-| `https://1rzvc-knk-ihfxi-che4dz-qvj.pages.dev/` |
-| `http://dravona-gld-lentora-r7x6fw19.pages.dev/` |
-| `http://dravemi-gld-zormela-r4x5hp63.pages.dev/` |
-| `https://draveta-gld-zarqumi-r9x8fw24.pages.dev/` |
-| `http://2qejk-d9epez-5skmhm-xa3f3.pages.dev/` |
+| `https://axodus-io.framer.ai/` |
+| `https://073bethh.com/` |
+| `http://sign-in-to-xfinity-10199.weebly.com/` |
+| `https://suncoastb.dev/contact-us.php` |
+| `https://chusyg.cc/` |
+| `https://bra-facebook.blogspot.com/?m=1` |
+| `https://dstelar-shadow-0hm71b-flux-nebula.pages.dev/` |
+| `https://fls-a235d261-42ef-4e04-8e8d-bdeef589f792.laravel.cloud/micros.html` |
+| `https://excoodislogin.webflow.io/` |
+| `https://www.robiox.com.py/users/456976834173/profile` |
+| `http://s37g.top/` |
+| `http://nomura.vip/` |
+| `http://www.roblox.com.ml/users/346582866646/profile` |
+| `https://oraxil-gromi-7s36pq-zthn-travik.pages.dev/` |
+| `https://landing3-web-lcgz.vercel.app/positions` |
+| `https://nlavor-prism-3b82fc-mrkt-titanix.pages.dev/` |
+| `https://roblox.et/communities/505991951/blade` |
+| `https://tulip-com.neocities.org/rommmania/` |
+| `https://qrsu.io/VXyHG` |
+| `https://s4w.in/www-roblox-com-users-8191912124-profile` |
 
 ---
 
