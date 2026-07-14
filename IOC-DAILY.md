@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 13, 2026  
-> **Updated:** July 13, 2026 at 11:45 UTC  
+> **Date:** July 14, 2026  
+> **Updated:** July 14, 2026 at 10:26 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://axodus-io.framer.ai/` |
-| `https://073bethh.com/` |
-| `http://sign-in-to-xfinity-10199.weebly.com/` |
-| `https://suncoastb.dev/contact-us.php` |
-| `https://chusyg.cc/` |
-| `https://bra-facebook.blogspot.com/?m=1` |
-| `https://dstelar-shadow-0hm71b-flux-nebula.pages.dev/` |
-| `https://fls-a235d261-42ef-4e04-8e8d-bdeef589f792.laravel.cloud/micros.html` |
-| `https://excoodislogin.webflow.io/` |
-| `https://www.robiox.com.py/users/456976834173/profile` |
-| `http://s37g.top/` |
-| `http://nomura.vip/` |
-| `http://www.roblox.com.ml/users/346582866646/profile` |
-| `https://oraxil-gromi-7s36pq-zthn-travik.pages.dev/` |
-| `https://landing3-web-lcgz.vercel.app/positions` |
-| `https://nlavor-prism-3b82fc-mrkt-titanix.pages.dev/` |
-| `https://roblox.et/communities/505991951/blade` |
-| `https://tulip-com.neocities.org/rommmania/` |
-| `https://qrsu.io/VXyHG` |
-| `https://s4w.in/www-roblox-com-users-8191912124-profile` |
+| `http://chatgpt0005.eu.org/blog/checkpoint-2025-discord-year-in-review` |
+| `http://dstrata-nyxus-5d04be-wave-aurora.pages.dev/` |
+| `http://word-im-whatapp.hl.cn/` |
+| `https://www.roblox.com.bn/games/112603410439245/Drones-Battlegrounds?privateServerLinkCode=28405194768188635998407230900998&game_id=112603410439245&game_name=Drones-Battlegrounds` |
+| `http://www.roblox.com.ml/users/274753046570/profile` |
+| `http://adorocupom.com/cupons-de-desconto/amazon-promo` |
+| `https://worker-aged-sky-4e36.workersdev40050.workers.dev/` |
+| `https://aluntala.hostel.town/` |
+| `https://ayushshetty355.github.io/amazon-clone/` |
+| `https://ds-deep.github.io/Amazon_Clone/` |
+| `https://q-facebook.blogspot.com/` |
+| `http://teams-6f389e3d8f952226.portal-01783827.workers.dev/` |
+| `https://habib-ur-rahman-243.github.io/Habib-dev/` |
+| `http://bybit3.top/` |
+| `http://billowing-fg.amsterdamschipholairportvendor.workers.dev/` |
+| `https://divansh-chaurasiya.github.io/Netflix-clone/` |
+| `https://zbkrvmdkougv.top/ewrfew/cache-route-19384/view-layer` |
+| `http://privok-zplen-7ej48e-rjygh-0gh127-acp.pages.dev/` |
+| `https://www.borderclick.com/BC/media/Borderclick/Files/free-robux-codes-today.html` |
+| `https://avanteshipping.com/wp-includes/fonts/easy2f/` |
 
 ---
 
