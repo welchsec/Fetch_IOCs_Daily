@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 14, 2026  
-> **Updated:** July 14, 2026 at 10:26 UTC  
+> **Date:** July 15, 2026  
+> **Updated:** July 15, 2026 at 10:30 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://chatgpt0005.eu.org/blog/checkpoint-2025-discord-year-in-review` |
-| `http://dstrata-nyxus-5d04be-wave-aurora.pages.dev/` |
-| `http://word-im-whatapp.hl.cn/` |
-| `https://www.roblox.com.bn/games/112603410439245/Drones-Battlegrounds?privateServerLinkCode=28405194768188635998407230900998&game_id=112603410439245&game_name=Drones-Battlegrounds` |
-| `http://www.roblox.com.ml/users/274753046570/profile` |
-| `http://adorocupom.com/cupons-de-desconto/amazon-promo` |
-| `https://worker-aged-sky-4e36.workersdev40050.workers.dev/` |
-| `https://aluntala.hostel.town/` |
-| `https://ayushshetty355.github.io/amazon-clone/` |
-| `https://ds-deep.github.io/Amazon_Clone/` |
-| `https://q-facebook.blogspot.com/` |
-| `http://teams-6f389e3d8f952226.portal-01783827.workers.dev/` |
-| `https://habib-ur-rahman-243.github.io/Habib-dev/` |
-| `http://bybit3.top/` |
-| `http://billowing-fg.amsterdamschipholairportvendor.workers.dev/` |
-| `https://divansh-chaurasiya.github.io/Netflix-clone/` |
-| `https://zbkrvmdkougv.top/ewrfew/cache-route-19384/view-layer` |
-| `http://privok-zplen-7ej48e-rjygh-0gh127-acp.pages.dev/` |
-| `https://www.borderclick.com/BC/media/Borderclick/Files/free-robux-codes-today.html` |
-| `https://avanteshipping.com/wp-includes/fonts/easy2f/` |
+| `http://dmcllnical.com/rr/0469404694/Ym9ubmllLmJhZGlyYUBwbmdwb3J0cy5jb20ucGc` |
+| `http://dmcllnical.com/rr/0469404694/Ym9ubmllLmJhZGlyYUBwbmdwb3J0cy5jb20ucGc=` |
+| `https://bac-uytbf.com/search` |
+| `http://truez23pmwduv-frc7d3dkgghsc5au.z03.azurefd.net/` |
+| `http://dmcllnical.com/rr/9564295642/ZW5hc2gua3VwZXNhbkBwbmdwb3J0cy5jb20ucGc` |
+| `http://dmcllnical.com/rr/9564295642/ZW5hc2gua3VwZXNhbkBwbmdwb3J0cy5jb20ucGc=` |
+| `https://facebook.meweb.kz/` |
+| `https://siteestatico.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://bac-trvhg.com/search` |
+| `https://artemagdalena.org/wp-content/utils.php` |
+| `https://qrco.de/bgumXf` |
+| `http://dmcllnical.com/owar/7612576125/ZGloby50YW1hcnVhQHBuZ3BvcnRzLmNvbS5wZw==` |
+| `http://dmcllnical.com/owar/7612576125/ZGloby50YW1hcnVhQHBuZ3BvcnRzLmNvbS5wZw` |
+| `https://www.roblox.com.mu/games/9578901194/Woman-Repellant?privateServerLinkCode=87284002864700105834939743319554` |
+| `https://www.centralgoldnu.fun/` |
+| `https://grouponedeals.com/?r=e951e0cd-fcf3-47f6-87ca-1b6eb0bd0ae4` |
+| `https://0800numbers-uk.co.uk/server/ionosmail.html` |
+| `https://apdlkiwidzs.top/private-static/media-cache-202607/view-token` |
+| `http://aern-e4a0fnb4hsa4e9fb.z03.azurefd.net/` |
+| `http://dmcllnical.com/rr/7900979009/dHJldm9yLnBlcGFAcG5ncG9ydHMuY29tLnBn` |
 
 ---
 
