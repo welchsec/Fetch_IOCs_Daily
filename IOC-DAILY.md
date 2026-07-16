@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 15, 2026  
-> **Updated:** July 15, 2026 at 10:30 UTC  
+> **Date:** July 16, 2026  
+> **Updated:** July 16, 2026 at 10:46 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://dmcllnical.com/rr/0469404694/Ym9ubmllLmJhZGlyYUBwbmdwb3J0cy5jb20ucGc` |
-| `http://dmcllnical.com/rr/0469404694/Ym9ubmllLmJhZGlyYUBwbmdwb3J0cy5jb20ucGc=` |
-| `https://bac-uytbf.com/search` |
-| `http://truez23pmwduv-frc7d3dkgghsc5au.z03.azurefd.net/` |
-| `http://dmcllnical.com/rr/9564295642/ZW5hc2gua3VwZXNhbkBwbmdwb3J0cy5jb20ucGc` |
-| `http://dmcllnical.com/rr/9564295642/ZW5hc2gua3VwZXNhbkBwbmdwb3J0cy5jb20ucGc=` |
-| `https://facebook.meweb.kz/` |
-| `https://siteestatico.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://bac-trvhg.com/search` |
-| `https://artemagdalena.org/wp-content/utils.php` |
-| `https://qrco.de/bgumXf` |
-| `http://dmcllnical.com/owar/7612576125/ZGloby50YW1hcnVhQHBuZ3BvcnRzLmNvbS5wZw==` |
-| `http://dmcllnical.com/owar/7612576125/ZGloby50YW1hcnVhQHBuZ3BvcnRzLmNvbS5wZw` |
-| `https://www.roblox.com.mu/games/9578901194/Woman-Repellant?privateServerLinkCode=87284002864700105834939743319554` |
-| `https://www.centralgoldnu.fun/` |
-| `https://grouponedeals.com/?r=e951e0cd-fcf3-47f6-87ca-1b6eb0bd0ae4` |
-| `https://0800numbers-uk.co.uk/server/ionosmail.html` |
-| `https://apdlkiwidzs.top/private-static/media-cache-202607/view-token` |
-| `http://aern-e4a0fnb4hsa4e9fb.z03.azurefd.net/` |
-| `http://dmcllnical.com/rr/7900979009/dHJldm9yLnBlcGFAcG5ncG9ydHMuY29tLnBn` |
+| `https://nl-i19sdn12k.replit.app/view/482915` |
+| `http://cpciservicesnh.com/Adobe/` |
+| `http://www.x25n.top/` |
+| `http://www.x25q.top/` |
+| `http://www.y26v.top/` |
+| `https://2025-beta.vercel.app/` |
+| `https://m18v.top/` |
+| `https://t68x.top/` |
+| `https://u26c.top/` |
+| `https://u25z.top/` |
+| `https://t75j.top/` |
+| `https://u26e.top/` |
+| `https://s32f.top/` |
+| `https://www.365bet188.com/` |
+| `https://s32h.top/` |
+| `http://ladger-wallet-page.pages.dev/` |
+| `https://www.roblox.com.ml/users/444336347764/profile` |
+| `https://s32e.top/` |
+| `https://www.roblox.com.mu/users/584085805/profile` |
+| `https://www.roblox.com.mu/users/5209429083/profile` |
 
 ---
 
