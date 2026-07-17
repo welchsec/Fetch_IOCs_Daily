@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 16, 2026  
-> **Updated:** July 16, 2026 at 10:46 UTC  
+> **Date:** July 17, 2026  
+> **Updated:** July 17, 2026 at 10:26 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://nl-i19sdn12k.replit.app/view/482915` |
-| `http://cpciservicesnh.com/Adobe/` |
-| `http://www.x25n.top/` |
-| `http://www.x25q.top/` |
-| `http://www.y26v.top/` |
-| `https://2025-beta.vercel.app/` |
-| `https://m18v.top/` |
-| `https://t68x.top/` |
-| `https://u26c.top/` |
-| `https://u25z.top/` |
-| `https://t75j.top/` |
-| `https://u26e.top/` |
-| `https://s32f.top/` |
-| `https://www.365bet188.com/` |
-| `https://s32h.top/` |
-| `http://ladger-wallet-page.pages.dev/` |
-| `https://www.roblox.com.ml/users/444336347764/profile` |
-| `https://s32e.top/` |
-| `https://www.roblox.com.mu/users/584085805/profile` |
-| `https://www.roblox.com.mu/users/5209429083/profile` |
+| `https://www.roblox.com.ml/users/162176377204/profile` |
+| `https://s4w.in/www-roblox-com-hk-users-162176377204-profile` |
+| `https://www.ti.biogasos.com/` |
+| `http://www.hr-paymentincrement-payroll.sbs/` |
+| `https://trezarsuit-en.wasmer.app/` |
+| `https://web-pc.pc-whatsapp.hk.cn/` |
+| `https://chat-h5-whatsapp.com.cn/` |
+| `https://m.365bet990.com/eng/home/index/` |
+| `https://www.roblox.com.bi/communities/5662684360108/RubyLove` |
+| `https://santapenide.life/inl/` |
+| `https://rfefrgdgfddf.duckdns.org/login.php` |
+| `https://www.rfefrgdgfddf.duckdns.org/login.php` |
+| `https://rfefrgdgfddf.duckdns.org/` |
+| `https://www.rfefrgdgfddf.duckdns.org/` |
+| `http://mail.sywsywml.rumahsakit.de/` |
+| `http://mail.mmma.rumahsakit.de/` |
+| `http://sedeagenckp.click/ES` |
+| `http://mghub.phemayameltahub.site/counter-suspend-federate-vendor-status-lightweight-license%22` |
+| `http://sedeagenckx.click/ES` |
+| `http://sedeagenckx.qpon/ES` |
 
 ---
 
