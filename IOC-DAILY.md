@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 17, 2026  
-> **Updated:** July 17, 2026 at 10:26 UTC  
+> **Date:** July 18, 2026  
+> **Updated:** July 18, 2026 at 10:04 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.ml/users/162176377204/profile` |
-| `https://s4w.in/www-roblox-com-hk-users-162176377204-profile` |
-| `https://www.ti.biogasos.com/` |
-| `http://www.hr-paymentincrement-payroll.sbs/` |
-| `https://trezarsuit-en.wasmer.app/` |
-| `https://web-pc.pc-whatsapp.hk.cn/` |
-| `https://chat-h5-whatsapp.com.cn/` |
-| `https://m.365bet990.com/eng/home/index/` |
-| `https://www.roblox.com.bi/communities/5662684360108/RubyLove` |
-| `https://santapenide.life/inl/` |
-| `https://rfefrgdgfddf.duckdns.org/login.php` |
-| `https://www.rfefrgdgfddf.duckdns.org/login.php` |
-| `https://rfefrgdgfddf.duckdns.org/` |
-| `https://www.rfefrgdgfddf.duckdns.org/` |
-| `http://mail.sywsywml.rumahsakit.de/` |
-| `http://mail.mmma.rumahsakit.de/` |
-| `http://sedeagenckp.click/ES` |
-| `http://mghub.phemayameltahub.site/counter-suspend-federate-vendor-status-lightweight-license%22` |
-| `http://sedeagenckx.click/ES` |
-| `http://sedeagenckx.qpon/ES` |
+| `http://m28u.top/` |
+| `https://hivancouverjerichobeach.hostel.town/` |
+| `https://ultraupgradeativo.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://www.buyinstagramfollowers44.blogspot.com/?m=1` |
+| `https://roblox.iconce.com/imualabastabrock` |
+| `https://f1nancier.com/?r=d1dcd9d3-95e0-4af8-9245-221405b49653` |
+| `https://www.roblox.com.bn/games/13166293021/Barbie-DreamHouse-Tycoon?privateServerLinkCode=10949308717839015034106348468580&game_id=13166293021&game_name=Barbie-DreamHouse-Tycoon` |
+| `https://www.roblox.com.bn/games/15352028692/Ultimate-Home-Tycoon?privateServerLinkCode=10949308717839015034106348468580&game_id=15352028692&game_name=Ultimate-Home-Tycoon` |
+| `https://www.roblox.com.bn/games/14238596528/Giga-Mansion-Tycoon?privateServerLinkCode=10949308717839015034106348468580&game_id=14238596528&game_name=Giga-Mansion-Tycoon` |
+| `https://www.roblox.com.bn/games/12702425983/Millionaire-Mansion-Tycoon?privateServerLinkCode=10949308717839015034106348468580&game_id=12702425983&game_name=Millionaire-Mansion-Tycoon` |
+| `https://www.site-w5fp3sqce.godaddysites.com/` |
+| `https://www.facebook-help-es.blogspot.com/` |
+| `http://govindkh04.github.io/netflix-clone/` |
+| `https://kloclibkblink-dp73tqm8r6w5.edgeone.dev/AUXILL?eta=lorum2@d8d76802e654039f01c0ffadde58874e3eaf.org` |
+| `https://s4w.in/www-roblox-com-users-321253650173-profile` |
+| `https://www.roblox.com.ml/users/321253650173/profile` |
+| `https://facebook-help-es.blogspot.com/` |
+| `https://facebooklogin74.blogspot.com/?m=1` |
+| `https://www.roblox.com.ml/users/187171478352/profile` |
+| `http://www.servicio-itau.vercel.app/` |
 
 ---
 
