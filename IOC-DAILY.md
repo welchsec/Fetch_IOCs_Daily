@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 19, 2026  
-> **Updated:** July 19, 2026 at 10:16 UTC  
+> **Date:** July 20, 2026  
+> **Updated:** July 20, 2026 at 11:30 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://portainer2.dnsalias.com/cgi-bin/home.ha/` |
-| `https://sankaterd.click/` |
-| `https://ep-es-6d66nqpjptck-hrghbucmhcc0cee9.z01.azurefd.net/Win20Errfb020/index.html` |
-| `http://hui2-d7haese0czayeder.z03.azurefd.net/` |
-| `https://cqy9.com/` |
-| `https://www.roblox.com.ml/users/324272436305/profile` |
-| `https://www.roblox.com.bn/games/15148327611/Aircraft-Testing-Hub?privateServerLinkCode=49048271974707927539890488411623&game_id=15148327611&game_name=Aircraft-Testing-Hub` |
-| `https://www.roblox.com.bn/games/16290530659/AIRBUS-A340-Flight-Master?privateServerLinkCode=49048271974707927539890488411623&game_id=16290530659&game_name=AIRBUS-A340-Flight-Master` |
-| `https://robinhoodjxlogin.gitbook.io/us` |
-| `https://robinhoodjxlogin.gitbook.io/` |
-| `http://h36d.top/` |
-| `http://17646.xyz/` |
-| `https://snifferip.com/AZ8` |
-| `http://macrojoiyefwvk-atcjfghedjhfacfd.z03.azurefd.net/` |
-| `http://aspeducators.onrender.com/` |
-| `https://es4dr56tyuikdf6g-dp9xyf4hhc53.edgeone.dev/english.html` |
-| `http://nl-i19sdn12k.replit.app/` |
-| `https://montenegroput.me/DocuSign/download.html` |
-| `https://docx.malicouscontentcheck.net/index.html` |
-| `https://www.roblox.com.ml/users/320836535511/profile` |
+| `http://moonpay-commerce-git-fix-com2-1700-deposit-preset-dedup-heliofi.vercel.app/` |
+| `http://atakilit-git.github.io/Apple-bootstrap` |
+| `http://spectrumwebmailurl.systeme.io/` |
+| `https://www.tsi18kk.co/` |
+| `http://sp15ct7-foltar-biz-vensik-pramel.pages.dev/` |
+| `https://121jio.senes.at/stakings/?b=YTo0OntzOjU6ImxhYmVsIjtzOjA6IiI7czozOiJ1c3IiO2k6MjUwO3M6NDoibm9wZCI7czoxNDoicnNzLnJlYWRsZXMuYXQiO3M6MToibyI7aToxMTM2O30=` |
+| `https://b43i.top/m/` |
+| `https://tetes-air.pages.dev/dp/B0B6GK4VTC?ref=MarsFS_VICC_RINGINDC/` |
+| `https://f40u.top/m/` |
+| `https://tetes-air.pages.dev/gp/customer-reviews/R2DVCU4L2UJJBX/%3C/` |
+| `https://tetes-air.pages.dev/dp/B0D483WX7X?ref=MarsFS_VICC_blinksed/` |
+| `https://ledger-live-auth-sso.pages.dev/` |
+| `https://atendimento.netempresa-bia.app/` |
+| `http://netempresa-bia.app/` |
+| `http://facebook-khqi4s.pages.dev/` |
+| `https://optimus-9.github.io/Netflix-clone/` |
+| `https://trustwallet.com-two-factor-authentication08.ao.yesixrq.com/` |
+| `https://www.trustwallet.com-two-factor-authentication05.ao.yesixrq.com/` |
+| `https://app.creatormonetizationsupportglobalhub.click/index.php` |
+| `https://marsheaven786.github.io/instagram/` |
 
 ---
 
