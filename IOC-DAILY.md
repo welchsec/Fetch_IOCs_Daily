@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 20, 2026  
-> **Updated:** July 20, 2026 at 11:30 UTC  
+> **Date:** July 21, 2026  
+> **Updated:** July 21, 2026 at 10:52 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://moonpay-commerce-git-fix-com2-1700-deposit-preset-dedup-heliofi.vercel.app/` |
-| `http://atakilit-git.github.io/Apple-bootstrap` |
-| `http://spectrumwebmailurl.systeme.io/` |
-| `https://www.tsi18kk.co/` |
-| `http://sp15ct7-foltar-biz-vensik-pramel.pages.dev/` |
-| `https://121jio.senes.at/stakings/?b=YTo0OntzOjU6ImxhYmVsIjtzOjA6IiI7czozOiJ1c3IiO2k6MjUwO3M6NDoibm9wZCI7czoxNDoicnNzLnJlYWRsZXMuYXQiO3M6MToibyI7aToxMTM2O30=` |
-| `https://b43i.top/m/` |
-| `https://tetes-air.pages.dev/dp/B0B6GK4VTC?ref=MarsFS_VICC_RINGINDC/` |
-| `https://f40u.top/m/` |
-| `https://tetes-air.pages.dev/gp/customer-reviews/R2DVCU4L2UJJBX/%3C/` |
-| `https://tetes-air.pages.dev/dp/B0D483WX7X?ref=MarsFS_VICC_blinksed/` |
-| `https://ledger-live-auth-sso.pages.dev/` |
-| `https://atendimento.netempresa-bia.app/` |
-| `http://netempresa-bia.app/` |
-| `http://facebook-khqi4s.pages.dev/` |
-| `https://optimus-9.github.io/Netflix-clone/` |
-| `https://trustwallet.com-two-factor-authentication08.ao.yesixrq.com/` |
-| `https://www.trustwallet.com-two-factor-authentication05.ao.yesixrq.com/` |
-| `https://app.creatormonetizationsupportglobalhub.click/index.php` |
-| `https://marsheaven786.github.io/instagram/` |
+| `https://lnk.ink/robIox.com.users-35142531842.profile` |
+| `https://www.roblox.com.mu/users/6714926237/profile` |
+| `http://www.18551.xyz/` |
+| `https://telvora-gld-belxemi-a4v9dw72.pages.dev/send_appeal_request` |
+| `https://resptectadpein.com//Last/log/web/cd.php` |
+| `http://ledgere.com.cn/` |
+| `https://exotic-lime-olunrtbr.edgeone.dev/` |
+| `https://emul7xmhwzx6m71c.tiktok67932.com/` |
+| `https://instagram.123zoeken.be/` |
+| `https://135461223.site/sv/1780/1eeef171-d1e4-44b5-afd5-61c4398f724c/744232/x/` |
+| `https://www.roblox.com.bi/users/438431406340/profile` |
+| `http://www.instagramcom-instagramcom.blogspot.com/` |
+| `http://www.fill-form-here-for-blue.surge.sh/` |
+| `https://fdaku998.github.io/aistudio` |
+| `https://www.roblox.com.ml/games/14153443454/Meet-a-neko?privateServerLinkCode=856814744482475558384718663261` |
+| `http://whale-app-fv8lp.ondigitalocean.app/` |
+| `https://www.tagesgeldkonto45.com/` |
+| `https://www.maniandf.bond/` |
+| `https://tanmaymanave012.github.io/amazon-clone/` |
+| `https://mwreese.de/madridsteam/download.html` |
 
 ---
 
