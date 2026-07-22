@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 21, 2026  
-> **Updated:** July 21, 2026 at 10:52 UTC  
+> **Date:** July 22, 2026  
+> **Updated:** July 22, 2026 at 10:54 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://lnk.ink/robIox.com.users-35142531842.profile` |
-| `https://www.roblox.com.mu/users/6714926237/profile` |
-| `http://www.18551.xyz/` |
-| `https://telvora-gld-belxemi-a4v9dw72.pages.dev/send_appeal_request` |
-| `https://resptectadpein.com//Last/log/web/cd.php` |
-| `http://ledgere.com.cn/` |
-| `https://exotic-lime-olunrtbr.edgeone.dev/` |
-| `https://emul7xmhwzx6m71c.tiktok67932.com/` |
-| `https://instagram.123zoeken.be/` |
-| `https://135461223.site/sv/1780/1eeef171-d1e4-44b5-afd5-61c4398f724c/744232/x/` |
-| `https://www.roblox.com.bi/users/438431406340/profile` |
-| `http://www.instagramcom-instagramcom.blogspot.com/` |
-| `http://www.fill-form-here-for-blue.surge.sh/` |
-| `https://fdaku998.github.io/aistudio` |
-| `https://www.roblox.com.ml/games/14153443454/Meet-a-neko?privateServerLinkCode=856814744482475558384718663261` |
-| `http://whale-app-fv8lp.ondigitalocean.app/` |
-| `https://www.tagesgeldkonto45.com/` |
-| `https://www.maniandf.bond/` |
-| `https://tanmaymanave012.github.io/amazon-clone/` |
-| `https://mwreese.de/madridsteam/download.html` |
+| `https://bpksbd.org/terms-of-use/` |
+| `https://facebookloginbd.blogspot.com/` |
+| `https://nothinganythingok.blogspot.com/?m=1` |
+| `https://www.roblox.com.am/users/148337487026/profile` |
+| `https://g5.lu/4t6xd` |
+| `https://www.roblox.com.et/games/78515283254292/Animal-Hospital-Anomaly-?privateServerLinkCode=36676453253709010717578264400285` |
+| `http://sbcverify-1e6d20.webflow.io/` |
+| `https://leads.marke-ter.online/Adob22e.Activit1` |
+| `https://leads.marke-ter.online/Adob22e.Activit1/` |
+| `https://www.user-panel-apply-blue-badge.surge.sh/` |
+| `http://w22w2w.pages.dev/` |
+| `https://www.facebook-q.blogspot.com/` |
+| `http://www.instagram-support-page.blogspot.com/` |
+| `https://www.jo-facebook.blogspot.com/` |
+| `https://www.americasdspkits.com/rewards_login` |
+| `https://check8649.sbs/f/Secure%20Login%20_%20Desjardins%20Online%20Banking.html?ctok=nqF-s8ExQrWZ4rGI6JE` |
+| `https://www.instagram-clone-login-page.vercel.app/` |
+| `https://instagram-clone-login-page.vercel.app/` |
+| `https://instagram-followerspage-login.blogspot.com/?m=1` |
+| `https://privok-zplen-7ej48e-rjygh-0gh127.pages.dev/` |
 
 ---
 
