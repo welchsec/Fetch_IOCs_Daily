@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 23, 2026  
-> **Updated:** July 23, 2026 at 10:54 UTC  
+> **Date:** July 24, 2026  
+> **Updated:** July 24, 2026 at 10:51 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://click-hostopoint-ch-redirect5824312.blogspot.com/` |
-| `https://kimibon.rumahsakit.de/` |
-| `https://sp3ct-furnak-biz8-polqik-hudem.pages.dev/` |
-| `https://engimaticanendrandixit-max.github.io/Netflix-Clone-UI` |
-| `http://groooufffgruisbdj.duckdns.org/` |
-| `https://brand-ads-2026012.pages.dev/manage_ad_account_settings_ad_account_setup` |
-| `http://kxewjwejckrfnxweflknwxefk1.on-forge.com/` |
-| `https://www.roblox.com.bi/users/594094380363/profile` |
-| `https://ecokidsarttw.com/wp-includes/san/login.php?????SAHJDGASJHDFJHASDFHJSAUIDASGDJ` |
-| `https://xq.biogasos.org/project` |
-| `http://emailnotifications.m365-microsoft.com/index/3d46f173362240a7ad23fed1f9ce11e9/a3ce2879ab8b04bd4a96eaabe3f1dae68` |
-| `http://emailnotifications.m365-microsoft.com/i/a3ce2879ab8b04bd4a96eaabe3f1dae68/` |
-| `https://face.boook.com.vn/quangtran766` |
-| `http://razamobile.poshosting.com/owa.auth.logon.aspx/` |
-| `http://sp5ct-lorem-biz8-vanek-horil.pages.dev/` |
-| `https://inlnk.co/AblVU` |
-| `https://www.robiox.com.py/users/493553630763/profile` |
-| `https://sp5ct-virek-biz8-murel-hanox.pages.dev/` |
-| `https://krishnasunil034.github.io/uber-clone/` |
-| `https://sidnagath.github.io/Uber-Clone/` |
+| `http://www.b30s.top/` |
+| `http://www.b30p.top/` |
+| `https://www.f27k.top/` |
+| `http://signinneflixpayment-reminders.vercel.app/` |
+| `http://www.exclusivequotes.me/` |
+| `https://arobinhooddog.life/` |
+| `https://free1nstagramfollowers.blogspot.com/?m=1` |
+| `https://worldcupdeals.online/` |
+| `https://manage-kucoin-en.framer.ai/` |
+| `https://www.gamineusa_lugin_usa.godaddysites.com/` |
+| `http://www.exodus_wallets.godaddysites.com/` |
+| `https://www.assistance4.godaddysites.com/` |
+| `http://www.coxinhasegorloimn.godaddysites.com/` |
+| `http://www.cnmoinbscaelognx.godaddysites.com/` |
+| `https://pembatalan-penghapus4n.my.id/` |
+| `https://pembatalan-penghapus4n.my.id/Proses1.php` |
+| `https://pembatalan-penghapus4n.my.id/Proses2.php` |
+| `https://pembatalan-penghapus4n.my.id/cadangan.php` |
+| `https://pembatalan-penghapus4n.my.id/done.php` |
+| `https://pembatalan-penghapus4n.my.id/selesai.php` |
 
 ---
 
