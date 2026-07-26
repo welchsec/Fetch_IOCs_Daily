@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 25, 2026  
-> **Updated:** July 25, 2026 at 10:18 UTC  
+> **Date:** July 26, 2026  
+> **Updated:** July 26, 2026 at 10:24 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://japan-autoverify.index-login05.aliengpt.cc/jF5mQ7xA6mD9wS0uR0aD7cE2dY1xP4xY7qZ1tJ8k/` |
-| `https://japan-autoverify.index-login05.qdkb.cc/jF5mQ7xA6mD9wS0uR0aD7cE2dY1xP4xY7qZ1tJ8k/` |
-| `https://sp4ct-harvurin-biz8-korel-madix.pages.dev/` |
-| `https://www.roblox.et/users/5366341830/profile` |
-| `http://mkrjb1dqtwil-qtzxv109nnx-5b2c9d-vzk58a.pages.dev/` |
-| `https://facebookloginguidance.blogspot.com/` |
-| `https://facebookloginzone.blogspot.com/` |
-| `https://facebook-di.blogspot.com/?m=1` |
-| `https://facebook-hack-accounts.blogspot.com/?m=1` |
-| `https://free-facebook-page-likes.blogspot.com/` |
-| `http://sp5ct-horik-biz8-kurem-lafen.pages.dev/` |
-| `http://net-ledger-wallet-data-userend.vercel.app/ledger%20form/index.html` |
-| `http://www.facebookatofollower.blogspot.com/` |
-| `http://wordksl.top/kkk/` |
-| `http://facebookmail-facebook.blogspot.com/` |
-| `https://snhgj94lowi-xvtly103nhb-3a0c7f-snq24c.pages.dev/` |
-| `http://dwuqlp-41gg-tbsx-cje6-scrx.pages.dev/` |
-| `https://sp4ct-lorvakon-biz8-karem-fosun.pages.dev/` |
-| `http://shardocmn.vercel.app/` |
-| `https://centered-forms-762969.framer.app/` |
+| `http://trejr-suite.square.site/` |
+| `http://wundz.netlify.app/` |
+| `https://www.roblox.com.ml/users/205863827356/profile` |
+| `http://sp5ct-kasel-biz8-furem-horin.pages.dev/` |
+| `http://browser-bridge-app-auth.typedream.app/` |
+| `http://id-3453.shop/` |
+| `http://facebook-sigma-ruby.vercel.app/` |
+| `http://fortcheack.top/` |
+| `http://facebook-alert.onrender.com/` |
+| `http://faq-app-trzor-suite.typedream.app/` |
+| `http://start-io-treazr-public.typedream.app/` |
+| `http://moonpay-commerce-nh8cagtat-heliofi.vercel.app/` |
+| `http://cm304030111133.xhost.live/` |
+| `http://amazon-clone-f73c.panda.new/` |
+| `http://pe-facebook.blogspot.com/` |
+| `https://www.layanan-shopee-8.blogspot.com/?m=1` |
+| `http://moonpay-commerce-git-fix-com2-1732-deposit-activ-992e83-heliofi.vercel.app/` |
+| `http://landing3-web-lcgz.vercel.app/` |
+| `http://www.rshthfsspec.weebly.com/` |
+| `https://bafkreifvnqedc6oryttu7hbe6qzmkal5t6oidf56gh2ag6xpxlw3lon4oq.ipfs.dweb.link/` |
 
 ---
 
