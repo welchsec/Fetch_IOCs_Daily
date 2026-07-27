@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 26, 2026  
-> **Updated:** July 26, 2026 at 10:24 UTC  
+> **Date:** July 27, 2026  
+> **Updated:** July 27, 2026 at 12:03 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://trejr-suite.square.site/` |
-| `http://wundz.netlify.app/` |
-| `https://www.roblox.com.ml/users/205863827356/profile` |
-| `http://sp5ct-kasel-biz8-furem-horin.pages.dev/` |
-| `http://browser-bridge-app-auth.typedream.app/` |
-| `http://id-3453.shop/` |
-| `http://facebook-sigma-ruby.vercel.app/` |
-| `http://fortcheack.top/` |
-| `http://facebook-alert.onrender.com/` |
-| `http://faq-app-trzor-suite.typedream.app/` |
-| `http://start-io-treazr-public.typedream.app/` |
-| `http://moonpay-commerce-nh8cagtat-heliofi.vercel.app/` |
-| `http://cm304030111133.xhost.live/` |
-| `http://amazon-clone-f73c.panda.new/` |
-| `http://pe-facebook.blogspot.com/` |
-| `https://www.layanan-shopee-8.blogspot.com/?m=1` |
-| `http://moonpay-commerce-git-fix-com2-1732-deposit-activ-992e83-heliofi.vercel.app/` |
-| `http://landing3-web-lcgz.vercel.app/` |
-| `http://www.rshthfsspec.weebly.com/` |
-| `https://bafkreifvnqedc6oryttu7hbe6qzmkal5t6oidf56gh2ag6xpxlw3lon4oq.ipfs.dweb.link/` |
+| `https://freeflowbron.shop/` |
+| `https://freebrasilflow.shop/` |
+| `https://freebrflow.shop/` |
+| `http://app.shopledgerapp.com/login` |
+| `http://comcast-1.xhost.live/mgifunds` |
+| `https://live-swisscom.firebaseapp.com/` |
+| `http://start-ldger-en-x.pages.dev/` |
+| `https://sp5ct-jerok-biz8-vurex-salink.pages.dev/` |
+| `https://serasaregulariza.click/ped/` |
+| `https://acessse.co/ped/` |
+| `https://robiox.com.ps/users/3899156677/profile` |
+| `https://myve.web.id/pengaktifann-fitur-daanaterfending/` |
+| `https://bernavi-gld-lentora-p4t6fq97.pages.dev/...` |
+| `http://www.kucoin_loigin.godaddysites.com/` |
+| `https://sp19ct7-farek-biz-dulen-koris.pages.dev/...` |
+| `https://fifthyteherd.best/` |
+| `https://www.net-ledger-wallet-data-webs.vercel.app/` |
+| `http://www.net-ledger-wallet-data-repository.vercel.app/` |
+| `http://www.antonetegailofficial.blogspot.com/` |
+| `https://www.facebook-clone-mu-six.vercel.app/` |
 
 ---
 
