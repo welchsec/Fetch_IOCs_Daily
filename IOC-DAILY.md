@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 27, 2026  
-> **Updated:** July 27, 2026 at 12:03 UTC  
+> **Date:** July 28, 2026  
+> **Updated:** July 28, 2026 at 11:05 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://freeflowbron.shop/` |
-| `https://freebrasilflow.shop/` |
-| `https://freebrflow.shop/` |
-| `http://app.shopledgerapp.com/login` |
-| `http://comcast-1.xhost.live/mgifunds` |
-| `https://live-swisscom.firebaseapp.com/` |
-| `http://start-ldger-en-x.pages.dev/` |
-| `https://sp5ct-jerok-biz8-vurex-salink.pages.dev/` |
-| `https://serasaregulariza.click/ped/` |
-| `https://acessse.co/ped/` |
-| `https://robiox.com.ps/users/3899156677/profile` |
-| `https://myve.web.id/pengaktifann-fitur-daanaterfending/` |
-| `https://bernavi-gld-lentora-p4t6fq97.pages.dev/...` |
-| `http://www.kucoin_loigin.godaddysites.com/` |
-| `https://sp19ct7-farek-biz-dulen-koris.pages.dev/...` |
-| `https://fifthyteherd.best/` |
-| `https://www.net-ledger-wallet-data-webs.vercel.app/` |
-| `http://www.net-ledger-wallet-data-repository.vercel.app/` |
-| `http://www.antonetegailofficial.blogspot.com/` |
-| `https://www.facebook-clone-mu-six.vercel.app/` |
+| `http://buildtovaro.click/` |
+| `http://imtkeno.pro/` |
+| `http://fortlux.top/` |
+| `http://sp3ct-nexvor-biz8-kirsal-povun.pages.dev/` |
+| `http://sp25ct7-benlix-biz-zomrik-dafsen.pages.dev/` |
+| `http://1g3-u88-ace-eyeqq-m3y-oj9s.pages.dev/` |
+| `http://fiploi20.cfd/` |
+| `http://sp25ct7-xervok-biz-zalsik-domfen.pages.dev/` |
+| `http://sp29ct-lomqak-biz-hentor-prasvik.pages.dev/` |
+| `http://0t4ki-3m9sr3-x9elb-0i5sh.pages.dev/` |
+| `http://sp3ct-meslor-biz8-varnex-pisol.pages.dev/` |
+| `http://jmudz95kfly-zgron98pdrf-0e3a6b-gre2l.pages.dev/` |
+| `http://sp3ct-hemlor-biz8-pirvak-coren.pages.dev/` |
+| `http://qtwiz553bf-vlypxskru-1d8c3f-fyn9t.pages.dev/` |
+| `http://kmnhw949mj-stilkbren-7b3e1f-vro5n.pages.dev/` |
+| `http://brelka-zomir-2f5d61-rh1504rr-hf2406zrn.pages.dev/` |
+| `http://lkwg854low-gpxonnhb-8a2c4f-kro1p.pages.dev/` |
+| `http://77v-bqgb7-8074z-cy9gp-q6su.pages.dev/` |
+| `http://gemini.yanyua.icu/` |
+| `http://vatendimentosbr.xyz/` |
 
 ---
 
