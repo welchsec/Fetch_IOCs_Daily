@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 28, 2026  
-> **Updated:** July 28, 2026 at 11:05 UTC  
+> **Date:** July 29, 2026  
+> **Updated:** July 29, 2026 at 11:11 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://buildtovaro.click/` |
-| `http://imtkeno.pro/` |
-| `http://fortlux.top/` |
-| `http://sp3ct-nexvor-biz8-kirsal-povun.pages.dev/` |
-| `http://sp25ct7-benlix-biz-zomrik-dafsen.pages.dev/` |
-| `http://1g3-u88-ace-eyeqq-m3y-oj9s.pages.dev/` |
-| `http://fiploi20.cfd/` |
-| `http://sp25ct7-xervok-biz-zalsik-domfen.pages.dev/` |
-| `http://sp29ct-lomqak-biz-hentor-prasvik.pages.dev/` |
-| `http://0t4ki-3m9sr3-x9elb-0i5sh.pages.dev/` |
-| `http://sp3ct-meslor-biz8-varnex-pisol.pages.dev/` |
-| `http://jmudz95kfly-zgron98pdrf-0e3a6b-gre2l.pages.dev/` |
-| `http://sp3ct-hemlor-biz8-pirvak-coren.pages.dev/` |
-| `http://qtwiz553bf-vlypxskru-1d8c3f-fyn9t.pages.dev/` |
-| `http://kmnhw949mj-stilkbren-7b3e1f-vro5n.pages.dev/` |
-| `http://brelka-zomir-2f5d61-rh1504rr-hf2406zrn.pages.dev/` |
-| `http://lkwg854low-gpxonnhb-8a2c4f-kro1p.pages.dev/` |
-| `http://77v-bqgb7-8074z-cy9gp-q6su.pages.dev/` |
-| `http://gemini.yanyua.icu/` |
-| `http://vatendimentosbr.xyz/` |
+| `https://0jw-m3tnw-wl4-kfm-ir6v-aw4.pages.dev/` |
+| `https://www.letoner.ma/mail/CODEdocument-access-verify.html` |
+| `https://sp6ct-nurvek-biz8-halsik-graven.pages.dev/` |
+| `https://if.dvmxzan.net/nomm/index.html` |
+| `https://www.chipweb-voyage.com.br/images/02.951.029/m.php` |
+| `https://lnk.ink/www.robIox.com.users-314519220814.profile` |
+| `https://www.roblox.com.mu/users/1343922486/profile` |
+| `https://www.roblox.com.ml/users/135177388720/profile` |
+| `https://www.kllewpq.com/` |
+| `https://s.teams-tk.com/p/fjbd-cbch/snvylgzv/` |
+| `http://csplaygems.com/pg4HJC8X` |
+| `https://zohfn.com/sign/sign/c.html` |
+| `http://secure-site-editor--kevin1635.replit.app/forgotpassword.html` |
+| `http://aktivasi-dana-affilance.netweb.my.id/` |
+| `https://dpodseonline.top/ro` |
+| `http://gaerh.pages.dev/` |
+| `https://www.robiox.com.py/users/143457657575/profile` |
+| `http://www.junchaojiancai.com/` |
+| `https://globalmiddasfoundation.com/strict/` |
+| `https://et22eu-e3dlus-f4ww6r-517u6l.pages.dev/` |
 
 ---
 
