@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 29, 2026  
-> **Updated:** July 29, 2026 at 11:11 UTC  
+> **Date:** July 30, 2026  
+> **Updated:** July 30, 2026 at 10:54 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://0jw-m3tnw-wl4-kfm-ir6v-aw4.pages.dev/` |
-| `https://www.letoner.ma/mail/CODEdocument-access-verify.html` |
-| `https://sp6ct-nurvek-biz8-halsik-graven.pages.dev/` |
-| `https://if.dvmxzan.net/nomm/index.html` |
-| `https://www.chipweb-voyage.com.br/images/02.951.029/m.php` |
-| `https://lnk.ink/www.robIox.com.users-314519220814.profile` |
-| `https://www.roblox.com.mu/users/1343922486/profile` |
-| `https://www.roblox.com.ml/users/135177388720/profile` |
-| `https://www.kllewpq.com/` |
-| `https://s.teams-tk.com/p/fjbd-cbch/snvylgzv/` |
-| `http://csplaygems.com/pg4HJC8X` |
-| `https://zohfn.com/sign/sign/c.html` |
-| `http://secure-site-editor--kevin1635.replit.app/forgotpassword.html` |
-| `http://aktivasi-dana-affilance.netweb.my.id/` |
-| `https://dpodseonline.top/ro` |
-| `http://gaerh.pages.dev/` |
-| `https://www.robiox.com.py/users/143457657575/profile` |
-| `http://www.junchaojiancai.com/` |
-| `https://globalmiddasfoundation.com/strict/` |
-| `https://et22eu-e3dlus-f4ww6r-517u6l.pages.dev/` |
+| `https://netzeroupdateterms9.weebly.com/` |
+| `https://ew4rt.weebly.com/` |
+| `https://jengbetieleajantiele.weebly.com/` |
+| `https://webmail-pieas-edu-pk.weebly.com/` |
+| `https://sp5ct-fanik-biz8-hurem-lovex.pages.dev/` |
+| `https://talknetformhrir57757571.weeblysite.com/` |
+| `http://sp5ct-foril-biz8-kurem-savon.pages.dev/` |
+| `https://whatsapper.leadball.ru/` |
+| `https://www.whatsapper.leadball.ru/` |
+| `http://startphntum.pages.dev/` |
+| `http://home-ldger-get.pages.dev/` |
+| `https://aksprofessional.github.io/amazon-clone.project/` |
+| `http://aksprofessional.github.io/amazon-clone.project` |
+| `https://prime-fact75875.com/` |
+| `http://roblox.com.mu/users/5392150789/profile` |
+| `https://glowing-gibbon-300775.framer.app/` |
+| `https://aumentojamais03.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `http://m2icrosfoftonilelogin.framer.website/` |
+| `http://fuchsia-graphs-773214.framer.app/` |
+| `https://alprtem983332.iceiy.com/?7i=1` |
 
 ---
 
