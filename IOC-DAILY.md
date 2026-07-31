@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 30, 2026  
-> **Updated:** July 30, 2026 at 10:54 UTC  
+> **Date:** July 31, 2026  
+> **Updated:** July 31, 2026 at 11:13 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://netzeroupdateterms9.weebly.com/` |
-| `https://ew4rt.weebly.com/` |
-| `https://jengbetieleajantiele.weebly.com/` |
-| `https://webmail-pieas-edu-pk.weebly.com/` |
-| `https://sp5ct-fanik-biz8-hurem-lovex.pages.dev/` |
-| `https://talknetformhrir57757571.weeblysite.com/` |
-| `http://sp5ct-foril-biz8-kurem-savon.pages.dev/` |
-| `https://whatsapper.leadball.ru/` |
-| `https://www.whatsapper.leadball.ru/` |
-| `http://startphntum.pages.dev/` |
-| `http://home-ldger-get.pages.dev/` |
-| `https://aksprofessional.github.io/amazon-clone.project/` |
-| `http://aksprofessional.github.io/amazon-clone.project` |
-| `https://prime-fact75875.com/` |
-| `http://roblox.com.mu/users/5392150789/profile` |
-| `https://glowing-gibbon-300775.framer.app/` |
-| `https://aumentojamais03.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `http://m2icrosfoftonilelogin.framer.website/` |
-| `http://fuchsia-graphs-773214.framer.app/` |
-| `https://alprtem983332.iceiy.com/?7i=1` |
+| `https://byycart.com/` |
+| `https://steamcommunnitu.com/agent/mirage` |
+| `https://sp4ct-gorvurin-biz8-durem-fasol.pages.dev/` |
+| `https://y32b.top/` |
+| `https://www.njjiulong.com/` |
+| `http://www.s31j.top/` |
+| `http://app.shopledgerapp.com/` |
+| `https://j87j.vip/` |
+| `https://j80l.vip/` |
+| `https://k73r.top/` |
+| `https://www.bankofamerica-security.blogspot.com/` |
+| `https://bankofamerica-security.blogspot.com/` |
+| `https://link-magics.lovable.app/` |
+| `https://fbshoppingfb.com/h5/` |
+| `https://sp4ct-parvok-biz8-durem-falon.pages.dev/` |
+| `https://dangkypaypal.blogspot.com/` |
+| `http://www.dashboardaccount-moviepremiumnetfix.129-121-114-233.cpanel.site/` |
+| `https://storied-jelly-94f299.netlify.app/` |
+| `https://docu434.zfos.workers.dev/` |
+| `http://live-leedgers--eng-en.pages.dev/` |
 
 ---
 
