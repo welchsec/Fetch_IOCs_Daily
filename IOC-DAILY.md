@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** July 31, 2026  
-> **Updated:** July 31, 2026 at 11:13 UTC  
+> **Date:** August 01, 2026  
+> **Updated:** August 01, 2026 at 10:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://byycart.com/` |
-| `https://steamcommunnitu.com/agent/mirage` |
-| `https://sp4ct-gorvurin-biz8-durem-fasol.pages.dev/` |
-| `https://y32b.top/` |
-| `https://www.njjiulong.com/` |
-| `http://www.s31j.top/` |
-| `http://app.shopledgerapp.com/` |
-| `https://j87j.vip/` |
-| `https://j80l.vip/` |
-| `https://k73r.top/` |
-| `https://www.bankofamerica-security.blogspot.com/` |
-| `https://bankofamerica-security.blogspot.com/` |
-| `https://link-magics.lovable.app/` |
-| `https://fbshoppingfb.com/h5/` |
-| `https://sp4ct-parvok-biz8-durem-falon.pages.dev/` |
-| `https://dangkypaypal.blogspot.com/` |
-| `http://www.dashboardaccount-moviepremiumnetfix.129-121-114-233.cpanel.site/` |
-| `https://storied-jelly-94f299.netlify.app/` |
-| `https://docu434.zfos.workers.dev/` |
-| `http://live-leedgers--eng-en.pages.dev/` |
+| `https://rr.twkohm.net/tdwins/tdwins.html` |
+| `https://hammerhead-app-ub55h.ondigitalocean.app/` |
+| `https://www.trustwallet.com-two-factor-authentication07.ao.yesixrq.com/` |
+| `https://www.trustwallet.com-two-factor-authentication09.ao.yesixrq.com/` |
+| `https://www.item.ehay.com.login.secures-wr8wsvzt.construccionesjlfabririssas.com/` |
+| `http://www.whaia.webcindario.com/` |
+| `http://www.whatsapp-correo.webcindario.com/` |
+| `http://www.2025-beta.vercel.app/` |
+| `https://www.rom2-nine.vercel.app/` |
+| `https://www.hgser.closer.website/` |
+| `http://sp12ct-lendor-biz-kazvik-pronsel.pages.dev/` |
+| `https://goldfish-app-5rkrt.ondigitalocean.app/` |
+| `https://sea-turtle-app-dk9tf.ondigitalocean.app/` |
+| `https://startemseulimite.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://instagram-register.blogspot.com/?m=1` |
+| `https://rr.twkohm.net/tannercpafirm/tannercpafirm.html` |
+| `https://capacitynubankwithdrawal-limits.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://cytheraonline.com/` |
+| `https://automotriztempanoice.com.ve/dairysolutionsinc/dairysolutionsinc-secure-verify.html` |
+| `https://bigshopee26.blogspot.com/` |
 
 ---
 
