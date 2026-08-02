@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 01, 2026  
-> **Updated:** August 01, 2026 at 10:23 UTC  
+> **Date:** August 02, 2026  
+> **Updated:** August 02, 2026 at 10:22 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://rr.twkohm.net/tdwins/tdwins.html` |
-| `https://hammerhead-app-ub55h.ondigitalocean.app/` |
-| `https://www.trustwallet.com-two-factor-authentication07.ao.yesixrq.com/` |
-| `https://www.trustwallet.com-two-factor-authentication09.ao.yesixrq.com/` |
-| `https://www.item.ehay.com.login.secures-wr8wsvzt.construccionesjlfabririssas.com/` |
-| `http://www.whaia.webcindario.com/` |
-| `http://www.whatsapp-correo.webcindario.com/` |
-| `http://www.2025-beta.vercel.app/` |
-| `https://www.rom2-nine.vercel.app/` |
-| `https://www.hgser.closer.website/` |
-| `http://sp12ct-lendor-biz-kazvik-pronsel.pages.dev/` |
-| `https://goldfish-app-5rkrt.ondigitalocean.app/` |
-| `https://sea-turtle-app-dk9tf.ondigitalocean.app/` |
-| `https://startemseulimite.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://instagram-register.blogspot.com/?m=1` |
-| `https://rr.twkohm.net/tannercpafirm/tannercpafirm.html` |
-| `https://capacitynubankwithdrawal-limits.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://cytheraonline.com/` |
-| `https://automotriztempanoice.com.ve/dairysolutionsinc/dairysolutionsinc-secure-verify.html` |
-| `https://bigshopee26.blogspot.com/` |
+| `https://www.pos.augmentse.top/` |
+| `https://augmentse.top/` |
+| `https://www.ledger-wallet-app-xxa8.vercel.app/` |
+| `https://https-roblodx.com/login?returnUrl=885962052` |
+| `https://4971-nj3.sumsubio.com/sumsub2` |
+| `http://sp3ct-farnik-biz8-zelqor-mudor.pages.dev/` |
+| `https://wellsfraudsupport.com/` |
+| `https://santandermx.dothome.co.kr/` |
+| `http://m.r2c4d.com/` |
+| `http://lofzsm.wittenbornplasticsurgery.com/` |
+| `https://bookdngupsites.com/194155610/` |
+| `https://booklng-pagadaconfidate.com/1879507396/` |
+| `https://terminaltransport.vercel.app/tunsr.html/` |
+| `http://ehall.it.it.m.sonicmenusprices.com/` |
+| `http://hqehall.hqehall.fzgh.sonicmenusprices.com/` |
+| `http://ramadhan-shop25.blogspot.com/` |
+| `http://sharp-material-234227.framer.app/` |
+| `https://www.roblox.com.am/users/342114489145/profile` |
+| `https://v34v34v34tv.pages.dev/` |
+| `https://www.doc-ythvvbc.vercel.app/` |
 
 ---
 
