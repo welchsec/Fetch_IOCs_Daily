@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 02, 2026  
-> **Updated:** August 02, 2026 at 10:22 UTC  
+> **Date:** August 03, 2026  
+> **Updated:** August 03, 2026 at 12:07 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.pos.augmentse.top/` |
-| `https://augmentse.top/` |
-| `https://www.ledger-wallet-app-xxa8.vercel.app/` |
-| `https://https-roblodx.com/login?returnUrl=885962052` |
-| `https://4971-nj3.sumsubio.com/sumsub2` |
-| `http://sp3ct-farnik-biz8-zelqor-mudor.pages.dev/` |
-| `https://wellsfraudsupport.com/` |
-| `https://santandermx.dothome.co.kr/` |
-| `http://m.r2c4d.com/` |
-| `http://lofzsm.wittenbornplasticsurgery.com/` |
-| `https://bookdngupsites.com/194155610/` |
-| `https://booklng-pagadaconfidate.com/1879507396/` |
-| `https://terminaltransport.vercel.app/tunsr.html/` |
-| `http://ehall.it.it.m.sonicmenusprices.com/` |
-| `http://hqehall.hqehall.fzgh.sonicmenusprices.com/` |
-| `http://ramadhan-shop25.blogspot.com/` |
-| `http://sharp-material-234227.framer.app/` |
-| `https://www.roblox.com.am/users/342114489145/profile` |
-| `https://v34v34v34tv.pages.dev/` |
-| `https://www.doc-ythvvbc.vercel.app/` |
+| `http://www.roblox.et/users/2306472825/profile` |
+| `https://activatuspuntos.com.co/` |
+| `https://rejectkyc-reviewunder.142-93-2-145.cpanel.site/signin?c_ds_na=iw8IKOGanx0ElXNYv89879gxN8LiX8lzViSywsf9KN&c_ds_no=%2A%2F%2A` |
+| `https://rejectkyc-reviewunder.142-93-2-145.cpanel.site/?signin2` |
+| `https://consulta-pedagio.site/placa/debitos/ver-debitos1/` |
+| `https://made-in-chlna-com.cleverapps.io/` |
+| `https://tradecenter-mqde-in-china-com.cleverapps.io/` |
+| `https://tradecenter-mqde-in-chlna-com.cleverapps.io/` |
+| `https://portaltarifa.online/` |
+| `https://mqde-in-china-com.cleverapps.io/` |
+| `https://membercenter-made-in-chlna-com.cleverapps.io/` |
+| `http://www.netflix-rho-wheat.vercel.app/` |
+| `http://www.mmrtyre23.weebly.com/` |
+| `http://www.georgejones121.serv00.net/` |
+| `https://www.georgejones121.serv00.net/index2.php` |
+| `https://www.georgejones121.serv00.net/index3.php` |
+| `http://www.xfinitywebnotification.weebly.com/` |
+| `http://www.rblxdopx.blogspot.com/` |
+| `https://www.sand1-bnb-bep20.vercel.app/` |
+| `https://www.php-eth-back.vercel.app/` |
 
 ---
 
