@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 03, 2026  
-> **Updated:** August 03, 2026 at 12:07 UTC  
+> **Date:** August 04, 2026  
+> **Updated:** August 04, 2026 at 11:11 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.roblox.et/users/2306472825/profile` |
-| `https://activatuspuntos.com.co/` |
-| `https://rejectkyc-reviewunder.142-93-2-145.cpanel.site/signin?c_ds_na=iw8IKOGanx0ElXNYv89879gxN8LiX8lzViSywsf9KN&c_ds_no=%2A%2F%2A` |
-| `https://rejectkyc-reviewunder.142-93-2-145.cpanel.site/?signin2` |
-| `https://consulta-pedagio.site/placa/debitos/ver-debitos1/` |
-| `https://made-in-chlna-com.cleverapps.io/` |
-| `https://tradecenter-mqde-in-china-com.cleverapps.io/` |
-| `https://tradecenter-mqde-in-chlna-com.cleverapps.io/` |
-| `https://portaltarifa.online/` |
-| `https://mqde-in-china-com.cleverapps.io/` |
-| `https://membercenter-made-in-chlna-com.cleverapps.io/` |
-| `http://www.netflix-rho-wheat.vercel.app/` |
-| `http://www.mmrtyre23.weebly.com/` |
-| `http://www.georgejones121.serv00.net/` |
-| `https://www.georgejones121.serv00.net/index2.php` |
-| `https://www.georgejones121.serv00.net/index3.php` |
-| `http://www.xfinitywebnotification.weebly.com/` |
-| `http://www.rblxdopx.blogspot.com/` |
-| `https://www.sand1-bnb-bep20.vercel.app/` |
-| `https://www.php-eth-back.vercel.app/` |
+| `https://www.roblox.ly/users/9277517522/profile` |
+| `https://gregdsd.s3.us-west-1.amazonaws.com/yr.html` |
+| `https://trueagleeful8z-bwgvhcfadmgfa6hz.z03.azurefd.net/index.html` |
+| `https://www.doc-mkvelinb.vercel.app/` |
+| `https://node-layer.vercel.app/` |
+| `https://doc-mkvelinb.vercel.app/` |
+| `https://3rc32cr3.pages.dev/` |
+| `http://altanewvistalkunden.de/` |
+| `https://steamcomnmuntiy.com/tradeoffer/new/?partner=1219357172&token=piaEW0dD` |
+| `https://61ben.proxer.cc/bs/info/` |
+| `https://s.team-p.my/p/kumt-ibuc/lsowdmtr` |
+| `https://convertmytub.com/cateringworks/download.html` |
+| `http://track-sp05.ecoexplorir.info/ga/click/2-17812221-39-12771-24914-13823-549c4a8f27-a292529ebd` |
+| `https://ur98h140.imtcken.com/` |
+| `https://vklcklckkfk.weebly.com/` |
+| `https://xfinity222036.weebly.com/` |
+| `https://avvaaa0988auggss.weebly.com/` |
+| `https://g5.lu/bwuy2` |
+| `https://cadreservice.co.uk/cgi/` |
+| `https://sonamsinha0404-dev.github.io/Spotify-Clone/` |
 
 ---
 
