@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 04, 2026  
-> **Updated:** August 04, 2026 at 11:11 UTC  
+> **Date:** August 05, 2026  
+> **Updated:** August 05, 2026 at 11:09 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.ly/users/9277517522/profile` |
-| `https://gregdsd.s3.us-west-1.amazonaws.com/yr.html` |
-| `https://trueagleeful8z-bwgvhcfadmgfa6hz.z03.azurefd.net/index.html` |
-| `https://www.doc-mkvelinb.vercel.app/` |
-| `https://node-layer.vercel.app/` |
-| `https://doc-mkvelinb.vercel.app/` |
-| `https://3rc32cr3.pages.dev/` |
-| `http://altanewvistalkunden.de/` |
-| `https://steamcomnmuntiy.com/tradeoffer/new/?partner=1219357172&token=piaEW0dD` |
-| `https://61ben.proxer.cc/bs/info/` |
-| `https://s.team-p.my/p/kumt-ibuc/lsowdmtr` |
-| `https://convertmytub.com/cateringworks/download.html` |
-| `http://track-sp05.ecoexplorir.info/ga/click/2-17812221-39-12771-24914-13823-549c4a8f27-a292529ebd` |
-| `https://ur98h140.imtcken.com/` |
-| `https://vklcklckkfk.weebly.com/` |
-| `https://xfinity222036.weebly.com/` |
-| `https://avvaaa0988auggss.weebly.com/` |
-| `https://g5.lu/bwuy2` |
-| `https://cadreservice.co.uk/cgi/` |
-| `https://sonamsinha0404-dev.github.io/Spotify-Clone/` |
+| `https://rbcode.net/v/26497cb67cbd07c6bdab07ccf711632f` |
+| `http://yhinesl.com/` |
+| `https://campaingofficial.vercel.app/front/` |
+| `https://buildofficial.vercel.app/front/` |
+| `https://www.campofficial.vercel.app/` |
+| `https://buildcampoff.vercel.app/front/` |
+| `https://buildofficial.vercel.app/` |
+| `https://campofficial.vercel.app/front/` |
+| `https://campaingofficial.vercel.app/` |
+| `http://campofficial.vercel.app/` |
+| `http://buildofficial.vercel.app/en` |
+| `https://buildcampoff.vercel.app/` |
+| `https://prospectivehabitat.org/dhoksat/bibi/auth/login.php` |
+| `https://qrcodedynamic.com/dtitiyazed/` |
+| `https://xfinityupdates.vercel.app/` |
+| `http://www.xfinityupdates.vercel.app/` |
+| `http://xfinitysupportdesk.com/` |
+| `https://www.gestionsegalz.com/` |
+| `https://www.seguroalz.com/ingresa-tus-datos` |
+| `https://www.surainforseg.com/assets/images/seguros` |
 
 ---
 
