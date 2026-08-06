@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 05, 2026  
-> **Updated:** August 05, 2026 at 11:09 UTC  
+> **Date:** August 06, 2026  
+> **Updated:** August 06, 2026 at 11:09 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://rbcode.net/v/26497cb67cbd07c6bdab07ccf711632f` |
-| `http://yhinesl.com/` |
-| `https://campaingofficial.vercel.app/front/` |
-| `https://buildofficial.vercel.app/front/` |
-| `https://www.campofficial.vercel.app/` |
-| `https://buildcampoff.vercel.app/front/` |
-| `https://buildofficial.vercel.app/` |
-| `https://campofficial.vercel.app/front/` |
-| `https://campaingofficial.vercel.app/` |
-| `http://campofficial.vercel.app/` |
-| `http://buildofficial.vercel.app/en` |
-| `https://buildcampoff.vercel.app/` |
-| `https://prospectivehabitat.org/dhoksat/bibi/auth/login.php` |
-| `https://qrcodedynamic.com/dtitiyazed/` |
-| `https://xfinityupdates.vercel.app/` |
-| `http://www.xfinityupdates.vercel.app/` |
-| `http://xfinitysupportdesk.com/` |
-| `https://www.gestionsegalz.com/` |
-| `https://www.seguroalz.com/ingresa-tus-datos` |
-| `https://www.surainforseg.com/assets/images/seguros` |
+| `http://vnj1s6.tokeonpqoket.pro/` |
+| `https://sp4ct-nardevon-biz8-zurem-kasol.pages.dev/` |
+| `http://network.draxioncapital.com/` |
+| `https://www.porestemesdeagostosolicitaaumento.com/` |
+| `http://en-suitts-trezar.wasmer.app/` |
+| `http://newmidashop.gamerstored.com/` |
+| `https://app81-facebook.blogspot.com/` |
+| `https://proxy-max.xyz/?clckid=557cc027` |
+| `https://calendarbooking-team-ffd221d1eef9da6a.portal-01783827.workers.dev/` |
+| `https://rbcode.net/v/1eef6a239dfb7179aa78f438eff638a7` |
+| `https://fortprice.life/` |
+| `https://tsanajjncc.eu.cc/es` |
+| `https://tsanajjnaa.eu.cc/es` |
+| `https://sfahad-developer.github.io/Microsoft-Website-Clone/` |
+| `https://tsanajjnbb.eu.cc/es` |
+| `http://32e3x2x.pages.dev/` |
+| `https://billyhood321.github.io/xfinity-login/` |
+| `https://www.roblox.com.ml/users/228587814559/profile` |
+| `https://prabhatbhainsora9-blip.github.io/Amazon-Clone/` |
+| `http://aurora.co.zw/krrr/lc/koreee.html` |
 
 ---
 
