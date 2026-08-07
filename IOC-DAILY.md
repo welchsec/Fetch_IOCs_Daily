@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 06, 2026  
-> **Updated:** August 06, 2026 at 11:09 UTC  
+> **Date:** August 07, 2026  
+> **Updated:** August 07, 2026 at 09:45 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://vnj1s6.tokeonpqoket.pro/` |
-| `https://sp4ct-nardevon-biz8-zurem-kasol.pages.dev/` |
-| `http://network.draxioncapital.com/` |
-| `https://www.porestemesdeagostosolicitaaumento.com/` |
-| `http://en-suitts-trezar.wasmer.app/` |
-| `http://newmidashop.gamerstored.com/` |
-| `https://app81-facebook.blogspot.com/` |
-| `https://proxy-max.xyz/?clckid=557cc027` |
-| `https://calendarbooking-team-ffd221d1eef9da6a.portal-01783827.workers.dev/` |
-| `https://rbcode.net/v/1eef6a239dfb7179aa78f438eff638a7` |
-| `https://fortprice.life/` |
-| `https://tsanajjncc.eu.cc/es` |
-| `https://tsanajjnaa.eu.cc/es` |
-| `https://sfahad-developer.github.io/Microsoft-Website-Clone/` |
-| `https://tsanajjnbb.eu.cc/es` |
-| `http://32e3x2x.pages.dev/` |
-| `https://billyhood321.github.io/xfinity-login/` |
-| `https://www.roblox.com.ml/users/228587814559/profile` |
-| `https://prabhatbhainsora9-blip.github.io/Amazon-Clone/` |
-| `http://aurora.co.zw/krrr/lc/koreee.html` |
+| `https://youpic.id68143.click/account/verify/oczlmzpyan6we` |
+| `https://www.roblox.com.bi/users/865192277060/profile` |
+| `https://goo.su/iW6Gf2` |
+| `https://luderlawe.com/smooth/zTzSgqqazyfNwxWXNaGAwEO7qhkxYH64xPOp?-m=bJv0VSF2` |
+| `http://sp13ct-vardik-biz-kormel-pravsel.pages.dev/` |
+| `https://comcastonlinewebmail.weeblysite.com/` |
+| `http://comcastonlinewebmail.weebly.com/` |
+| `https://xfinity102.weeblysite.com/` |
+| `http://xfinity102.weebly.com/` |
+| `http://portal-led-ger-live.pages.dev/` |
+| `http://www.bnb-verify.vercel.app/` |
+| `http://www.xfi-voice.weebly.com/` |
+| `http://www.webmailxfi.weebly.com/` |
+| `http://www.redirectmail-attlogin.weebly.com/` |
+| `http://www.comcastserverservice.weebly.com/` |
+| `http://www.comcastpage.weebly.com/` |
+| `https://gotbackupjv.com/swaggy/en/` |
+| `https://cooked-playstation-apr-guitars.trycloudflare.com/` |
+| `http://6a71c0b8a1b80432d7053a3b--melodic-cendol-596259.netlify.app/` |
+| `http://access-docs-us-trezor-io-start.typedream.app/` |
 
 ---
 
