@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 07, 2026  
-> **Updated:** August 07, 2026 at 09:45 UTC  
+> **Date:** August 08, 2026  
+> **Updated:** August 08, 2026 at 09:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://youpic.id68143.click/account/verify/oczlmzpyan6we` |
-| `https://www.roblox.com.bi/users/865192277060/profile` |
-| `https://goo.su/iW6Gf2` |
-| `https://luderlawe.com/smooth/zTzSgqqazyfNwxWXNaGAwEO7qhkxYH64xPOp?-m=bJv0VSF2` |
-| `http://sp13ct-vardik-biz-kormel-pravsel.pages.dev/` |
-| `https://comcastonlinewebmail.weeblysite.com/` |
-| `http://comcastonlinewebmail.weebly.com/` |
-| `https://xfinity102.weeblysite.com/` |
-| `http://xfinity102.weebly.com/` |
-| `http://portal-led-ger-live.pages.dev/` |
-| `http://www.bnb-verify.vercel.app/` |
-| `http://www.xfi-voice.weebly.com/` |
-| `http://www.webmailxfi.weebly.com/` |
-| `http://www.redirectmail-attlogin.weebly.com/` |
-| `http://www.comcastserverservice.weebly.com/` |
-| `http://www.comcastpage.weebly.com/` |
-| `https://gotbackupjv.com/swaggy/en/` |
-| `https://cooked-playstation-apr-guitars.trycloudflare.com/` |
-| `http://6a71c0b8a1b80432d7053a3b--melodic-cendol-596259.netlify.app/` |
-| `http://access-docs-us-trezor-io-start.typedream.app/` |
+| `http://webdisk.20-244-0-63.cprapid.com/` |
+| `http://safe-ldge-r-live.pages.dev/` |
+| `https://ipfs.io/ipfs/bafybeib65hqaeocurjfgaqozudsqxji7qc5cc2c2ivjl7rdkai52sonm4q` |
+| `http://outlooksereguri365.hstn.me/` |
+| `https://www.roblox.com.bn/users/889521457001/profile` |
+| `http://7.rewardingmyself.com/` |
+| `http://a3b9c102.com/register.html` |
+| `http://nft-luckybox01-6e2529f3b576.herokuapp.com/` |
+| `https://www.netflix-clone-gilt-phi.vercel.app/` |
+| `https://mackeyins.com/xn/link/dd/Alibaba/index.php` |
+| `https://furious-aqua-yss2lu8g.edgeone.dev/` |
+| `https://big.as/Mail/` |
+| `https://sp13ct-vormel-biz-pradik-kersor.pages.dev/` |
+| `https://www.cambrianschoolbd.com/mail/` |
+| `https://cuttizum.click/s/gRtRb8` |
+| `https://www.roblox.com.mu/users/8256586766/profile` |
+| `http://www.70598365756.com/` |
+| `https://wvwv-roblox.co/users/909139181/profile)` |
+| `https://urlto.me/2ouA9` |
+| `http://bt-internet-108197.weeblysite.com/` |
 
 ---
 
