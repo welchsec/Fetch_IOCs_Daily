@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 08, 2026  
-> **Updated:** August 08, 2026 at 09:23 UTC  
+> **Date:** August 09, 2026  
+> **Updated:** August 09, 2026 at 09:24 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://webdisk.20-244-0-63.cprapid.com/` |
-| `http://safe-ldge-r-live.pages.dev/` |
-| `https://ipfs.io/ipfs/bafybeib65hqaeocurjfgaqozudsqxji7qc5cc2c2ivjl7rdkai52sonm4q` |
-| `http://outlooksereguri365.hstn.me/` |
-| `https://www.roblox.com.bn/users/889521457001/profile` |
-| `http://7.rewardingmyself.com/` |
-| `http://a3b9c102.com/register.html` |
-| `http://nft-luckybox01-6e2529f3b576.herokuapp.com/` |
-| `https://www.netflix-clone-gilt-phi.vercel.app/` |
-| `https://mackeyins.com/xn/link/dd/Alibaba/index.php` |
-| `https://furious-aqua-yss2lu8g.edgeone.dev/` |
-| `https://big.as/Mail/` |
-| `https://sp13ct-vormel-biz-pradik-kersor.pages.dev/` |
-| `https://www.cambrianschoolbd.com/mail/` |
-| `https://cuttizum.click/s/gRtRb8` |
-| `https://www.roblox.com.mu/users/8256586766/profile` |
-| `http://www.70598365756.com/` |
-| `https://wvwv-roblox.co/users/909139181/profile)` |
-| `https://urlto.me/2ouA9` |
-| `http://bt-internet-108197.weeblysite.com/` |
+| `http://ledgrr-live-download.pages.dev/` |
+| `https://www.roblox.com.mu/games/95878078212429/UPD3-Convince-the-CRAZY-Idol-to-let-you-free?privateServerLinkCode=42904738446208678593099227646059` |
+| `http://www.365bet6.com/` |
+| `https://amazon-clone-f73c.panda.new/` |
+| `http://www.17568.xyz/` |
+| `http://8678v6v87.pages.dev/` |
+| `https://olivetreecounselling.co.uk/ahab/` |
+| `https://olivetreecounselling.co.uk/waitforyourupdatinginfo` |
+| `https://ig.do/Rengoku1a10` |
+| `https://roblox.com.ml/users/365711557369/profile` |
+| `https://953581.icefactory.cl/` |
+| `https://8fb063.icefactory.cl/` |
+| `https://a1e0b3.icefactory.cl/` |
+| `http://www.17557.xyz/` |
+| `https://hbkpt4a51gp-xlbdwmja-2e0f6b-hbk96c.pages.dev/` |
+| `https://mobapay.best/?etext=2202.7qvsee9gxl1DEUGQXq2W5HVzb2p6a2FzenZybHN5dHM.58e94bf6c6eaaa275b7af70180199cf49bcfcf73` |
+| `https://demontre.com.ar/telling/` |
+| `https://p7v3w.motnatelly.xyz/` |
+| `http://www.yqluvyr.shop/` |
+| `https://78c9a5.icefactory.cl/` |
 
 ---
 
