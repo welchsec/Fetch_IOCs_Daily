@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 09, 2026  
-> **Updated:** August 09, 2026 at 09:24 UTC  
+> **Date:** August 10, 2026  
+> **Updated:** August 10, 2026 at 10:04 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://ledgrr-live-download.pages.dev/` |
-| `https://www.roblox.com.mu/games/95878078212429/UPD3-Convince-the-CRAZY-Idol-to-let-you-free?privateServerLinkCode=42904738446208678593099227646059` |
-| `http://www.365bet6.com/` |
-| `https://amazon-clone-f73c.panda.new/` |
-| `http://www.17568.xyz/` |
-| `http://8678v6v87.pages.dev/` |
-| `https://olivetreecounselling.co.uk/ahab/` |
-| `https://olivetreecounselling.co.uk/waitforyourupdatinginfo` |
-| `https://ig.do/Rengoku1a10` |
-| `https://roblox.com.ml/users/365711557369/profile` |
-| `https://953581.icefactory.cl/` |
-| `https://8fb063.icefactory.cl/` |
-| `https://a1e0b3.icefactory.cl/` |
-| `http://www.17557.xyz/` |
-| `https://hbkpt4a51gp-xlbdwmja-2e0f6b-hbk96c.pages.dev/` |
-| `https://mobapay.best/?etext=2202.7qvsee9gxl1DEUGQXq2W5HVzb2p6a2FzenZybHN5dHM.58e94bf6c6eaaa275b7af70180199cf49bcfcf73` |
-| `https://demontre.com.ar/telling/` |
-| `https://p7v3w.motnatelly.xyz/` |
-| `http://www.yqluvyr.shop/` |
-| `https://78c9a5.icefactory.cl/` |
+| `https://www.roblox.com.gr/users/622177948453/profile` |
+| `https://webdomain03.dnscpanel.com/~aguiasda/it/inbank/auth/login.php` |
+| `https://webdomain03.dnscpanel.com/~aguiasda/it/inbank/` |
+| `https://steamcommumminty.cam/tradeoffer/new/partner=64318432token=r0igerPI34832` |
+| `http://docusign.kecifang.net/` |
+| `https://3aurbanismo.com.br/wp-content/Sys/ch/card.php` |
+| `http://wwwmaxpointsprogram.us.cc/4g/home.html` |
+| `https://php-web-server-3--jmhernandez2990.replit.app/` |
+| `http://bhdservisscuentresolu.yzz.me/` |
+| `http://phost.com.br.cssi.com.br/CB/DZ/CB/espace-client/user.php` |
+| `http://phost.com.br.cssi.com.br/CB/DZ/CB/espace-client/` |
+| `http://www.71678.xyz/` |
+| `https://fakebooklogin.blogspot.com/` |
+| `http://staging.dfhwvp9zy8m7p.amplifyapp.com/` |
+| `https://security-server-page--45678ghj.replit.app/` |
+| `http://rf3x4x34x.pages.dev/` |
+| `https://instagramfollowers7894.blogspot.com/` |
+| `https://www.instagramfollowers7894.blogspot.com/` |
+| `https://34cr34cr3c-8ap.pages.dev/` |
+| `http://roblox.com.bi/users/948999725954/profile` |
 
 ---
 
