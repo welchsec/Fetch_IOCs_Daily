@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 10, 2026  
-> **Updated:** August 10, 2026 at 10:04 UTC  
+> **Date:** August 11, 2026  
+> **Updated:** August 11, 2026 at 09:44 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.gr/users/622177948453/profile` |
-| `https://webdomain03.dnscpanel.com/~aguiasda/it/inbank/auth/login.php` |
-| `https://webdomain03.dnscpanel.com/~aguiasda/it/inbank/` |
-| `https://steamcommumminty.cam/tradeoffer/new/partner=64318432token=r0igerPI34832` |
-| `http://docusign.kecifang.net/` |
-| `https://3aurbanismo.com.br/wp-content/Sys/ch/card.php` |
-| `http://wwwmaxpointsprogram.us.cc/4g/home.html` |
-| `https://php-web-server-3--jmhernandez2990.replit.app/` |
-| `http://bhdservisscuentresolu.yzz.me/` |
-| `http://phost.com.br.cssi.com.br/CB/DZ/CB/espace-client/user.php` |
-| `http://phost.com.br.cssi.com.br/CB/DZ/CB/espace-client/` |
-| `http://www.71678.xyz/` |
-| `https://fakebooklogin.blogspot.com/` |
-| `http://staging.dfhwvp9zy8m7p.amplifyapp.com/` |
-| `https://security-server-page--45678ghj.replit.app/` |
-| `http://rf3x4x34x.pages.dev/` |
-| `https://instagramfollowers7894.blogspot.com/` |
-| `https://www.instagramfollowers7894.blogspot.com/` |
-| `https://34cr34cr3c-8ap.pages.dev/` |
-| `http://roblox.com.bi/users/948999725954/profile` |
+| `https://www.xfinityrefunds.com/TokenLogin` |
+| `https://www.xfinityrefunds.com/token/75BF4A363A50427CA6DF470D95E223BB` |
+| `http://www.h5-app.top/` |
+| `https://www.roblox.com.mu/users/9512649433/profile` |
+| `https://83f7ab.icefactory.cl/` |
+| `https://03dac8.icefactory.cl/` |
+| `https://0c3cfe.icefactory.cl/` |
+| `https://www.roblox.ly/games/142823291/Murder-Mystery-2?privateServerLinkCode=36640177625869759402653221967995` |
+| `https://69ad32.icefactory.cl/` |
+| `https://www.roblox.ly/users/9266336035/profile)` |
+| `http://www.whatsappwebred.blogspot.com/` |
+| `http://transcript.katanareviewpolicy.com/` |
+| `https://1d6c55.icefactory.cl/` |
+| `https://626960.xyz/` |
+| `https://1acc0c.icefactory.cl/` |
+| `https://7f001d.icefactory.cl/` |
+| `https://venixfit.com/tpsuniversity/tpsuniversity.html` |
+| `https://2d7dc0.icefactory.cl/` |
+| `https://blushing-mission-518321.framer.app/` |
+| `http://vvrl.cc/ad09aa` |
 
 ---
 
