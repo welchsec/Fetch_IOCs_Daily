@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 11, 2026  
-> **Updated:** August 11, 2026 at 09:44 UTC  
+> **Date:** August 12, 2026  
+> **Updated:** August 12, 2026 at 09:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.xfinityrefunds.com/TokenLogin` |
-| `https://www.xfinityrefunds.com/token/75BF4A363A50427CA6DF470D95E223BB` |
-| `http://www.h5-app.top/` |
-| `https://www.roblox.com.mu/users/9512649433/profile` |
-| `https://83f7ab.icefactory.cl/` |
-| `https://03dac8.icefactory.cl/` |
-| `https://0c3cfe.icefactory.cl/` |
-| `https://www.roblox.ly/games/142823291/Murder-Mystery-2?privateServerLinkCode=36640177625869759402653221967995` |
-| `https://69ad32.icefactory.cl/` |
-| `https://www.roblox.ly/users/9266336035/profile)` |
-| `http://www.whatsappwebred.blogspot.com/` |
-| `http://transcript.katanareviewpolicy.com/` |
-| `https://1d6c55.icefactory.cl/` |
-| `https://626960.xyz/` |
-| `https://1acc0c.icefactory.cl/` |
-| `https://7f001d.icefactory.cl/` |
-| `https://venixfit.com/tpsuniversity/tpsuniversity.html` |
-| `https://2d7dc0.icefactory.cl/` |
-| `https://blushing-mission-518321.framer.app/` |
-| `http://vvrl.cc/ad09aa` |
+| `https://firststepfloors.com/` |
+| `https://headshotsandcorporate.com/` |
+| `http://researchsquare.cfd/kr/dmlkorea.html` |
+| `https://31e2f6.arcadejafet.cl/` |
+| `https://59f990.arcadejafet.cl/` |
+| `https://ce35dd.arcadejafet.cl/` |
+| `https://ec857f.arcadejafet.cl/` |
+| `https://a12a99.arcadejafet.cl/` |
+| `https://3173c7.arcadejafet.cl/` |
+| `https://683b70.arcadejafet.cl/` |
+| `https://f0f3bf.arcadejafet.cl/` |
+| `https://6c42b9.arcadejafet.cl/` |
+| `https://7fc5e3.arcadejafet.cl/` |
+| `https://6efc9f.arcadejafet.cl/` |
+| `https://259a86.arcadejafet.cl/` |
+| `https://b4c18a.arcadejafet.cl/` |
+| `https://2c74f3.arcadejafet.cl/` |
+| `https://25be0c.arcadejafet.cl/` |
+| `https://1a030c.arcadejafet.cl/` |
+| `https://a1d504.arcadejafet.cl/` |
 
 ---
 
