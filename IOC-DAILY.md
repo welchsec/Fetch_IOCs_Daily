@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 12, 2026  
-> **Updated:** August 12, 2026 at 09:49 UTC  
+> **Date:** August 13, 2026  
+> **Updated:** August 13, 2026 at 09:50 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://firststepfloors.com/` |
-| `https://headshotsandcorporate.com/` |
-| `http://researchsquare.cfd/kr/dmlkorea.html` |
-| `https://31e2f6.arcadejafet.cl/` |
-| `https://59f990.arcadejafet.cl/` |
-| `https://ce35dd.arcadejafet.cl/` |
-| `https://ec857f.arcadejafet.cl/` |
-| `https://a12a99.arcadejafet.cl/` |
-| `https://3173c7.arcadejafet.cl/` |
-| `https://683b70.arcadejafet.cl/` |
-| `https://f0f3bf.arcadejafet.cl/` |
-| `https://6c42b9.arcadejafet.cl/` |
-| `https://7fc5e3.arcadejafet.cl/` |
-| `https://6efc9f.arcadejafet.cl/` |
-| `https://259a86.arcadejafet.cl/` |
-| `https://b4c18a.arcadejafet.cl/` |
-| `https://2c74f3.arcadejafet.cl/` |
-| `https://25be0c.arcadejafet.cl/` |
-| `https://1a030c.arcadejafet.cl/` |
-| `https://a1d504.arcadejafet.cl/` |
+| `https://g5.lu/r6ap4` |
+| `https://cardiffsegurogrupoamigo360.vercel.app/` |
+| `https://g5.lu/vgcss` |
+| `https://content-dpcbrw03871s.edgeone.dev/` |
+| `https://goo.su/vxSMx` |
+| `http://www.comacstnew.weebly.com/` |
+| `http://www.comcastmailin.weebly.com/` |
+| `http://www.comcastwebmailinternet.weebly.com/` |
+| `http://www.comcastinternetserver.weebly.com/` |
+| `http://www.comcastlogininfo.weebly.com/` |
+| `http://store.communitystudionsarts.shop/workshop/AWP-AncientHeritage/` |
+| `https://wvww-roblox.co/users/689394051/profile` |
+| `https://s4w.in/www-roblox-com-users-619394051-profile` |
+| `https://cressssteam.pages.dev/public` |
+| `https://mkamaluddin838380.github.io/Assignment_9/` |
+| `https://clientebhdactivar2026.zya.me/` |
+| `https://bfc66c.icefactory.cl/` |
+| `https://gazw-ru.web.app/main.html` |
+| `https://coderkubes.com/are/index.html` |
+| `https://www.roblox.com.bi/users/346757463854/profile` |
 
 ---
 
