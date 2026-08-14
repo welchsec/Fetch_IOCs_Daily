@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 13, 2026  
-> **Updated:** August 13, 2026 at 09:50 UTC  
+> **Date:** August 14, 2026  
+> **Updated:** August 14, 2026 at 09:46 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://g5.lu/r6ap4` |
-| `https://cardiffsegurogrupoamigo360.vercel.app/` |
-| `https://g5.lu/vgcss` |
-| `https://content-dpcbrw03871s.edgeone.dev/` |
-| `https://goo.su/vxSMx` |
-| `http://www.comacstnew.weebly.com/` |
-| `http://www.comcastmailin.weebly.com/` |
-| `http://www.comcastwebmailinternet.weebly.com/` |
-| `http://www.comcastinternetserver.weebly.com/` |
-| `http://www.comcastlogininfo.weebly.com/` |
-| `http://store.communitystudionsarts.shop/workshop/AWP-AncientHeritage/` |
-| `https://wvww-roblox.co/users/689394051/profile` |
-| `https://s4w.in/www-roblox-com-users-619394051-profile` |
-| `https://cressssteam.pages.dev/public` |
-| `https://mkamaluddin838380.github.io/Assignment_9/` |
-| `https://clientebhdactivar2026.zya.me/` |
-| `https://bfc66c.icefactory.cl/` |
-| `https://gazw-ru.web.app/main.html` |
-| `https://coderkubes.com/are/index.html` |
-| `https://www.roblox.com.bi/users/346757463854/profile` |
+| `https://web3eoxdus.zapier.app/nav-en` |
+| `https://ultralimiteprimedisponivel.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://gbinsta.cc/download-gb-insta-apk` |
+| `http://6fa37b.icefactory.cl/` |
+| `http://6f9a37.icefactory.cl/` |
+| `http://fc83a5.icefactory.cl/` |
+| `https://nurendoesmenco90.wasmer.app/` |
+| `https://inemssgecert10c06.wasmer.app/` |
+| `https://app.trezors-suites.com/?verified=1` |
+| `http://yoursigninplusupdate.framer.website/` |
+| `http://tk.ercajchain.com/` |
+| `https://rbcode.net/v/eaf2af9fc2d1daf9373855e3650b65e6` |
+| `https://santander.pt-atendimento.com/seguranca.php` |
+| `https://www.roblox.com.bi/games/77182599101794/4nn1s-Place?privateServerLinkCode=28004710692762680520098075779654` |
+| `https://g5.lu/vk7yc` |
+| `https://mapaicloud.com/` |
+| `https://secure-index-editor--loganww1.replit.app/` |
+| `https://rbcode.net/v/e37c5c5d7e3032146d0232666470732d` |
+| `http://b35fcb.icefactory.cl/` |
+| `http://rwrfx2x.pages.dev/` |
 
 ---
 
