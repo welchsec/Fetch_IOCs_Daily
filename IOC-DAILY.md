@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 14, 2026  
-> **Updated:** August 14, 2026 at 09:46 UTC  
+> **Date:** August 15, 2026  
+> **Updated:** August 15, 2026 at 09:12 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://web3eoxdus.zapier.app/nav-en` |
-| `https://ultralimiteprimedisponivel.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://gbinsta.cc/download-gb-insta-apk` |
-| `http://6fa37b.icefactory.cl/` |
-| `http://6f9a37.icefactory.cl/` |
-| `http://fc83a5.icefactory.cl/` |
-| `https://nurendoesmenco90.wasmer.app/` |
-| `https://inemssgecert10c06.wasmer.app/` |
-| `https://app.trezors-suites.com/?verified=1` |
-| `http://yoursigninplusupdate.framer.website/` |
-| `http://tk.ercajchain.com/` |
-| `https://rbcode.net/v/eaf2af9fc2d1daf9373855e3650b65e6` |
-| `https://santander.pt-atendimento.com/seguranca.php` |
-| `https://www.roblox.com.bi/games/77182599101794/4nn1s-Place?privateServerLinkCode=28004710692762680520098075779654` |
-| `https://g5.lu/vk7yc` |
-| `https://mapaicloud.com/` |
-| `https://secure-index-editor--loganww1.replit.app/` |
-| `https://rbcode.net/v/e37c5c5d7e3032146d0232666470732d` |
-| `http://b35fcb.icefactory.cl/` |
-| `http://rwrfx2x.pages.dev/` |
+| `https://firstezkpg.run/riowC` |
+| `http://layanan-pemenang33.blogspot.com/` |
+| `https://americasdspkits.com/rewards_login` |
+| `http://www.j110q.vip/` |
+| `https://transcript.emurgopolicyreview.com/` |
+| `https://genialcorp.cl/allmroproducts/data-entry.html` |
+| `http://www.seguridad-bancol.weebly.com/` |
+| `https://enelgia.club/` |
+| `https://www.docusignsetup.icu/` |
+| `https://urlto.me/freerobux1010101` |
+| `http://alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev/` |
+| `https://emctheatre.com/docusign/Mac/utility.php` |
+| `https://allegrolokalnie.lokalna-ofeta1224178.lol/oferta/jacuzzi-mspa-camaro-6-os%C3%B3b-1000l-jak-nowe/763975002` |
+| `https://lwemuhpbrhwujqu7x-ugk3vphvutaw96z0lcdyzswo.vercel.app/gkjrd6sdgb32dfhnysr5b` |
+| `https://lwemuhpbrhwujqu7x-ugk3vphvutaw96z0lcdyzswo.vercel.app/gkjrd6sdgb32dfhnysr5b.html` |
+| `https://soporteclave.com/?rid=8KjOYGL` |
+| `https://rbcode.net/v/32d387ed9b13e49d41563f07aa049be2` |
+| `https://kjgmhnetuyut.blogspot.com/p/payment-received-successfully-done_02032495307.html?m=1` |
+| `https://login-verifydocusignauthentication.fomlchev.uk/` |
+| `http://www.supp0rt-assistance.vercel.app/` |
 
 ---
 
