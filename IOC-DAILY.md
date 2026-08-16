@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 15, 2026  
-> **Updated:** August 15, 2026 at 09:12 UTC  
+> **Date:** August 16, 2026  
+> **Updated:** August 16, 2026 at 09:13 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://firstezkpg.run/riowC` |
-| `http://layanan-pemenang33.blogspot.com/` |
-| `https://americasdspkits.com/rewards_login` |
-| `http://www.j110q.vip/` |
-| `https://transcript.emurgopolicyreview.com/` |
-| `https://genialcorp.cl/allmroproducts/data-entry.html` |
-| `http://www.seguridad-bancol.weebly.com/` |
-| `https://enelgia.club/` |
-| `https://www.docusignsetup.icu/` |
-| `https://urlto.me/freerobux1010101` |
-| `http://alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev/` |
-| `https://emctheatre.com/docusign/Mac/utility.php` |
-| `https://allegrolokalnie.lokalna-ofeta1224178.lol/oferta/jacuzzi-mspa-camaro-6-os%C3%B3b-1000l-jak-nowe/763975002` |
-| `https://lwemuhpbrhwujqu7x-ugk3vphvutaw96z0lcdyzswo.vercel.app/gkjrd6sdgb32dfhnysr5b` |
-| `https://lwemuhpbrhwujqu7x-ugk3vphvutaw96z0lcdyzswo.vercel.app/gkjrd6sdgb32dfhnysr5b.html` |
-| `https://soporteclave.com/?rid=8KjOYGL` |
-| `https://rbcode.net/v/32d387ed9b13e49d41563f07aa049be2` |
-| `https://kjgmhnetuyut.blogspot.com/p/payment-received-successfully-done_02032495307.html?m=1` |
-| `https://login-verifydocusignauthentication.fomlchev.uk/` |
-| `http://www.supp0rt-assistance.vercel.app/` |
+| `https://m.lose-dafa.com/` |
+| `https://n3b9c37.com:8989/register.html` |
+| `https://www.netf-reintegration-definition.com/` |
+| `https://shayan-builds.github.io/Amazon-Inspired-Landing-Page` |
+| `https://d8fc40.icefactory.cl/` |
+| `https://442be6.icefactory.cl/` |
+| `https://pubgm.mobileaccesx-events.com/` |
+| `https://micr0sft.github.io/com.` |
+| `https://dtiorpatpebd2mr8zqgirjvpbvmuufo4jysf5-cg1108s.vercel.app/` |
+| `https://s89hbugu68cg7wr6p7wvhlctmdszoesqsf26-cg1108s.vercel.app/` |
+| `https://ez10002xf9fx931108vezv4yio3golls7b4g4pses1nycvbd87r8v.vercel.app/` |
+| `https://p100061dw7cs11208vez6hz6yygnxvx37uo5kpesex7c90tw8huv.vercel.app/` |
+| `https://ez1000zw79yz451108vezi5t5segyegc42ymgm5esl8lih11c1ekv.vercel.app/` |
+| `https://vh18414.vh.net.pl/TD/TD-ZE5KIzX0UW4&oauth_key_signature=eyJraWQOiJrUFVqdlNhT25GWUVDakpjMmV1MXJvNGxnb2VFeXJJb2tCbU1X3BiZXN/loading.php` |
+| `https://vh18414.vh.net.pl/TD/TD-ZE5KIzX0UW4&oauth_key_signature=eyJraWQOiJrUFVqdlNhT25GWUVDakpjMmV1MXJvNGxnb2VFeXJJb2tCbU1X3BiZXN/app.php` |
+| `https://rbcode.net/v/a33e7aeaeb96e4dc027fb154fdd87955` |
+| `http://subscription.companymessagecenter.com/6197094-oH1faBZb-PKS9Q` |
+| `https://css-ch.blogspot.com/` |
+| `https://ravichavi.github.io/Netflix-Clone/` |
+| `https://amanvish90s.github.io/E-commerce_Amazon_Frontend_Clone/` |
 
 ---
 
