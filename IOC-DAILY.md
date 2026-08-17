@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 16, 2026  
-> **Updated:** August 16, 2026 at 09:13 UTC  
+> **Date:** August 17, 2026  
+> **Updated:** August 17, 2026 at 09:25 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://m.lose-dafa.com/` |
-| `https://n3b9c37.com:8989/register.html` |
-| `https://www.netf-reintegration-definition.com/` |
-| `https://shayan-builds.github.io/Amazon-Inspired-Landing-Page` |
-| `https://d8fc40.icefactory.cl/` |
-| `https://442be6.icefactory.cl/` |
-| `https://pubgm.mobileaccesx-events.com/` |
-| `https://micr0sft.github.io/com.` |
-| `https://dtiorpatpebd2mr8zqgirjvpbvmuufo4jysf5-cg1108s.vercel.app/` |
-| `https://s89hbugu68cg7wr6p7wvhlctmdszoesqsf26-cg1108s.vercel.app/` |
-| `https://ez10002xf9fx931108vezv4yio3golls7b4g4pses1nycvbd87r8v.vercel.app/` |
-| `https://p100061dw7cs11208vez6hz6yygnxvx37uo5kpesex7c90tw8huv.vercel.app/` |
-| `https://ez1000zw79yz451108vezi5t5segyegc42ymgm5esl8lih11c1ekv.vercel.app/` |
-| `https://vh18414.vh.net.pl/TD/TD-ZE5KIzX0UW4&oauth_key_signature=eyJraWQOiJrUFVqdlNhT25GWUVDakpjMmV1MXJvNGxnb2VFeXJJb2tCbU1X3BiZXN/loading.php` |
-| `https://vh18414.vh.net.pl/TD/TD-ZE5KIzX0UW4&oauth_key_signature=eyJraWQOiJrUFVqdlNhT25GWUVDakpjMmV1MXJvNGxnb2VFeXJJb2tCbU1X3BiZXN/app.php` |
-| `https://rbcode.net/v/a33e7aeaeb96e4dc027fb154fdd87955` |
-| `http://subscription.companymessagecenter.com/6197094-oH1faBZb-PKS9Q` |
-| `https://css-ch.blogspot.com/` |
-| `https://ravichavi.github.io/Netflix-Clone/` |
-| `https://amanvish90s.github.io/E-commerce_Amazon_Frontend_Clone/` |
+| `https://accountverify.au/?r=52af92bf-8b89-4435-b120-23b09c38ef78` |
+| `http://ecomaicer89teried.wasmer.app/` |
+| `http://nologiceries814aug.wasmer.app/` |
+| `http://xfinitywebmail26.weebly.com/` |
+| `https://www.roblox.ly/users/2457444922/profile` |
+| `https://qnwznxkgybujvhorkppwz10ymwegxe4oeesf1-h13s.vercel.app/` |
+| `http://pay-profiles-bs0k3xr24-walletconnect.vercel.app/` |
+| `https://www.roblox.com.mu/communities/4558887143/BossClan` |
+| `http://ledglive-m-auth.typedream.app/` |
+| `http://suite-trezzor-com.typedream.app/` |
+| `http://en-t-r-e-z-r-io-login.typedream.app/` |
+| `http://begin-ledger-support.typedream.app/` |
+| `http://ledger-download-web-sso.typedream.app/` |
+| `http://ledger-login-start-ledger-web.typedream.app/` |
+| `http://bybit-login-app.typedream.app/` |
+| `http://help-bridge-desk.typedream.app/` |
+| `http://official-coinbus-help.typedream.app/` |
+| `http://app-live-ledger-wllet.typedream.app/` |
+| `http://support--legderlive-us--learn.typedream.app/` |
+| `http://secure-help-eng-ledger-live-login.typedream.app/` |
 
 ---
 
