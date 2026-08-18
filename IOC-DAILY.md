@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 17, 2026  
-> **Updated:** August 17, 2026 at 09:25 UTC  
+> **Date:** August 18, 2026  
+> **Updated:** August 18, 2026 at 09:18 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://accountverify.au/?r=52af92bf-8b89-4435-b120-23b09c38ef78` |
-| `http://ecomaicer89teried.wasmer.app/` |
-| `http://nologiceries814aug.wasmer.app/` |
-| `http://xfinitywebmail26.weebly.com/` |
-| `https://www.roblox.ly/users/2457444922/profile` |
-| `https://qnwznxkgybujvhorkppwz10ymwegxe4oeesf1-h13s.vercel.app/` |
-| `http://pay-profiles-bs0k3xr24-walletconnect.vercel.app/` |
-| `https://www.roblox.com.mu/communities/4558887143/BossClan` |
-| `http://ledglive-m-auth.typedream.app/` |
-| `http://suite-trezzor-com.typedream.app/` |
-| `http://en-t-r-e-z-r-io-login.typedream.app/` |
-| `http://begin-ledger-support.typedream.app/` |
-| `http://ledger-download-web-sso.typedream.app/` |
-| `http://ledger-login-start-ledger-web.typedream.app/` |
-| `http://bybit-login-app.typedream.app/` |
-| `http://help-bridge-desk.typedream.app/` |
-| `http://official-coinbus-help.typedream.app/` |
-| `http://app-live-ledger-wllet.typedream.app/` |
-| `http://support--legderlive-us--learn.typedream.app/` |
-| `http://secure-help-eng-ledger-live-login.typedream.app/` |
+| `http://gwcu.us.org/` |
+| `https://primevideo-customerhelp.165-154-255-202.cpanel.site/desktop/?auth_max_open=0&ref=h9f4cZxvSGsROZjKVHM3tSCdXrsHGGnTYKEs0T0rzKx4b05j78TBQhezNWVToqN4QPTat26BE1I0e7dRfjiRWn2ecysPBBoCiqXR` |
+| `https://marneta-gld-lormavi-p1t3fq85.pages.dev/` |
+| `http://www.moasd011.blogspot.com/` |
+| `https://rss2.sayler.at/go/13c413/y274x274` |
+| `https://lxqzemwt.xyz/JohnKyselka/phase-canada.html` |
+| `https://kzptb6b20sk-xvqmrwur-3j2g4d-pm788a242.pages.dev/send_appeal_request` |
+| `https://kzptb6b20sk-xvqmrwur-3j2g4d-pm788a242.pages.dev/welcome_aboard?welcome=1000968689063090&token248=1000968689063090&name_token136=The%20Mohegan%20Tribe` |
+| `http://flipcartshoppingoffer.github.io/Instagram-/` |
+| `http://www.lux-eo0o0.blogspot.com/` |
+| `http://sp4ct-norvurin-biz8-durem-lafix.pages.dev/` |
+| `https://www.roblox.ly/users/6541002943/profile` |
+| `http://www.ingreseaqui365.webcindario.com/` |
+| `http://vormela-gld-belquro-a3t5hk185.pages.dev/` |
+| `http://iforrhys-session-qarphegw-doc97w6vm---ldbaupeswc.kharwadejewellers.com/` |
+| `https://telmora-gld-zentora-p1t9hc46.pages.dev/` |
+| `https://staticfile-6d308.wasmer.app/` |
+| `https://allegrolokalnie.lokalna-067.sbs/oferta/-Myjka-ci%C5%9Bnieniowa-Karcher-K7-Comfort-Premium/625020283` |
+| `https://lxqzemwt.xyz/JacquelineJones/cfaa.html` |
+| `https://www-rqblox.co/users/1903963388/profile` |
 
 ---
 
