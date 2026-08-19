@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 18, 2026  
-> **Updated:** August 18, 2026 at 09:18 UTC  
+> **Date:** August 19, 2026  
+> **Updated:** August 19, 2026 at 09:18 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://gwcu.us.org/` |
-| `https://primevideo-customerhelp.165-154-255-202.cpanel.site/desktop/?auth_max_open=0&ref=h9f4cZxvSGsROZjKVHM3tSCdXrsHGGnTYKEs0T0rzKx4b05j78TBQhezNWVToqN4QPTat26BE1I0e7dRfjiRWn2ecysPBBoCiqXR` |
-| `https://marneta-gld-lormavi-p1t3fq85.pages.dev/` |
-| `http://www.moasd011.blogspot.com/` |
-| `https://rss2.sayler.at/go/13c413/y274x274` |
-| `https://lxqzemwt.xyz/JohnKyselka/phase-canada.html` |
-| `https://kzptb6b20sk-xvqmrwur-3j2g4d-pm788a242.pages.dev/send_appeal_request` |
-| `https://kzptb6b20sk-xvqmrwur-3j2g4d-pm788a242.pages.dev/welcome_aboard?welcome=1000968689063090&token248=1000968689063090&name_token136=The%20Mohegan%20Tribe` |
-| `http://flipcartshoppingoffer.github.io/Instagram-/` |
-| `http://www.lux-eo0o0.blogspot.com/` |
-| `http://sp4ct-norvurin-biz8-durem-lafix.pages.dev/` |
-| `https://www.roblox.ly/users/6541002943/profile` |
-| `http://www.ingreseaqui365.webcindario.com/` |
-| `http://vormela-gld-belquro-a3t5hk185.pages.dev/` |
-| `http://iforrhys-session-qarphegw-doc97w6vm---ldbaupeswc.kharwadejewellers.com/` |
-| `https://telmora-gld-zentora-p1t9hc46.pages.dev/` |
-| `https://staticfile-6d308.wasmer.app/` |
-| `https://allegrolokalnie.lokalna-067.sbs/oferta/-Myjka-ci%C5%9Bnieniowa-Karcher-K7-Comfort-Premium/625020283` |
-| `https://lxqzemwt.xyz/JacquelineJones/cfaa.html` |
-| `https://www-rqblox.co/users/1903963388/profile` |
+| `http://www.deskthipk.com/` |
+| `https://llori807.github.io/Netflix-Clone-2.0` |
+| `http://vp-nm.abouali-mohammad-arad.workers.dev/` |
+| `https://g5.lu/vu39k` |
+| `https://loginfacebook3.blogspot.com/` |
+| `https://www.haiws.com/article_3341.html` |
+| `https://zer2aypv.flvhzvq.com/` |
+| `http://6b70b0.icefactory.cl/` |
+| `http://www.qdsxdfrhsbc607.lhdz2016.com/` |
+| `https://vientianesaber.za.com/mkimellaw/mkimellaw.html` |
+| `http://www.xpj66722.com/` |
+| `http://dn0b08-y8m2-8xzd2-34dm-s14bqu.pages.dev/` |
+| `https://wjdo-u2dx-kfh0.workspace-trello-document-proton-me-s-account.workers.dev/` |
+| `http://security-server-page--aj5582185.replit.app/` |
+| `https://bxzgc51lkwg-swnvdpli-5ln41d-bxz77c.pages.dev/` |
+| `https://roblox.com.kz/users/1662831989/profile` |
+| `http://salon-sauer.de/index2.html` |
+| `https://www.trcdesafe.com/` |
+| `https://hr-messages.com/?keyname=STTvTzx` |
+| `https://142cee.ralind.at/referal/zipo1hs.php` |
 
 ---
 
