@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 19, 2026  
-> **Updated:** August 19, 2026 at 09:18 UTC  
+> **Date:** August 20, 2026  
+> **Updated:** August 20, 2026 at 09:19 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.deskthipk.com/` |
-| `https://llori807.github.io/Netflix-Clone-2.0` |
-| `http://vp-nm.abouali-mohammad-arad.workers.dev/` |
-| `https://g5.lu/vu39k` |
-| `https://loginfacebook3.blogspot.com/` |
-| `https://www.haiws.com/article_3341.html` |
-| `https://zer2aypv.flvhzvq.com/` |
-| `http://6b70b0.icefactory.cl/` |
-| `http://www.qdsxdfrhsbc607.lhdz2016.com/` |
-| `https://vientianesaber.za.com/mkimellaw/mkimellaw.html` |
-| `http://www.xpj66722.com/` |
-| `http://dn0b08-y8m2-8xzd2-34dm-s14bqu.pages.dev/` |
-| `https://wjdo-u2dx-kfh0.workspace-trello-document-proton-me-s-account.workers.dev/` |
-| `http://security-server-page--aj5582185.replit.app/` |
-| `https://bxzgc51lkwg-swnvdpli-5ln41d-bxz77c.pages.dev/` |
-| `https://roblox.com.kz/users/1662831989/profile` |
-| `http://salon-sauer.de/index2.html` |
-| `https://www.trcdesafe.com/` |
-| `https://hr-messages.com/?keyname=STTvTzx` |
-| `https://142cee.ralind.at/referal/zipo1hs.php` |
+| `http://onedocuvetinary-ldjzoo9p-webu43.4everland.app/` |
+| `http://netcoooins-logi.webflow.io/` |
+| `https://originalmeeting.pages.dev/Microsoftmeet.html?email=valosz@2de1886ed1cab04908e53d937d7dffd68a87.net` |
+| `https://flexibilidadeaseulimite.s3.us-east-005.backblazeb2.com/aumento.html` |
+| `https://www.supp0rtassistance.vercel.app/` |
+| `http://www.ngobaka-dave64636.vercel.app/` |
+| `https://www.aouth.rnicosoft-uid.surge.sh/` |
+| `https://sgdsdvsd325-ascasf235.vercel.app/` |
+| `https://fbf8d4.icefactory.cl/` |
+| `https://9ebdf2.icefactory.cl/` |
+| `https://8984ad.icefactory.cl/` |
+| `http://7d974b.icefactory.cl/` |
+| `https://41c91f.icefactory.cl/` |
+| `http://874025.icefactory.cl/` |
+| `http://609514.icefactory.cl/` |
+| `https://s4w.in/www-roblox-com-users-324785082741-profile` |
+| `https://888c8a.icefactory.cl/` |
+| `http://p3.34fsfat.workers.dev/` |
+| `https://ngobaka-dave64636.vercel.app/` |
+| `https://validacioneshtml2026inmd.zya.me/?i=1` |
 
 ---
 
