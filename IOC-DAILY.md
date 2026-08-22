@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 21, 2026  
-> **Updated:** August 21, 2026 at 09:21 UTC  
+> **Date:** August 22, 2026  
+> **Updated:** August 22, 2026 at 09:13 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://swisborrgloginmain.webflow.io/` |
-| `http://verifysecurenow.weebly.com/` |
-| `https://s4w.in/www-roblox-com-users-365698823823-profile` |
-| `https://www.roblox.com.ml/users/365698823824/profile` |
-| `https://movie875.shop/buy/register.php?ref&#61` |
-| `https://steamncomnnunity.ru/id/7656119798487731` |
-| `https://asdbanorte.cfd/mx` |
-| `https://sp22ct-zorvi-biz-maku-nelo-6ub.pages.dev/` |
-| `https://telcgram.us.cc/h5/` |
-| `https://telcgram.us.cc/` |
-| `http://www.0365nn.com/` |
-| `https://usc1.contabostorage.com/4d55fb8ca3ab4f4bb6795606a458b59a:authe/web-secure_evc.html` |
-| `https://admin.tiktokshopvip.com/` |
-| `https://picker770.github.io/amazon-clone-project/` |
-| `https://vinis0usa.github.io/instagram_login/` |
-| `https://phantomwalletsupport.github.io/Phantom-Wallet-Official/` |
-| `https://adhieswari13-cmyk.github.io/UI-UX-Design./` |
-| `https://cvqgs3140lk-wtrkbpli-3jl80d-cvq63c.pages.dev/send_appeal_request` |
-| `http://metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app/sdk/multichain/connect/guides/send-transactions/` |
-| `http://allegrolokalnie.167v922n4212.lol/oferta/id-lrzkuhrzay-playstation-5-pro-2-pady-i-duzo-gier/` |
+| `http://btinternet-maintenance-update106043-104089.weeblysite.com/` |
+| `http://courageous-paletas-6e47c2.netlify.app/` |
+| `http://luxury-frangollo-2d3521.netlify.app/` |
+| `http://classy-kulfi-c3cd9f.netlify.app/` |
+| `http://simple-security-page--aphroditesaless.replit.app/` |
+| `http://amazon-clone-html-css-hazel.vercel.app/` |
+| `http://lovely-surprise-937079.framer.app/` |
+| `http://shaw-webmail-104660.weeblysite.com/` |
+| `http://telstra-106076-45e2aef8092c.weeblysite.com/` |
+| `https://chances.site.je/vivasorte?i=1` |
+| `http://vibrant-hand-525680.framer.app/` |
+| `http://new-koinsquare.webflow.io/` |
+| `http://server-docs--grangevalleyarn.replit.app/` |
+| `http://procedes.vercel.app/` |
+| `http://xfinityprivacyupdate.netlify.app/` |
+| `http://spotify-99.netlify.app/` |
+| `http://secure-page-creator--ccnew.replit.app/` |
+| `http://thriving-kitten-968a8f.netlify.app/` |
+| `http://naveenkumar-netclon.netlify.app/` |
+| `http://arknet.vercel.app/` |
 
 ---
 
