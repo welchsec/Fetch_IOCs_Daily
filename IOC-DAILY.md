@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 24, 2026  
-> **Updated:** August 24, 2026 at 09:31 UTC  
+> **Date:** August 25, 2026  
+> **Updated:** August 25, 2026 at 09:21 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://sp22ct-kemur-biz-zori-lavu.pages.dev/` |
-| `https://miniature-octo-waffle-dpgu17krrwmh.edgeone.dev/` |
-| `http://www.gttyour-robloxrbx.blogspot.com/` |
-| `https://verication-casefb562291.vercel.app/` |
-| `https://creditopichincha-977--creditopichin8.replit.app/` |
-| `http://shopee0488.blogspot.com/` |
-| `http://waves-whatapp.hl.cn/` |
-| `https://dialogue-whatapp.com.cn/` |
-| `https://pehsad.com/` |
-| `https://1url.at/www/robloxcom-users-7776623869-profile` |
-| `https://www.roblox.com.gr/games/85811969623710/Sword-Fighting-773` |
-| `https://s4w.in/roblox-com-users-250941221584-profile` |
-| `https://www.roblox.com.ml/users/250941221584/profile` |
-| `https://h5.ring-whatapp.com.cn/` |
-| `http://17534.xyz/` |
-| `https://www.17575.xyz/` |
-| `https://www.17556.xyz/` |
-| `https://www.17557.xyz/` |
-| `http://www.17552.xyz/` |
-| `http://www.17558.xyz/` |
+| `http://openup.to/qyzf0km4` |
+| `http://sp22ct-ravel-biz-kazu-pelo-f3p.pages.dev/` |
+| `http://www.section.lat/` |
+| `https://www.j86b.vip/` |
+| `https://www.roblox.com.bi/games/120023201334582/-Bubble-Pop-Simulator?privateServerLinkCode=40701032093677820273245354551556` |
+| `https://snifferip.com/26gUe` |
+| `http://one-whatapp.com.cn/` |
+| `https://www.ping-whatapp.com.cn/` |
+| `https://breeze.one-whatapp.com.cn/` |
+| `http://palm.one-whatapp.com.cn/` |
+| `http://www.palm.one-whatapp.com.cn/` |
+| `http://www.breeze.one-whatapp.com.cn/` |
+| `https://wa.one-whatapp.com.cn/` |
+| `https://www.wa.one-whatapp.com.cn/` |
+| `https://g5.lu/5zv4f` |
+| `https://www.roblox.com.gr/games/8832438757/pvp-sword-fighting-?privateserverlinkcode=30756336284493437113099631096745` |
+| `https://lnk.ink/seur-Esp` |
+| `https://vmi3522209.contaboserver.net/fix/sen/rena/` |
+| `https://www.szbet368.vip/` |
+| `https://daudoitroichandapdat.baby/login` |
 
 ---
 
