@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 26, 2026  
-> **Updated:** August 26, 2026 at 09:26 UTC  
+> **Date:** August 27, 2026  
+> **Updated:** August 27, 2026 at 19:16 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://gjk43.vercel.app/` |
-| `https://axe-et-formation.com/` |
-| `https://www.imtoken-market.com/` |
-| `http://m.imtoken-market.com/` |
-| `https://accounts-413d9d96.decorgqcom.workers.dev/413d9d9637464250?sid=uxW8MSsB5nMxjA1lzambKkikc8hT4buQ65bKfAGRVwVWgXWZTVG7ThJBmGE3a9x42mYYhRi9AP7rBERbotqsU0kHgsR9MOKZ1XxJxzUTom2wYtQN5iwEoJY6oefP3ALVIDvVNbRErHWTTP0u8wW8UaJ1gr31WzATqVPwfBDDOjrsQlvWU21pU6AZoAEO3150fkxK6ASynHMVj7VA5wZIGem96jvC0QVr0kR8y4lkrWLRrIq6cNKAPckcVn8XXMYuA5YySJzdeBRSHMMM4CELAyJPdHwR9iiR41Vme0ms90aXqNmrI7D9YiTZ6lLUpkrVD9yEyU7WFYoj9lezsWp7gzgxYkDMmRUC3PqpFkBF7etsTkUYz1Qr4QetWNWkw6f2kMiw993ZWIL8B7qZWNyqIgHXJLb8O5OMlLjfzZAN5AzAj1Ro81l7GLWXHX0o0OYDj2pWgNHWWt2NXKXwz8Ft25aePqWiZBsK1JjDQmKhhSHTOaKLTJIrcao2Bri5p5GBJNZfq9exBNpw6EqqTUvDLrmyM7A7yLvsPCef7oKZTcskntdYfikXbmdNTWqHSckR9HxH7kfP7GJmyii2OgEeq3dRwmFFWXiptI5ikbcRgdIaDgP4oeDFkyHOrMNSj4qyhytHoYa9sp` |
-| `https://customer-matrixlimitflowcontrols.s3.us-east-005.backblazeb2.com/aumento.html` |
-| `https://jeffersonaraujo-dev.github.io/NETFLIXCLONE` |
-| `https://9b924d.icefactory.cl/m3rCKDGsNBr06Mkp9S1kDJYeB8SbC0W1lteKcIbJaSRfZrHOGsvgOTbsLvvFXFK0/?rotated=1` |
-| `https://f37a97.icefactory.cl/` |
-| `https://www.roblox.com.et/games/8832438757/PVP-Sword-Fighting-?privateServerLinkCode=09011660683334275743289149993962` |
-| `https://g5.lu/t9m3n` |
-| `https://facebookloginreview.blogspot.com/` |
-| `http://www.atlas-tan-seven.vercel.app/` |
-| `http://7856v786v5.pages.dev/` |
-| `https://intraservincs-dmgugxcqbrd0a0es.canadacentral-01.azurewebsites.net/` |
-| `https://danzsecured.pages.dev/.env.local` |
-| `https://danzsecured.pages.dev/.env.backup` |
-| `https://danzsecured.pages.dev/.env.production` |
-| `https://danzsecured.pages.dev/config.php` |
-| `https://docs-trezor-app.pages.dev/config.php` |
+| `https://www.roblox.com.mu/users/1519856114/profile` |
+| `https://fbbr3.aaabbs.shop/brgtm/?pixel=1990834228265259&ls=1` |
+| `https://panwuhan.shop/kkk/?pixel=1691965335246804&oc=1` |
+| `https://fbbr2.xxmnax.shop/brgtm/?pixel=1691965335246804&oc=1` |
+| `https://1url.at/www/robloxcom-users-271322182473-profile` |
+| `https://grupocosaint.com.br/zim/zimbra.html` |
+| `http://tervori-kxt-felmora-p3t7fc89.pages.dev/` |
+| `https://portal.roviasdigitaisblog.com/` |
+| `https://roviasdigitaisblog.com/` |
+| `https://www.roblox.com.am/users/138774146463/profile` |
+| `https://page-roblox.com/users/138774146463/profile` |
+| `https://shopeenew2020.blogspot.com/` |
+| `https://hs139b49bf5022a358cde1f6b777440bde.nexusqal.digital/#/` |
+| `http://nexusqal.work/` |
+| `https://heartwarming-hyena-2a8b93.instawp.site/wp-content/plugins/bakycredit/` |
+| `https://hs78e854ff55243fb56356e38629167079.nexusqal.digital/#/` |
+| `http://nexusqal.surf/` |
+| `http://www.shopeejkt609.blogspot.com/` |
+| `http://www.trust-wallet-contact.vercel.app/` |
+| `http://www.shopee-sale2020.blogspot.com/` |
 
 ---
 
