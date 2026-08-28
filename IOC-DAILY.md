@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 27, 2026  
-> **Updated:** August 27, 2026 at 19:16 UTC  
+> **Date:** August 28, 2026  
+> **Updated:** August 28, 2026 at 20:26 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.com.mu/users/1519856114/profile` |
-| `https://fbbr3.aaabbs.shop/brgtm/?pixel=1990834228265259&ls=1` |
-| `https://panwuhan.shop/kkk/?pixel=1691965335246804&oc=1` |
-| `https://fbbr2.xxmnax.shop/brgtm/?pixel=1691965335246804&oc=1` |
-| `https://1url.at/www/robloxcom-users-271322182473-profile` |
-| `https://grupocosaint.com.br/zim/zimbra.html` |
-| `http://tervori-kxt-felmora-p3t7fc89.pages.dev/` |
-| `https://portal.roviasdigitaisblog.com/` |
-| `https://roviasdigitaisblog.com/` |
-| `https://www.roblox.com.am/users/138774146463/profile` |
-| `https://page-roblox.com/users/138774146463/profile` |
-| `https://shopeenew2020.blogspot.com/` |
-| `https://hs139b49bf5022a358cde1f6b777440bde.nexusqal.digital/#/` |
-| `http://nexusqal.work/` |
-| `https://heartwarming-hyena-2a8b93.instawp.site/wp-content/plugins/bakycredit/` |
-| `https://hs78e854ff55243fb56356e38629167079.nexusqal.digital/#/` |
-| `http://nexusqal.surf/` |
-| `http://www.shopeejkt609.blogspot.com/` |
-| `http://www.trust-wallet-contact.vercel.app/` |
-| `http://www.shopee-sale2020.blogspot.com/` |
+| `http://helps-ledgrr-live-app.pages.dev/` |
+| `https://web-conect-ledger-live-download-sso.typedream.app/` |
+| `http://xhstc88.com/` |
+| `http://gruppofarina.net/css/PO/PO/FO/FO/corr.php` |
+| `http://gruppofarina.net/css/PO/PO/FO/FO` |
+| `http://dev-coin-base-com-auth.pages.dev/appeals/submit-appeal-form/return` |
+| `http://dhamaansh76-code.github.io/Spotify-Clone` |
+| `https://www.robiox.com.ps/users/2649388321/profile` |
+| `http://www.roblox.com.ml/users/484746746084/profile/` |
+| `https://www.microsoft0117.vercel.app/` |
+| `https://www.pure-html-css-spotify-clone.vercel.app/` |
+| `https://fbbr1.aaabbs.shop/brgtm/?pixel&#61` |
+| `http://www.zerodev.tools/zeroscript/` |
+| `https://rit2.github.io/netflix-login/` |
+| `http://www.portszz.vercel.app/` |
+| `https://www.seniorscouncil.vercel.app/` |
+| `https://www.shopeejkt211.blogspot.com/` |
+| `http://www.shewenterprise.vercel.app/` |
+| `http://www.shopeejkt660.blogspot.com/` |
+| `http://www.withdrawn-login.vercel.app/` |
 
 ---
 
