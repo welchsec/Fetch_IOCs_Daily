@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 30, 2026  
-> **Updated:** August 30, 2026 at 14:00 UTC  
+> **Date:** August 31, 2026  
+> **Updated:** August 31, 2026 at 16:24 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://pc.ioo-gate.cn/` |
-| `https://get-ladgrehelp.zapier.app/` |
-| `https://rroll.derlin.ch/t1/fE3B620b6e0fFdA` |
-| `http://apple-khf.bvyqr.xyz/en/main` |
-| `https://www.roblox-login.vercel.app/` |
-| `https://www.s-frontend-omega.vercel.app/` |
-| `http://www.facbookapp.vercel.app/` |
-| `https://www.codhub-one.vercel.app/` |
-| `https://suiteapps.zapier.app/` |
-| `https://www.amazon-clone-nu-black.vercel.app/` |
-| `https://www.amazon-clone-silk-alpha.vercel.app/` |
-| `https://www.business-verification-mu.vercel.app/` |
-| `https://eoydoi.shop/` |
-| `https://g5.lu/y55bg` |
-| `http://loginspayments.me/` |
-| `https://www.instagramlogin910.blogspot.com/` |
-| `https://instagramlogin910.blogspot.com/?m=1` |
-| `https://portal-upholde.zapier.app/` |
-| `https://netflix-homepage-pi.vercel.app/` |
-| `https://ad25477.blogspot.com/` |
+| `https://urlto.me/2Bvde` |
+| `http://new-click-app-99.surge.sh/` |
+| `https://bsccoin-transfer.vercel.app/` |
+| `http://www.cancelacionoutlook-two.vercel.app/` |
+| `https://obonteeeezip--opticaperichi.replit.app/` |
+| `https://www.roblox.com.ml/games/2753915549/Blox-Fruits?privateServerLinkCode=784765621683368666624124684676` |
+| `https://tiiktock.sbs/?naps` |
+| `https://rbcode.net/v/a7a359f76ac375d1a65a7217ae2e40ae` |
+| `http://sso-uphold-com-cdn-a-autth.framer.website/` |
+| `https://accountoservoi1787402526936.2141811.meusitehostgator.com.br/bil/postfo` |
+| `https://port-whats-whatapp.com.cn/` |
+| `https://loggiakilwinning.com/fxm/` |
+| `https://a.073202.com/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380` |
+| `https://a.073202.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380` |
+| `https://xwtitucidh-828def1d95.vercel.app/ads-reporting-service-4839943254039955.html` |
+| `https://hub-whats-whatapp.com.cn/` |
+| `http://web3-easy-connect.com/` |
+| `https://sistemaxultimo30-06.pages.dev/` |
+| `https://tag-whats-whatapp.com.cn/` |
+| `https://sync-whats-whatapp.com.cn/` |
 
 ---
 
