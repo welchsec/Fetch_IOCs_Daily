@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** August 31, 2026  
-> **Updated:** August 31, 2026 at 16:24 UTC  
+> **Date:** September 01, 2026  
+> **Updated:** September 01, 2026 at 13:43 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://urlto.me/2Bvde` |
-| `http://new-click-app-99.surge.sh/` |
-| `https://bsccoin-transfer.vercel.app/` |
-| `http://www.cancelacionoutlook-two.vercel.app/` |
-| `https://obonteeeezip--opticaperichi.replit.app/` |
-| `https://www.roblox.com.ml/games/2753915549/Blox-Fruits?privateServerLinkCode=784765621683368666624124684676` |
-| `https://tiiktock.sbs/?naps` |
-| `https://rbcode.net/v/a7a359f76ac375d1a65a7217ae2e40ae` |
-| `http://sso-uphold-com-cdn-a-autth.framer.website/` |
-| `https://accountoservoi1787402526936.2141811.meusitehostgator.com.br/bil/postfo` |
-| `https://port-whats-whatapp.com.cn/` |
-| `https://loggiakilwinning.com/fxm/` |
-| `https://a.073202.com/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380` |
-| `https://a.073202.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380` |
-| `https://xwtitucidh-828def1d95.vercel.app/ads-reporting-service-4839943254039955.html` |
-| `https://hub-whats-whatapp.com.cn/` |
-| `http://web3-easy-connect.com/` |
-| `https://sistemaxultimo30-06.pages.dev/` |
-| `https://tag-whats-whatapp.com.cn/` |
-| `https://sync-whats-whatapp.com.cn/` |
+| `https://https-wvvw-roblox.com/users/1903963388/profile` |
+| `http://learn-trezro-en-public.pages.dev/` |
+| `http://ledger--life.pages.dev/` |
+| `https://ledger-io-live-cdn.pages.dev/` |
+| `https://hw7393.craftum.io/` |
+| `https://robin-hodlogy.gitbook.io/` |
+| `https://1url.at/www/robloxcom-users-273213282473-profile` |
+| `https://www.site-qb19skear.godaddysites.com/` |
+| `http://www.checksmit-pagevery6221.vercel.app/` |
+| `https://paypaynejp781.replit.app/login.php/` |
+| `http://ledger-nano-live.pages.dev/` |
+| `https://ledgerr-leve.pages.dev/` |
+| `http://ledger-live-desktopp-cloud.pages.dev/` |
+| `http://ledger-logn-liv.pages.dev/` |
+| `https://ledger-logm.pages.dev/` |
+| `http://ledgerr-app-live.pages.dev/` |
+| `https://ledgerr--live--app.pages.dev/` |
+| `http://ledger-connect-live-app.pages.dev/` |
+| `http://ledger-apps-eng.pages.dev/` |
+| `https://ledgers--lives--desktop.pages.dev/` |
 
 ---
 
