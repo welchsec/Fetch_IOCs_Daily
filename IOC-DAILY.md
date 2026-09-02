@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 01, 2026  
-> **Updated:** September 01, 2026 at 13:43 UTC  
+> **Date:** September 02, 2026  
+> **Updated:** September 02, 2026 at 12:59 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://https-wvvw-roblox.com/users/1903963388/profile` |
-| `http://learn-trezro-en-public.pages.dev/` |
-| `http://ledger--life.pages.dev/` |
-| `https://ledger-io-live-cdn.pages.dev/` |
-| `https://hw7393.craftum.io/` |
-| `https://robin-hodlogy.gitbook.io/` |
-| `https://1url.at/www/robloxcom-users-273213282473-profile` |
-| `https://www.site-qb19skear.godaddysites.com/` |
-| `http://www.checksmit-pagevery6221.vercel.app/` |
-| `https://paypaynejp781.replit.app/login.php/` |
-| `http://ledger-nano-live.pages.dev/` |
-| `https://ledgerr-leve.pages.dev/` |
-| `http://ledger-live-desktopp-cloud.pages.dev/` |
-| `http://ledger-logn-liv.pages.dev/` |
-| `https://ledger-logm.pages.dev/` |
-| `http://ledgerr-app-live.pages.dev/` |
-| `https://ledgerr--live--app.pages.dev/` |
-| `http://ledger-connect-live-app.pages.dev/` |
-| `http://ledger-apps-eng.pages.dev/` |
-| `https://ledgers--lives--desktop.pages.dev/` |
+| `https://www.360applicationpages.com/AccountSelection/c?c=4203b005-48b6-45a0-a7f5-9b565c9ec1d1` |
+| `http://www.mighty.ring-whatapp.com.cn/` |
+| `https://go-for-free-verify-badge-here.surge.sh/` |
+| `https://www.go-for-free-verify-badge-here.surge.sh/` |
+| `https://www.gh0stmap.vercel.app/` |
+| `https://quanly365.pro/` |
+| `https://bjdzgw.com/LAxTTYrG/` |
+| `https://www.b35iii.com/` |
+| `https://amar777.net/` |
+| `https://www.valide-cuenta-ahora.iceiy.com/` |
+| `https://www.365applicationweb.com/AccountSelection/c?c=cf291d08-d0ff-4c4f-9d75-c8877950932e` |
+| `https://www.metamask-connect.vercel.app/` |
+| `https://vmi3542043.contaboserver.net/yQmJznlBdUYr0D0U/szrLWegAlBgP06M0HD0o.html?98k1VX=4cd0d3b1cc22701c826ece389b466ea5` |
+| `https://whatsapp-fast.vercel.app/` |
+| `https://www.whatsapp-fast.vercel.app/` |
+| `http://www.manbet.tv/` |
+| `https://jaiswalsandhya1234565-sketch.github.io/Instagram1/` |
+| `https://www.robiox.com.py/users/312091725727/profile` |
+| `http://www.instagram-chi.vercel.app/` |
+| `https://netflix-github-com.vercel.app/` |
 
 ---
 
