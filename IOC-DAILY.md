@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 02, 2026  
-> **Updated:** September 02, 2026 at 12:59 UTC  
+> **Date:** September 03, 2026  
+> **Updated:** September 03, 2026 at 13:01 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.360applicationpages.com/AccountSelection/c?c=4203b005-48b6-45a0-a7f5-9b565c9ec1d1` |
-| `http://www.mighty.ring-whatapp.com.cn/` |
-| `https://go-for-free-verify-badge-here.surge.sh/` |
-| `https://www.go-for-free-verify-badge-here.surge.sh/` |
-| `https://www.gh0stmap.vercel.app/` |
-| `https://quanly365.pro/` |
-| `https://bjdzgw.com/LAxTTYrG/` |
-| `https://www.b35iii.com/` |
-| `https://amar777.net/` |
-| `https://www.valide-cuenta-ahora.iceiy.com/` |
-| `https://www.365applicationweb.com/AccountSelection/c?c=cf291d08-d0ff-4c4f-9d75-c8877950932e` |
-| `https://www.metamask-connect.vercel.app/` |
-| `https://vmi3542043.contaboserver.net/yQmJznlBdUYr0D0U/szrLWegAlBgP06M0HD0o.html?98k1VX=4cd0d3b1cc22701c826ece389b466ea5` |
-| `https://whatsapp-fast.vercel.app/` |
-| `https://www.whatsapp-fast.vercel.app/` |
-| `http://www.manbet.tv/` |
-| `https://jaiswalsandhya1234565-sketch.github.io/Instagram1/` |
-| `https://www.robiox.com.py/users/312091725727/profile` |
-| `http://www.instagram-chi.vercel.app/` |
-| `https://netflix-github-com.vercel.app/` |
+| `https://md.rytzskl.com/file/sharep.html` |
+| `https://www.hbabyaqq.blogspot.com/` |
+| `https://tejas3861.github.io/Spotify-Clone` |
+| `https://trustcapitallogini.webador.com/` |
+| `https://vo.la/saKvUR9/` |
+| `https://uc0ajq-nk.myshopify.com/password` |
+| `https://uc0ajq-nk.myshopify.com/dzuqmv/?ref=a82b5c561b99&token=64mxt77oafv2m51o&usr=marum@9f630e81bf464efec3b79bc06f93df89504d.net` |
+| `https://amazon-clone-three-ashen.vercel.app/` |
+| `http://www.amazon-clone-three-ashen.vercel.app/` |
+| `https://www.roblox.com.bn/games/95094140550911/My-Slime-Lab-Test-Playground?privateServerLinkCode=86312608205244302093175058016356` |
+| `https://www.roblox.com.bn/games/14153443454/Meet-a-neko?privateServerLinkCode=86312608205244302093175058016356` |
+| `https://lawcodeadvisors.com/ls/kkmgroup.html` |
+| `https://www.roblox.com.bn/games/77182599101794/4nn1s-Place?privateServerLinkCode=86312608205244302093175058016356` |
+| `http://install-documentation.sbs/` |
+| `https://www--roblox.co/charts` |
+| `https://hunnnnpgs28.blogspot.com/` |
+| `http://pjq49-0hplix-tdr52-yhy-3x2u5g-kxv81-622a.pages.dev/` |
+| `https://5klandaxax5.blogspot.com/?m=1` |
+| `https://www.uspssmartpackagelockers.com/package-recipients:` |
+| `https://smartparcellocker.tech/package-recipients:` |
 
 ---
 
