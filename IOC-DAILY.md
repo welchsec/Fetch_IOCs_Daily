@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 03, 2026  
-> **Updated:** September 03, 2026 at 13:01 UTC  
+> **Date:** September 04, 2026  
+> **Updated:** September 04, 2026 at 12:56 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://md.rytzskl.com/file/sharep.html` |
-| `https://www.hbabyaqq.blogspot.com/` |
-| `https://tejas3861.github.io/Spotify-Clone` |
-| `https://trustcapitallogini.webador.com/` |
-| `https://vo.la/saKvUR9/` |
-| `https://uc0ajq-nk.myshopify.com/password` |
-| `https://uc0ajq-nk.myshopify.com/dzuqmv/?ref=a82b5c561b99&token=64mxt77oafv2m51o&usr=marum@9f630e81bf464efec3b79bc06f93df89504d.net` |
-| `https://amazon-clone-three-ashen.vercel.app/` |
-| `http://www.amazon-clone-three-ashen.vercel.app/` |
-| `https://www.roblox.com.bn/games/95094140550911/My-Slime-Lab-Test-Playground?privateServerLinkCode=86312608205244302093175058016356` |
-| `https://www.roblox.com.bn/games/14153443454/Meet-a-neko?privateServerLinkCode=86312608205244302093175058016356` |
-| `https://lawcodeadvisors.com/ls/kkmgroup.html` |
-| `https://www.roblox.com.bn/games/77182599101794/4nn1s-Place?privateServerLinkCode=86312608205244302093175058016356` |
-| `http://install-documentation.sbs/` |
-| `https://www--roblox.co/charts` |
-| `https://hunnnnpgs28.blogspot.com/` |
-| `http://pjq49-0hplix-tdr52-yhy-3x2u5g-kxv81-622a.pages.dev/` |
-| `https://5klandaxax5.blogspot.com/?m=1` |
-| `https://www.uspssmartpackagelockers.com/package-recipients:` |
-| `https://smartparcellocker.tech/package-recipients:` |
+| `http://www.apple-fruit.xyz/` |
+| `https://kxlrq170nhw-fghzdfyn-3y8x0g-wp611a.pages.dev/welcome_aboard?welcome=1004568689256840&token248=1004568689256840&name_token136=FoodieLand%20-%20Portland` |
+| `https://sso-trezor-com-start-x-auth.typedream.app/en-us` |
+| `http://www.mart-homebd.com/` |
+| `https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=49536050381234738964619792612634` |
+| `https://newgenerationlandscapesltd.com/taxs` |
+| `http://bruceleephilosophy.com/texts/` |
+| `https://hedsdc.nnhwm.com/?Kq6mLAI` |
+| `https://mgpxq.com/ggCcQZ` |
+| `http://www.layanan-shopee33.blogspot.com/` |
+| `https://www.sendusdtbsc.vercel.app/` |
+| `http://www.facebook-trial.vercel.app/` |
+| `https://notifications.microsoft-ssl.com/` |
+| `https://uniswap-interface.vercel.app/` |
+| `https://www.uniswap-interface.vercel.app/` |
+| `https://www.trust-wallet-liart.vercel.app/` |
+| `http://waltester-official-program.vercel.app/` |
+| `https://garam168.com/` |
+| `https://easybank-landing-page-six-phi.vercel.app/` |
+| `https://www.easybank-landing-page-six-phi.vercel.app/` |
 
 ---
 
