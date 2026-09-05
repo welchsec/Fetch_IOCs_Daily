@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 04, 2026  
-> **Updated:** September 04, 2026 at 12:56 UTC  
+> **Date:** September 05, 2026  
+> **Updated:** September 05, 2026 at 12:08 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.apple-fruit.xyz/` |
-| `https://kxlrq170nhw-fghzdfyn-3y8x0g-wp611a.pages.dev/welcome_aboard?welcome=1004568689256840&token248=1004568689256840&name_token136=FoodieLand%20-%20Portland` |
-| `https://sso-trezor-com-start-x-auth.typedream.app/en-us` |
-| `http://www.mart-homebd.com/` |
-| `https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=49536050381234738964619792612634` |
-| `https://newgenerationlandscapesltd.com/taxs` |
-| `http://bruceleephilosophy.com/texts/` |
-| `https://hedsdc.nnhwm.com/?Kq6mLAI` |
-| `https://mgpxq.com/ggCcQZ` |
-| `http://www.layanan-shopee33.blogspot.com/` |
-| `https://www.sendusdtbsc.vercel.app/` |
-| `http://www.facebook-trial.vercel.app/` |
-| `https://notifications.microsoft-ssl.com/` |
-| `https://uniswap-interface.vercel.app/` |
-| `https://www.uniswap-interface.vercel.app/` |
-| `https://www.trust-wallet-liart.vercel.app/` |
-| `http://waltester-official-program.vercel.app/` |
-| `https://garam168.com/` |
-| `https://easybank-landing-page-six-phi.vercel.app/` |
-| `https://www.easybank-landing-page-six-phi.vercel.app/` |
+| `http://roblox.com.mu/communities/7901998248/LeightXyn` |
+| `https://s4w.in/roblox-com-users-2720767831-profile` |
+| `https://revenuewise.sbs/how-to-file/` |
+| `https://revenuewise.sbs/get-transcript/` |
+| `https://revenuewise.sbs/businesses-1/` |
+| `https://revenuewise.sbs/get-your-refund-faster-tell-irs-to-direct-deposit-your-refund-to-one-two-or-three-accounts/` |
+| `https://revenuewise.sbs/credits-and-deductions-for-individuals/` |
+| `https://revenuewise.sbs/clean-vehicle-and-energy-credits/` |
+| `https://revenuewise.sbs/about-refunds/` |
+| `https://undian-shopee1772.blogspot.com/` |
+| `https://hadiahshopee3232.blogspot.com/?m=1` |
+| `http://www.newcomc.weebly.com/` |
+| `https://pesta-undian-shopee2023.blogspot.com/` |
+| `https://surajyadav-07.github.io/ecommerce-website` |
+| `https://www.82785.xyz/` |
+| `http://www.82803.xyz/` |
+| `https://lbr-icloud.com/help?JpN` |
+| `https://revenuewise.sbs/businesses/` |
+| `http://first-agency-743956.framer.app/` |
+| `https://www.roblox.com.ml/users/413433524742/profile` |
 
 ---
 
