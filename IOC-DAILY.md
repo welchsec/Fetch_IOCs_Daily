@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 05, 2026  
-> **Updated:** September 05, 2026 at 12:08 UTC  
+> **Date:** September 06, 2026  
+> **Updated:** September 06, 2026 at 12:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://roblox.com.mu/communities/7901998248/LeightXyn` |
-| `https://s4w.in/roblox-com-users-2720767831-profile` |
-| `https://revenuewise.sbs/how-to-file/` |
-| `https://revenuewise.sbs/get-transcript/` |
-| `https://revenuewise.sbs/businesses-1/` |
-| `https://revenuewise.sbs/get-your-refund-faster-tell-irs-to-direct-deposit-your-refund-to-one-two-or-three-accounts/` |
-| `https://revenuewise.sbs/credits-and-deductions-for-individuals/` |
-| `https://revenuewise.sbs/clean-vehicle-and-energy-credits/` |
-| `https://revenuewise.sbs/about-refunds/` |
-| `https://undian-shopee1772.blogspot.com/` |
-| `https://hadiahshopee3232.blogspot.com/?m=1` |
-| `http://www.newcomc.weebly.com/` |
-| `https://pesta-undian-shopee2023.blogspot.com/` |
-| `https://surajyadav-07.github.io/ecommerce-website` |
-| `https://www.82785.xyz/` |
-| `http://www.82803.xyz/` |
-| `https://lbr-icloud.com/help?JpN` |
-| `https://revenuewise.sbs/businesses/` |
-| `http://first-agency-743956.framer.app/` |
-| `https://www.roblox.com.ml/users/413433524742/profile` |
+| `https://www.nehsbe.cn/ww/` |
+| `http://www.nehsbe.cn/` |
+| `https://fb-meta-verified-47091.vercel.app/` |
+| `https://www.fb-meta-verified-47091.vercel.app/` |
+| `https://samaoluwasegun-dev.github.io/alexhoffmannboa/` |
+| `http://comcastsurvey.weebly.com/` |
+| `https://pink-porcupine-845141.hostingersite.com/?naps` |
+| `https://ldgre-lives.pages.dev/` |
+| `http://tiny.cc/rblxprivateserver` |
+| `http://https-wwwv-roblox.co/login?returnUrl=288280197` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Anime/index.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/TV/tv.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/TV/credits.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/TV/Books/Books.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Anime/Books/Books.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/Books/Books.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Radio/credits.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/download.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Radio/index.html` |
+| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/credits.html` |
 
 ---
 
