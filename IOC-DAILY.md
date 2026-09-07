@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 06, 2026  
-> **Updated:** September 06, 2026 at 12:23 UTC  
+> **Date:** September 07, 2026  
+> **Updated:** September 07, 2026 at 14:28 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.nehsbe.cn/ww/` |
-| `http://www.nehsbe.cn/` |
-| `https://fb-meta-verified-47091.vercel.app/` |
-| `https://www.fb-meta-verified-47091.vercel.app/` |
-| `https://samaoluwasegun-dev.github.io/alexhoffmannboa/` |
-| `http://comcastsurvey.weebly.com/` |
-| `https://pink-porcupine-845141.hostingersite.com/?naps` |
-| `https://ldgre-lives.pages.dev/` |
-| `http://tiny.cc/rblxprivateserver` |
-| `http://https-wwwv-roblox.co/login?returnUrl=288280197` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Anime/index.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/TV/tv.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/TV/credits.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/TV/Books/Books.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Anime/Books/Books.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/Books/Books.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Radio/credits.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/download.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Radio/index.html` |
-| `https://netflix-56s.pages.dev/Games/Anime/Books/Books.html/Games/credits.html` |
+| `https://loyaltyprogram.ink/aQzXm` |
+| `http://hs393765aff890a3eac6911d6f8eb9dd9b.nexusqalinka2.quest/` |
+| `http://www.hs393765aff890a3eac6911d6f8eb9dd9b.nexusqalinka2.quest/` |
+| `https://ledgerw.vercel.app/login` |
+| `https://zwjf76j-h07j.vercel.app/` |
+| `https://cjrb11r-h07r.vercel.app/` |
+| `http://boaa.privatbanks.org/` |
+| `http://wteamcommunity.com/` |
+| `http://zavravo-kxt-felquro-p9t2dp56.pages.dev/` |
+| `https://staging.d8yffvk7rzff1.amplifyapp.com/` |
+| `https://zeinabheritensen2026.blogspot.com/` |
+| `https://www.zeinabheritensen2026.blogspot.com/` |
+| `https://comepay-support.vercel.app/` |
+| `https://www.roblox.ly/users/5951841895/profile` |
+| `https://www.metamask-web.vercel.app/` |
+| `https://drw.yokasxbe.muzortdg.hstwcboa.broadridge.verifypasskey.com/` |
+| `https://a08786897-beep.github.io/FULL-STACK-SPOTIFY` |
+| `https://roundaaboutyy.onlinebranddifferentiation.de/V38NQ/index.php?key=tyVeMfHyOF` |
+| `https://swisscommobievole.vu/` |
+| `https://exel.programcraftsoft.com/?etext=2202.6Nj7rDRJfRKKLkb3woFNVGxRwTBUPB-355-QSpLCeadod2hyZXV2a2F4am51cXlz.0613bb28e492243867c25b9267237994d39bb2de` |
 
 ---
 
