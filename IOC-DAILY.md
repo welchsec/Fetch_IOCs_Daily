@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 07, 2026  
-> **Updated:** September 07, 2026 at 14:28 UTC  
+> **Date:** September 08, 2026  
+> **Updated:** September 08, 2026 at 13:05 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://loyaltyprogram.ink/aQzXm` |
-| `http://hs393765aff890a3eac6911d6f8eb9dd9b.nexusqalinka2.quest/` |
-| `http://www.hs393765aff890a3eac6911d6f8eb9dd9b.nexusqalinka2.quest/` |
-| `https://ledgerw.vercel.app/login` |
-| `https://zwjf76j-h07j.vercel.app/` |
-| `https://cjrb11r-h07r.vercel.app/` |
-| `http://boaa.privatbanks.org/` |
-| `http://wteamcommunity.com/` |
-| `http://zavravo-kxt-felquro-p9t2dp56.pages.dev/` |
-| `https://staging.d8yffvk7rzff1.amplifyapp.com/` |
-| `https://zeinabheritensen2026.blogspot.com/` |
-| `https://www.zeinabheritensen2026.blogspot.com/` |
-| `https://comepay-support.vercel.app/` |
-| `https://www.roblox.ly/users/5951841895/profile` |
-| `https://www.metamask-web.vercel.app/` |
-| `https://drw.yokasxbe.muzortdg.hstwcboa.broadridge.verifypasskey.com/` |
-| `https://a08786897-beep.github.io/FULL-STACK-SPOTIFY` |
-| `https://roundaaboutyy.onlinebranddifferentiation.de/V38NQ/index.php?key=tyVeMfHyOF` |
-| `https://swisscommobievole.vu/` |
-| `https://exel.programcraftsoft.com/?etext=2202.6Nj7rDRJfRKKLkb3woFNVGxRwTBUPB-355-QSpLCeadod2hyZXV2a2F4am51cXlz.0613bb28e492243867c25b9267237994d39bb2de` |
+| `https://gurl.pro/roblox-users-8715356-profile` |
+| `https://shorten.tv/l65iO` |
+| `http://www.shorten.tv/jRftj/` |
+| `https://itstrafflc.us/edoc/indextgpart.html` |
+| `https://www.estudiocils.com.ar/home/nkl-log.php` |
+| `http://www.estudiocils.com.ar/home` |
+| `https://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/embedded-wallets/sdk/unity` |
+| `https://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/embedded-wallets/sdk/react-native` |
+| `https://amazon-landing-page-umber.vercel.app/` |
+| `https://www.amazon-landing-page-umber.vercel.app/` |
+| `https://smilling-long-pannel.edgeone.dev/` |
+| `http://drysdalebaconmcstravick.vercel.app/` |
+| `https://pt-shope299.blogspot.com/` |
+| `https://comepay-help-line-support25.vercel.app/` |
+| `http://www.comepay-help-line-support25.vercel.app/` |
+| `http://www.wallet-base.online/` |
+| `https://gemini-balance.fly2me.cc/` |
+| `https://b365b.cc/` |
+| `https://servislerinizdendir.net/` |
+| `https://kxv81-161mj-pjq49-ren-9w6x1g-hwn64-477a.pages.dev/` |
 
 ---
 
