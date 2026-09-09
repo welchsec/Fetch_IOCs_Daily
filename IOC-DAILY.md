@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 08, 2026  
-> **Updated:** September 08, 2026 at 13:05 UTC  
+> **Date:** September 09, 2026  
+> **Updated:** September 09, 2026 at 13:11 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://gurl.pro/roblox-users-8715356-profile` |
-| `https://shorten.tv/l65iO` |
-| `http://www.shorten.tv/jRftj/` |
-| `https://itstrafflc.us/edoc/indextgpart.html` |
-| `https://www.estudiocils.com.ar/home/nkl-log.php` |
-| `http://www.estudiocils.com.ar/home` |
-| `https://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/embedded-wallets/sdk/unity` |
-| `https://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/embedded-wallets/sdk/react-native` |
-| `https://amazon-landing-page-umber.vercel.app/` |
-| `https://www.amazon-landing-page-umber.vercel.app/` |
-| `https://smilling-long-pannel.edgeone.dev/` |
-| `http://drysdalebaconmcstravick.vercel.app/` |
-| `https://pt-shope299.blogspot.com/` |
-| `https://comepay-help-line-support25.vercel.app/` |
-| `http://www.comepay-help-line-support25.vercel.app/` |
-| `http://www.wallet-base.online/` |
-| `https://gemini-balance.fly2me.cc/` |
-| `https://b365b.cc/` |
-| `https://servislerinizdendir.net/` |
-| `https://kxv81-161mj-pjq49-ren-9w6x1g-hwn64-477a.pages.dev/` |
+| `https://www.facebooklogin21.blogspot.com/` |
+| `https://ledgrr-live-io-faq.pages.dev/` |
+| `http://ledgrr--live.pages.dev/` |
+| `http://ledgrr-livv-app.pages.dev/` |
+| `https://ledgrr-iolive.pages.dev/` |
+| `https://ledgrlive-app-guide.pages.dev/` |
+| `http://ledgrr-live-run.pages.dev/` |
+| `http://ledgr-livdesktp.pages.dev/` |
+| `https://sso-uphold--en-cdn.webflow.io/` |
+| `http://ledgr-live-connect.pages.dev/` |
+| `https://ne-live-ledgr.pages.dev/` |
+| `http://livee-ledger.pages.dev/` |
+| `http://ledgr-hadware.pages.dev/` |
+| `http://nav-ledgerg-us.pages.dev/` |
+| `https://ledgr-hub-desktop.pages.dev/` |
+| `https://ledgr-live-desktopp.pages.dev/` |
+| `http://ledgr-hub-en.pages.dev/` |
+| `http://ledgre-wallet-io.pages.dev/` |
+| `http://ledgr-io-desklive.pages.dev/` |
+| `http://ledgr-live-apps.pages.dev/` |
 
 ---
 
