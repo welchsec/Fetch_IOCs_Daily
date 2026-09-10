@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 09, 2026  
-> **Updated:** September 09, 2026 at 13:11 UTC  
+> **Date:** September 10, 2026  
+> **Updated:** September 10, 2026 at 13:08 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.facebooklogin21.blogspot.com/` |
-| `https://ledgrr-live-io-faq.pages.dev/` |
-| `http://ledgrr--live.pages.dev/` |
-| `http://ledgrr-livv-app.pages.dev/` |
-| `https://ledgrr-iolive.pages.dev/` |
-| `https://ledgrlive-app-guide.pages.dev/` |
-| `http://ledgrr-live-run.pages.dev/` |
-| `http://ledgr-livdesktp.pages.dev/` |
-| `https://sso-uphold--en-cdn.webflow.io/` |
-| `http://ledgr-live-connect.pages.dev/` |
-| `https://ne-live-ledgr.pages.dev/` |
-| `http://livee-ledger.pages.dev/` |
-| `http://ledgr-hadware.pages.dev/` |
-| `http://nav-ledgerg-us.pages.dev/` |
-| `https://ledgr-hub-desktop.pages.dev/` |
-| `https://ledgr-live-desktopp.pages.dev/` |
-| `http://ledgr-hub-en.pages.dev/` |
-| `http://ledgre-wallet-io.pages.dev/` |
-| `http://ledgr-io-desklive.pages.dev/` |
-| `http://ledgr-live-apps.pages.dev/` |
+| `http://sso---secure-robinhood--coms.webflow.io/` |
+| `http://www.transfer-to-click.vercel.app/` |
+| `https://mail-email-ionos--refactored-octo-computing-machine-production.up.railway.app/` |
+| `http://metamask-update.github.io/` |
+| `https://pembatalan-pinjamaanz.vrr.my.id/` |
+| `https://hjhbrl.com/cdq/11.php` |
+| `https://checkslogin.netlify.app/` |
+| `https://www.metamask2-eight.vercel.app/` |
+| `https://tiktok-coin-page.vercel.app/` |
+| `http://www.tiktok-coin-page.vercel.app/` |
+| `https://verifiedbadge-aurora.vercel.app/privacy-centers.html` |
+| `http://potwierdzenie-bezpieczenstwa.vercel.app/` |
+| `http://cacoinsquarelogin.webflow.io/` |
+| `http://www.binancewallett.blogspot.com/` |
+| `http://goodlife-6jp.pages.dev/` |
+| `https://di82avol92.click/o/ix118/7327874828157184#selectedbank9` |
+| `https://welcome-io-ledger.typedream.app/` |
+| `https://sms-weryf-4283.shop/o/ix118/7327874828157184#selectedbank9` |
+| `https://bd1lnn.top/o/ix118/7327874828157184#selectedbank9` |
+| `https://paczzkaa6623238.click/o/ix118/7327874828157184#selectedbank9` |
 
 ---
 
