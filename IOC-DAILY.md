@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 10, 2026  
-> **Updated:** September 10, 2026 at 13:08 UTC  
+> **Date:** September 11, 2026  
+> **Updated:** September 11, 2026 at 13:02 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://sso---secure-robinhood--coms.webflow.io/` |
-| `http://www.transfer-to-click.vercel.app/` |
-| `https://mail-email-ionos--refactored-octo-computing-machine-production.up.railway.app/` |
-| `http://metamask-update.github.io/` |
-| `https://pembatalan-pinjamaanz.vrr.my.id/` |
-| `https://hjhbrl.com/cdq/11.php` |
-| `https://checkslogin.netlify.app/` |
-| `https://www.metamask2-eight.vercel.app/` |
-| `https://tiktok-coin-page.vercel.app/` |
-| `http://www.tiktok-coin-page.vercel.app/` |
-| `https://verifiedbadge-aurora.vercel.app/privacy-centers.html` |
-| `http://potwierdzenie-bezpieczenstwa.vercel.app/` |
-| `http://cacoinsquarelogin.webflow.io/` |
-| `http://www.binancewallett.blogspot.com/` |
-| `http://goodlife-6jp.pages.dev/` |
-| `https://di82avol92.click/o/ix118/7327874828157184#selectedbank9` |
-| `https://welcome-io-ledger.typedream.app/` |
-| `https://sms-weryf-4283.shop/o/ix118/7327874828157184#selectedbank9` |
-| `https://bd1lnn.top/o/ix118/7327874828157184#selectedbank9` |
-| `https://paczzkaa6623238.click/o/ix118/7327874828157184#selectedbank9` |
+| `https://suport-coinsquare.zapier.app/portal` |
+| `https://view-coisquared.zapier.app/started` |
+| `http://protecpackonlinedocument-ymafg.ondigitalocean.app/` |
+| `https://view-coisquared.zapier.app/` |
+| `https://tavzavo-kxt-qelmora-r9t1hk63.pages.dev/home.html` |
+| `https://df0-3.gitbook.io/vf/` |
+| `https://kucoins-signin.com/` |
+| `https://sessionhttps-counter-offer-a273728932h-sso-singlesso.fallbacksso.help/` |
+| `https://allegro.2390as92358.pics/lokalnie/?id=9B6d8L9t1R9F3O6x5r3T4L2L3Z2B5U6e` |
+| `https://bringjp37.icu/JeremyTemple` |
+| `https://u7o2i.icu/JeremyTemple/` |
+| `http://sp26ct-teski-biz-pelun-varka.pages.dev/` |
+| `https://abhay-gupta-dev.github.io/spotify-clone-frontend` |
+| `http://ehay.item.com.login.secures-wr8wcvzo.thechennaistores.com/` |
+| `https://f7q2mx.lat/o/ix118/7328234650763264#selectedbank9` |
+| `https://c3w9rp.lat/o/ix118/7328234650763264#selectedbank9` |
+| `https://www.roblox.com.mu/communities/161870138/Cheesy-Games-Studios-OriginalsTM` |
+| `https://z8n4vk.lat/o/ix118/7328234650763264#selectedbank9` |
+| `https://i1kkbr.sbs/o/ix118/7328234650763264#selectedbank9` |
+| `https://parceldashboardclientstationopacketofficeshipmentdelivery.artkiyotomotiv.com/LUFERONG` |
 
 ---
 
