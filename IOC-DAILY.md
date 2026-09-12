@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 11, 2026  
-> **Updated:** September 11, 2026 at 13:02 UTC  
+> **Date:** September 12, 2026  
+> **Updated:** September 12, 2026 at 12:25 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://suport-coinsquare.zapier.app/portal` |
-| `https://view-coisquared.zapier.app/started` |
-| `http://protecpackonlinedocument-ymafg.ondigitalocean.app/` |
-| `https://view-coisquared.zapier.app/` |
-| `https://tavzavo-kxt-qelmora-r9t1hk63.pages.dev/home.html` |
-| `https://df0-3.gitbook.io/vf/` |
-| `https://kucoins-signin.com/` |
-| `https://sessionhttps-counter-offer-a273728932h-sso-singlesso.fallbacksso.help/` |
-| `https://allegro.2390as92358.pics/lokalnie/?id=9B6d8L9t1R9F3O6x5r3T4L2L3Z2B5U6e` |
-| `https://bringjp37.icu/JeremyTemple` |
-| `https://u7o2i.icu/JeremyTemple/` |
-| `http://sp26ct-teski-biz-pelun-varka.pages.dev/` |
-| `https://abhay-gupta-dev.github.io/spotify-clone-frontend` |
-| `http://ehay.item.com.login.secures-wr8wcvzo.thechennaistores.com/` |
-| `https://f7q2mx.lat/o/ix118/7328234650763264#selectedbank9` |
-| `https://c3w9rp.lat/o/ix118/7328234650763264#selectedbank9` |
-| `https://www.roblox.com.mu/communities/161870138/Cheesy-Games-Studios-OriginalsTM` |
-| `https://z8n4vk.lat/o/ix118/7328234650763264#selectedbank9` |
-| `https://i1kkbr.sbs/o/ix118/7328234650763264#selectedbank9` |
-| `https://parceldashboardclientstationopacketofficeshipmentdelivery.artkiyotomotiv.com/LUFERONG` |
+| `http://sp32ct-dalrex-biz-vornik-cesla.pages.dev/` |
+| `https://vwwv-roblox.co/users/1515798849/profile` |
+| `https://roblox.com.bo/communities/488688266/` |
+| `http://intrepid-amused-analysts--vdsbwa.replit.app/` |
+| `http://www.your-order-logistics-global-tracking.vercel.app/` |
+| `https://xernqavi-mpt-borvexo-r8d2me61.pages.dev/` |
+| `https://www.roblox.ly/games/920587237/Adopt-Me?privateServerLinkCode=25143865265762886900763909739476` |
+| `https://www.account-verification-method.vercel.app/` |
+| `https://hadiah-shopee242.blogspot.com/` |
+| `https://navzuri-mpt-qelfavo-c3h8me57.pages.dev/thn-yjm-uio-lkh?welcome=1235735009619786&stt=1235735009619786&name_stt=E-%20Commerce%20With%20Shoaib` |
+| `https://irsrefundservice.us/` |
+| `http://wp.pl-krajowyrejestdlugow.info.vh13647.vh.net.pl/` |
+| `https://shopeeid077.blogspot.com/` |
+| `http://www.shopeeid077.blogspot.com/` |
+| `https://shopeeid414.blogspot.com/` |
+| `https://www.shopeeid414.blogspot.com/` |
+| `https://www.robiox.com.gr/users/8880414661/profile` |
+| `https://vmi3567924.contaboserver.net/fix/sen/rena/msg.php` |
+| `https://lnk.ink/HTv47` |
+| `http://www.robloxc.com.es/users/1539346212/profile/` |
 
 ---
 
