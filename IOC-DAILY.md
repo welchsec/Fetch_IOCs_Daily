@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 12, 2026  
-> **Updated:** September 12, 2026 at 12:25 UTC  
+> **Date:** September 13, 2026  
+> **Updated:** September 13, 2026 at 13:29 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://sp32ct-dalrex-biz-vornik-cesla.pages.dev/` |
-| `https://vwwv-roblox.co/users/1515798849/profile` |
-| `https://roblox.com.bo/communities/488688266/` |
-| `http://intrepid-amused-analysts--vdsbwa.replit.app/` |
-| `http://www.your-order-logistics-global-tracking.vercel.app/` |
-| `https://xernqavi-mpt-borvexo-r8d2me61.pages.dev/` |
-| `https://www.roblox.ly/games/920587237/Adopt-Me?privateServerLinkCode=25143865265762886900763909739476` |
-| `https://www.account-verification-method.vercel.app/` |
-| `https://hadiah-shopee242.blogspot.com/` |
-| `https://navzuri-mpt-qelfavo-c3h8me57.pages.dev/thn-yjm-uio-lkh?welcome=1235735009619786&stt=1235735009619786&name_stt=E-%20Commerce%20With%20Shoaib` |
-| `https://irsrefundservice.us/` |
-| `http://wp.pl-krajowyrejestdlugow.info.vh13647.vh.net.pl/` |
-| `https://shopeeid077.blogspot.com/` |
-| `http://www.shopeeid077.blogspot.com/` |
-| `https://shopeeid414.blogspot.com/` |
-| `https://www.shopeeid414.blogspot.com/` |
-| `https://www.robiox.com.gr/users/8880414661/profile` |
-| `https://vmi3567924.contaboserver.net/fix/sen/rena/msg.php` |
-| `https://lnk.ink/HTv47` |
-| `http://www.robloxc.com.es/users/1539346212/profile/` |
+| `https://kqid7e1vkh3d0r88k3d.vercel.app/nsvw35re4hbarefsdbvzxcv` |
+| `https://kqid7e1vkh3d0r88k3d.vercel.app/nsvw35re4hbarefsdbvzxcv.html` |
+| `https://www.welcome-trezor-bridge.godaddysites.com/` |
+| `https://iamivanaalawicash.blogspot.com/` |
+| `https://www.iamivanaalawicash.blogspot.com/` |
+| `https://lnk.ink/AQDO7` |
+| `https://www.roblox.com.mu/users/3640563947/profile` |
+| `https://www.robiox.com.py/users/439445376533/profile` |
+| `https://security-server-page--jhalskov68.replit.app/` |
+| `http://ledgerr-livv.pages.dev/` |
+| `https://www.robiox.com.py/users/335606894118/profile` |
+| `https://mitameskk_8clogunn.godaddysites.com/` |
+| `https://www.mitameskk_8clogunn.godaddysites.com/` |
+| `https://secure-meta.official-program.online/` |
+| `https://mtoken.online/` |
+| `https://rbcode.net/v/4054707db8fc4cac4b825fc5473690f7` |
+| `https://blog-whatsappx.hl.cn/` |
+| `https://www.gebyarshopee228.blogspot.com/` |
+| `https://www.mobilelegendsindonesia.blogspot.com/` |
+| `http://trezarsuiteapp.wasmer.app/` |
 
 ---
 
