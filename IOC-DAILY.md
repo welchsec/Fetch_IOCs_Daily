@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 13, 2026  
-> **Updated:** September 13, 2026 at 13:29 UTC  
+> **Date:** September 14, 2026  
+> **Updated:** September 14, 2026 at 15:16 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://kqid7e1vkh3d0r88k3d.vercel.app/nsvw35re4hbarefsdbvzxcv` |
-| `https://kqid7e1vkh3d0r88k3d.vercel.app/nsvw35re4hbarefsdbvzxcv.html` |
-| `https://www.welcome-trezor-bridge.godaddysites.com/` |
-| `https://iamivanaalawicash.blogspot.com/` |
-| `https://www.iamivanaalawicash.blogspot.com/` |
-| `https://lnk.ink/AQDO7` |
-| `https://www.roblox.com.mu/users/3640563947/profile` |
-| `https://www.robiox.com.py/users/439445376533/profile` |
-| `https://security-server-page--jhalskov68.replit.app/` |
-| `http://ledgerr-livv.pages.dev/` |
-| `https://www.robiox.com.py/users/335606894118/profile` |
-| `https://mitameskk_8clogunn.godaddysites.com/` |
-| `https://www.mitameskk_8clogunn.godaddysites.com/` |
-| `https://secure-meta.official-program.online/` |
-| `https://mtoken.online/` |
-| `https://rbcode.net/v/4054707db8fc4cac4b825fc5473690f7` |
-| `https://blog-whatsappx.hl.cn/` |
-| `https://www.gebyarshopee228.blogspot.com/` |
-| `https://www.mobilelegendsindonesia.blogspot.com/` |
-| `http://trezarsuiteapp.wasmer.app/` |
+| `https://sub.parsnetsecure.ir/` |
+| `https://shopeejkt4782.blogspot.com/` |
+| `https://shopee0488.blogspot.com/` |
+| `https://www.virtualnextpartner.com/` |
+| `http://app-sushiswaps.net/` |
+| `https://teamyk.com/` |
+| `http://viewdetail1109yvsaxq.growthcrm-platf.com/public/` |
+| `http://xfinityconnectupgrade.weebly.com/` |
+| `https://1url.at/www/robloxcom-users-2742864312473-profile` |
+| `https://ctrip.evergreenfin.ltd/` |
+| `https://safe-browsing-hub.com/click?key=4454a8862e69440f92556bd101acd0f6` |
+| `https://wordpress-214953-0.cloudclusters.net/FCKundenservice/ZXJ2aWc2VS/sbbclient/` |
+| `https://seraji.at/.tmb/index(1).html` |
+| `https://jipacsja.vercel.app/` |
+| `https://www.robiox.com.py/games/121864768012064/NOW-Fish-It?privateServerLinkCode=224860681404118230647368451253` |
+| `https://golden-pollen-74.tinidrop.app/?eta=ororsys@d7dbc5249851bc818ec6bda4567ca2b558f5.net` |
+| `http://paypal-signin.blogspot.com/` |
+| `https://trezr-io-cloud-sso.typedream.app/` |
+| `http://mtn-clone-two.vercel.app/` |
+| `http://app.casamarmol.com.ve/Public/home/next.php` |
 
 ---
 
