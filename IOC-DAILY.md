@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 14, 2026  
-> **Updated:** September 14, 2026 at 15:16 UTC  
+> **Date:** September 15, 2026  
+> **Updated:** September 15, 2026 at 13:53 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://sub.parsnetsecure.ir/` |
-| `https://shopeejkt4782.blogspot.com/` |
-| `https://shopee0488.blogspot.com/` |
-| `https://www.virtualnextpartner.com/` |
-| `http://app-sushiswaps.net/` |
-| `https://teamyk.com/` |
-| `http://viewdetail1109yvsaxq.growthcrm-platf.com/public/` |
-| `http://xfinityconnectupgrade.weebly.com/` |
-| `https://1url.at/www/robloxcom-users-2742864312473-profile` |
-| `https://ctrip.evergreenfin.ltd/` |
-| `https://safe-browsing-hub.com/click?key=4454a8862e69440f92556bd101acd0f6` |
-| `https://wordpress-214953-0.cloudclusters.net/FCKundenservice/ZXJ2aWc2VS/sbbclient/` |
-| `https://seraji.at/.tmb/index(1).html` |
-| `https://jipacsja.vercel.app/` |
-| `https://www.robiox.com.py/games/121864768012064/NOW-Fish-It?privateServerLinkCode=224860681404118230647368451253` |
-| `https://golden-pollen-74.tinidrop.app/?eta=ororsys@d7dbc5249851bc818ec6bda4567ca2b558f5.net` |
-| `http://paypal-signin.blogspot.com/` |
-| `https://trezr-io-cloud-sso.typedream.app/` |
-| `http://mtn-clone-two.vercel.app/` |
-| `http://app.casamarmol.com.ve/Public/home/next.php` |
+| `https://www.site-ma-ga-zine-luiza.com/site-ma-ga-zine-luiza.com/produt` |
+| `http://es.uevangelica.edu.ar/` |
+| `https://paypal-app.online/` |
+| `https://zyexx.com/t18674c21q3caa437ak9ae2e39dv1902ec25.html` |
+| `https://manjaresdelmar.com.ar/DROPBOXX.html` |
+| `http://yextugu.yourwebs.app/` |
+| `http://www.companysphere-crm.com/public/index?ref=business-support-center-DASDFDSYUYEE43FJDSHFSDFsetting%25popup%3fclient_id=889943718806-ual26tplnot2ea8b7n5t4p77keo8eb` |
+| `http://www.companysphere-crm.com/` |
+| `http://ur-ledgr-starts.pages.dev/` |
+| `http://us-cloud-ledgeer-live.pages.dev/` |
+| `http://us-ledgr-live-v.pages.dev/` |
+| `https://us-live-ledger-dyq.pages.dev/` |
+| `http://us-apps-en-ledgr-live.pages.dev/` |
+| `http://ur-trezr-walet.pages.dev/` |
+| `https://usa-ledgeer-live.pages.dev/` |
+| `http://us-ledgrstarts.pages.dev/` |
+| `http://us-desktop-ledgr-en.pages.dev/` |
+| `https://up-helps-io-ledgr-starts.pages.dev/` |
+| `http://us-lives-ledgr.pages.dev/` |
+| `https://us-ledgr-startt.pages.dev/` |
 
 ---
 
