@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 15, 2026  
-> **Updated:** September 15, 2026 at 13:53 UTC  
+> **Date:** September 16, 2026  
+> **Updated:** September 16, 2026 at 13:46 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.site-ma-ga-zine-luiza.com/site-ma-ga-zine-luiza.com/produt` |
-| `http://es.uevangelica.edu.ar/` |
-| `https://paypal-app.online/` |
-| `https://zyexx.com/t18674c21q3caa437ak9ae2e39dv1902ec25.html` |
-| `https://manjaresdelmar.com.ar/DROPBOXX.html` |
-| `http://yextugu.yourwebs.app/` |
-| `http://www.companysphere-crm.com/public/index?ref=business-support-center-DASDFDSYUYEE43FJDSHFSDFsetting%25popup%3fclient_id=889943718806-ual26tplnot2ea8b7n5t4p77keo8eb` |
-| `http://www.companysphere-crm.com/` |
-| `http://ur-ledgr-starts.pages.dev/` |
-| `http://us-cloud-ledgeer-live.pages.dev/` |
-| `http://us-ledgr-live-v.pages.dev/` |
-| `https://us-live-ledger-dyq.pages.dev/` |
-| `http://us-apps-en-ledgr-live.pages.dev/` |
-| `http://ur-trezr-walet.pages.dev/` |
-| `https://usa-ledgeer-live.pages.dev/` |
-| `http://us-ledgrstarts.pages.dev/` |
-| `http://us-desktop-ledgr-en.pages.dev/` |
-| `https://up-helps-io-ledgr-starts.pages.dev/` |
-| `http://us-lives-ledgr.pages.dev/` |
-| `https://us-ledgr-startt.pages.dev/` |
+| `https://schtrekh.de/img/` |
+| `http://www.900599.cc/` |
+| `https://farren.webdesignla.info/ga/click/2-115159033-1585-17249-33739-18616-2212d2c02a-1b10dc49b9` |
+| `https://brayden-15.pages.dev/` |
+| `https://ch-pak-informations.bolt.host/` |
+| `https://jdbdkdbsosu.blogspot.com/?m=1` |
+| `http://www.adsbot2-eauj.vercel.app/` |
+| `https://proxy-test-001.pages.dev/mac-mini-2023-service-program-for-no-power-issu` |
+| `http://ei1i7-qqt-v6l4-2qu9k-08-09-2026-hh.pages.dev/` |
+| `http://coinbse-extesnsion.framer.website/` |
+| `http://real-facebook.blogspot.com/` |
+| `http://www.facebook.sagers.com/` |
+| `http://specbiispaid.com/` |
+| `https://shop.topup-diamonds.com/?ttclid=E_C_P_CsIBWAuzSx5M-LcGpUyYbB5MLgmo90_kjrM9DdlhAqSwqKMCX9CXTX2hnzI3_fO1u1rmjZpoboyyv5l86Wgi1PrlkTFFSCkWjYZla1IxTKeo0d2L4MTsGQBx24MeaQKGZezG6x1Igohh_snycHRiFHB3mLMbEpptCnc2PwtOQcy-1HTk9W2KinKpzrGWDFBZoOxO8FvN3RNkQtYej-_XhE3lL3vU3HBz_xP7T3Hp-1MTaUIafiv6LyEY3qLa32N8v21yJGgSBHYyLjA` |
+| `http://vfxzn-8zg-3ff3-36yv7-13-09-2026-hh.pages.dev/` |
+| `https://www.trustwallet-secure-check.vercel.app/` |
+| `http://ledgarapp.onlinedocsfilesreport.com/` |
+| `https://8s7q0g-qw999agreg-mbtz2x8p1m9-fsgc.pages.dev/` |
+| `http://zealous-dialects-588703.framer.app/` |
+| `https://paycore-trust-process.sbs/viewer/bWlsbGVubml1bQ/Ml8w/94BG6ZqQ24` |
 
 ---
 
