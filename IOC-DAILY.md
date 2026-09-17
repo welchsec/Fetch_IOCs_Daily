@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 16, 2026  
-> **Updated:** September 16, 2026 at 13:46 UTC  
+> **Date:** September 17, 2026  
+> **Updated:** September 17, 2026 at 13:48 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://schtrekh.de/img/` |
-| `http://www.900599.cc/` |
-| `https://farren.webdesignla.info/ga/click/2-115159033-1585-17249-33739-18616-2212d2c02a-1b10dc49b9` |
-| `https://brayden-15.pages.dev/` |
-| `https://ch-pak-informations.bolt.host/` |
-| `https://jdbdkdbsosu.blogspot.com/?m=1` |
-| `http://www.adsbot2-eauj.vercel.app/` |
-| `https://proxy-test-001.pages.dev/mac-mini-2023-service-program-for-no-power-issu` |
-| `http://ei1i7-qqt-v6l4-2qu9k-08-09-2026-hh.pages.dev/` |
-| `http://coinbse-extesnsion.framer.website/` |
-| `http://real-facebook.blogspot.com/` |
-| `http://www.facebook.sagers.com/` |
-| `http://specbiispaid.com/` |
-| `https://shop.topup-diamonds.com/?ttclid=E_C_P_CsIBWAuzSx5M-LcGpUyYbB5MLgmo90_kjrM9DdlhAqSwqKMCX9CXTX2hnzI3_fO1u1rmjZpoboyyv5l86Wgi1PrlkTFFSCkWjYZla1IxTKeo0d2L4MTsGQBx24MeaQKGZezG6x1Igohh_snycHRiFHB3mLMbEpptCnc2PwtOQcy-1HTk9W2KinKpzrGWDFBZoOxO8FvN3RNkQtYej-_XhE3lL3vU3HBz_xP7T3Hp-1MTaUIafiv6LyEY3qLa32N8v21yJGgSBHYyLjA` |
-| `http://vfxzn-8zg-3ff3-36yv7-13-09-2026-hh.pages.dev/` |
-| `https://www.trustwallet-secure-check.vercel.app/` |
-| `http://ledgarapp.onlinedocsfilesreport.com/` |
-| `https://8s7q0g-qw999agreg-mbtz2x8p1m9-fsgc.pages.dev/` |
-| `http://zealous-dialects-588703.framer.app/` |
-| `https://paycore-trust-process.sbs/viewer/bWlsbGVubml1bQ/Ml8w/94BG6ZqQ24` |
+| `https://rss.sayler.at/go/y2c4y254/z274x264` |
+| `https://rss2.sayler.at/go/y2c4y254/z274x264` |
+| `https://tarifas-pagban.lovable.app/` |
+| `https://facebook-login-it.blogspot.com/?m=1` |
+| `https://www.facebook-login-it.blogspot.com/?m=1` |
+| `https://acessapp.vercel.app/` |
+| `http://acessapp.vercel.app/confirmar-saque/` |
+| `http://marquee-film-ledger.pages.dev/` |
+| `https://www.bluebadge-page-office.vercel.app/` |
+| `http://security-server-website--resultbox63.replit.app/` |
+| `http://robloxfreeerobuxuu.click/` |
+| `https://cloud-flow-5211.p-6ee76db7.workers.dev/share/BhNRzFfuzH0` |
+| `https://filmplusapk.com.co/Sin.html` |
+| `http://cautious-graphs-513223.framer.app/` |
+| `https://cl286193.tw1.ru/ouiery/` |
+| `https://email-validation-pol-hegx.bolt.host/` |
+| `https://wordpress-215000-0.cloudclusters.net/id/web/login.php` |
+| `https://wordpress-215000-0.cloudclusters.net/id/` |
+| `https://bluevexaa-01.pages.dev/` |
+| `https://www.tiendastodohogar.com/wp-includes/zero/` |
 
 ---
 
