@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 17, 2026  
-> **Updated:** September 17, 2026 at 13:48 UTC  
+> **Date:** September 18, 2026  
+> **Updated:** September 18, 2026 at 13:11 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://rss.sayler.at/go/y2c4y254/z274x264` |
-| `https://rss2.sayler.at/go/y2c4y254/z274x264` |
-| `https://tarifas-pagban.lovable.app/` |
-| `https://facebook-login-it.blogspot.com/?m=1` |
-| `https://www.facebook-login-it.blogspot.com/?m=1` |
-| `https://acessapp.vercel.app/` |
-| `http://acessapp.vercel.app/confirmar-saque/` |
-| `http://marquee-film-ledger.pages.dev/` |
-| `https://www.bluebadge-page-office.vercel.app/` |
-| `http://security-server-website--resultbox63.replit.app/` |
-| `http://robloxfreeerobuxuu.click/` |
-| `https://cloud-flow-5211.p-6ee76db7.workers.dev/share/BhNRzFfuzH0` |
-| `https://filmplusapk.com.co/Sin.html` |
-| `http://cautious-graphs-513223.framer.app/` |
-| `https://cl286193.tw1.ru/ouiery/` |
-| `https://email-validation-pol-hegx.bolt.host/` |
-| `https://wordpress-215000-0.cloudclusters.net/id/web/login.php` |
-| `https://wordpress-215000-0.cloudclusters.net/id/` |
-| `https://bluevexaa-01.pages.dev/` |
-| `https://www.tiendastodohogar.com/wp-includes/zero/` |
+| `https://www.roblox.ly/users/8231296959/profile` |
+| `https://www.roblox.com.am/games/142823291/Murder-Mystery-2?privateServerLinkCode=037625068419256218425781722588` |
+| `http://pemenang-shopee4.blogspot.com/` |
+| `https://ff.alwayssecuredhub.net/public/assets/jquery/jquery-3.3.1.min.js/` |
+| `http://www.blizzcon.us.com/` |
+| `https://www.metamaskloginu.blogspot.com/` |
+| `https://t7tjjjjjjao.github.io/roblox-Gift/` |
+| `https://him-transsfer.vercel.app/` |
+| `http://bookingrm.arrivalprofile.com/1874490215/` |
+| `https://www.roblox.com.mu/users/9926519406/profile` |
+| `https://www.post-info-swiss.com/pages/ban.php` |
+| `https://post-info-swiss.com/` |
+| `https://kol-9909-00a.pages.dev/` |
+| `https://meta-marketplace.merchant-gateway-cashier.cfd/gets/U7G6VCBYF2.html` |
+| `https://web2.pancake.run/swap` |
+| `https://www.web2.pancake.run/` |
+| `https://sukd58u-h10u.vercel.app/` |
+| `https://authentication.ms/E.4kAyc5YXlYaw1ZYv` |
+| `https://rbcode.net/v/8c5cc6a4ea0dc47b28fd680af7e1818a` |
+| `https://hawraa224.github.io/phishing-training` |
 
 ---
 
