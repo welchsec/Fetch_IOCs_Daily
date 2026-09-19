@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 18, 2026  
-> **Updated:** September 18, 2026 at 13:11 UTC  
+> **Date:** September 19, 2026  
+> **Updated:** September 19, 2026 at 12:42 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.ly/users/8231296959/profile` |
-| `https://www.roblox.com.am/games/142823291/Murder-Mystery-2?privateServerLinkCode=037625068419256218425781722588` |
-| `http://pemenang-shopee4.blogspot.com/` |
-| `https://ff.alwayssecuredhub.net/public/assets/jquery/jquery-3.3.1.min.js/` |
-| `http://www.blizzcon.us.com/` |
-| `https://www.metamaskloginu.blogspot.com/` |
-| `https://t7tjjjjjjao.github.io/roblox-Gift/` |
-| `https://him-transsfer.vercel.app/` |
-| `http://bookingrm.arrivalprofile.com/1874490215/` |
-| `https://www.roblox.com.mu/users/9926519406/profile` |
-| `https://www.post-info-swiss.com/pages/ban.php` |
-| `https://post-info-swiss.com/` |
-| `https://kol-9909-00a.pages.dev/` |
-| `https://meta-marketplace.merchant-gateway-cashier.cfd/gets/U7G6VCBYF2.html` |
-| `https://web2.pancake.run/swap` |
-| `https://www.web2.pancake.run/` |
-| `https://sukd58u-h10u.vercel.app/` |
-| `https://authentication.ms/E.4kAyc5YXlYaw1ZYv` |
-| `https://rbcode.net/v/8c5cc6a4ea0dc47b28fd680af7e1818a` |
-| `https://hawraa224.github.io/phishing-training` |
+| `https://usc1.contabostorage.com/e2dce81f193044d09b18133ea4583e24:azzzzz/obum.html` |
+| `https://www.roblox.com.hr/communities/7544919641/EVADE` |
+| `https://f005.backblazeb2.com/file/hottttty/Hotmailnew.html` |
+| `https://www.roblox.com.do/users/152133768449/profile` |
+| `http://www.rncjyr-eoeqes2n.vercel.app/` |
+| `http://metamask-update.webflow.io/` |
+| `https://rncjyr-eoeqes2n.vercel.app/` |
+| `https://metamasskcrypttologin.webflow.io/` |
+| `http://metaskeloogin.webflow.io/` |
+| `https://mintmskilogin.webflow.io/` |
+| `http://mtaskiellgeuin.webflow.io/` |
+| `http://mettasklofing.webflow.io/` |
+| `https://mrtjamsklogin.webflow.io/` |
+| `http://ledgerwalleet.webador.com/` |
+| `https://us-logn-ldgre.pages.dev/` |
+| `https://www.roblox.com.bi/games/94292962063277/Avatar-Catalog?privateServerLinkCode=81776722292163318798431500962836&game_id=94292962063277&game_name=Avatar-Catalog` |
+| `https://www.roblox.com.bi/games/112130209541489/Catalog-Avatar-Editor?privateServerLinkCode=81776722292163318798431500962836&game_id=112130209541489&game_name=Catalog-Avatar-Editor` |
+| `http://awemissome.sbs/` |
+| `https://www.roblox.et/users/2645453255/profile` |
+| `https://www.roblox.com.mu/users/5920397778/profile` |
 
 ---
 
