@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 19, 2026  
-> **Updated:** September 19, 2026 at 12:42 UTC  
+> **Date:** September 20, 2026  
+> **Updated:** September 20, 2026 at 13:14 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://usc1.contabostorage.com/e2dce81f193044d09b18133ea4583e24:azzzzz/obum.html` |
-| `https://www.roblox.com.hr/communities/7544919641/EVADE` |
-| `https://f005.backblazeb2.com/file/hottttty/Hotmailnew.html` |
-| `https://www.roblox.com.do/users/152133768449/profile` |
-| `http://www.rncjyr-eoeqes2n.vercel.app/` |
-| `http://metamask-update.webflow.io/` |
-| `https://rncjyr-eoeqes2n.vercel.app/` |
-| `https://metamasskcrypttologin.webflow.io/` |
-| `http://metaskeloogin.webflow.io/` |
-| `https://mintmskilogin.webflow.io/` |
-| `http://mtaskiellgeuin.webflow.io/` |
-| `http://mettasklofing.webflow.io/` |
-| `https://mrtjamsklogin.webflow.io/` |
-| `http://ledgerwalleet.webador.com/` |
-| `https://us-logn-ldgre.pages.dev/` |
-| `https://www.roblox.com.bi/games/94292962063277/Avatar-Catalog?privateServerLinkCode=81776722292163318798431500962836&game_id=94292962063277&game_name=Avatar-Catalog` |
-| `https://www.roblox.com.bi/games/112130209541489/Catalog-Avatar-Editor?privateServerLinkCode=81776722292163318798431500962836&game_id=112130209541489&game_name=Catalog-Avatar-Editor` |
-| `http://awemissome.sbs/` |
-| `https://www.roblox.et/users/2645453255/profile` |
-| `https://www.roblox.com.mu/users/5920397778/profile` |
+| `http://suhanir7.github.io/Amazon_Clone` |
+| `http://addqo.com/pl` |
+| `https://main.d3thcdi1mb7dsr.amplifyapp.com/` |
+| `http://varsha24-01.github.io/Amazon_Clone` |
+| `https://ledger-live-downlloadd.blogspot.com/?m=1` |
+| `https://www.ledger-live-downlloadd.blogspot.com/?m=1` |
+| `https://imtokex.im/` |
+| `https://webupgrade394949-dp94sdn9spre.edgeone.cool/index.html?eta=kelos@b5869555477501b47d2714b8f14e0f928a04.com` |
+| `https://manav-kappa.vercel.app/` |
+| `http://www.8816063365.com/` |
+| `https://1url.at/www/roblox-users-358617147535-profile` |
+| `https://tokenim.date/download` |
+| `http://www.facebooknotify-noreply.com/contact/1789733290899/` |
+| `http://nordinvecrop.github.io/wlkhroenovind` |
+| `https://berzuni-mpt-qanfelo-c4x7ka82-a21.pages.dev/?naps` |
+| `https://wetf-share-files.netlify.app/?naps` |
+| `https://urban-maroon-cfmc6rpb.edgeone.dev/home` |
+| `http://web3-cryptogate.com/` |
+| `http://fortgrind.com/` |
+| `https://www.roblox.ly/users/7562558635/profile` |
 
 ---
 
