@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 20, 2026  
-> **Updated:** September 20, 2026 at 13:14 UTC  
+> **Date:** September 21, 2026  
+> **Updated:** September 21, 2026 at 15:21 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://suhanir7.github.io/Amazon_Clone` |
-| `http://addqo.com/pl` |
-| `https://main.d3thcdi1mb7dsr.amplifyapp.com/` |
-| `http://varsha24-01.github.io/Amazon_Clone` |
-| `https://ledger-live-downlloadd.blogspot.com/?m=1` |
-| `https://www.ledger-live-downlloadd.blogspot.com/?m=1` |
-| `https://imtokex.im/` |
-| `https://webupgrade394949-dp94sdn9spre.edgeone.cool/index.html?eta=kelos@b5869555477501b47d2714b8f14e0f928a04.com` |
-| `https://manav-kappa.vercel.app/` |
-| `http://www.8816063365.com/` |
-| `https://1url.at/www/roblox-users-358617147535-profile` |
-| `https://tokenim.date/download` |
-| `http://www.facebooknotify-noreply.com/contact/1789733290899/` |
-| `http://nordinvecrop.github.io/wlkhroenovind` |
-| `https://berzuni-mpt-qanfelo-c4x7ka82-a21.pages.dev/?naps` |
-| `https://wetf-share-files.netlify.app/?naps` |
-| `https://urban-maroon-cfmc6rpb.edgeone.dev/home` |
-| `http://web3-cryptogate.com/` |
-| `http://fortgrind.com/` |
-| `https://www.roblox.ly/users/7562558635/profile` |
+| `https://fedexs.vip/` |
+| `http://harshalkadav19.github.io/spotify` |
+| `http://aniket055.github.io/Amazon` |
+| `https://zara-two-theta.vercel.app/` |
+| `https://zara-self-kappa.vercel.app/` |
+| `http://czido.vip/` |
+| `http://ayushchauhan0401.github.io/Amazon` |
+| `http://www.shopee3589.blogspot.com/` |
+| `https://helps-ledgro-logi-usa.pages.dev/` |
+| `https://exodeus-docweb3.pages.dev/` |
+| `https://steanmcomnnunity.com/ib/7656119798487651` |
+| `https://www.roblox.com.bi/users/846308966648/profile` |
+| `http://gsd.eon-account.com/E.Oq1q8gPNJYc` |
+| `http://krishavaishnavi-stack.github.io/KRISHA-SHARMA-TECH` |
+| `https://trackerredirect.online/embed?site=digittasee.my.id` |
+| `http://karankandalkar.github.io/Netflix-Clone` |
+| `https://akitom.ar/mmm/web/authen.php` |
+| `http://webprojectscreator-create.github.io/Naveen_AmazonCLone` |
+| `https://sumit8399.github.io/Amazon.in/` |
+| `http://sumit8399.github.io/Amazon.in` |
 
 ---
 
