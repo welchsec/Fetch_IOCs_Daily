@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 21, 2026  
-> **Updated:** September 21, 2026 at 15:21 UTC  
+> **Date:** September 22, 2026  
+> **Updated:** September 22, 2026 at 13:41 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://fedexs.vip/` |
-| `http://harshalkadav19.github.io/spotify` |
-| `http://aniket055.github.io/Amazon` |
-| `https://zara-two-theta.vercel.app/` |
-| `https://zara-self-kappa.vercel.app/` |
-| `http://czido.vip/` |
-| `http://ayushchauhan0401.github.io/Amazon` |
-| `http://www.shopee3589.blogspot.com/` |
-| `https://helps-ledgro-logi-usa.pages.dev/` |
-| `https://exodeus-docweb3.pages.dev/` |
-| `https://steanmcomnnunity.com/ib/7656119798487651` |
-| `https://www.roblox.com.bi/users/846308966648/profile` |
-| `http://gsd.eon-account.com/E.Oq1q8gPNJYc` |
-| `http://krishavaishnavi-stack.github.io/KRISHA-SHARMA-TECH` |
-| `https://trackerredirect.online/embed?site=digittasee.my.id` |
-| `http://karankandalkar.github.io/Netflix-Clone` |
-| `https://akitom.ar/mmm/web/authen.php` |
-| `http://webprojectscreator-create.github.io/Naveen_AmazonCLone` |
-| `https://sumit8399.github.io/Amazon.in/` |
-| `http://sumit8399.github.io/Amazon.in` |
+| `https://kucoin_u_logi.godaddysites.com/` |
+| `https://www.kucoin_u_logi.godaddysites.com/` |
+| `http://pranavraj0562.github.io/Alfido_Tech_Task3` |
+| `https://22e2915e.pinme.dev/for.html` |
+| `https://geminuni-lggin0.godaddysites.com/` |
+| `https://www.geminuni-lggin0.godaddysites.com/` |
+| `https://scsproyectos.cl/bx/bell.html` |
+| `https://dewanshigarg2007.github.io/Amazon-clone` |
+| `http://ayeshakamranabbas.github.io/clone-website` |
+| `https://sia.inicioseguro.com/c/p/tc/4522/216e4578-cf00-4d39-ba3c-1b0194c7ed19-126c912d-ef35-44a2-a10c-63ca636af561/` |
+| `https://f005.backblazeb2.com/file/jamunaban/myoffice.html` |
+| `http://rodovia-virtual.click/` |
+| `https://xenfaro-mpt-qalzuni-r8x2pe47.pages.dev/thn-yjm-uio-lkh?welcome=1303603552827746&stt=1303603552827746&name_stt=Espumas%20Chaide` |
+| `http://one.dagobertduckstore.de/a1rr3u294obaksa3/p104` |
+| `http://rootmadhav.github.io/Netflix-clone-2023` |
+| `http://www.netflix-clone-khaki-delta.vercel.app/` |
+| `http://www.netflix-clone-eta-azure.vercel.app/` |
+| `http://www.netflix-clone-gamma-bice.vercel.app/` |
+| `http://www.netflix-clone-iota-bice.vercel.app/` |
+| `https://edge-edge-e7da3cbfb704853eb3.rentalescpade.workers.dev/mNcsdTevCEOxM4puyIBwB2hTVcitynePtpNPbFyfA48?id=refds%3D0&_rt=1` |
 
 ---
 
