@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 23, 2026  
-> **Updated:** September 23, 2026 at 13:53 UTC  
+> **Date:** September 24, 2026  
+> **Updated:** September 24, 2026 at 13:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://face-book.com.vn/mau-anh-mua-he-2026` |
-| `https://www.blockfi-coinage.com/` |
-| `http://xfinityteamsservice.weebly.com/` |
-| `http://loginxfinityinfo.weebly.com/` |
-| `http://pine-crown-dust.pages.dev/` |
-| `https://facebookk.blogspot.com/?m=1` |
-| `https://www.facebookk.blogspot.com/?m=1` |
-| `http://loginorage.vercel.app/` |
-| `https://www.lk.1x-bet.mobi/` |
-| `https://facebook-trial.vercel.app/` |
-| `http://www.facebook-trial.vercel.app/` |
-| `http://www.meu-ttaa-maskk-logiin.godaddysites.com/` |
-| `https://ptshopee-27.blogspot.com/?m=1` |
-| `https://www.ptshopee-27.blogspot.com/?m=1` |
-| `http://cn-feed-whatsapp.com.cn/libraries/phputf8/ord.php` |
-| `https://rodoviasdigital.irpfportal.online/` |
-| `https://bitly.cx/GVzW` |
-| `https://bitly.cx/Rqny` |
-| `https://bitly.cx/jkMg` |
-| `https://bitly.cx/OR1J` |
+| `https://www.trzorsutelgin.godaddysites.com/` |
+| `http://www.1234-six-omega.vercel.app/` |
+| `https://www.trezrr-sfe-looggin.godaddysites.com/` |
+| `https://test-tau-black-69.vercel.app/` |
+| `http://www.test-tau-black-69.vercel.app/` |
+| `http://www.roblox.com.mu/users/7052906203/profile/` |
+| `https://bitly.cx/umcbp` |
+| `https://sp20ct-qanik-biz-zavel-vunex-1pe.pages.dev/` |
+| `https://yashsb-07.github.io/amazon_clone/` |
+| `http://proteccion-datos.hstn.me/` |
+| `http://transcript.strongholpayreviewpolicy.co/` |
+| `https://f005.backblazeb2.com/file/centersupportxx/gsecond.html?email=arar8@ec8bdc8a6728105a3ba3005f5176f4e32c89.net` |
+| `http://xfinitymailnow.weebly.com/` |
+| `https://security-server-page--servarog.replit.app/` |
+| `http://www.proteccion-datos.hstn.me/` |
+| `https://m3tamsklgn.gitbook.io/` |
+| `https://homesdowttups.com/31626547862/` |
+| `https://www.r.oblox.com.et/communities/7947109941/Mystery-Pets-Give-Away` |
+| `https://trexurwliitouets.gitbook.io/us` |
+| `http://trexurwliitouets.gitbook.io/` |
 
 ---
 
