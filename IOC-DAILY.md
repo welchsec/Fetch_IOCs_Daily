@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 24, 2026  
-> **Updated:** September 24, 2026 at 13:49 UTC  
+> **Date:** September 25, 2026  
+> **Updated:** September 25, 2026 at 14:12 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.trzorsutelgin.godaddysites.com/` |
-| `http://www.1234-six-omega.vercel.app/` |
-| `https://www.trezrr-sfe-looggin.godaddysites.com/` |
-| `https://test-tau-black-69.vercel.app/` |
-| `http://www.test-tau-black-69.vercel.app/` |
-| `http://www.roblox.com.mu/users/7052906203/profile/` |
-| `https://bitly.cx/umcbp` |
-| `https://sp20ct-qanik-biz-zavel-vunex-1pe.pages.dev/` |
-| `https://yashsb-07.github.io/amazon_clone/` |
-| `http://proteccion-datos.hstn.me/` |
-| `http://transcript.strongholpayreviewpolicy.co/` |
-| `https://f005.backblazeb2.com/file/centersupportxx/gsecond.html?email=arar8@ec8bdc8a6728105a3ba3005f5176f4e32c89.net` |
-| `http://xfinitymailnow.weebly.com/` |
-| `https://security-server-page--servarog.replit.app/` |
-| `http://www.proteccion-datos.hstn.me/` |
-| `https://m3tamsklgn.gitbook.io/` |
-| `https://homesdowttups.com/31626547862/` |
-| `https://www.r.oblox.com.et/communities/7947109941/Mystery-Pets-Give-Away` |
-| `https://trexurwliitouets.gitbook.io/us` |
-| `http://trexurwliitouets.gitbook.io/` |
+| `http://yard749.pages.dev/` |
+| `https://idshopee-59.blogspot.com/` |
+| `https://security-server-landing-page--ginola080.replit.app/` |
+| `https://tinyurl.com/2s3bx93x` |
+| `https://trustpass.fun/o/fz204/7333160350973952#selectedbank9` |
+| `https://sellercheck.space/o/fz204/7333160350973952#selectedbank9` |
+| `http://ofornaogu-dpzv6dife1hh.edgeone.dev/` |
+| `https://p6ihks.casa/o/fz204/7333160350973952#selectedbank9` |
+| `https://n3k8vd.lat/o/fz204/7333160350973952#selectedbank9` |
+| `https://pesta-shopee-22.blogspot.com/` |
+| `https://z2y7mc.lat/o/fz204/7333160350973952#selectedbank9` |
+| `https://jl6jdp.casa/o/fz204/7333160350973952#selectedbank9` |
+| `https://lf8aim.cfd/o/fz204/7333160350973952#selectedbank9` |
+| `https://j5zets.cfd/o/fz204/7333160350973952#selectedbank9` |
+| `https://365haisowas.webflow.io/` |
+| `http://alturl.com/js6ds` |
+| `http://zenlatrix83.pro/` |
+| `http://site-00rqnl2r5.godaddysites.com/` |
+| `http://www.v8u.tenant-application42395091.help/` |
+| `https://docusign.bkinterim.com/` |
 
 ---
 
