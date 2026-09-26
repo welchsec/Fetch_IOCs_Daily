@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 25, 2026  
-> **Updated:** September 25, 2026 at 14:12 UTC  
+> **Date:** September 26, 2026  
+> **Updated:** September 26, 2026 at 13:24 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://yard749.pages.dev/` |
-| `https://idshopee-59.blogspot.com/` |
-| `https://security-server-landing-page--ginola080.replit.app/` |
-| `https://tinyurl.com/2s3bx93x` |
-| `https://trustpass.fun/o/fz204/7333160350973952#selectedbank9` |
-| `https://sellercheck.space/o/fz204/7333160350973952#selectedbank9` |
-| `http://ofornaogu-dpzv6dife1hh.edgeone.dev/` |
-| `https://p6ihks.casa/o/fz204/7333160350973952#selectedbank9` |
-| `https://n3k8vd.lat/o/fz204/7333160350973952#selectedbank9` |
-| `https://pesta-shopee-22.blogspot.com/` |
-| `https://z2y7mc.lat/o/fz204/7333160350973952#selectedbank9` |
-| `https://jl6jdp.casa/o/fz204/7333160350973952#selectedbank9` |
-| `https://lf8aim.cfd/o/fz204/7333160350973952#selectedbank9` |
-| `https://j5zets.cfd/o/fz204/7333160350973952#selectedbank9` |
-| `https://365haisowas.webflow.io/` |
-| `http://alturl.com/js6ds` |
-| `http://zenlatrix83.pro/` |
-| `http://site-00rqnl2r5.godaddysites.com/` |
-| `http://www.v8u.tenant-application42395091.help/` |
-| `https://docusign.bkinterim.com/` |
+| `https://wunschprodukteauswahlen33s.ink/08Adjcn` |
+| `https://tokenim-hk-cdn.beauty/` |
+| `https://tokenim-hk-cdn.pics/` |
+| `https://menuu-aktivaspays.laterd.my.id/` |
+| `https://www.theodore3.com/the-cover-up/wp-content/upgrade/Microsoft.html#a.b@c` |
+| `https://instantsport.info/` |
+| `https://arunca.tussledigital.net.au/wp-content/plugins/background-image-cropper/gehgeh/mnx/?naps` |
+| `https://instagram.muse.ranmeng.org/` |
+| `https://1url.at/www/roblox-users-35861714035-profile` |
+| `http://apple-sun95.pages.dev/` |
+| `http://whatsapp.checkleaked.com/` |
+| `https://auspost.addqws.com/` |
+| `http://play-roblox.com/` |
+| `https://vlp-126.com/` |
+| `https://play-roblox.com/fr/catalog` |
+| `http://sub-renewal.live/` |
+| `https://nikhilkriiitb-pixel.github.io/Netflixclone/` |
+| `http://deedominic.ario3.arweave.io.vn/wVNYrU_cC_etppnMAoegqOZ3JuRsYckkxwxHw2qjW7M` |
+| `https://www.roblox.com.mu/users/9863700357/profile` |
+| `https://resource-center-digital-library-9bbc.s235046.workers.dev/security_meta_center/` |
 
 ---
 
