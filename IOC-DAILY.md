@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 26, 2026  
-> **Updated:** September 26, 2026 at 13:24 UTC  
+> **Date:** September 27, 2026  
+> **Updated:** September 27, 2026 at 14:19 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://wunschprodukteauswahlen33s.ink/08Adjcn` |
-| `https://tokenim-hk-cdn.beauty/` |
-| `https://tokenim-hk-cdn.pics/` |
-| `https://menuu-aktivaspays.laterd.my.id/` |
-| `https://www.theodore3.com/the-cover-up/wp-content/upgrade/Microsoft.html#a.b@c` |
-| `https://instantsport.info/` |
-| `https://arunca.tussledigital.net.au/wp-content/plugins/background-image-cropper/gehgeh/mnx/?naps` |
-| `https://instagram.muse.ranmeng.org/` |
-| `https://1url.at/www/roblox-users-35861714035-profile` |
-| `http://apple-sun95.pages.dev/` |
-| `http://whatsapp.checkleaked.com/` |
-| `https://auspost.addqws.com/` |
-| `http://play-roblox.com/` |
-| `https://vlp-126.com/` |
-| `https://play-roblox.com/fr/catalog` |
-| `http://sub-renewal.live/` |
-| `https://nikhilkriiitb-pixel.github.io/Netflixclone/` |
-| `http://deedominic.ario3.arweave.io.vn/wVNYrU_cC_etppnMAoegqOZ3JuRsYckkxwxHw2qjW7M` |
-| `https://www.roblox.com.mu/users/9863700357/profile` |
-| `https://resource-center-digital-library-9bbc.s235046.workers.dev/security_meta_center/` |
+| `http://sockscheker.ru/config/config/bits225/session/?Search=Search&q=` |
+| `https://amarulalodgewau.com/Wetransfer2/clients/` |
+| `https://versandzentrum11.ink/tF7m4VX` |
+| `https://timotimo34bb34-design.github.io/-insta-verify` |
+| `https://1url.at/www/roblox-users-480257643212-profile` |
+| `http://bet365-th-casino.help/` |
+| `https://user-extension-base.framer.website/` |
+| `https://upgraded-eth.vercel.app/` |
+| `https://platform-coinbase.framer.website/` |
+| `https://koinbase-extension-wallet.framer.website/` |
+| `https://1url.at/www/roblox-users-358617143515-profile` |
+| `https://pocket-ledgerv2.pages.dev/` |
+| `https://ledgr-usa-ledgr.pages.dev/` |
+| `http://eleventy-govuk.vercel.app/` |
+| `http://www.whatsappzoeiras.blogspot.com/` |
+| `https://dantethebakeryintn.edgeone.dev/` |
+| `https://mqij32911-h25.vercel.app/` |
+| `https://yuem48180-h25.vercel.app/` |
+| `https://klat12686-h25.vercel.app/` |
+| `https://pulkitgxrg.github.io/spotify-ui/` |
 
 ---
 
