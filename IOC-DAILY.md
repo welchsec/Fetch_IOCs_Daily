@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 28, 2026  
-> **Updated:** September 28, 2026 at 17:03 UTC  
+> **Date:** September 29, 2026  
+> **Updated:** September 29, 2026 at 15:09 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://ledger-com-strts.pages.dev/` |
-| `https://filmistanstudios.com/fonts/purchase.html?e=valos@2c5a11bb81b5b1c04d53c01f56c510b84c79.net` |
-| `http://square-nddax-en-us.square.site/` |
-| `http://bet-facebook.blogspot.com/?m=1` |
-| `http://www.bet-facebook.blogspot.com/?m=1` |
-| `http://rmaconsultoria.net/` |
-| `http://auth-bitbuys-webb.webflow.io/` |
-| `http://g00gle-mobile-verif.com/` |
-| `http://aapsuite.pages.dev/` |
-| `https://sunrise-maille.jimdofree.com/` |
-| `https://booking.safeid.icu/250818116` |
-| `https://booking.safeid.icu/237918995` |
-| `https://tktktktdidhr.github.io/Instagram` |
-| `http://www.langsunggas.com/` |
-| `https://levoretsv.vercel.app/` |
-| `https://up--engotrezor.gitbook.io/` |
-| `http://justina.com.do/c1255gff` |
-| `https://cy302036.tw1.ru/` |
-| `http://gemini.xlzs.dpdns.org/` |
-| `http://round-tree-251e.nijqfnwlldlflrr.workers.dev/help/` |
+| `https://douyin.evergreenfin.ltd/` |
+| `https://www.asodfihjgdioshi.xyz/` |
+| `http://genie.evergreenfin.ltd/` |
+| `http://geren.evergreenfin.ltd/` |
+| `https://huiyuanlogin.evergreenfin.ltd/` |
+| `https://account-sso.evergreenfin.ltd/` |
+| `https://iam.evergreenfin.ltd/` |
+| `http://idpage.evergreenfin.ltd/` |
+| `https://membership.evergreenfin.ltd/` |
+| `https://adminlogin.evergreenfin.ltd/` |
+| `https://naver.evergreenfin.ltd/` |
+| `http://outlook.evergreenfin.ltd/` |
+| `http://oauth2.evergreenfin.ltd/` |
+| `http://onlinebank.evergreenfin.ltd/` |
+| `http://netease.evergreenfin.ltd/` |
+| `https://shangjia.evergreenfin.ltd/` |
+| `https://sonemosjuntos--pensandoenti.replit.app/` |
+| `https://webufexcv.vip/` |
+| `https://secure.evergreenfin.ltd/` |
+| `http://idlogin.evergreenfin.ltd/` |
 
 ---
 
