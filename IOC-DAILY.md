@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 29, 2026  
-> **Updated:** September 29, 2026 at 15:09 UTC  
+> **Date:** September 30, 2026  
+> **Updated:** September 30, 2026 at 15:24 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://douyin.evergreenfin.ltd/` |
-| `https://www.asodfihjgdioshi.xyz/` |
-| `http://genie.evergreenfin.ltd/` |
-| `http://geren.evergreenfin.ltd/` |
-| `https://huiyuanlogin.evergreenfin.ltd/` |
-| `https://account-sso.evergreenfin.ltd/` |
-| `https://iam.evergreenfin.ltd/` |
-| `http://idpage.evergreenfin.ltd/` |
-| `https://membership.evergreenfin.ltd/` |
-| `https://adminlogin.evergreenfin.ltd/` |
-| `https://naver.evergreenfin.ltd/` |
-| `http://outlook.evergreenfin.ltd/` |
-| `http://oauth2.evergreenfin.ltd/` |
-| `http://onlinebank.evergreenfin.ltd/` |
-| `http://netease.evergreenfin.ltd/` |
-| `https://shangjia.evergreenfin.ltd/` |
-| `https://sonemosjuntos--pensandoenti.replit.app/` |
-| `https://webufexcv.vip/` |
-| `https://secure.evergreenfin.ltd/` |
-| `http://idlogin.evergreenfin.ltd/` |
+| `https://gobli.world/to/pdfstedex.html` |
+| `http://free-5506938.webadorsite.com/` |
+| `https://en-ledger-us-live-cdn.netlify.app/` |
+| `https://hawaslilaw.com/cgi/sfdoxs.html` |
+| `https://mtoken-hk-cdn.autos/` |
+| `http://iwajs.com/` |
+| `https://log--coinsquare-app.typedream.app/` |
+| `http://app--ne-coinsquare-cd.typedream.app/` |
+| `https://apps-coin-square-auth.webflow.io/` |
+| `https://yz-ledger.pages.dev/` |
+| `http://coensquareleogen.webflow.io/` |
+| `https://account-my-robinhood-auth.webflow.io/` |
+| `https://www.app-facebook.blogspot.com/` |
+| `https://us-learn-ledgr.pages.dev/` |
+| `https://www.accountmanagementteam-case1432.vercel.app/` |
+| `https://phantom-mobile-test.pages.dev/` |
+| `https://app-facebook.blogspot.com/` |
+| `https://steady-chimera-abc93c.netlify.app/` |
+| `https://sopport-cloud.us/icloud2022-esp.php` |
+| `http://satincape.pages.dev/` |
 
 ---
 
