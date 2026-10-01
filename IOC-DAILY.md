@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** September 30, 2026  
-> **Updated:** September 30, 2026 at 15:24 UTC  
+> **Date:** October 01, 2026  
+> **Updated:** October 01, 2026 at 15:44 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://gobli.world/to/pdfstedex.html` |
-| `http://free-5506938.webadorsite.com/` |
-| `https://en-ledger-us-live-cdn.netlify.app/` |
-| `https://hawaslilaw.com/cgi/sfdoxs.html` |
-| `https://mtoken-hk-cdn.autos/` |
-| `http://iwajs.com/` |
-| `https://log--coinsquare-app.typedream.app/` |
-| `http://app--ne-coinsquare-cd.typedream.app/` |
-| `https://apps-coin-square-auth.webflow.io/` |
-| `https://yz-ledger.pages.dev/` |
-| `http://coensquareleogen.webflow.io/` |
-| `https://account-my-robinhood-auth.webflow.io/` |
-| `https://www.app-facebook.blogspot.com/` |
-| `https://us-learn-ledgr.pages.dev/` |
-| `https://www.accountmanagementteam-case1432.vercel.app/` |
-| `https://phantom-mobile-test.pages.dev/` |
-| `https://app-facebook.blogspot.com/` |
-| `https://steady-chimera-abc93c.netlify.app/` |
-| `https://sopport-cloud.us/icloud2022-esp.php` |
-| `http://satincape.pages.dev/` |
+| `https://webmail-ionos-auth-app-suite-didactic-carnival-production.up.railway.app/#janet1@6323c2d225fb097144f275f1c83df280b552.com` |
+| `https://sendbscusdtbnb.vercel.app/` |
+| `https://ka-importexportmicroframework.vercel.app/` |
+| `http://www.ka-importexportmicroframework.vercel.app/` |
+| `https://www.xhwdone.xyz/` |
+| `http://facebook-login-login.blogspot.com/?m=1` |
+| `http://www.facebook-login-login.blogspot.com/?m=1` |
+| `http://www.ddbbeeww.xyz/` |
+| `http://burfuro-mpt-qelmeni-p9x5me38.pages.dev/` |
+| `https://sp12ct-lomrel-biz-prandor-zesmik.pages.dev/` |
+| `https://ztrkm511mj-pvhqn81ren-0b9e6f-mg418k.pages.dev/` |
+| `http://wxlng4avstr-sjycdmja-0d5e4f-wxq03c.pages.dev/` |
+| `https://sp12ct-kendor-biz-lesvik-harmok.pages.dev/` |
+| `http://meta-koraki-biz-zumavi-pakelo.pages.dev/` |
+| `https://coguy-p5ge-lbrgbc-s20hc-ca71o.pages.dev/` |
+| `https://sp12ct-lemvik-biz-zardok-prensel.pages.dev/` |
+| `https://sfmgb61lkwg-vqnxtpli-7ce29c-sfm22c.pages.dev/` |
+| `http://sp12ct-pronsel-biz-hazvik-keldor.pages.dev/` |
+| `http://sp12ct-folvik-biz-harsel-zandor.pages.dev/` |
+| `https://vrin-fraz-skok-682-blip-krostez-znup-249.pages.dev/` |
 
 ---
 
