@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 02, 2026  
-> **Updated:** October 02, 2026 at 15:06 UTC  
+> **Date:** October 03, 2026  
+> **Updated:** October 03, 2026 at 13:58 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://facebook-4.blogspot.com/` |
-| `https://auth.properties/E.BPzGinUzM_SRe5RCWQ?/microsoftonline/mailbox/upgrade&userid=75468973984785978212312307887543` |
-| `https://mainease.com/BP9SGCTK0422-the-evolution-of-empathy/` |
-| `https://www.arizona99.co/` |
-| `http://www.my-aol-account.blogspot.com/` |
-| `https://facebooklivepage.blogspot.com/` |
-| `https://www.facebooklivepage.blogspot.com/` |
-| `https://loginmyfacebook.blogspot.com/` |
-| `http://nw-facebook.blogspot.com/?m=1` |
-| `http://www.nw-facebook.blogspot.com/?m=1` |
-| `https://www.newgovtjobs.in.net/` |
-| `https://www.instagram-my.ru/` |
-| `http://robloxc.com.es/users/14085142931/profile` |
-| `https://facebook-2022.blogspot.com/` |
-| `https://form-bnicredit.myvnc.com/` |
-| `https://instagram-instagram.blogspot.com/` |
-| `https://fics62wjqj-h30j.vercel.app/` |
-| `https://cherrybroing.github.io/cutiepie1/` |
-| `https://muddy-dew-3d38.jenniferjones145a3c.workers.dev/account-report/` |
-| `https://www.roblox.com.kz/users/1738078418/profile` |
+| `http://www.supershopf.vip/` |
+| `https://facebook-auto-liker.blogspot.com/` |
+| `https://nhengenharia.com/crchildrenscare/crchildrenscare.htm` |
+| `https://facebook-logiin.vercel.app/` |
+| `https://roblox.com.bo/users/3950918659/profile` |
+| `http://trezweb3.cam/` |
+| `https://tokenim-cdn-sg-k.lol/` |
+| `https://mtoken-cdn-hk.lol/` |
+| `https://webmail.50-6-22-93.nip.io/desktop/?auth_max_open=0&ref=fezCnaegAKEryQzXIoI5RvnrHCGkm1ExXtdER4kQyiKYKB3w2J3aJswqRDkn3KSYi5dQojlWBxkiZd4LLf7VjoVWOfZoqlb3dohm` |
+| `https://qr2.it/Go/2838281` |
+| `https://stardustottawa.com/ok/aldom.html#phishing-dpdhl@dhl.com/` |
+| `https://daqzelo-mpt-felquri-p4x8ka57.pages.dev/send_appeal_request` |
+| `https://regal-lolly-92b4a1.netlify.app/gghjkjctdtydffuiijgugug.html` |
+| `http://marfeli-mpt-quzvano-k5x7pe83.pages.dev/` |
+| `http://caring-benevolence-production-e639.up.railway.app/` |
+| `http://7p7tf-xsj-gceb-o5uyi-07-10-2026-aa.pages.dev/` |
+| `https://urlz.li/fc431420` |
+| `https://sjsw04fxiv-h01v.vercel.app/` |
+| `https://f003.backblazeb2.com/file/uindox/index.html` |
+| `https://did.li/zazDN` |
 
 ---
 
