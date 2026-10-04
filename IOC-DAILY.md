@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 03, 2026  
-> **Updated:** October 03, 2026 at 13:58 UTC  
+> **Date:** October 04, 2026  
+> **Updated:** October 04, 2026 at 14:26 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.supershopf.vip/` |
-| `https://facebook-auto-liker.blogspot.com/` |
-| `https://nhengenharia.com/crchildrenscare/crchildrenscare.htm` |
-| `https://facebook-logiin.vercel.app/` |
-| `https://roblox.com.bo/users/3950918659/profile` |
-| `http://trezweb3.cam/` |
-| `https://tokenim-cdn-sg-k.lol/` |
-| `https://mtoken-cdn-hk.lol/` |
-| `https://webmail.50-6-22-93.nip.io/desktop/?auth_max_open=0&ref=fezCnaegAKEryQzXIoI5RvnrHCGkm1ExXtdER4kQyiKYKB3w2J3aJswqRDkn3KSYi5dQojlWBxkiZd4LLf7VjoVWOfZoqlb3dohm` |
-| `https://qr2.it/Go/2838281` |
-| `https://stardustottawa.com/ok/aldom.html#phishing-dpdhl@dhl.com/` |
-| `https://daqzelo-mpt-felquri-p4x8ka57.pages.dev/send_appeal_request` |
-| `https://regal-lolly-92b4a1.netlify.app/gghjkjctdtydffuiijgugug.html` |
-| `http://marfeli-mpt-quzvano-k5x7pe83.pages.dev/` |
-| `http://caring-benevolence-production-e639.up.railway.app/` |
-| `http://7p7tf-xsj-gceb-o5uyi-07-10-2026-aa.pages.dev/` |
-| `https://urlz.li/fc431420` |
-| `https://sjsw04fxiv-h01v.vercel.app/` |
-| `https://f003.backblazeb2.com/file/uindox/index.html` |
-| `https://did.li/zazDN` |
+| `https://www.roblox.ly/users/2892759210/profile` |
+| `http://infomx-account-com.help/a.php` |
+| `http://location-gpsmx-satelite.help/a.php` |
+| `http://soporte-app-gps.us/a.php` |
+| `http://www.chat-group-as-ruby.vercel.app/` |
+| `https://www.spppacvxxrirenelsi.flazio.com/` |
+| `https://accesmscloud-appld.us/a.php` |
+| `https://www-login-encontrarcol.us/a.php` |
+| `https://supportms-ldcloud.us/a.php` |
+| `https://whatsappwebred.blogspot.com/` |
+| `https://info-satelite-maps.help/a.php` |
+| `https://go-page-5269-b2396a2en-vercel-project-key.vercel.app/` |
+| `https://io-ledger-lives.pages.dev/` |
+| `https://www.tiktokbrasil.co/q/21332/tiktok.compt-BR` |
+| `https://zunmero-mpt-qazfeli-p6x4me73.pages.dev/thn-yjm-uio-lkh` |
+| `https://www.robiox.com.gr/games/2753915549/Blox-Fruits?privateServerLinkCode=81917512188932740109713393981000` |
+| `https://rbcode.net/v/e305c0aade4caa1aa177998ddb02d1f0` |
+| `https://www.roblox.ly/users/9979254758/profile` |
+| `http://connect-ledger-login.wasmer.app/` |
+| `http://ldgrlive-login-app.wasmer.app/` |
 
 ---
 
