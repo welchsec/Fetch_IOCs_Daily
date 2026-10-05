@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 04, 2026  
-> **Updated:** October 04, 2026 at 14:26 UTC  
+> **Date:** October 05, 2026  
+> **Updated:** October 05, 2026 at 17:27 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.ly/users/2892759210/profile` |
-| `http://infomx-account-com.help/a.php` |
-| `http://location-gpsmx-satelite.help/a.php` |
-| `http://soporte-app-gps.us/a.php` |
-| `http://www.chat-group-as-ruby.vercel.app/` |
-| `https://www.spppacvxxrirenelsi.flazio.com/` |
-| `https://accesmscloud-appld.us/a.php` |
-| `https://www-login-encontrarcol.us/a.php` |
-| `https://supportms-ldcloud.us/a.php` |
-| `https://whatsappwebred.blogspot.com/` |
-| `https://info-satelite-maps.help/a.php` |
-| `https://go-page-5269-b2396a2en-vercel-project-key.vercel.app/` |
-| `https://io-ledger-lives.pages.dev/` |
-| `https://www.tiktokbrasil.co/q/21332/tiktok.compt-BR` |
-| `https://zunmero-mpt-qazfeli-p6x4me73.pages.dev/thn-yjm-uio-lkh` |
-| `https://www.robiox.com.gr/games/2753915549/Blox-Fruits?privateServerLinkCode=81917512188932740109713393981000` |
-| `https://rbcode.net/v/e305c0aade4caa1aa177998ddb02d1f0` |
-| `https://www.roblox.ly/users/9979254758/profile` |
-| `http://connect-ledger-login.wasmer.app/` |
-| `http://ldgrlive-login-app.wasmer.app/` |
+| `http://dune-wave.pages.dev/` |
+| `https://135461223.site/1990/27707926089121906-30390110286315/760405/x` |
+| `https://135461223.site/1990/27707926089121906-30390110286315/760405` |
+| `https://wetransfer-smoky.vercel.app/#mirensys@f91b7a73195f98d78e426e2bef4f4056457a.net` |
+| `https://neu.planen.95-179-167-177.cpanel.site/de/update.php` |
+| `https://site-cpwcg5s76.godaddysites.com/` |
+| `https://lundraif.vercel.app/` |
+| `https://www.roblox.com.mu/users/976201056/profile` |
+| `http://porgu-8y3-87x4-6osm4-29-09-2026-hh.pages.dev/` |
+| `http://sp1ct10-purvek-biz-nulqo-vemri.pages.dev/` |
+| `https://zunfuri-mpt-qalveno-r5x7me86.pages.dev/` |
+| `http://marvani-mpt-qelzuro-p8d3ka67.pages.dev/` |
+| `http://sp1ct10-hunval-biz-lumzo-kelri.pages.dev/` |
+| `http://sp1ct10-bemval-biz-qurzo-vemri.pages.dev/` |
+| `http://meta-kavaki-biz-zuruno-melaro.pages.dev/` |
+| `https://sp32ct-turek-biz-vamik-zolun.pages.dev/` |
+| `https://shopee1218.blogspot.com/` |
+| `https://waren-umschlagzentrum7s.ink/6pWjG1u` |
+| `http://cpsgift.com/` |
+| `http://free-5532335.webadorsite.com/` |
 
 ---
 
