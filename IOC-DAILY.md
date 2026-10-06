@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 05, 2026  
-> **Updated:** October 05, 2026 at 17:27 UTC  
+> **Date:** October 06, 2026  
+> **Updated:** October 06, 2026 at 15:29 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://dune-wave.pages.dev/` |
-| `https://135461223.site/1990/27707926089121906-30390110286315/760405/x` |
-| `https://135461223.site/1990/27707926089121906-30390110286315/760405` |
-| `https://wetransfer-smoky.vercel.app/#mirensys@f91b7a73195f98d78e426e2bef4f4056457a.net` |
-| `https://neu.planen.95-179-167-177.cpanel.site/de/update.php` |
-| `https://site-cpwcg5s76.godaddysites.com/` |
-| `https://lundraif.vercel.app/` |
-| `https://www.roblox.com.mu/users/976201056/profile` |
-| `http://porgu-8y3-87x4-6osm4-29-09-2026-hh.pages.dev/` |
-| `http://sp1ct10-purvek-biz-nulqo-vemri.pages.dev/` |
-| `https://zunfuri-mpt-qalveno-r5x7me86.pages.dev/` |
-| `http://marvani-mpt-qelzuro-p8d3ka67.pages.dev/` |
-| `http://sp1ct10-hunval-biz-lumzo-kelri.pages.dev/` |
-| `http://sp1ct10-bemval-biz-qurzo-vemri.pages.dev/` |
-| `http://meta-kavaki-biz-zuruno-melaro.pages.dev/` |
-| `https://sp32ct-turek-biz-vamik-zolun.pages.dev/` |
-| `https://shopee1218.blogspot.com/` |
-| `https://waren-umschlagzentrum7s.ink/6pWjG1u` |
-| `http://cpsgift.com/` |
-| `http://free-5532335.webadorsite.com/` |
+| `https://com-ledger--io.pages.dev/` |
+| `https://moltravi-zekun39471628.vercel.app/` |
+| `http://uszoom01web.pages.dev/` |
+| `https://mishthi-jaiswal.github.io/amazon-clone` |
+| `http://www.mhrs-islemyap.vercel.app/` |
+| `http://www.site-xzowfu3b2.godaddysites.com/` |
+| `http://www.trustwalletindia-beta.vercel.app/` |
+| `http://www.sent-dt2.vercel.app/` |
+| `https://www.sendusdt-2-psi.vercel.app/` |
+| `http://www.metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app/` |
+| `http://www.instagram-blush.vercel.app/` |
+| `https://gim-uernoa.biz/` |
+| `http://flare-network-remote-dapps.pages.dev/` |
+| `https://bmg-vgesundheitsversorgung.ink/4DBfJ` |
+| `https://s.team-um.com/lp/sst-cgj/hqizmpev/` |
+| `https://zd.lc/q8tr9` |
+| `https://hensonracingengines.com/wp-content/uploads/2026/10/purchase-2-1.html?e=valik@60d59ecd663451b75ed131a2c6a8777089cb.net` |
+| `http://roblox.com.mu/communities/8596829885/quantum` |
+| `https://nodadaobgyn.github.io/QUOTATIONATTCHED/SMQuotation` |
+| `https://olazamani.github.io/webmailupdate/#renex9@208db1c998978de4584c54123f22c2289a84.net` |
 
 ---
 
