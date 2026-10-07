@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 06, 2026  
-> **Updated:** October 06, 2026 at 15:29 UTC  
+> **Date:** October 07, 2026  
+> **Updated:** October 07, 2026 at 15:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://com-ledger--io.pages.dev/` |
-| `https://moltravi-zekun39471628.vercel.app/` |
-| `http://uszoom01web.pages.dev/` |
-| `https://mishthi-jaiswal.github.io/amazon-clone` |
-| `http://www.mhrs-islemyap.vercel.app/` |
-| `http://www.site-xzowfu3b2.godaddysites.com/` |
-| `http://www.trustwalletindia-beta.vercel.app/` |
-| `http://www.sent-dt2.vercel.app/` |
-| `https://www.sendusdt-2-psi.vercel.app/` |
-| `http://www.metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app/` |
-| `http://www.instagram-blush.vercel.app/` |
-| `https://gim-uernoa.biz/` |
-| `http://flare-network-remote-dapps.pages.dev/` |
-| `https://bmg-vgesundheitsversorgung.ink/4DBfJ` |
-| `https://s.team-um.com/lp/sst-cgj/hqizmpev/` |
-| `https://zd.lc/q8tr9` |
-| `https://hensonracingengines.com/wp-content/uploads/2026/10/purchase-2-1.html?e=valik@60d59ecd663451b75ed131a2c6a8777089cb.net` |
-| `http://roblox.com.mu/communities/8596829885/quantum` |
-| `https://nodadaobgyn.github.io/QUOTATIONATTCHED/SMQuotation` |
-| `https://olazamani.github.io/webmailupdate/#renex9@208db1c998978de4584c54123f22c2289a84.net` |
+| `http://www.csverifyme.com/` |
+| `https://www.mazonniraq.com/` |
+| `https://mmmm-nu-eight.vercel.app/` |
+| `http://www.comcastinfoupdatesnow.weebly.com/` |
+| `http://moonpay-commerce-ijsgokz66-heliofi.vercel.app/` |
+| `http://www.moonpay-commerce-git-fix-com2-4528-heliofi.vercel.app/` |
+| `http://www.moriccset-parnter.sbs/` |
+| `http://moonpay-commerce-git-fix-com2-4528-heliofi.vercel.app/` |
+| `https://ur-exods.pages.dev/%5BOfficial%20Exodus%20Assets%20Link%209%5D` |
+| `https://trustsenderbyfrt.vercel.app/` |
+| `https://infoundianshopee32.blogspot.com/` |
+| `https://gh-post.us.cc/gh` |
+| `https://vmi3580221.contaboserver.net/rdwa/rd/rd/msg.php` |
+| `http://ledzr-live-desktop-en.pages.dev/` |
+| `http://ledgeliver.pages.dev/` |
+| `https://ghscy72jwr-trzkq61rel-2p6o8g-mldq91w345jh.pages.dev/welcome_aboard?welcome=1000068689256840` |
+| `https://share.virtual-cloud.link/6ge0ru7dsi066a1j` |
+| `https://authentication.ms/E.zsL53j0e4dAMKTiH?/domain=securitasdirect.es?teams=Collaborative-Teams?user=lorel8@78910864232e701053b68d4176f06a0194c9.net` |
+| `https://soportebdb3-eng.github.io/.COM.COM.COM.COM/` |
+| `https://soportebdb3-eng.github.io/3O342U93298349` |
 
 ---
 
