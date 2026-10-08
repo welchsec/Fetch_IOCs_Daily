@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 07, 2026  
-> **Updated:** October 07, 2026 at 15:49 UTC  
+> **Date:** October 08, 2026  
+> **Updated:** October 08, 2026 at 15:53 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.csverifyme.com/` |
-| `https://www.mazonniraq.com/` |
-| `https://mmmm-nu-eight.vercel.app/` |
-| `http://www.comcastinfoupdatesnow.weebly.com/` |
-| `http://moonpay-commerce-ijsgokz66-heliofi.vercel.app/` |
-| `http://www.moonpay-commerce-git-fix-com2-4528-heliofi.vercel.app/` |
-| `http://www.moriccset-parnter.sbs/` |
-| `http://moonpay-commerce-git-fix-com2-4528-heliofi.vercel.app/` |
-| `https://ur-exods.pages.dev/%5BOfficial%20Exodus%20Assets%20Link%209%5D` |
-| `https://trustsenderbyfrt.vercel.app/` |
-| `https://infoundianshopee32.blogspot.com/` |
-| `https://gh-post.us.cc/gh` |
-| `https://vmi3580221.contaboserver.net/rdwa/rd/rd/msg.php` |
-| `http://ledzr-live-desktop-en.pages.dev/` |
-| `http://ledgeliver.pages.dev/` |
-| `https://ghscy72jwr-trzkq61rel-2p6o8g-mldq91w345jh.pages.dev/welcome_aboard?welcome=1000068689256840` |
-| `https://share.virtual-cloud.link/6ge0ru7dsi066a1j` |
-| `https://authentication.ms/E.zsL53j0e4dAMKTiH?/domain=securitasdirect.es?teams=Collaborative-Teams?user=lorel8@78910864232e701053b68d4176f06a0194c9.net` |
-| `https://soportebdb3-eng.github.io/.COM.COM.COM.COM/` |
-| `https://soportebdb3-eng.github.io/3O342U93298349` |
+| `https://usps-email.com/` |
+| `http://trusted-connection-anchor-182fu9ada8.s3.eu-west-1.amazonaws.com/gbp40plrdgwf5icw9h3z.html` |
+| `https://office.biogeen.sbs/common/federation/oauth2msa` |
+| `http://inregisterworkshop.com/` |
+| `http://ebqprupn.biogeen.sbs/oauth20_authorize.srf?scope=openid%20profile%20email%20offline_access` |
+| `http://office.biogeen.sbs/?sso_reload=true` |
+| `http://office.biogeen.sbs/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca` |
+| `https://www.roblox.com.mu/users/4183958098/profile` |
+| `https://remarkable-raindrop-1126e5.netlify.app/` |
+| `https://kv-cont-blared.pages.dev/help/contact/317928204491396%252525252525252CN/A%252525252525252Chttps%252525252525253A/openphis/` |
+| `https://tiny-glade-dcab.jepevam133.workers.dev/ch` |
+| `https://tinyurl.com/75et7sxy` |
+| `https://j1has6zgife5b8jillo0.s3.amazonaws.com/d9yj4ll042bbpyuko_zrhkwhs8bxh6t4oy6brcafpgkwy4clw.html` |
+| `https://american-express-applications.vercel.app/` |
+| `http://www.paypal-signin.blogspot.com/` |
+| `https://zdkpt3bpzgo-wjsnglsi-5e6f2a-zdk66c.pages.dev/` |
+| `http://s3.us-east-2.amazonaws.com/landing-uzariways.com/westie.html` |
+| `http://tipinfodownload-soft2.com/` |
+| `http://opens-pageverify.com/` |
+| `http://focus-roblox.top/` |
 
 ---
 
