@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 08, 2026  
-> **Updated:** October 08, 2026 at 15:53 UTC  
+> **Date:** October 09, 2026  
+> **Updated:** October 09, 2026 at 15:35 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://usps-email.com/` |
-| `http://trusted-connection-anchor-182fu9ada8.s3.eu-west-1.amazonaws.com/gbp40plrdgwf5icw9h3z.html` |
-| `https://office.biogeen.sbs/common/federation/oauth2msa` |
-| `http://inregisterworkshop.com/` |
-| `http://ebqprupn.biogeen.sbs/oauth20_authorize.srf?scope=openid%20profile%20email%20offline_access` |
-| `http://office.biogeen.sbs/?sso_reload=true` |
-| `http://office.biogeen.sbs/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca` |
-| `https://www.roblox.com.mu/users/4183958098/profile` |
-| `https://remarkable-raindrop-1126e5.netlify.app/` |
-| `https://kv-cont-blared.pages.dev/help/contact/317928204491396%252525252525252CN/A%252525252525252Chttps%252525252525253A/openphis/` |
-| `https://tiny-glade-dcab.jepevam133.workers.dev/ch` |
-| `https://tinyurl.com/75et7sxy` |
-| `https://j1has6zgife5b8jillo0.s3.amazonaws.com/d9yj4ll042bbpyuko_zrhkwhs8bxh6t4oy6brcafpgkwy4clw.html` |
-| `https://american-express-applications.vercel.app/` |
-| `http://www.paypal-signin.blogspot.com/` |
-| `https://zdkpt3bpzgo-wjsnglsi-5e6f2a-zdk66c.pages.dev/` |
-| `http://s3.us-east-2.amazonaws.com/landing-uzariways.com/westie.html` |
-| `http://tipinfodownload-soft2.com/` |
-| `http://opens-pageverify.com/` |
-| `http://focus-roblox.top/` |
+| `https://feybnjuezzdd.jimdofree.com/` |
+| `https://ipgrussia.run/` |
+| `https://demspogo.com/d/page/login.php` |
+| `https://pay-network.vercel.app/` |
+| `http://paypall-login.blogspot.com/` |
+| `https://ep-il-0fasdbs0aijv-cwdjfcgzetgcgze0.z01.azurefd.net/` |
+| `https://avmtz7a.yourwebs.app/` |
+| `https://666coin.top/` |
+| `https://gabriellesveiga-cpu.github.io/Clone-Spotfy` |
+| `https://m.ag888.vip/chs/` |
+| `https://www.roblox.com.am/games/17625359962/RIVALS?privateServerLinkCode=886364872311613167924571272622` |
+| `https://dfgdh1.pages.dev/-/zh/gp/video/detail/B0CTXRFD44/ref=atv_dp_amz_c_TS8274d9_1_2?jic=16%7CCgNhbGwSA2FsbA==/` |
+| `https://135461223.site/sv/1780/27707926091233386-15632590489119/761274/x` |
+| `https://135461223.site/sv/1780/27707926091233386-15632590489119/761274` |
+| `https://zaynkhan11.github.io/NETFLIX-CLONE` |
+| `https://xurqavo-mpt-zelqani-k7x4pe95.pages.dev/` |
+| `https://sawyer-cloud.github.io/Spotify` |
+| `https://scnv.io/XlYz` |
+| `https://si131514.github.io/website` |
+| `http://www.roblox.com.ml/users/389278381342/profile` |
 
 ---
 
