@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 09, 2026  
-> **Updated:** October 09, 2026 at 15:35 UTC  
+> **Date:** October 10, 2026  
+> **Updated:** October 10, 2026 at 14:49 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://feybnjuezzdd.jimdofree.com/` |
-| `https://ipgrussia.run/` |
-| `https://demspogo.com/d/page/login.php` |
-| `https://pay-network.vercel.app/` |
-| `http://paypall-login.blogspot.com/` |
-| `https://ep-il-0fasdbs0aijv-cwdjfcgzetgcgze0.z01.azurefd.net/` |
-| `https://avmtz7a.yourwebs.app/` |
-| `https://666coin.top/` |
-| `https://gabriellesveiga-cpu.github.io/Clone-Spotfy` |
-| `https://m.ag888.vip/chs/` |
-| `https://www.roblox.com.am/games/17625359962/RIVALS?privateServerLinkCode=886364872311613167924571272622` |
-| `https://dfgdh1.pages.dev/-/zh/gp/video/detail/B0CTXRFD44/ref=atv_dp_amz_c_TS8274d9_1_2?jic=16%7CCgNhbGwSA2FsbA==/` |
-| `https://135461223.site/sv/1780/27707926091233386-15632590489119/761274/x` |
-| `https://135461223.site/sv/1780/27707926091233386-15632590489119/761274` |
-| `https://zaynkhan11.github.io/NETFLIX-CLONE` |
-| `https://xurqavo-mpt-zelqani-k7x4pe95.pages.dev/` |
-| `https://sawyer-cloud.github.io/Spotify` |
-| `https://scnv.io/XlYz` |
-| `https://si131514.github.io/website` |
-| `http://www.roblox.com.ml/users/389278381342/profile` |
+| `https://trezorio-xearn.gitbook.io/` |
+| `https://f003.backblazeb2.com/file/tiackz/index.html` |
+| `http://uf1k29.s.gy/NYl7df/` |
+| `https://magadodia.site/produto/8677728` |
+| `http://web-iostrt-trezr-cloud.framer.ai/` |
+| `https://ofertadodiamaga-copia-06.vercel.app/` |
+| `https://ofertadodiamaga-copia-09.vercel.app/` |
+| `http://treazur-suit.pages.dev/` |
+| `http://www.wfq92.vercel.app/` |
+| `http://tart-faq-en--trezr.typedream.app/` |
+| `http://crpcm-ncdk.shoua3.workers.dev/` |
+| `http://ficofacil.com/` |
+| `https://kp2dhlbthocs4k54oaijdta4twjbglazw5duuwrxllc7zqzeqfmq.ar-io.dev/U_QzrDM7hS4rvHAQkcwcnZITLBm3R0paN1rF_MMkgVk?content=v2.eyJ2IjoyLCJzIjoiMFh2ZWtNYU1JOGxmQWpEM0FCMm90SWdlMy0yejJDQmZVc2J0UGNGeWtwayJ9.2EhUbva_Ncj24kJLD6NGXKEJUL1Y8hKsrf-ZHZ-fgOY&shell=U_QzrDM7hS4rvHAQkcwcnZITLBm3R0paN1rF_MMkgVk` |
+| `https://z1me4.shop/` |
+| `http://mfacebooks.vn/8kw2dgypb1d?a&l` |
+| `https://rbcode.net/v/1c57f029ad7e6a43c26a2664c9808c20` |
+| `http://www.3636534381.com/` |
+| `https://home-ledger-cloudkit-probe-20261003.pages.dev/` |
+| `http://pencilmediagrow.com/` |
+| `https://amazon.shopping-shop.jp/` |
 
 ---
 
