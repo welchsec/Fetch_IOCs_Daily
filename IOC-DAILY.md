@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 11, 2026  
-> **Updated:** October 11, 2026 at 15:08 UTC  
+> **Date:** October 12, 2026  
+> **Updated:** October 12, 2026 at 18:15 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://clickblitz22.shop/` |
-| `https://www.roblox.com.mu/users/1558532921/profile` |
-| `https://mfacebook.com.vn/kfpw6ogvhx9?xNK&Qup` |
-| `https://rbcode.net/v/271d9243d604619fd8547fbfc3a75f03` |
-| `https://ledger-live-desktop-app-asc.pages.dev/` |
-| `https://www.netflixcol.vercel.app/` |
-| `https://login-metemask-io.pages.dev/` |
-| `http://it-corp.netlify.app/` |
-| `https://account067.help/` |
-| `https://www.roblox.ly/games/2753915549/Blox-Fruits?privateServerLinkCode=28914655605816326915498691999307` |
-| `http://www.roblox.ly/users/770253869/profile/` |
-| `https://quickparcel.pages.dev/` |
-| `https://bpe.co.th/mail/` |
-| `http://bpe.co.th/` |
-| `http://sp12ct-fordik-biz-zansel-kemvor.pages.dev/` |
-| `https://theccguuy-delivery.netlify.app/` |
-| `https://tinyurl.com/4ehd3jyu` |
-| `https://sukonakoies-efeugghcfte8hvat.westeurope-01.azurewebsites.net/` |
-| `https://www.wbdrcw.com/` |
-| `http://uspss.pages.dev/entreg/LoginAction_input%25252CN/A%25252Chttps%25253A/international/index.html` |
+| `http://ig-larpcentral.vercel.app/` |
+| `https://thr-shopee933.blogspot.com/` |
+| `https://shopee-jkt1777.blogspot.com/` |
+| `https://uphold-apps-lusg.webflow.io/` |
+| `https://track-93s.pages.dev/` |
+| `https://dpq89.vercel.app/` |
+| `https://tiny-heliotrope-f10a19.netlify.app/` |
+| `http://products.rmidlandco.com/v2/auth-0?09242026=f09057c8-d75b-4233-95b1-016e40817513` |
+| `https://instagram-clone-psi-one.vercel.app/` |
+| `http://statement-of-account-alpha.vercel.app/` |
+| `http://tunishopia.tn/1` |
+| `https://f003.backblazeb2.com/file/turdox/index.html` |
+| `https://did.li/nlKmC` |
+| `https://spotify-clone-eight-lime.vercel.app/` |
+| `https://www.netflix-colombia.vercel.app/` |
+| `https://www.roblox.com.mu/communities/4759116270/Mystique` |
+| `https://cc952199.tw1.ru/` |
+| `http://sso-up-hold-login-faq.square.site/` |
+| `https://www.roblox.com.mu/users/9257326500/profile` |
+| `https://mokt10418-rgb.github.io/booyah/` |
 
 ---
 
