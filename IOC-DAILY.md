@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 12, 2026  
-> **Updated:** October 12, 2026 at 18:15 UTC  
+> **Date:** October 13, 2026  
+> **Updated:** October 13, 2026 at 16:29 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://ig-larpcentral.vercel.app/` |
-| `https://thr-shopee933.blogspot.com/` |
-| `https://shopee-jkt1777.blogspot.com/` |
-| `https://uphold-apps-lusg.webflow.io/` |
-| `https://track-93s.pages.dev/` |
-| `https://dpq89.vercel.app/` |
-| `https://tiny-heliotrope-f10a19.netlify.app/` |
-| `http://products.rmidlandco.com/v2/auth-0?09242026=f09057c8-d75b-4233-95b1-016e40817513` |
-| `https://instagram-clone-psi-one.vercel.app/` |
-| `http://statement-of-account-alpha.vercel.app/` |
-| `http://tunishopia.tn/1` |
-| `https://f003.backblazeb2.com/file/turdox/index.html` |
-| `https://did.li/nlKmC` |
-| `https://spotify-clone-eight-lime.vercel.app/` |
-| `https://www.netflix-colombia.vercel.app/` |
-| `https://www.roblox.com.mu/communities/4759116270/Mystique` |
-| `https://cc952199.tw1.ru/` |
-| `http://sso-up-hold-login-faq.square.site/` |
-| `https://www.roblox.com.mu/users/9257326500/profile` |
-| `https://mokt10418-rgb.github.io/booyah/` |
+| `https://newapprovedstatementcloud.netlify.app/` |
+| `https://tinyurl.com/NewApprovedStatement` |
+| `http://loginservice.cloud/E.H7cEdefIXyc?/link?url=d42cf86bz535433d4918f6725dca3821r_348756293` |
+| `https://minas-g5e9b3fdgtgcdhea.canadacentral-01.azurewebsites.net/sign-in` |
+| `http://minas-g5e9b3fdgtgcdhea.canadacentral-01.azurewebsites.net/` |
+| `http://netflix-cop.vercel.app/` |
+| `https://net16ct-rav-biz-noku-tefi.pages.dev/` |
+| `http://netflixgpt-react.vercel.app/` |
+| `https://rbcode.net/v/e6c8341183a97116cea4bd02c93634f0` |
+| `http://aar-direct.com/` |
+| `https://coda-moba-id.ezzzyy.de/` |
+| `https://www.jj-facebook.blogspot.com/` |
+| `https://jj-facebook.blogspot.com/` |
+| `http://american-expiess.vip/de` |
+| `https://xfinitymail01.weebly.com/` |
+| `https://tdkesd.weebly.com/` |
+| `http://facebook-sage-tau.vercel.app/` |
+| `https://v0-mail-spectrum.vercel.app/` |
+| `https://instagram-new-version.vercel.app/` |
+| `http://dravuni-kxt-qelquro-r6t8fc15.pages.dev/` |
 
 ---
 
