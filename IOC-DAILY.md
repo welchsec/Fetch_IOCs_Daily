@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 13, 2026  
-> **Updated:** October 13, 2026 at 16:29 UTC  
+> **Date:** October 14, 2026  
+> **Updated:** October 14, 2026 at 14:05 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://newapprovedstatementcloud.netlify.app/` |
-| `https://tinyurl.com/NewApprovedStatement` |
-| `http://loginservice.cloud/E.H7cEdefIXyc?/link?url=d42cf86bz535433d4918f6725dca3821r_348756293` |
-| `https://minas-g5e9b3fdgtgcdhea.canadacentral-01.azurewebsites.net/sign-in` |
-| `http://minas-g5e9b3fdgtgcdhea.canadacentral-01.azurewebsites.net/` |
-| `http://netflix-cop.vercel.app/` |
-| `https://net16ct-rav-biz-noku-tefi.pages.dev/` |
-| `http://netflixgpt-react.vercel.app/` |
-| `https://rbcode.net/v/e6c8341183a97116cea4bd02c93634f0` |
-| `http://aar-direct.com/` |
-| `https://coda-moba-id.ezzzyy.de/` |
-| `https://www.jj-facebook.blogspot.com/` |
-| `https://jj-facebook.blogspot.com/` |
-| `http://american-expiess.vip/de` |
-| `https://xfinitymail01.weebly.com/` |
-| `https://tdkesd.weebly.com/` |
-| `http://facebook-sage-tau.vercel.app/` |
-| `https://v0-mail-spectrum.vercel.app/` |
-| `https://instagram-new-version.vercel.app/` |
-| `http://dravuni-kxt-qelquro-r6t8fc15.pages.dev/` |
+| `https://facebook.tamil.bid/` |
+| `https://tokenimx-cdn-edge-hk07.club/` |
+| `http://qenfelo-mpt-vuzqari-k6x4pe91.pages.dev/` |
+| `http://zunquri-mpt-vafqelo-k4x7pe81.pages.dev/` |
+| `https://sp21ct-kemvi-biz-ranu-pelo.pages.dev/` |
+| `http://raqfuro-mpt-zelqani-h7d9ka64.pages.dev/` |
+| `https://offiical-s-exous.pages.dev/` |
+| `http://sp1ct10-hurrek-biz-rumzo-vemti-wuy.pages.dev/` |
+| `https://22cu0i-20zkk-7s8-i96d9n-w9z.pages.dev/` |
+| `https://sp21ct-varek-biz-nimu-kelo.pages.dev/` |
+| `http://oficals--exous.pages.dev/` |
+| `https://sp15ct-raveli-biz-funox-zelar.pages.dev/` |
+| `https://hpacs-0vm-jn71-vsdv4-13-10-2026-aa.pages.dev/` |
+| `http://marnufi-mpt-zelqavo-h8d3ka65.pages.dev/` |
+| `http://f2bshgrrwj.vercel.app/` |
+| `http://sp1ct10-bunrek-biz-lumqo-varti.pages.dev/` |
+| `http://sp21ct-rivem-biz-naku-zelo.pages.dev/` |
+| `https://cuif1-21r-eapm-60kkc-13-10-2026-aa.pages.dev/` |
+| `https://xwfd-gzb3b-dhwsnh-0vy6-sqg.pages.dev/` |
+| `http://sp33ct-mavelo-biz-zunaro-faneki.pages.dev/` |
 
 ---
 
