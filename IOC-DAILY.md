@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 14, 2026  
-> **Updated:** October 14, 2026 at 14:05 UTC  
+> **Date:** October 15, 2026  
+> **Updated:** October 15, 2026 at 13:43 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://facebook.tamil.bid/` |
-| `https://tokenimx-cdn-edge-hk07.club/` |
-| `http://qenfelo-mpt-vuzqari-k6x4pe91.pages.dev/` |
-| `http://zunquri-mpt-vafqelo-k4x7pe81.pages.dev/` |
-| `https://sp21ct-kemvi-biz-ranu-pelo.pages.dev/` |
-| `http://raqfuro-mpt-zelqani-h7d9ka64.pages.dev/` |
-| `https://offiical-s-exous.pages.dev/` |
-| `http://sp1ct10-hurrek-biz-rumzo-vemti-wuy.pages.dev/` |
-| `https://22cu0i-20zkk-7s8-i96d9n-w9z.pages.dev/` |
-| `https://sp21ct-varek-biz-nimu-kelo.pages.dev/` |
-| `http://oficals--exous.pages.dev/` |
-| `https://sp15ct-raveli-biz-funox-zelar.pages.dev/` |
-| `https://hpacs-0vm-jn71-vsdv4-13-10-2026-aa.pages.dev/` |
-| `http://marnufi-mpt-zelqavo-h8d3ka65.pages.dev/` |
-| `http://f2bshgrrwj.vercel.app/` |
-| `http://sp1ct10-bunrek-biz-lumqo-varti.pages.dev/` |
-| `http://sp21ct-rivem-biz-naku-zelo.pages.dev/` |
-| `https://cuif1-21r-eapm-60kkc-13-10-2026-aa.pages.dev/` |
-| `https://xwfd-gzb3b-dhwsnh-0vy6-sqg.pages.dev/` |
-| `http://sp33ct-mavelo-biz-zunaro-faneki.pages.dev/` |
+| `http://sp22ct-zarur-biz-loru-kemu.pages.dev/` |
+| `https://sp33ct-fenaru-biz-kelovi-maneto.pages.dev/` |
+| `https://buzqari-mpt-felvuno-p4d9ka86.pages.dev/` |
+| `http://mt1xv-55n-xil2-hbkcy-30-09-2026-hh.pages.dev/` |
+| `http://sp22ct-vemak-biz-keli-pazu.pages.dev/` |
+| `https://sp18ct10-bavlek-biz-vunero.pages.dev/` |
+| `https://lerveta-kxt-borvani-r5t9dp71.pages.dev/` |
+| `http://sp18ct10-murlek-biz-qanavi.pages.dev/` |
+| `https://sp22ct-nelok-biz-kavi-zaru-e8p.pages.dev/` |
+| `https://sp22ct-nemik-biz-kavi-zaru-1ub.pages.dev/` |
+| `http://5gb69-aba-yg7j-o1f39-30-09-2026-hh.pages.dev/` |
+| `http://xelquro-kxt-zervani-r2t8dw94.pages.dev/` |
+| `https://norveta-kxt-zenlavi-c3x9dw52.pages.dev/` |
+| `http://sp22ct-noriv-biz-maku-zeli.pages.dev/` |
+| `http://sp1ct10-furrek-biz-lumqo-vemri.pages.dev/` |
+| `http://8iu3-0ti-1v4pz-hy26r6-e2ub.pages.dev/` |
+| `http://sp22ct-kemav-biz-zori-lenu-3bk.pages.dev/` |
+| `http://sp18ct10-yurnek-biz-zavelo.pages.dev/` |
+| `http://lhjnd34wtr-cvqgs82ykt-8h3f1g-pf492d.pages.dev/` |
+| `https://sp18ct10-burnak-biz-vemiro.pages.dev/` |
 
 ---
 
