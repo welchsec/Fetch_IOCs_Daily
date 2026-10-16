@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 15, 2026  
-> **Updated:** October 15, 2026 at 13:43 UTC  
+> **Date:** October 16, 2026  
+> **Updated:** October 16, 2026 at 13:33 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://sp22ct-zarur-biz-loru-kemu.pages.dev/` |
-| `https://sp33ct-fenaru-biz-kelovi-maneto.pages.dev/` |
-| `https://buzqari-mpt-felvuno-p4d9ka86.pages.dev/` |
-| `http://mt1xv-55n-xil2-hbkcy-30-09-2026-hh.pages.dev/` |
-| `http://sp22ct-vemak-biz-keli-pazu.pages.dev/` |
-| `https://sp18ct10-bavlek-biz-vunero.pages.dev/` |
-| `https://lerveta-kxt-borvani-r5t9dp71.pages.dev/` |
-| `http://sp18ct10-murlek-biz-qanavi.pages.dev/` |
-| `https://sp22ct-nelok-biz-kavi-zaru-e8p.pages.dev/` |
-| `https://sp22ct-nemik-biz-kavi-zaru-1ub.pages.dev/` |
-| `http://5gb69-aba-yg7j-o1f39-30-09-2026-hh.pages.dev/` |
-| `http://xelquro-kxt-zervani-r2t8dw94.pages.dev/` |
-| `https://norveta-kxt-zenlavi-c3x9dw52.pages.dev/` |
-| `http://sp22ct-noriv-biz-maku-zeli.pages.dev/` |
-| `http://sp1ct10-furrek-biz-lumqo-vemri.pages.dev/` |
-| `http://8iu3-0ti-1v4pz-hy26r6-e2ub.pages.dev/` |
-| `http://sp22ct-kemav-biz-zori-lenu-3bk.pages.dev/` |
-| `http://sp18ct10-yurnek-biz-zavelo.pages.dev/` |
-| `http://lhjnd34wtr-cvqgs82ykt-8h3f1g-pf492d.pages.dev/` |
-| `https://sp18ct10-burnak-biz-vemiro.pages.dev/` |
+| `http://help-contact-757643.vercel.app/` |
+| `http://vajrapu-rutvika.github.io/netflix-ui-clone` |
+| `http://info-resmiid.blogspot.com/` |
+| `https://f005.backblazeb2.com/file/jugueh/SignintoXfinity.html` |
+| `https://f005.backblazeb2.com/file/Xfinitytvconnect/SignintoXfinity.html` |
+| `https://ttyfsdt.jimdofree.com/` |
+| `http://cpsgift.com/blog` |
+| `https://tokennim-cdn24-hk01.club/` |
+| `http://security-server-landing-page--009wq.replit.app/` |
+| `https://itrvvstcapital-login.gitbook.io/` |
+| `https://ywrfow.com/` |
+| `https://giftcode-10fest.iienquan-garena.com/e7b5ba3068cb2bce83d15e572dbe3c51FB` |
+| `https://rishavlearner.github.io/amazon-clone` |
+| `http://usepoints05.ink/JrNka` |
+| `https://qv7xmk29rwp4zn8ty6fd3h5c1j0a9b2x8k4.vercel.app/` |
+| `https://a-oferta-do-dia-magal.vercel.app/` |
+| `https://site-w12spekph.godaddysites.com/` |
+| `https://site-x92aq684q.godaddysites.com/` |
+| `http://whatsapp.laptopsupdate.com/` |
+| `https://www.mtoken.help/` |
 
 ---
 
