@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 16, 2026  
-> **Updated:** October 16, 2026 at 13:33 UTC  
+> **Date:** October 17, 2026  
+> **Updated:** October 17, 2026 at 12:29 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://help-contact-757643.vercel.app/` |
-| `http://vajrapu-rutvika.github.io/netflix-ui-clone` |
-| `http://info-resmiid.blogspot.com/` |
-| `https://f005.backblazeb2.com/file/jugueh/SignintoXfinity.html` |
-| `https://f005.backblazeb2.com/file/Xfinitytvconnect/SignintoXfinity.html` |
-| `https://ttyfsdt.jimdofree.com/` |
-| `http://cpsgift.com/blog` |
-| `https://tokennim-cdn24-hk01.club/` |
-| `http://security-server-landing-page--009wq.replit.app/` |
-| `https://itrvvstcapital-login.gitbook.io/` |
-| `https://ywrfow.com/` |
-| `https://giftcode-10fest.iienquan-garena.com/e7b5ba3068cb2bce83d15e572dbe3c51FB` |
-| `https://rishavlearner.github.io/amazon-clone` |
-| `http://usepoints05.ink/JrNka` |
-| `https://qv7xmk29rwp4zn8ty6fd3h5c1j0a9b2x8k4.vercel.app/` |
-| `https://a-oferta-do-dia-magal.vercel.app/` |
-| `https://site-w12spekph.godaddysites.com/` |
-| `https://site-x92aq684q.godaddysites.com/` |
-| `http://whatsapp.laptopsupdate.com/` |
-| `https://www.mtoken.help/` |
+| `http://netflix-clone-gamma.vercel.app/` |
+| `https://rbcode.net/v/1ad1bbb204af65886dc43daa49cdcf19` |
+| `https://s4w.in/roblox-com-games-2753915549-Blox-FruitsprivateServerLinkCode=15587938948810815525436529481543` |
+| `http://nutflixcnm.netlify.app/` |
+| `http://iphone-tracked.us/a.php` |
+| `https://find-mydevice-cloud.us/a.php` |
+| `https://fcid-loginfindmy-phone.us/a.php` |
+| `http://meinknd-rechnung.de/account.htm` |
+| `https://metavrfmextenson.gitbook.io/` |
+| `http://co-conect-ledger-live-wallet.typedream.app/` |
+| `https://fcid-findmy-phonelost.us/a.php` |
+| `https://maga-zine-luiza.com/checkout` |
+| `http://usepoints01.ink/KpRta` |
+| `http://col-iloggincloud.us/a.php` |
+| `http://testbooking-cbz.pages.dev/` |
+| `https://sendusdt-usd.vercel.app/` |
+| `https://flndmy-support-fml.us/a.php` |
+| `http://www.shopeetbk988.blogspot.com/` |
+| `http://ledger-live-donload-web.typedream.app/` |
+| `https://meine-app.login-utilizator.de/pw/home/` |
 
 ---
 
