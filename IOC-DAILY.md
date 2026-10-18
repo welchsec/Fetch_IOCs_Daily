@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 17, 2026  
-> **Updated:** October 17, 2026 at 12:29 UTC  
+> **Date:** October 18, 2026  
+> **Updated:** October 18, 2026 at 12:48 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://netflix-clone-gamma.vercel.app/` |
-| `https://rbcode.net/v/1ad1bbb204af65886dc43daa49cdcf19` |
-| `https://s4w.in/roblox-com-games-2753915549-Blox-FruitsprivateServerLinkCode=15587938948810815525436529481543` |
-| `http://nutflixcnm.netlify.app/` |
-| `http://iphone-tracked.us/a.php` |
-| `https://find-mydevice-cloud.us/a.php` |
-| `https://fcid-loginfindmy-phone.us/a.php` |
-| `http://meinknd-rechnung.de/account.htm` |
-| `https://metavrfmextenson.gitbook.io/` |
-| `http://co-conect-ledger-live-wallet.typedream.app/` |
-| `https://fcid-findmy-phonelost.us/a.php` |
-| `https://maga-zine-luiza.com/checkout` |
-| `http://usepoints01.ink/KpRta` |
-| `http://col-iloggincloud.us/a.php` |
-| `http://testbooking-cbz.pages.dev/` |
-| `https://sendusdt-usd.vercel.app/` |
-| `https://flndmy-support-fml.us/a.php` |
-| `http://www.shopeetbk988.blogspot.com/` |
-| `http://ledger-live-donload-web.typedream.app/` |
-| `https://meine-app.login-utilizator.de/pw/home/` |
+| `http://www.roblox.ly/users/1036952856/profile` |
+| `http://digitley-dhl.azurewebsites.net/login` |
+| `https://www.roblox.com.ml/games/9872472334/HLWN-Evade?privateServerLinkCode=384328757637766641742433182819` |
+| `https://tiktokvip.cyou/` |
+| `http://rss2.sayler.at/go/z2b4u2/z274y274` |
+| `http://worker-shy-leaf-da6e.njperk308.workers.dev/` |
+| `http://qerqumi-kxt-belfavi-p8t1hk53.pages.dev/` |
+| `https://www.roblox.com.am/users/296446714432/profile` |
+| `https://sp24ct-rumi-biz-kelak-zati.pages.dev/` |
+| `https://clktp0b58pz-kphzwlsi-4f9g1b-clk20c.pages.dev/` |
+| `http://vormita-kxt-felquro-r2t7dw84.pages.dev/` |
+| `http://dgq01-tcxzfw-oa1tna-57w-2r1ys.pages.dev/` |
+| `http://sp18ct10-yurvak-biz-luremi-bka.pages.dev/` |
+| `http://ghag-q6in-30i-uty8b-i8fi3.pages.dev/` |
+| `http://nyh-d6o-lnws-mhqj79-xf8nh.pages.dev/` |
+| `https://yhk2-scuy4-a6owg1-lfx4ni.pages.dev/` |
+| `http://sp20ct10-norlevo-biz-kumati.pages.dev/` |
+| `http://ptm-6tyn-3r4qf-ranm-yqzp.pages.dev/` |
+| `https://qynf-ytf-9ses94-66o0ts-x3cgb.pages.dev/` |
+| `https://www.roblox.ly/users/7973397685/profile` |
 
 ---
 
