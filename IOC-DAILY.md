@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 18, 2026  
-> **Updated:** October 18, 2026 at 12:48 UTC  
+> **Date:** October 19, 2026  
+> **Updated:** October 19, 2026 at 15:54 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.roblox.ly/users/1036952856/profile` |
-| `http://digitley-dhl.azurewebsites.net/login` |
-| `https://www.roblox.com.ml/games/9872472334/HLWN-Evade?privateServerLinkCode=384328757637766641742433182819` |
-| `https://tiktokvip.cyou/` |
-| `http://rss2.sayler.at/go/z2b4u2/z274y274` |
-| `http://worker-shy-leaf-da6e.njperk308.workers.dev/` |
-| `http://qerqumi-kxt-belfavi-p8t1hk53.pages.dev/` |
-| `https://www.roblox.com.am/users/296446714432/profile` |
-| `https://sp24ct-rumi-biz-kelak-zati.pages.dev/` |
-| `https://clktp0b58pz-kphzwlsi-4f9g1b-clk20c.pages.dev/` |
-| `http://vormita-kxt-felquro-r2t7dw84.pages.dev/` |
-| `http://dgq01-tcxzfw-oa1tna-57w-2r1ys.pages.dev/` |
-| `http://sp18ct10-yurvak-biz-luremi-bka.pages.dev/` |
-| `http://ghag-q6in-30i-uty8b-i8fi3.pages.dev/` |
-| `http://nyh-d6o-lnws-mhqj79-xf8nh.pages.dev/` |
-| `https://yhk2-scuy4-a6owg1-lfx4ni.pages.dev/` |
-| `http://sp20ct10-norlevo-biz-kumati.pages.dev/` |
-| `http://ptm-6tyn-3r4qf-ranm-yqzp.pages.dev/` |
-| `https://qynf-ytf-9ses94-66o0ts-x3cgb.pages.dev/` |
-| `https://www.roblox.ly/users/7973397685/profile` |
+| `http://xunqelo-mpt-favzari-h4d8me63.pages.dev/` |
+| `http://sp23ct-ravem-biz-zulok-pelun.pages.dev/` |
+| `http://zunqari-mpt-xavfelo-h6d4pe82.pages.dev/` |
+| `https://www.webulpob.com/` |
+| `https://io-bridge-terzor.pineapple.page/` |
+| `http://sergio738-updates-donmsg.mdbgo.io/` |
+| `https://abcgil.com/EN/owa/` |
+| `https://flnd-my-report-ld.com/a.php` |
+| `https://lphone-localizar-apagado.us/a.php` |
+| `http://uzflix.netlify.app/` |
+| `http://bermora-kxt-zerveta-p1t6hc28.pages.dev/` |
+| `https://cont17ct-rumari-biz-tavel-nopra.pages.dev/` |
+| `http://myktr41dzk-nlgjh84rtv-7n0i1g-bcf17p.pages.dev/` |
+| `https://cont17ct-remuni-biz-pavok-lenra.pages.dev/` |
+| `http://bpkcu-m1ymo-ciuuwq-hj704.pages.dev/` |
+| `https://sp24ct-vuro-biz-kelun-fami.pages.dev/` |
+| `https://wxqwg-hu3-6kx4-spi7i-04-10-2026-aa.pages.dev/` |
+| `http://cont17ct-kirevo-biz-vunam-selri.pages.dev/` |
+| `https://sp18ct10-harnok-biz-zavumi.pages.dev/` |
+| `http://sp3ct-zelqem-biz8-marnik-rusad.pages.dev/` |
 
 ---
 
