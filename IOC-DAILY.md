@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 22, 2026  
-> **Updated:** October 22, 2026 at 14:07 UTC  
+> **Date:** October 23, 2026  
+> **Updated:** October 23, 2026 at 13:51 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://my-top-juno-webmail-site.webflow.io/` |
-| `https://g5.lu/tyc4k` |
-| `http://bridge-browser.framer.website/` |
-| `http://new-indexproject.vercel.app/` |
-| `https://sp25ct-zunelo-biz-mareku-vorik.pages.dev/` |
-| `https://sp28ct-gazur-biz-zemav-vitek.pages.dev/` |
-| `https://zktp25c80sk-mvrn8wur-1r6p8d-yw611a.pages.dev/` |
-| `http://trezorbridge.framer.website/` |
-| `http://sp28ct-farel-biz-vumel-zitek.pages.dev/` |
-| `https://marlavi-kxt-belfeta-c5x7dp83.pages.dev/` |
-| `http://vnxld71dran-ylktp55lpw-1m3k8d-qj2294m.pages.dev/` |
-| `https://qbxj552skrp-ywsd7yw-3p6p0e-qbx99c.pages.dev/` |
-| `https://zktp28fdran-ywsd7lpw-1n4l6d-yw288a.pages.dev/` |
-| `https://sp18ct10-wulvak-biz-qenari.pages.dev/` |
-| `https://sp26ct-zumki-biz-rulen-mavko.pages.dev/` |
-| `https://qbxj52b68dr-ywsd7pli-3n4l8g-qbx29c.pages.dev/` |
-| `http://sp28ct-gunem-biz-zorel-ranek.pages.dev/` |
-| `http://qbxj54avstr-hlgf4mja-3q2p4g-qbx03c.pages.dev/` |
-| `https://mvrn8625nhw-hlgf4fyn-5q0p2g-zk166a.pages.dev/` |
-| `http://ql3e20-jmpl91-61tvz-re4o8.pages.dev/` |
+| `https://www.in-patrika.vercel.app/` |
+| `https://amiable-someone-703260.framer.app/` |
+| `https://9ervp-qmf-k9yx8-d15udr-omxlc.pages.dev/` |
+| `http://sp28ct-gurem-biz-qazel-zotek.pages.dev/` |
+| `https://hopeful-package-333853.framer.app/` |
+| `http://sp30ct10-zulreko-biz-kuremi.pages.dev/` |
+| `http://653-f66w-ecv-90xi-rp3ec-ev79.pages.dev/` |
+| `http://amt-hbegzz-vl70jk-gbb-y48ck.pages.dev/` |
+| `https://gcc-7f9acq-ppx1t-efke-945.pages.dev/` |
+| `https://sp30ct10-ravkilo-biz-zumeti.pages.dev/` |
+| `http://du8d-0fiet-c1s5-8qwt5-r1f.pages.dev/` |
+| `https://sp30ct10-rumvemi-biz-zakaro.pages.dev/` |
+| `http://qlq3f-9pwx8-xv2-621ljm-5b49o.pages.dev/` |
+| `http://sp30ct10-varkilo-biz-kumaro.pages.dev/` |
+| `http://sp30ct10-kavzuni-biz-munelo.pages.dev/` |
+| `https://68v-sr5v7-tjp9z-6t99-cy1.pages.dev/` |
+| `https://sp30ct10-varkilo-biz-kuneti.pages.dev/` |
+| `https://sp29ct-vemru-biz-felti-korak.pages.dev/` |
+| `http://sp20ct10-davleko-biz-zunima.pages.dev/` |
+| `http://sp30ct10-zulvemi-biz-zaneti.pages.dev/` |
 
 ---
 
