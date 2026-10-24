@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 23, 2026  
-> **Updated:** October 23, 2026 at 13:51 UTC  
+> **Date:** October 24, 2026  
+> **Updated:** October 24, 2026 at 12:57 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.in-patrika.vercel.app/` |
-| `https://amiable-someone-703260.framer.app/` |
-| `https://9ervp-qmf-k9yx8-d15udr-omxlc.pages.dev/` |
-| `http://sp28ct-gurem-biz-qazel-zotek.pages.dev/` |
-| `https://hopeful-package-333853.framer.app/` |
-| `http://sp30ct10-zulreko-biz-kuremi.pages.dev/` |
-| `http://653-f66w-ecv-90xi-rp3ec-ev79.pages.dev/` |
-| `http://amt-hbegzz-vl70jk-gbb-y48ck.pages.dev/` |
-| `https://gcc-7f9acq-ppx1t-efke-945.pages.dev/` |
-| `https://sp30ct10-ravkilo-biz-zumeti.pages.dev/` |
-| `http://du8d-0fiet-c1s5-8qwt5-r1f.pages.dev/` |
-| `https://sp30ct10-rumvemi-biz-zakaro.pages.dev/` |
-| `http://qlq3f-9pwx8-xv2-621ljm-5b49o.pages.dev/` |
-| `http://sp30ct10-varkilo-biz-kumaro.pages.dev/` |
-| `http://sp30ct10-kavzuni-biz-munelo.pages.dev/` |
-| `https://68v-sr5v7-tjp9z-6t99-cy1.pages.dev/` |
-| `https://sp30ct10-varkilo-biz-kuneti.pages.dev/` |
-| `https://sp29ct-vemru-biz-felti-korak.pages.dev/` |
-| `http://sp20ct10-davleko-biz-zunima.pages.dev/` |
-| `http://sp30ct10-zulvemi-biz-zaneti.pages.dev/` |
+| `http://www.indesx-mauve.vercel.app/` |
+| `http://bellsouth-att-sign-in-99dd87.webflow.io/` |
+| `https://instagram.82.165.110.7.backname.io/accounts/login/` |
+| `https://lnstagrarn-reel-paoa2oajo.vercel.app/` |
+| `https://instagram.82.165.110.7.backname.io/` |
+| `http://sp26ct10-zanvako-biz-rumeli.pages.dev/` |
+| `http://caphaibuvoice.vercel.app/` |
+| `http://tevxorin-lak294816573.vercel.app/` |
+| `https://giveshopee889.blogspot.com/` |
+| `https://bluecheckservices-gold.vercel.app/privacy-centers.html` |
+| `https://azogue.org/index1.html?eta=administracion@naturinda.com` |
+| `https://tokanlm-cdn12-hk12.autos/` |
+| `https://s4w.in/https-roblox-com-users-4468694066profile` |
+| `https://www.roblox.com.et/users/1382998579/profile` |
+| `https://caphaibuvoice.vercel.app/index1.html` |
+| `https://d33wubrfki0l68.cloudfront.net/a24ce9fe-3a25-440e-923c-70c96b668dc8/dhl123.html` |
+| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/developer-tools/dashboard/` |
+| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/smart-accounts-kit/` |
+| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/embedded-wallets/sdk/node` |
+| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/metamask-connect/evm` |
 
 ---
 
