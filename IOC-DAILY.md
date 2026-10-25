@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 24, 2026  
-> **Updated:** October 24, 2026 at 12:57 UTC  
+> **Date:** October 25, 2026  
+> **Updated:** October 25, 2026 at 13:23 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.indesx-mauve.vercel.app/` |
-| `http://bellsouth-att-sign-in-99dd87.webflow.io/` |
-| `https://instagram.82.165.110.7.backname.io/accounts/login/` |
-| `https://lnstagrarn-reel-paoa2oajo.vercel.app/` |
-| `https://instagram.82.165.110.7.backname.io/` |
-| `http://sp26ct10-zanvako-biz-rumeli.pages.dev/` |
-| `http://caphaibuvoice.vercel.app/` |
-| `http://tevxorin-lak294816573.vercel.app/` |
-| `https://giveshopee889.blogspot.com/` |
-| `https://bluecheckservices-gold.vercel.app/privacy-centers.html` |
-| `https://azogue.org/index1.html?eta=administracion@naturinda.com` |
-| `https://tokanlm-cdn12-hk12.autos/` |
-| `https://s4w.in/https-roblox-com-users-4468694066profile` |
-| `https://www.roblox.com.et/users/1382998579/profile` |
-| `https://caphaibuvoice.vercel.app/index1.html` |
-| `https://d33wubrfki0l68.cloudfront.net/a24ce9fe-3a25-440e-923c-70c96b668dc8/dhl123.html` |
-| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/developer-tools/dashboard/` |
-| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/smart-accounts-kit/` |
-| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/embedded-wallets/sdk/node` |
-| `http://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/metamask-connect/evm` |
+| `https://ldgr-lives-app.pages.dev/` |
+| `https://nav-ledgr-eng.pages.dev/` |
+| `http://5985n9mff-funfn994784ecd853-8478h84.netlify.app/` |
+| `https://ip3dev.com/` |
+| `http://netflix-clone-seven-liard.vercel.app/` |
+| `https://nutradiabs-whatsapp.orderyuk.info/` |
+| `http://v2238.ig-verifica.freemyip.com/` |
+| `https://community-policy-info.vercel.app/` |
+| `http://instagram-groupe-invite.vercel.app/` |
+| `http://www.instagram-clone-master-three.vercel.app/` |
+| `https://verifiedbadgehub.vercel.app/` |
+| `http://roblox.ss/users/1051870473/profile` |
+| `https://plotddmf.weebly.com/` |
+| `http://www.roblox.com.kz/users/559211103/profile/` |
+| `https://mydpd.yjbow.top/track-ch/` |
+| `https://upcmail-hispeed-ch.jimdofree.com/` |
+| `http://www.upc-websrv-updt.weebly.com/` |
+| `https://www.sunrise0041.flazio.online/` |
+| `https://www.roblox.com.ml/users/187621307399/profile` |
+| `https://my.gov.addllr.com/` |
 
 ---
 
