@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 25, 2026  
-> **Updated:** October 25, 2026 at 13:23 UTC  
+> **Date:** October 26, 2026  
+> **Updated:** October 26, 2026 at 15:30 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://ldgr-lives-app.pages.dev/` |
-| `https://nav-ledgr-eng.pages.dev/` |
-| `http://5985n9mff-funfn994784ecd853-8478h84.netlify.app/` |
-| `https://ip3dev.com/` |
-| `http://netflix-clone-seven-liard.vercel.app/` |
-| `https://nutradiabs-whatsapp.orderyuk.info/` |
-| `http://v2238.ig-verifica.freemyip.com/` |
-| `https://community-policy-info.vercel.app/` |
-| `http://instagram-groupe-invite.vercel.app/` |
-| `http://www.instagram-clone-master-three.vercel.app/` |
-| `https://verifiedbadgehub.vercel.app/` |
-| `http://roblox.ss/users/1051870473/profile` |
-| `https://plotddmf.weebly.com/` |
-| `http://www.roblox.com.kz/users/559211103/profile/` |
-| `https://mydpd.yjbow.top/track-ch/` |
-| `https://upcmail-hispeed-ch.jimdofree.com/` |
-| `http://www.upc-websrv-updt.weebly.com/` |
-| `https://www.sunrise0041.flazio.online/` |
-| `https://www.roblox.com.ml/users/187621307399/profile` |
-| `https://my.gov.addllr.com/` |
+| `https://mmdancr.sbs/` |
+| `https://www.roblox.ss/users/884221804/profile` |
+| `https://s4w.in/EExFO` |
+| `https://kleinanzelgen.ge/m-passwort-erneuern.html?id=11451103` |
+| `https://9000-firebase-anf-1781589572311.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev/?monospaceUid=378407` |
+| `http://signin-xfinlty.weebly.com/` |
+| `http://roblox.com.et/users/2377452159/profile` |
+| `https://mydpd.nnaqo.help/track-ch` |
+| `https://mydpd.oweyy.cc/track-ch/#/index` |
+| `https://1url.at/www/robloxusers-95109909581-profile` |
+| `https://vmi3646823.contaboserver.net/we/paw/na/details.php/` |
+| `https://135461223.site/no/2312/51578074-1a57-4459-b24c-a6c50613dc41/763670/x` |
+| `https://135461223.site/2312/51578074-1a57-4459-b24c-a6c50613dc41/763670` |
+| `https://135461223.site/no/2312/51578074-1a57-4459-b24c-a6c50613dc41/763670` |
+| `http://www.xfinityhelplogin.weebly.com/` |
+| `https://vmi3696769.contaboserver.net/qo/xal/rt/msg.php` |
+| `https://tr.ee/1KclXG` |
+| `https://www.community-policy-info.vercel.app/` |
+| `https://mydpd.ixrii.help/track-ch/#%252Findex` |
+| `http://gdfhwd.weebly.com/` |
 
 ---
 
