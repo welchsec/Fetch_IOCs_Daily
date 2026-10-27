@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 26, 2026  
-> **Updated:** October 26, 2026 at 15:30 UTC  
+> **Date:** October 27, 2026  
+> **Updated:** October 27, 2026 at 14:56 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://mmdancr.sbs/` |
-| `https://www.roblox.ss/users/884221804/profile` |
-| `https://s4w.in/EExFO` |
-| `https://kleinanzelgen.ge/m-passwort-erneuern.html?id=11451103` |
-| `https://9000-firebase-anf-1781589572311.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev/?monospaceUid=378407` |
-| `http://signin-xfinlty.weebly.com/` |
-| `http://roblox.com.et/users/2377452159/profile` |
-| `https://mydpd.nnaqo.help/track-ch` |
-| `https://mydpd.oweyy.cc/track-ch/#/index` |
-| `https://1url.at/www/robloxusers-95109909581-profile` |
-| `https://vmi3646823.contaboserver.net/we/paw/na/details.php/` |
-| `https://135461223.site/no/2312/51578074-1a57-4459-b24c-a6c50613dc41/763670/x` |
-| `https://135461223.site/2312/51578074-1a57-4459-b24c-a6c50613dc41/763670` |
-| `https://135461223.site/no/2312/51578074-1a57-4459-b24c-a6c50613dc41/763670` |
-| `http://www.xfinityhelplogin.weebly.com/` |
-| `https://vmi3696769.contaboserver.net/qo/xal/rt/msg.php` |
-| `https://tr.ee/1KclXG` |
-| `https://www.community-policy-info.vercel.app/` |
-| `https://mydpd.ixrii.help/track-ch/#%252Findex` |
-| `http://gdfhwd.weebly.com/` |
+| `http://make-troll-318071.framer.app/` |
+| `http://avdveulfdasxf.square.site/` |
+| `http://himorhis.square.site/` |
+| `https://facebookloginuser.blogspot.com/` |
+| `https://www.facebookloginuser.blogspot.com/` |
+| `https://facebook-login0.blogspot.com/` |
+| `https://wtrkb8bskra-pfxmzwur-5l2i7d-yk000a.pages.dev/` |
+| `https://tokinlm-cdn2-hk51.xyz/` |
+| `https://jakxwo-x4hmh1og.vercel.app/` |
+| `https://statensveagvesenno.whf.bz/eika` |
+| `https://review102-account-activity286.weebly.com/` |
+| `https://tinyurl.com/mtmka79f` |
+| `https://fb-meta-verified-36592.vercel.app/` |
+| `http://hoamiigaytooss.vercel.app/` |
+| `https://photos-instagram.vercel.app/` |
+| `http://sp29ct-korvi-biz-nurak-felto.pages.dev/` |
+| `https://business-verification-help186.vercel.app/` |
+| `http://www.posta-beige.vercel.app/` |
+| `https://www.navercorp-green.vercel.app/` |
+| `http://sp20ct10-kumvex-biz-lorima.pages.dev/` |
 
 ---
 
