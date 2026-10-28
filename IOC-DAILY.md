@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 27, 2026  
-> **Updated:** October 27, 2026 at 14:56 UTC  
+> **Date:** October 28, 2026  
+> **Updated:** October 28, 2026 at 15:31 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://make-troll-318071.framer.app/` |
-| `http://avdveulfdasxf.square.site/` |
-| `http://himorhis.square.site/` |
-| `https://facebookloginuser.blogspot.com/` |
-| `https://www.facebookloginuser.blogspot.com/` |
-| `https://facebook-login0.blogspot.com/` |
-| `https://wtrkb8bskra-pfxmzwur-5l2i7d-yk000a.pages.dev/` |
-| `https://tokinlm-cdn2-hk51.xyz/` |
-| `https://jakxwo-x4hmh1og.vercel.app/` |
-| `https://statensveagvesenno.whf.bz/eika` |
-| `https://review102-account-activity286.weebly.com/` |
-| `https://tinyurl.com/mtmka79f` |
-| `https://fb-meta-verified-36592.vercel.app/` |
-| `http://hoamiigaytooss.vercel.app/` |
-| `https://photos-instagram.vercel.app/` |
-| `http://sp29ct-korvi-biz-nurak-felto.pages.dev/` |
-| `https://business-verification-help186.vercel.app/` |
-| `http://www.posta-beige.vercel.app/` |
-| `https://www.navercorp-green.vercel.app/` |
-| `http://sp20ct10-kumvex-biz-lorima.pages.dev/` |
+| `https://intellectual-transform-624217.framer.app/` |
+| `http://www.roblox.ly/users/8231296959/profile/` |
+| `http://home-cry-com.square.site/` |
+| `http://tokinim-cdng-hkj.lol/` |
+| `http://ncapmmda-ncr.cfd/` |
+| `http://straightforward-griffin-592982.framer.app/` |
+| `https://divinedownload.com/eov.php?id=f1b0775946bc0329b35b823b86eeb5f5` |
+| `https://divinedownload.com/` |
+| `https://team-center-feature-update.vercel.app/` |
+| `https://netflixph.vercel.app/` |
+| `http://www.ph-tg77.net/` |
+| `https://auth.properties/E.aUtDFan446dX?/microsoftonline/mailbox/upgrade&userid=75468973984785978212312307887543` |
+| `https://www.flhealthlicense-tawny.vercel.app/` |
+| `https://mydpd.kpokm.top/track-ch` |
+| `https://mydpd.rwcwv.xyz/track-ch` |
+| `https://mydpd.odqdn.top/track-ch` |
+| `https://mydpd.wrhsi.cc/track-ch` |
+| `https://mydpd.sztdt.help/track-ch` |
+| `https://www.htautenticacionbcgatorrr.info/` |
+| `http://www.updatepasswrd-23l7.vercel.app/` |
 
 ---
 
