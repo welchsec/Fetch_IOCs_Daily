@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 28, 2026  
-> **Updated:** October 28, 2026 at 15:31 UTC  
+> **Date:** October 29, 2026  
+> **Updated:** October 29, 2026 at 15:39 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://intellectual-transform-624217.framer.app/` |
-| `http://www.roblox.ly/users/8231296959/profile/` |
-| `http://home-cry-com.square.site/` |
-| `http://tokinim-cdng-hkj.lol/` |
-| `http://ncapmmda-ncr.cfd/` |
-| `http://straightforward-griffin-592982.framer.app/` |
-| `https://divinedownload.com/eov.php?id=f1b0775946bc0329b35b823b86eeb5f5` |
-| `https://divinedownload.com/` |
-| `https://team-center-feature-update.vercel.app/` |
-| `https://netflixph.vercel.app/` |
-| `http://www.ph-tg77.net/` |
-| `https://auth.properties/E.aUtDFan446dX?/microsoftonline/mailbox/upgrade&userid=75468973984785978212312307887543` |
-| `https://www.flhealthlicense-tawny.vercel.app/` |
-| `https://mydpd.kpokm.top/track-ch` |
-| `https://mydpd.rwcwv.xyz/track-ch` |
-| `https://mydpd.odqdn.top/track-ch` |
-| `https://mydpd.wrhsi.cc/track-ch` |
-| `https://mydpd.sztdt.help/track-ch` |
-| `https://www.htautenticacionbcgatorrr.info/` |
-| `http://www.updatepasswrd-23l7.vercel.app/` |
+| `https://web-ldgrlive-desktop.pages.dev/` |
+| `https://digitalbr.myftp.org/` |
+| `https://free-consultoria.services/` |
+| `http://service.courrierar24.co/` |
+| `https://security-server-page--richardgilbert3.replit.app/` |
+| `https://apple-1xz.xyz/S9` |
+| `https://ulonex-fursa-a7c109-wplm.pages.dev/` |
+| `http://5m1p8z-8u5m9c-1z9p8m-qw999agreg.pages.dev/` |
+| `https://sarnex-qulto-8ac913-hfbb-r0307raz.pages.dev/` |
+| `https://9k1p8m-8u5m9c-1p9m8z-qw644c24y.pages.dev/` |
+| `http://3r9p1e-qw344c84y-2k8z1p9m2s-8s1m.pages.dev/` |
+| `https://sp1ct10-hunval-biz-vumqo-zavri.pages.dev/` |
+| `http://marnex-qulto-8ac913-hfbb.pages.dev/` |
+| `https://1s8q9g-qw177a-2z1p8k9m2s-fsgcyyhy.pages.dev/` |
+| `http://8s2q8g-qw999agreg-mbtz1p8z9m2-fsgc.pages.dev/` |
+| `http://wktvz6e23pl-bcjfgyhy-0u7r1g-hp733a.pages.dev/` |
+| `http://nypkt6c73gp-sdrmja-2w6u0c-nypks18cf3f3.pages.dev/` |
+| `https://sp1ct10-melvani-biz-zarkelo.pages.dev/` |
+| `http://bkstr17asdf-ktpmqskr-5m1h3g-jks93c418.pages.dev/` |
+| `https://b26e-dj4-kpbz0-c2c-dukrc.pages.dev/` |
 
 ---
 
