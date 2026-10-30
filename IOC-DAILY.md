@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 29, 2026  
-> **Updated:** October 29, 2026 at 15:39 UTC  
+> **Date:** October 30, 2026  
+> **Updated:** October 30, 2026 at 15:22 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://web-ldgrlive-desktop.pages.dev/` |
-| `https://digitalbr.myftp.org/` |
-| `https://free-consultoria.services/` |
-| `http://service.courrierar24.co/` |
-| `https://security-server-page--richardgilbert3.replit.app/` |
-| `https://apple-1xz.xyz/S9` |
-| `https://ulonex-fursa-a7c109-wplm.pages.dev/` |
-| `http://5m1p8z-8u5m9c-1z9p8m-qw999agreg.pages.dev/` |
-| `https://sarnex-qulto-8ac913-hfbb-r0307raz.pages.dev/` |
-| `https://9k1p8m-8u5m9c-1p9m8z-qw644c24y.pages.dev/` |
-| `http://3r9p1e-qw344c84y-2k8z1p9m2s-8s1m.pages.dev/` |
-| `https://sp1ct10-hunval-biz-vumqo-zavri.pages.dev/` |
-| `http://marnex-qulto-8ac913-hfbb.pages.dev/` |
-| `https://1s8q9g-qw177a-2z1p8k9m2s-fsgcyyhy.pages.dev/` |
-| `http://8s2q8g-qw999agreg-mbtz1p8z9m2-fsgc.pages.dev/` |
-| `http://wktvz6e23pl-bcjfgyhy-0u7r1g-hp733a.pages.dev/` |
-| `http://nypkt6c73gp-sdrmja-2w6u0c-nypks18cf3f3.pages.dev/` |
-| `https://sp1ct10-melvani-biz-zarkelo.pages.dev/` |
-| `http://bkstr17asdf-ktpmqskr-5m1h3g-jks93c418.pages.dev/` |
-| `https://b26e-dj4-kpbz0-c2c-dukrc.pages.dev/` |
+| `https://imediachile.cl/secupdf/10625.html` |
+| `http://hse-review.top/` |
+| `https://phantom-app-4eu8.vercel.app/` |
+| `https://doc--exxodus--web3.pages.dev/` |
+| `http://decen-tralises-exxod.pages.dev/` |
+| `https://vmi3505306.contaboserver.net/migzone/fix/sen/rena/details.php` |
+| `http://jrqwoukapy.1st-assylum.org/` |
+| `http://creationstags.cfd/verify/897bfd43-7dd7-476a-bc03-12b078e00c00?error=login_required` |
+| `https://www.start-trezoio.teleporthq.app/` |
+| `https://start-help--metsk.gitbook.io/us` |
+| `http://start-help--metsk.gitbook.io/` |
+| `https://mydpd.vjrqv.help/track-ch/` |
+| `https://sweetbrands.co/AT&T/` |
+| `http://codmcp.com/` |
+| `https://mydpd.mklzn.top/track-ch` |
+| `https://mydpd.qkfpa.cc/track-ch` |
+| `http://couriersplease.addlic.com/` |
+| `https://foptling.click/` |
+| `https://im-token.app/` |
+| `https://riachaudhary-dev.github.io/Netflix-landing-Page/` |
 
 ---
 
