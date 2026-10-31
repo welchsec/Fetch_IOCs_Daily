@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 30, 2026  
-> **Updated:** October 30, 2026 at 15:22 UTC  
+> **Date:** October 31, 2026  
+> **Updated:** October 31, 2026 at 14:50 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://imediachile.cl/secupdf/10625.html` |
-| `http://hse-review.top/` |
-| `https://phantom-app-4eu8.vercel.app/` |
-| `https://doc--exxodus--web3.pages.dev/` |
-| `http://decen-tralises-exxod.pages.dev/` |
-| `https://vmi3505306.contaboserver.net/migzone/fix/sen/rena/details.php` |
-| `http://jrqwoukapy.1st-assylum.org/` |
-| `http://creationstags.cfd/verify/897bfd43-7dd7-476a-bc03-12b078e00c00?error=login_required` |
-| `https://www.start-trezoio.teleporthq.app/` |
-| `https://start-help--metsk.gitbook.io/us` |
-| `http://start-help--metsk.gitbook.io/` |
-| `https://mydpd.vjrqv.help/track-ch/` |
-| `https://sweetbrands.co/AT&T/` |
-| `http://codmcp.com/` |
-| `https://mydpd.mklzn.top/track-ch` |
-| `https://mydpd.qkfpa.cc/track-ch` |
-| `http://couriersplease.addlic.com/` |
-| `https://foptling.click/` |
-| `https://im-token.app/` |
-| `https://riachaudhary-dev.github.io/Netflix-landing-Page/` |
+| `http://facebook.webmau.vn/` |
+| `https://www.roblox.com.kz/users/137614935/profile` |
+| `http://xmqrb724nhw-zdcynfyn-2d9e0f-pj388a.pages.dev/` |
+| `http://8s1q2g-qw999agreg-mbtz1m8p9z2-fsgc12.pages.dev/` |
+| `https://2u8m1c-qw144c84y-mbtz8m9p1z2-qwxk.pages.dev/` |
+| `https://fylrk4c01pl-bxzgcyhy-1l8j2g-sw511a.pages.dev/` |
+| `http://divace-coinsquare.zapier.app/` |
+| `http://track.map-app.my.id/gZh` |
+| `https://hklogin.uat.mizuhoscfglobal.com/oauth2/authorize?response_type=code&client_id=bca4f495-a205-4cb4-8b0a-07f4d88a7584&scope=openid%20email%20profile&state=eDcYeukV-Yqf6Phtrq0XmoQEi3qWjB4ZJVQKd1b3FLQ%3D&redirect_uri=https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth&nonce=iKCQAqN9jgh-qbCgvqmDhVVdnmtR3jPBaOvRdNDTzhA&code_challenge=OD8gH4TYyaheiXEdbZvm8F3jH3IIxiWPhce5ThiUTg4&code_challenge_method=S256` |
+| `https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth` |
+| `https://secureprofiles2026-indol.vercel.app/careers.html` |
+| `http://www.a.colombiascol.com/` |
+| `https://www.fuzzy-giggle-eta.vercel.app/` |
+| `https://ashi130-cell.github.io/INSTAGRAM-LOGIN-DEMO` |
+| `https://sp1ct10-lavviro-biz-zanleko.pages.dev/` |
+| `http://sp1ct10-zelmiko-biz-vemleko.pages.dev/` |
+| `http://sp30ct-qurik-biz-vemol-nadex.pages.dev/` |
+| `http://vormora-gld-lartemi-p3t7kh25.pages.dev/` |
+| `https://sp1ct10-zorvilo-biz-kavreko.pages.dev/` |
+| `http://sp1ct10-lavzaro-biz-korvuni.pages.dev/` |
 
 ---
 
