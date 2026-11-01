@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** October 31, 2026  
-> **Updated:** October 31, 2026 at 14:50 UTC  
+> **Date:** November 01, 2026  
+> **Updated:** November 01, 2026 at 15:29 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://facebook.webmau.vn/` |
-| `https://www.roblox.com.kz/users/137614935/profile` |
-| `http://xmqrb724nhw-zdcynfyn-2d9e0f-pj388a.pages.dev/` |
-| `http://8s1q2g-qw999agreg-mbtz1m8p9z2-fsgc12.pages.dev/` |
-| `https://2u8m1c-qw144c84y-mbtz8m9p1z2-qwxk.pages.dev/` |
-| `https://fylrk4c01pl-bxzgcyhy-1l8j2g-sw511a.pages.dev/` |
-| `http://divace-coinsquare.zapier.app/` |
-| `http://track.map-app.my.id/gZh` |
-| `https://hklogin.uat.mizuhoscfglobal.com/oauth2/authorize?response_type=code&client_id=bca4f495-a205-4cb4-8b0a-07f4d88a7584&scope=openid%20email%20profile&state=eDcYeukV-Yqf6Phtrq0XmoQEi3qWjB4ZJVQKd1b3FLQ%3D&redirect_uri=https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth&nonce=iKCQAqN9jgh-qbCgvqmDhVVdnmtR3jPBaOvRdNDTzhA&code_challenge=OD8gH4TYyaheiXEdbZvm8F3jH3IIxiWPhce5ThiUTg4&code_challenge_method=S256` |
-| `https://hk.uat.mizuhoscfglobal.com/scf/login/oauth2/code/fusionauth` |
-| `https://secureprofiles2026-indol.vercel.app/careers.html` |
-| `http://www.a.colombiascol.com/` |
-| `https://www.fuzzy-giggle-eta.vercel.app/` |
-| `https://ashi130-cell.github.io/INSTAGRAM-LOGIN-DEMO` |
-| `https://sp1ct10-lavviro-biz-zanleko.pages.dev/` |
-| `http://sp1ct10-zelmiko-biz-vemleko.pages.dev/` |
-| `http://sp30ct-qurik-biz-vemol-nadex.pages.dev/` |
-| `http://vormora-gld-lartemi-p3t7kh25.pages.dev/` |
-| `https://sp1ct10-zorvilo-biz-kavreko.pages.dev/` |
-| `http://sp1ct10-lavzaro-biz-korvuni.pages.dev/` |
+| `https://instagram-cloud.blogspot.com/` |
+| `http://www.instagram-cloud.blogspot.com/` |
+| `http://mvdcy1ekqlo-qwbrmlos-8e1f2b-mvd83w.pages.dev/` |
+| `https://www.faccbook.vercel.app/` |
+| `http://sp3ct10-melvuni-biz-kavzelo.pages.dev/` |
+| `https://support-service-portal.vercel.app/accounts-center` |
+| `http://instagramcom-weld.vercel.app/` |
+| `http://2s9q1g-qw444agreg-mbtz9x1p8m2-fsgc.pages.dev/` |
+| `https://jpxqn5c80sk-kvtrmwur-9p4m6d-py611a.pages.dev/` |
+| `http://bdf88-172dr-lpr47-172lp-8b1c3d-lpr47-172a.pages.dev/` |
+| `http://twydc9e48kq-xhrmwlos-9f8f4b-twy31w.pages.dev/` |
+| `http://yktpm220bf-lhjndskr-1k8f5g-ykk05c.pages.dev/` |
+| `http://support-service-portal.vercel.app/` |
+| `http://njlgp3bdrun-thkprpli-2c9d3g-njq79c.pages.dev/` |
+| `https://wlzgb5avstr-fscdhmja-1o8m3g-wlq20c.pages.dev/` |
+| `http://sp30ct10-korlevo-biz-zurelo.pages.dev/` |
+| `https://ydktr02kww-rvljh38wur-0r5s7b-rvl82x.pages.dev/` |
+| `http://sp1ct10-ravlevo-biz-kavmiko.pages.dev/` |
+| `https://sp1ct10-zulreko-biz-kavmari.pages.dev/` |
+| `https://sp3ct10-kelzemi-biz-dorvako.pages.dev/` |
 
 ---
 
