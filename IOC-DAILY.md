@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 01, 2026  
-> **Updated:** November 01, 2026 at 15:29 UTC  
+> **Date:** November 02, 2026  
+> **Updated:** November 02, 2026 at 18:52 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://instagram-cloud.blogspot.com/` |
-| `http://www.instagram-cloud.blogspot.com/` |
-| `http://mvdcy1ekqlo-qwbrmlos-8e1f2b-mvd83w.pages.dev/` |
-| `https://www.faccbook.vercel.app/` |
-| `http://sp3ct10-melvuni-biz-kavzelo.pages.dev/` |
-| `https://support-service-portal.vercel.app/accounts-center` |
-| `http://instagramcom-weld.vercel.app/` |
-| `http://2s9q1g-qw444agreg-mbtz9x1p8m2-fsgc.pages.dev/` |
-| `https://jpxqn5c80sk-kvtrmwur-9p4m6d-py611a.pages.dev/` |
-| `http://bdf88-172dr-lpr47-172lp-8b1c3d-lpr47-172a.pages.dev/` |
-| `http://twydc9e48kq-xhrmwlos-9f8f4b-twy31w.pages.dev/` |
-| `http://yktpm220bf-lhjndskr-1k8f5g-ykk05c.pages.dev/` |
-| `http://support-service-portal.vercel.app/` |
-| `http://njlgp3bdrun-thkprpli-2c9d3g-njq79c.pages.dev/` |
-| `https://wlzgb5avstr-fscdhmja-1o8m3g-wlq20c.pages.dev/` |
-| `http://sp30ct10-korlevo-biz-zurelo.pages.dev/` |
-| `https://ydktr02kww-rvljh38wur-0r5s7b-rvl82x.pages.dev/` |
-| `http://sp1ct10-ravlevo-biz-kavmiko.pages.dev/` |
-| `https://sp1ct10-zulreko-biz-kavmari.pages.dev/` |
-| `https://sp3ct10-kelzemi-biz-dorvako.pages.dev/` |
+| `https://www.webzxkfa.com/` |
+| `https://vemtasbobinaj.com/login.html` |
+| `https://vemtasbobinaj.com/otp.html` |
+| `https://www.weqweqw.com/` |
+| `https://mobilelegendsindonesia.blogspot.com/` |
+| `https://www.weqwxkl.com/` |
+| `https://www.webgvt.com/` |
+| `https://cp552296.tw1.ru/core/client/desjardins/` |
+| `https://jasejournals.com/` |
+| `https://cp552296.tw1.ru/core/client/td/` |
+| `https://cp552296.tw1.ru/core/client/rbcroyal/` |
+| `https://cp552296.tw1.ru/core/client/scotia/` |
+| `https://mydpd.yfuma.xyz/track-ch` |
+| `http://146a2.casmex.at/kraken/` |
+| `https://www.etransfer-accept.duckdns.org/scotia/index.php?ref=CAHsqZoFj` |
+| `https://qorfani-mpt-vexloro-k7d4pe92.pages.dev/` |
+| `https://www.etransfer-accept.duckdns.org/rbc/index.php?ref=CAHsqZoFj` |
+| `https://www.securetransfer-x9hs6dlg4jzk.duckdns.org/scotia/index.php?ref=CAHsqZoFj` |
+| `http://foretaksregist.vercel.app/page1.5.html` |
+| `https://www.securetransfer-x9hs6dlg4jzk.duckdns.org/rbc/index.php?ref=CAHsqZoFj` |
 
 ---
 
