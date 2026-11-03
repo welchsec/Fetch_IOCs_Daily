@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 02, 2026  
-> **Updated:** November 02, 2026 at 18:52 UTC  
+> **Date:** November 03, 2026  
+> **Updated:** November 03, 2026 at 16:38 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.webzxkfa.com/` |
-| `https://vemtasbobinaj.com/login.html` |
-| `https://vemtasbobinaj.com/otp.html` |
-| `https://www.weqweqw.com/` |
-| `https://mobilelegendsindonesia.blogspot.com/` |
-| `https://www.weqwxkl.com/` |
-| `https://www.webgvt.com/` |
-| `https://cp552296.tw1.ru/core/client/desjardins/` |
-| `https://jasejournals.com/` |
-| `https://cp552296.tw1.ru/core/client/td/` |
-| `https://cp552296.tw1.ru/core/client/rbcroyal/` |
-| `https://cp552296.tw1.ru/core/client/scotia/` |
-| `https://mydpd.yfuma.xyz/track-ch` |
-| `http://146a2.casmex.at/kraken/` |
-| `https://www.etransfer-accept.duckdns.org/scotia/index.php?ref=CAHsqZoFj` |
-| `https://qorfani-mpt-vexloro-k7d4pe92.pages.dev/` |
-| `https://www.etransfer-accept.duckdns.org/rbc/index.php?ref=CAHsqZoFj` |
-| `https://www.securetransfer-x9hs6dlg4jzk.duckdns.org/scotia/index.php?ref=CAHsqZoFj` |
-| `http://foretaksregist.vercel.app/page1.5.html` |
-| `https://www.securetransfer-x9hs6dlg4jzk.duckdns.org/rbc/index.php?ref=CAHsqZoFj` |
+| `http://explorer.beta.bip300.xyz/` |
+| `http://net-hub-gxqg.p-pso2at2d.workers.dev/` |
+| `https://portuil.my/11/#YW50amUuc2NobGl0emt1c0BiZXJsaW4tYWlycG9ydC5kZQ==` |
+| `https://s.team-qs.com/p/kma-mhc/bwjejeij` |
+| `https://webasdhf.com/` |
+| `https://www.gabiasckrss.vercel.app/` |
+| `https://lumen-ba.com/10302026.html` |
+| `https://sso-security.com/E.Cq7P94af46KqmA?=userid&messageid=YWZhNDM0c2RqZjk4MjNmb2lkc2pmKC9DODk4RnNhOShGLyhBU0ZzdWlhaGRma2FzZDIoLw==` |
+| `https://page-alert.vercel.app/accounts-center` |
+| `https://page-service.vercel.app/accounts-center` |
+| `https://page-alert.vercel.app/` |
+| `https://page-service.vercel.app/` |
+| `https://rbcode.net/v/a411129f0d1c60749a84f448852e7d52` |
+| `http://regularizeseunomegov.discloud.dev/` |
+| `https://homeloans-wellsfargo-com.sbx.pgsdemo.com/HMCtest/mortgage/ca/san-francisco/test-hmc-cd` |
+| `http://poshmarkusashop.com/` |
+| `http://nqhzofzx7b.hdply.com/` |
+| `https://radiowavesokc.homedns.org/cgi-bin/index.ha/` |
+| `http://roblox.com.et/users/727220164/profile` |
+| `https://aminsheikh72.github.io/microsoft-2/` |
 
 ---
 
