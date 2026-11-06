@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 05, 2026  
-> **Updated:** November 05, 2026 at 16:53 UTC  
+> **Date:** November 06, 2026  
+> **Updated:** November 06, 2026 at 16:20 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.metamaskchromeextensionn.blogspot.com/` |
-| `https://www.sideaapliccacccionn.com/` |
-| `http://indexxjjo.vercel.app/` |
-| `http://www.upgraded-dollop-omega.vercel.app/` |
-| `https://quatangchoem.vercel.app/` |
-| `http://social-lift-five.vercel.app/` |
-| `https://www.89237892.com/` |
-| `https://loginmsftcheck.com/?email=ravorz@7e616df70469bb02bfc535bb792babf9ee6a.net` |
-| `https://www.vaegryyde.com/` |
-| `http://portail-mlcrosoft.fr/` |
-| `http://sp13ct-torek-biz-furon-kalem.pages.dev/` |
-| `https://metumasckgnn.gitbook.io/` |
-| `https://boadashboard-com.cercel.app/` |
-| `http://roblox.ss/communities/2437546919/CaramelPanda420` |
-| `http://send-dt-bsc.vercel.app/` |
-| `http://tokemie-cdn6-hk1.cfd/` |
-| `https://mydpd.xzphm.top/track-ch` |
-| `https://b6a2f96c.hyt65chn.pages.dev/requiredpo` |
-| `http://b6a2f96c.hyt65chn.pages.dev/requiredpo.html` |
-| `http://qsc6f02dr-zptrkpli-0u1s5g-qsc63c.pages.dev/` |
+| `https://browardcourtpdf-viewer.vercel.app/` |
+| `https://www.browardcourtpdf-viewer.vercel.app/` |
+| `https://www.roblox.ly/users/7676313166/profile` |
+| `https://paypal-verify.vercel.app/auth/signin?callbackUrl=https%3A%2F%2Fpaypal-verify.vercel.app%2F` |
+| `http://paypal-verify.vercel.app/` |
+| `http://vxhm.oucx.beer/xid/p6/` |
+| `https://u.to/2rThIg` |
+| `https://westernunioncash.com/` |
+| `http://submit-today83868.sbs/` |
+| `http://lkpgc0d5hq-41efc45a48.vercel.app/` |
+| `https://www.roblox.com.pt/communities/747427815000/STARCONS-KEYGROUP` |
+| `https://roblox.com.pt/users/853043936437/undefined` |
+| `http://netflixclone-drab.vercel.app/` |
+| `https://sp30ct-zavur-biz-kemix-lonad.pages.dev/` |
+| `https://roblox.com.pt/users/415355223340/profile` |
+| `https://roblox.com.pt/users/744746132618/profile` |
+| `https://roblox.com.pt/users/282030707450/profile` |
+| `http://analytics.whatsapp-zhapp.com/` |
+| `https://roblox.com.pt/games/13600218266/My-Movie?privateServerLinkCode=99382535900423182128231632453729&game_id=13600218266&game_name=My-Movie` |
+| `https://roblox.com.pt/communities/857048303155/giveawayComz` |
 
 ---
 
