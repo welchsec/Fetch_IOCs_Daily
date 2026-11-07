@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 06, 2026  
-> **Updated:** November 06, 2026 at 16:20 UTC  
+> **Date:** November 07, 2026  
+> **Updated:** November 07, 2026 at 15:13 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://browardcourtpdf-viewer.vercel.app/` |
-| `https://www.browardcourtpdf-viewer.vercel.app/` |
-| `https://www.roblox.ly/users/7676313166/profile` |
-| `https://paypal-verify.vercel.app/auth/signin?callbackUrl=https%3A%2F%2Fpaypal-verify.vercel.app%2F` |
-| `http://paypal-verify.vercel.app/` |
-| `http://vxhm.oucx.beer/xid/p6/` |
-| `https://u.to/2rThIg` |
-| `https://westernunioncash.com/` |
-| `http://submit-today83868.sbs/` |
-| `http://lkpgc0d5hq-41efc45a48.vercel.app/` |
-| `https://www.roblox.com.pt/communities/747427815000/STARCONS-KEYGROUP` |
-| `https://roblox.com.pt/users/853043936437/undefined` |
-| `http://netflixclone-drab.vercel.app/` |
-| `https://sp30ct-zavur-biz-kemix-lonad.pages.dev/` |
-| `https://roblox.com.pt/users/415355223340/profile` |
-| `https://roblox.com.pt/users/744746132618/profile` |
-| `https://roblox.com.pt/users/282030707450/profile` |
-| `http://analytics.whatsapp-zhapp.com/` |
-| `https://roblox.com.pt/games/13600218266/My-Movie?privateServerLinkCode=99382535900423182128231632453729&game_id=13600218266&game_name=My-Movie` |
-| `https://roblox.com.pt/communities/857048303155/giveawayComz` |
+| `https://www.rbx1000dfthfhhfhu.blogspot.com/` |
+| `http://nilsondebona1790684375357.2090313.meusitehostgator.com.br/` |
+| `http://www.adobesign-coral.vercel.app/` |
+| `http://www.omis-gules.vercel.app/` |
+| `http://www.adobesign-review.vercel.app/` |
+| `http://vpcs-loltrauxaokhe.netlify.app/` |
+| `https://snaply-khadir-salims-projects.vercel.app/` |
+| `http://instagram-clone-konstantindev1.vercel.app/` |
+| `https://c07m.top/downappr/c07m.topr/c07m.top/` |
+| `https://c07m.top/downappr/c07m.top/r/c07m.top` |
+| `https://c07m.top/downappr/c07m.top/` |
+| `https://prasadmhetre2005.github.io/Spotify-Clone/` |
+| `http://m3tamsklognx.gitbook.io/us` |
+| `http://ar24-five.vercel.app/` |
+| `https://www.f60c.top/downapp/r/www.f60c.top` |
+| `http://www.f60c.top/downapp` |
+| `https://s4w.in/www-roblox-com-user-1404516341-profile` |
+| `https://www.roblox.com.et/users/1404516348/profile` |
+| `https://www.33881565.com:1565/403.html?i=164.92.212.136&c=NL` |
+| `http://33881565.com/m` |
 
 ---
 
