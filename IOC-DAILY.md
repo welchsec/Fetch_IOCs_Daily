@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 07, 2026  
-> **Updated:** November 07, 2026 at 15:13 UTC  
+> **Date:** November 08, 2026  
+> **Updated:** November 08, 2026 at 15:37 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.rbx1000dfthfhhfhu.blogspot.com/` |
-| `http://nilsondebona1790684375357.2090313.meusitehostgator.com.br/` |
-| `http://www.adobesign-coral.vercel.app/` |
-| `http://www.omis-gules.vercel.app/` |
-| `http://www.adobesign-review.vercel.app/` |
-| `http://vpcs-loltrauxaokhe.netlify.app/` |
-| `https://snaply-khadir-salims-projects.vercel.app/` |
-| `http://instagram-clone-konstantindev1.vercel.app/` |
-| `https://c07m.top/downappr/c07m.topr/c07m.top/` |
-| `https://c07m.top/downappr/c07m.top/r/c07m.top` |
-| `https://c07m.top/downappr/c07m.top/` |
-| `https://prasadmhetre2005.github.io/Spotify-Clone/` |
-| `http://m3tamsklognx.gitbook.io/us` |
-| `http://ar24-five.vercel.app/` |
-| `https://www.f60c.top/downapp/r/www.f60c.top` |
-| `http://www.f60c.top/downapp` |
-| `https://s4w.in/www-roblox-com-user-1404516341-profile` |
-| `https://www.roblox.com.et/users/1404516348/profile` |
-| `https://www.33881565.com:1565/403.html?i=164.92.212.136&c=NL` |
-| `http://33881565.com/m` |
+| `http://camposaparthotelcamposaparthotel.pages.dev/` |
+| `https://wyshtap.cc/webchat/` |
+| `https://wyshtap.cc/` |
+| `http://serwerk.uber.space/` |
+| `http://excellx.techsofttips.com/` |
+| `http://hwcps19xdo-mtvljqwe-5k7j2g-hwc863.pages.dev/` |
+| `http://r.xmas1225usa.com/` |
+| `https://facebook.xmas1225usa.com/` |
+| `https://verify-session-ochre.vercel.app/accounts-center` |
+| `https://verify-session-ochre.vercel.app/` |
+| `http://ldgrr-live-desktop.pages.dev/` |
+| `https://www.tbybit-trade.lol/` |
+| `https://www.lexcontrol-sso.com/` |
+| `https://president.petition.co.ua/i%D0%BDst%D0%B0gr%D0%B0%D0%BC/login` |
+| `https://www.roblox.com.ml/users/390783638810/profile` |
+| `http://854938-icloud.com/` |
+| `https://uv-bitli-compo.pages.dev/help/contact/843850237211513appeals/submit-appeal-form/return` |
+| `https://parcelagent.xyz/login` |
+| `http://parcelagent.xyz/` |
+| `http://xmas1225usa.com/` |
 
 ---
 
