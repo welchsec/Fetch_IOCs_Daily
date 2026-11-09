@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 08, 2026  
-> **Updated:** November 08, 2026 at 15:37 UTC  
+> **Date:** November 09, 2026  
+> **Updated:** November 09, 2026 at 19:14 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://camposaparthotelcamposaparthotel.pages.dev/` |
-| `https://wyshtap.cc/webchat/` |
-| `https://wyshtap.cc/` |
-| `http://serwerk.uber.space/` |
-| `http://excellx.techsofttips.com/` |
-| `http://hwcps19xdo-mtvljqwe-5k7j2g-hwc863.pages.dev/` |
-| `http://r.xmas1225usa.com/` |
-| `https://facebook.xmas1225usa.com/` |
-| `https://verify-session-ochre.vercel.app/accounts-center` |
-| `https://verify-session-ochre.vercel.app/` |
-| `http://ldgrr-live-desktop.pages.dev/` |
-| `https://www.tbybit-trade.lol/` |
-| `https://www.lexcontrol-sso.com/` |
-| `https://president.petition.co.ua/i%D0%BDst%D0%B0gr%D0%B0%D0%BC/login` |
-| `https://www.roblox.com.ml/users/390783638810/profile` |
-| `http://854938-icloud.com/` |
-| `https://uv-bitli-compo.pages.dev/help/contact/843850237211513appeals/submit-appeal-form/return` |
-| `https://parcelagent.xyz/login` |
-| `http://parcelagent.xyz/` |
-| `http://xmas1225usa.com/` |
+| `https://testlanigs.blogspot.com/` |
+| `https://s4w.in/Wgtsg` |
+| `https://www.instagram-real.blogspot.com/` |
+| `https://startq-trzr-bridge.pages.dev/appeals/submit-appeal-form/return` |
+| `https://sp30ct-kemix-biz-zadul-noval.pages.dev/` |
+| `http://t43ut-cyg-o7av-od3l1-11-09-2026-hh.pages.dev/` |
+| `http://bubu-new.vercel.app/` |
+| `https://jsivok-brund-8pu59a-cjbyh-1rs238.pages.dev/` |
+| `https://sp10ct11-kavluni-biz-zermavo.pages.dev/` |
+| `https://promocaooficial.github.io/shopeone/inicio.html` |
+| `https://jst-someone.github.io/Spotify-clone` |
+| `https://www.sena-facebook.blogspot.com/` |
+| `http://tokinexn-cdn7-hk2.lol/` |
+| `https://instagram-real.blogspot.com/` |
+| `https://walangforeve01.weebly.com/` |
+| `https://hkdiscord.antsoon.com/category/engineering` |
+| `https://www.roblox.ly/users/4536663053/profile` |
+| `https://instagram-tip.blogspot.com/` |
+| `http://www.roblox.com.kz/users/559211103/profile/` |
+| `http://christianbased.org/owa.auth.logo.aspx/` |
 
 ---
 
