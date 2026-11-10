@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 09, 2026  
-> **Updated:** November 09, 2026 at 19:14 UTC  
+> **Date:** November 10, 2026  
+> **Updated:** November 10, 2026 at 16:37 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://testlanigs.blogspot.com/` |
-| `https://s4w.in/Wgtsg` |
-| `https://www.instagram-real.blogspot.com/` |
-| `https://startq-trzr-bridge.pages.dev/appeals/submit-appeal-form/return` |
-| `https://sp30ct-kemix-biz-zadul-noval.pages.dev/` |
-| `http://t43ut-cyg-o7av-od3l1-11-09-2026-hh.pages.dev/` |
-| `http://bubu-new.vercel.app/` |
-| `https://jsivok-brund-8pu59a-cjbyh-1rs238.pages.dev/` |
-| `https://sp10ct11-kavluni-biz-zermavo.pages.dev/` |
-| `https://promocaooficial.github.io/shopeone/inicio.html` |
-| `https://jst-someone.github.io/Spotify-clone` |
-| `https://www.sena-facebook.blogspot.com/` |
-| `http://tokinexn-cdn7-hk2.lol/` |
-| `https://instagram-real.blogspot.com/` |
-| `https://walangforeve01.weebly.com/` |
-| `https://hkdiscord.antsoon.com/category/engineering` |
-| `https://www.roblox.ly/users/4536663053/profile` |
-| `https://instagram-tip.blogspot.com/` |
-| `http://www.roblox.com.kz/users/559211103/profile/` |
-| `http://christianbased.org/owa.auth.logo.aspx/` |
+| `https://streamlined-three-995346.framer.app/` |
+| `https://fanpage-case.vercel.app/` |
+| `http://pagina-inicial-instagram.vercel.app/` |
+| `https://pagina-inicial-instagram-anesoledar.vercel.app/` |
+| `http://tokeimx-cdnnode-sg16.xyz/` |
+| `http://gjmrv53hwu-wznxb81fyn-3e1f8g-dm755c.pages.dev/` |
+| `http://instagram-session.vercel.app/` |
+| `https://chp-courriersdomicile.bolt.host/` |
+| `https://coinbaseplogininin.gitbook.io/us` |
+| `http://coinbaseplogininin.gitbook.io/` |
+| `https://maiscreditoclt.shop/005/renova.php` |
+| `http://binancesync.com/` |
+| `http://suitetrezro-io-en.typedream.app/` |
+| `http://www.my-coinbase.vercel.app/` |
+| `http://www.exoweb-six.vercel.app/` |
+| `http://www.basewalletsupport.vercel.app/` |
+| `http://my-coinbase.vercel.app/` |
+| `http://www.coinbase-support-portal.vercel.app/` |
+| `https://www.coinbase-livesupport.vercel.app/` |
+| `http://www.coinbase-supportdesk.vercel.app/` |
 
 ---
 
