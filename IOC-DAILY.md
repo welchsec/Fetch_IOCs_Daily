@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 10, 2026  
-> **Updated:** November 10, 2026 at 16:37 UTC  
+> **Date:** November 11, 2026  
+> **Updated:** November 11, 2026 at 16:40 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://streamlined-three-995346.framer.app/` |
-| `https://fanpage-case.vercel.app/` |
-| `http://pagina-inicial-instagram.vercel.app/` |
-| `https://pagina-inicial-instagram-anesoledar.vercel.app/` |
-| `http://tokeimx-cdnnode-sg16.xyz/` |
-| `http://gjmrv53hwu-wznxb81fyn-3e1f8g-dm755c.pages.dev/` |
-| `http://instagram-session.vercel.app/` |
-| `https://chp-courriersdomicile.bolt.host/` |
-| `https://coinbaseplogininin.gitbook.io/us` |
-| `http://coinbaseplogininin.gitbook.io/` |
-| `https://maiscreditoclt.shop/005/renova.php` |
-| `http://binancesync.com/` |
-| `http://suitetrezro-io-en.typedream.app/` |
-| `http://www.my-coinbase.vercel.app/` |
-| `http://www.exoweb-six.vercel.app/` |
-| `http://www.basewalletsupport.vercel.app/` |
-| `http://my-coinbase.vercel.app/` |
-| `http://www.coinbase-support-portal.vercel.app/` |
-| `https://www.coinbase-livesupport.vercel.app/` |
-| `http://www.coinbase-supportdesk.vercel.app/` |
+| `http://netflix-clone-manishbisht123.vercel.app/` |
+| `https://phenomenal-gnome-11223a.netlify.app/` |
+| `http://www.v36365.com/` |
+| `https://808.top-qwe123-asd456-zxc789.yoqceqmcqoosawsu.com/downapp` |
+| `https://petsonpoint.co.uk/` |
+| `http://finance.petsonpoint.co.uk/` |
+| `https://365.qwe123-asd456-zxc789.osqcoyqssguomueq.com/downapp` |
+| `https://365.qwe123-asd456-zxc789.365666.top/downapp` |
+| `https://808.top-qwe123-asd456-zxc789.365632.top/downapp` |
+| `https://365.qwe123-asd456-zxc789.365690.top/downapp` |
+| `https://365.qwe123-asd456-zxc789.365676.top/downapp` |
+| `https://brilliant-tanuki-dd87f9.netlify.app/` |
+| `https://shopee896.blogspot.com/` |
+| `https://s4w.in/SpeoA` |
+| `https://uspss.pages.dev/entreg/LoginAction_input%252CN/A%252Chttps%253A/ship/index.html` |
+| `https://main.foxmarkusa.com/public/login.php` |
+| `https://main.foxmarkusa.com/` |
+| `https://hkdiscord.antsoon.com/blog/discord-patch-notes-march-6-2026` |
+| `http://www.grandprize121.blogspot.com/` |
+| `https://ubs-ident-cicga.united-signals.com/onboarding/form?page=registration&process_context=default` |
 
 ---
 
