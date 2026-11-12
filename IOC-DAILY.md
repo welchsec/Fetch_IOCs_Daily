@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 11, 2026  
-> **Updated:** November 11, 2026 at 16:40 UTC  
+> **Date:** November 12, 2026  
+> **Updated:** November 12, 2026 at 17:08 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://netflix-clone-manishbisht123.vercel.app/` |
-| `https://phenomenal-gnome-11223a.netlify.app/` |
-| `http://www.v36365.com/` |
-| `https://808.top-qwe123-asd456-zxc789.yoqceqmcqoosawsu.com/downapp` |
-| `https://petsonpoint.co.uk/` |
-| `http://finance.petsonpoint.co.uk/` |
-| `https://365.qwe123-asd456-zxc789.osqcoyqssguomueq.com/downapp` |
-| `https://365.qwe123-asd456-zxc789.365666.top/downapp` |
-| `https://808.top-qwe123-asd456-zxc789.365632.top/downapp` |
-| `https://365.qwe123-asd456-zxc789.365690.top/downapp` |
-| `https://365.qwe123-asd456-zxc789.365676.top/downapp` |
-| `https://brilliant-tanuki-dd87f9.netlify.app/` |
-| `https://shopee896.blogspot.com/` |
-| `https://s4w.in/SpeoA` |
-| `https://uspss.pages.dev/entreg/LoginAction_input%252CN/A%252Chttps%253A/ship/index.html` |
-| `https://main.foxmarkusa.com/public/login.php` |
-| `https://main.foxmarkusa.com/` |
-| `https://hkdiscord.antsoon.com/blog/discord-patch-notes-march-6-2026` |
-| `http://www.grandprize121.blogspot.com/` |
-| `https://ubs-ident-cicga.united-signals.com/onboarding/form?page=registration&process_context=default` |
+| `http://support-center-apple.wasmer.app/` |
+| `http://netflix-ui-clone-vikas.vercel.app/` |
+| `https://mystorage-admin-signreview.b-cdn.net/` |
+| `https://s4w.in/lPLAP` |
+| `http://rentzimmer2.de/` |
+| `http://www.attmail8566575.weebly.com/` |
+| `http://pl-payu-paczka.biz.id/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
+| `http://pl-payu-paczka.web.id/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
+| `http://adspageactiveaccount.pages.dev/creators/appeals/submit-appeal-form/return` |
+| `http://ralka-devon-biz-qenmar-soltek-sp9ct12.pages.dev/appeals/submit-appeal-form/return` |
+| `https://ralka-devon-biz-qenmar-soltek-sp9ct12.pages.dev/form_submit_appeal/` |
+| `http://eristalon.pro/` |
+| `http://helquisto.pro/` |
+| `http://dropvault.top/` |
+| `http://pl-payu-paczka.eu.cc/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
+| `http://flonaceri.pro/` |
+| `http://pl-payu-paczka.shop/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
+| `http://pl-payu-paczka.qpon/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
+| `http://www.supendsvalidmai1oul1.xo.je/` |
+| `http://mining-auth.cfd/` |
 
 ---
 
