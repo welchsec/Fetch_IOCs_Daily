@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 12, 2026  
-> **Updated:** November 12, 2026 at 17:08 UTC  
+> **Date:** November 13, 2026  
+> **Updated:** November 13, 2026 at 16:47 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://support-center-apple.wasmer.app/` |
-| `http://netflix-ui-clone-vikas.vercel.app/` |
-| `https://mystorage-admin-signreview.b-cdn.net/` |
-| `https://s4w.in/lPLAP` |
-| `http://rentzimmer2.de/` |
-| `http://www.attmail8566575.weebly.com/` |
-| `http://pl-payu-paczka.biz.id/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
-| `http://pl-payu-paczka.web.id/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
-| `http://adspageactiveaccount.pages.dev/creators/appeals/submit-appeal-form/return` |
-| `http://ralka-devon-biz-qenmar-soltek-sp9ct12.pages.dev/appeals/submit-appeal-form/return` |
-| `https://ralka-devon-biz-qenmar-soltek-sp9ct12.pages.dev/form_submit_appeal/` |
-| `http://eristalon.pro/` |
-| `http://helquisto.pro/` |
-| `http://dropvault.top/` |
-| `http://pl-payu-paczka.eu.cc/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
-| `http://flonaceri.pro/` |
-| `http://pl-payu-paczka.shop/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
-| `http://pl-payu-paczka.qpon/viewer/bWlsbGVubml1bQ/Ml8w/2eDiihr9zO` |
-| `http://www.supendsvalidmai1oul1.xo.je/` |
-| `http://mining-auth.cfd/` |
+| `http://luskasdev.github.io/Phishing` |
+| `http://boosterhub.shop/` |
+| `https://135461223.site/et/1784/3ea2bfc3-7bc2-4bd0-bb97-64f1bb59b647/766428/x` |
+| `https://135461223.site/1784/3ea2bfc3-7bc2-4bd0-bb97-64f1bb59b647/766428` |
+| `https://135461223.site/et/1784/3ea2bfc3-7bc2-4bd0-bb97-64f1bb59b647/766428` |
+| `http://808.top-qwe123-asd456-zxc789.365649.top/` |
+| `http://www.pt-shopee0779.blogspot.com/` |
+| `http://asesoriadebeneficios-relit.github.io/REPLIT` |
+| `http://365.qwe123-asd456-zxc789.365667.top/m/home` |
+| `http://www.roundcubenewupdateserviceverificati.vercel.app/` |
+| `https://metaskmsckwlt.gitbook.io/` |
+| `https://hadiah-shopee576.blogspot.com/` |
+| `https://www.hadiah-shopee576.blogspot.com/` |
+| `https://pemenang-shopee778.blogspot.com/` |
+| `http://thesacredprayer.online/` |
+| `https://shopeepay-599.blogspot.com/` |
+| `https://9000-firebase-ree-1781589806336.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev/?monospaceUid=672379#serospro@93e0442818bc7a42e12774e1b60ff6320a0c.org` |
+| `https://shopeepay-55.blogspot.com/` |
+| `http://binance-marketstore.github.io/` |
+| `http://web-uphld-log.square.site/` |
 
 ---
 
