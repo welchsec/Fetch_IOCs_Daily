@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 13, 2026  
-> **Updated:** November 13, 2026 at 16:47 UTC  
+> **Date:** November 14, 2026  
+> **Updated:** November 14, 2026 at 15:22 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://luskasdev.github.io/Phishing` |
-| `http://boosterhub.shop/` |
-| `https://135461223.site/et/1784/3ea2bfc3-7bc2-4bd0-bb97-64f1bb59b647/766428/x` |
-| `https://135461223.site/1784/3ea2bfc3-7bc2-4bd0-bb97-64f1bb59b647/766428` |
-| `https://135461223.site/et/1784/3ea2bfc3-7bc2-4bd0-bb97-64f1bb59b647/766428` |
-| `http://808.top-qwe123-asd456-zxc789.365649.top/` |
-| `http://www.pt-shopee0779.blogspot.com/` |
-| `http://asesoriadebeneficios-relit.github.io/REPLIT` |
-| `http://365.qwe123-asd456-zxc789.365667.top/m/home` |
-| `http://www.roundcubenewupdateserviceverificati.vercel.app/` |
-| `https://metaskmsckwlt.gitbook.io/` |
-| `https://hadiah-shopee576.blogspot.com/` |
-| `https://www.hadiah-shopee576.blogspot.com/` |
-| `https://pemenang-shopee778.blogspot.com/` |
-| `http://thesacredprayer.online/` |
-| `https://shopeepay-599.blogspot.com/` |
-| `https://9000-firebase-ree-1781589806336.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev/?monospaceUid=672379#serospro@93e0442818bc7a42e12774e1b60ff6320a0c.org` |
-| `https://shopeepay-55.blogspot.com/` |
-| `http://binance-marketstore.github.io/` |
-| `http://web-uphld-log.square.site/` |
+| `https://now-13-11-26.shop/rxxgABqn` |
+| `https://kiocoixlogen.gitbook.io/` |
+| `http://explore-trustextension.apper.so/` |
+| `https://ql4488.craftum.io/page2` |
+| `https://gemini-lugin.gitbook.io/` |
+| `https://codedetrichelattaquedeszombieroblox.blogspot.com/` |
+| `https://kukoinzlogen.gitbook.io/` |
+| `https://supercauchoabanto.com/96627c/RE025486658/CR/card.php` |
+| `https://mydpd.slpfr.help/track-ch` |
+| `http://exoweb-six.vercel.app/` |
+| `https://shopee4777.blogspot.com/` |
+| `http://www.shopee4777.blogspot.com/` |
+| `https://www.roblox.com.ss/games/82205993156224/Walk-10000-Stairs-for-Neko-Girl?privateServerLinkCode=74694492389540449011183778202558` |
+| `http://support-live-ledgr-usa.square.site/` |
+| `https://securetechnologies.ae/pv/pv/#tanix@ff14bf3f4a16da423dbce5442cacdabf3217.net` |
+| `http://shopee-jkt11.blogspot.com/` |
+| `http://soporte-de-renovacion.com/` |
+| `http://metamaskiologii.gitbook.io/us` |
+| `http://tr.ee/YtrA15` |
+| `https://larrysteaks.com/groupe-dms` |
 
 ---
 
