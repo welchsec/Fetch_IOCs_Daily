@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 14, 2026  
-> **Updated:** November 14, 2026 at 15:22 UTC  
+> **Date:** November 15, 2026  
+> **Updated:** November 15, 2026 at 15:54 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://now-13-11-26.shop/rxxgABqn` |
-| `https://kiocoixlogen.gitbook.io/` |
-| `http://explore-trustextension.apper.so/` |
-| `https://ql4488.craftum.io/page2` |
-| `https://gemini-lugin.gitbook.io/` |
-| `https://codedetrichelattaquedeszombieroblox.blogspot.com/` |
-| `https://kukoinzlogen.gitbook.io/` |
-| `https://supercauchoabanto.com/96627c/RE025486658/CR/card.php` |
-| `https://mydpd.slpfr.help/track-ch` |
-| `http://exoweb-six.vercel.app/` |
-| `https://shopee4777.blogspot.com/` |
-| `http://www.shopee4777.blogspot.com/` |
-| `https://www.roblox.com.ss/games/82205993156224/Walk-10000-Stairs-for-Neko-Girl?privateServerLinkCode=74694492389540449011183778202558` |
-| `http://support-live-ledgr-usa.square.site/` |
-| `https://securetechnologies.ae/pv/pv/#tanix@ff14bf3f4a16da423dbce5442cacdabf3217.net` |
-| `http://shopee-jkt11.blogspot.com/` |
-| `http://soporte-de-renovacion.com/` |
-| `http://metamaskiologii.gitbook.io/us` |
-| `http://tr.ee/YtrA15` |
-| `https://larrysteaks.com/groupe-dms` |
+| `http://www.sscoinabaseggh.com/` |
+| `https://y8w2f1-1me006kno-arcadawebapps2.vercel.app/` |
+| `http://telquro-kxt-felqani-a3x8hq27.pages.dev/` |
+| `http://y8w2f1-arcadawebapps2.vercel.app/` |
+| `http://instagram-login-page-mockup.amanda-vencimento.vercel.app/` |
+| `http://baqwrd.newlogjt.de5.net/` |
+| `http://jtd64-1yp-0rr9-3sinb-23-09-2026-aa.pages.dev/` |
+| `http://marnavi-kxt-zenqumi-c2x8hk19.pages.dev/` |
+| `https://sp19ct-nelo-biz-vura-kati.pages.dev/` |
+| `http://metayasdogrulamasistemi.vercel.app/` |
+| `https://terqelo-mpt-zanfavi-a8x1ka94.pages.dev/` |
+| `http://muqm1-wxc-o6pe-qpyw7-10-09-2026-hh.pages.dev/` |
+| `http://y8w2f1.vercel.app/` |
+| `https://lorqumi-kxt-zemvani-r8t6hk42.pages.dev/` |
+| `https://newlogjt.cc.cd/jp` |
+| `https://www.facebook-pt.blogspot.com/` |
+| `http://start-ledger-com-web-cdn.typedream.app/` |
+| `http://hadkjjjjjkoo.blogspot.com/` |
+| `https://www.flhealthlicense-nu.vercel.app/` |
+| `http://www.shopee0199.blogspot.com/` |
 
 ---
 
