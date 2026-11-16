@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 15, 2026  
-> **Updated:** November 15, 2026 at 15:54 UTC  
+> **Date:** November 16, 2026  
+> **Updated:** November 16, 2026 at 18:57 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.sscoinabaseggh.com/` |
-| `https://y8w2f1-1me006kno-arcadawebapps2.vercel.app/` |
-| `http://telquro-kxt-felqani-a3x8hq27.pages.dev/` |
-| `http://y8w2f1-arcadawebapps2.vercel.app/` |
-| `http://instagram-login-page-mockup.amanda-vencimento.vercel.app/` |
-| `http://baqwrd.newlogjt.de5.net/` |
-| `http://jtd64-1yp-0rr9-3sinb-23-09-2026-aa.pages.dev/` |
-| `http://marnavi-kxt-zenqumi-c2x8hk19.pages.dev/` |
-| `https://sp19ct-nelo-biz-vura-kati.pages.dev/` |
-| `http://metayasdogrulamasistemi.vercel.app/` |
-| `https://terqelo-mpt-zanfavi-a8x1ka94.pages.dev/` |
-| `http://muqm1-wxc-o6pe-qpyw7-10-09-2026-hh.pages.dev/` |
-| `http://y8w2f1.vercel.app/` |
-| `https://lorqumi-kxt-zemvani-r8t6hk42.pages.dev/` |
-| `https://newlogjt.cc.cd/jp` |
-| `https://www.facebook-pt.blogspot.com/` |
-| `http://start-ledger-com-web-cdn.typedream.app/` |
-| `http://hadkjjjjjkoo.blogspot.com/` |
-| `https://www.flhealthlicense-nu.vercel.app/` |
-| `http://www.shopee0199.blogspot.com/` |
+| `https://135461223.site/pl/1145/e7efb433-a0e3-426d-aacd-d8b957dfc55d/766593/x` |
+| `http://itrustcapitl-en-us.apper.so/` |
+| `https://gwrfdz4nmd.wpdns.site/wp-content/plugins/rocket/` |
+| `https://escovamagal.vercel.app/` |
+| `https://sharemyhtml.com/p/P4qEOGvSAe` |
+| `https://olx.payu-poland-run.bond/viewer/bWlsbGVubml1bQ/Ml8w/PtXS4VsKw5` |
+| `http://vzmpt731-4k8w2xn-6j3d9g-rq517c.pages.dev/` |
+| `https://rodcm-hdv-a2mo-78web-11-10-2026-aa.pages.dev/` |
+| `https://raqmero-mpt-qunzeli-p8d4me57.pages.dev/` |
+| `http://xqvmt82nlo-k7p4w91-zm6j3d-rp825k.pages.dev/` |
+| `http://15aip-xj9-argi-3d4r3-17-09-2026-hh.pages.dev/` |
+| `https://xkmtq731-9p2w5zt-6j4d8g-rv217c.pages.dev/` |
+| `https://zrxmq95pla-7w2k8nt-3j6d4g-vq521c.pages.dev/` |
+| `http://marvani-mpt-qelzuro-k5x7pe82.pages.dev/` |
+| `http://meta-ronuno-biz-zavaro-pelaki.pages.dev/` |
+| `https://davquri-mpt-fenzelo-r8x3ka67.pages.dev/` |
+| `https://x5y2d-75b-99kc-gxhsk-18-09-2026-aa.pages.dev/` |
+| `https://burfavo-mpt-zumqeri-k7x5pe64.pages.dev/` |
+| `http://nqptx619-3m8w5zk-7j2d4g-rv921c.pages.dev/` |
+| `https://olx.paycore-my1.shop/viewer/bWlsbGVubml1bQ/Ml8w/PtXS4VsKw5` |
 
 ---
 
