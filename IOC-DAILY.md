@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 16, 2026  
-> **Updated:** November 16, 2026 at 18:57 UTC  
+> **Date:** November 17, 2026  
+> **Updated:** November 17, 2026 at 17:55 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://135461223.site/pl/1145/e7efb433-a0e3-426d-aacd-d8b957dfc55d/766593/x` |
-| `http://itrustcapitl-en-us.apper.so/` |
-| `https://gwrfdz4nmd.wpdns.site/wp-content/plugins/rocket/` |
-| `https://escovamagal.vercel.app/` |
-| `https://sharemyhtml.com/p/P4qEOGvSAe` |
-| `https://olx.payu-poland-run.bond/viewer/bWlsbGVubml1bQ/Ml8w/PtXS4VsKw5` |
-| `http://vzmpt731-4k8w2xn-6j3d9g-rq517c.pages.dev/` |
-| `https://rodcm-hdv-a2mo-78web-11-10-2026-aa.pages.dev/` |
-| `https://raqmero-mpt-qunzeli-p8d4me57.pages.dev/` |
-| `http://xqvmt82nlo-k7p4w91-zm6j3d-rp825k.pages.dev/` |
-| `http://15aip-xj9-argi-3d4r3-17-09-2026-hh.pages.dev/` |
-| `https://xkmtq731-9p2w5zt-6j4d8g-rv217c.pages.dev/` |
-| `https://zrxmq95pla-7w2k8nt-3j6d4g-vq521c.pages.dev/` |
-| `http://marvani-mpt-qelzuro-k5x7pe82.pages.dev/` |
-| `http://meta-ronuno-biz-zavaro-pelaki.pages.dev/` |
-| `https://davquri-mpt-fenzelo-r8x3ka67.pages.dev/` |
-| `https://x5y2d-75b-99kc-gxhsk-18-09-2026-aa.pages.dev/` |
-| `https://burfavo-mpt-zumqeri-k7x5pe64.pages.dev/` |
-| `http://nqptx619-3m8w5zk-7j2d4g-rv921c.pages.dev/` |
-| `https://olx.paycore-my1.shop/viewer/bWlsbGVubml1bQ/Ml8w/PtXS4VsKw5` |
+| `http://ddpay-webpage-vip-login.netlify.app/` |
+| `https://www.roblox.com.gt/games/2753915549/Blox-Fruits?privateServerLinkCode=891451502320159341387206562373` |
+| `https://sp12ct10-zemruni-biz-vemlako.pages.dev/` |
+| `http://overview-ledger-live-login-cdn.typedream.app/` |
+| `http://us-usps.homes/DUVzTTavlOw/?redirection=details` |
+| `http://us-usps.homes/` |
+| `http://ifps62-6vu7k2yu9-arcadawebapps2.vercel.app/` |
+| `https://mrpglq-7d05y5-dd9r-qdcm-idg.pages.dev/` |
+| `http://insttagrammoyi.netlify.app/` |
+| `https://sp25ct11-vunreka-biz-zolpavi.pages.dev/` |
+| `http://sp25ct11-lazvani-biz-rumkelo.pages.dev/` |
+| `https://q7nkw-mtvlj82-xp9v4-zlkyt731-hwcps82.pages.dev/` |
+| `https://nervelo-mpt-felqavo-a8d1ka93.pages.dev/` |
+| `http://roclick.cc/` |
+| `http://gamesrobloxstore.com/` |
+| `https://sharemyhtml.com/p/haKddfHRV_?eta=tanarx@6e6b6d03e8e9cfab6b4f43138f5e2449417c.org` |
+| `https://www.shopeeid899.blogspot.com/` |
+| `https://s.teamgfo.pro/p/vxg-bps/jmencser/` |
+| `https://sited3da5c0d.htt1p.com/` |
+| `http://www.apple-store-woad-delta.vercel.app/` |
 
 ---
 
