@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 17, 2026  
-> **Updated:** November 17, 2026 at 17:55 UTC  
+> **Date:** November 18, 2026  
+> **Updated:** November 18, 2026 at 17:37 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://ddpay-webpage-vip-login.netlify.app/` |
-| `https://www.roblox.com.gt/games/2753915549/Blox-Fruits?privateServerLinkCode=891451502320159341387206562373` |
-| `https://sp12ct10-zemruni-biz-vemlako.pages.dev/` |
-| `http://overview-ledger-live-login-cdn.typedream.app/` |
-| `http://us-usps.homes/DUVzTTavlOw/?redirection=details` |
-| `http://us-usps.homes/` |
-| `http://ifps62-6vu7k2yu9-arcadawebapps2.vercel.app/` |
-| `https://mrpglq-7d05y5-dd9r-qdcm-idg.pages.dev/` |
-| `http://insttagrammoyi.netlify.app/` |
-| `https://sp25ct11-vunreka-biz-zolpavi.pages.dev/` |
-| `http://sp25ct11-lazvani-biz-rumkelo.pages.dev/` |
-| `https://q7nkw-mtvlj82-xp9v4-zlkyt731-hwcps82.pages.dev/` |
-| `https://nervelo-mpt-felqavo-a8d1ka93.pages.dev/` |
-| `http://roclick.cc/` |
-| `http://gamesrobloxstore.com/` |
-| `https://sharemyhtml.com/p/haKddfHRV_?eta=tanarx@6e6b6d03e8e9cfab6b4f43138f5e2449417c.org` |
-| `https://www.shopeeid899.blogspot.com/` |
-| `https://s.teamgfo.pro/p/vxg-bps/jmencser/` |
-| `https://sited3da5c0d.htt1p.com/` |
-| `http://www.apple-store-woad-delta.vercel.app/` |
+| `http://booking-ledger-phi.vercel.app/` |
+| `http://phantomchain.github.io/paper-wallet` |
+| `https://92394365756.com/` |
+| `https://www.info-pemenang-shopee17.blogspot.com/` |
+| `https://www.infohadiah-shopee66.blogspot.com/` |
+| `https://www.zcs-adm-auth.vercel.app/` |
+| `https://www.shopee-indonesia25.blogspot.com/` |
+| `https://ayomide202005.github.io/interswitch/` |
+| `http://www.shopee-456.blogspot.com/` |
+| `https://www.undianshopeebigsale2022.blogspot.com/` |
+| `http://www.undianresmishopee77.blogspot.com/` |
+| `http://www.pemenangshopee11-11.blogspot.com/` |
+| `https://www.galery-shopee21.blogspot.com/` |
+| `http://www.infopemenanghadiahshopee.blogspot.com/` |
+| `http://www.infohadiah-shopee33.blogspot.com/` |
+| `http://www.infoundian-shopee81.blogspot.com/` |
+| `https://www.info-hadiah-shopee99.blogspot.com/` |
+| `http://www.layanan-pemenang57.blogspot.com/` |
+| `http://www.roblox.ly/users/770253869/profile` |
+| `https://www.info-pemenang-99.blogspot.com/` |
 
 ---
 
