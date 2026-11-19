@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 18, 2026  
-> **Updated:** November 18, 2026 at 17:37 UTC  
+> **Date:** November 19, 2026  
+> **Updated:** November 19, 2026 at 17:44 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://booking-ledger-phi.vercel.app/` |
-| `http://phantomchain.github.io/paper-wallet` |
-| `https://92394365756.com/` |
-| `https://www.info-pemenang-shopee17.blogspot.com/` |
-| `https://www.infohadiah-shopee66.blogspot.com/` |
-| `https://www.zcs-adm-auth.vercel.app/` |
-| `https://www.shopee-indonesia25.blogspot.com/` |
-| `https://ayomide202005.github.io/interswitch/` |
-| `http://www.shopee-456.blogspot.com/` |
-| `https://www.undianshopeebigsale2022.blogspot.com/` |
-| `http://www.undianresmishopee77.blogspot.com/` |
-| `http://www.pemenangshopee11-11.blogspot.com/` |
-| `https://www.galery-shopee21.blogspot.com/` |
-| `http://www.infopemenanghadiahshopee.blogspot.com/` |
-| `http://www.infohadiah-shopee33.blogspot.com/` |
-| `http://www.infoundian-shopee81.blogspot.com/` |
-| `https://www.info-hadiah-shopee99.blogspot.com/` |
-| `http://www.layanan-pemenang57.blogspot.com/` |
-| `http://www.roblox.ly/users/770253869/profile` |
-| `https://www.info-pemenang-99.blogspot.com/` |
+| `https://fresh-network-276970.framer.app/` |
+| `https://opontocoleta.shop/` |
+| `https://roblox.ly/users/3670776404/profilemalwarenetworkurl/` |
+| `https://facebookaccount1234.blogspot.com/` |
+| `http://instagram-zeta.vercel.app/` |
+| `https://garenafreefireofficialwebsite111.blogspot.com/` |
+| `http://1avpc1-cma00uzf0-intelligence-agentic-models.vercel.app/` |
+| `https://savicafile-masscom.wasmer.app/` |
+| `http://1avpc1.vercel.app/` |
+| `https://knf9704-crypto.github.io/redirect-bloxfruits` |
+| `http://www.vngiuu.top/` |
+| `https://facebookhints.blogspot.com/` |
+| `https://www.facebookhints.blogspot.com/` |
+| `http://agenciaricco.com/lang` |
+| `http://imtcken.cn/` |
+| `http://uspsofficialdelivery.com/` |
+| `http://connect-live-wallet.typedream.app/` |
+| `https://sp18ct10-lavrok-biz-zunari.pages.dev/send_appeal_request/` |
+| `http://customer-sp-logandaviau1.pages.dev/help/contact/390849720685817appealsappeals/submit-appeal-form/return` |
+| `http://social-lift-five.vercel.app/` |
 
 ---
 
