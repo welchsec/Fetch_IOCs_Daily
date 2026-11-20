@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 19, 2026  
-> **Updated:** November 19, 2026 at 17:44 UTC  
+> **Date:** November 20, 2026  
+> **Updated:** November 20, 2026 at 17:21 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://fresh-network-276970.framer.app/` |
-| `https://opontocoleta.shop/` |
-| `https://roblox.ly/users/3670776404/profilemalwarenetworkurl/` |
-| `https://facebookaccount1234.blogspot.com/` |
-| `http://instagram-zeta.vercel.app/` |
-| `https://garenafreefireofficialwebsite111.blogspot.com/` |
-| `http://1avpc1-cma00uzf0-intelligence-agentic-models.vercel.app/` |
-| `https://savicafile-masscom.wasmer.app/` |
-| `http://1avpc1.vercel.app/` |
-| `https://knf9704-crypto.github.io/redirect-bloxfruits` |
-| `http://www.vngiuu.top/` |
-| `https://facebookhints.blogspot.com/` |
-| `https://www.facebookhints.blogspot.com/` |
-| `http://agenciaricco.com/lang` |
-| `http://imtcken.cn/` |
-| `http://uspsofficialdelivery.com/` |
-| `http://connect-live-wallet.typedream.app/` |
-| `https://sp18ct10-lavrok-biz-zunari.pages.dev/send_appeal_request/` |
-| `http://customer-sp-logandaviau1.pages.dev/help/contact/390849720685817appealsappeals/submit-appeal-form/return` |
-| `http://social-lift-five.vercel.app/` |
+| `https://metamaskdiuxtension.gitbook.io/` |
+| `https://cn.145manx.com/home/forbidden` |
+| `https://my-site-108476-100627.weeblysite.com/` |
+| `http://gemini-sailing-charters.square.site/` |
+| `http://app.kucoin108.com/` |
+| `https://www.supportcrpt-client.com/` |
+| `https://beton88-pikir.homes/` |
+| `https://cz-facebook.blogspot.com/` |
+| `https://perrydoom7-hub.github.io/chatbot/` |
+| `https://gjdhdjhjhas.square.site/` |
+| `http://wmsalves.github.io/projetoNetflixLogin` |
+| `https://udise.emanyatapune.org/Z00M.US.MEET1NG.CALENDER/` |
+| `https://att-10page.weeblysite.com/` |
+| `http://calm-queen-ea5a.filevis174.workers.dev/signin` |
+| `http://nptxq84nlo-6m3w9zk-2j7d5g-rv518b.pages.dev/` |
+| `http://carbaascopeiataa.square.site/` |
+| `http://thrjjdfvjn.weebly.com/` |
+| `https://d2sisrr9r7t0z4.cloudfront.net/gx/index.html?phone=%2B1-888-902-2787` |
+| `https://d3ha0drt130222.cloudfront.net/gx/index.html?phone=%2B1-888-902-2787` |
+| `https://www.roblox.com.ss/games/142823291/Murder-Mystery-2?privateServerLinkCode=99121229223932217370452874768764` |
 
 ---
 
