@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 20, 2026  
-> **Updated:** November 20, 2026 at 17:21 UTC  
+> **Date:** November 21, 2026  
+> **Updated:** November 21, 2026 at 16:26 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://metamaskdiuxtension.gitbook.io/` |
-| `https://cn.145manx.com/home/forbidden` |
-| `https://my-site-108476-100627.weeblysite.com/` |
-| `http://gemini-sailing-charters.square.site/` |
-| `http://app.kucoin108.com/` |
-| `https://www.supportcrpt-client.com/` |
-| `https://beton88-pikir.homes/` |
-| `https://cz-facebook.blogspot.com/` |
-| `https://perrydoom7-hub.github.io/chatbot/` |
-| `https://gjdhdjhjhas.square.site/` |
-| `http://wmsalves.github.io/projetoNetflixLogin` |
-| `https://udise.emanyatapune.org/Z00M.US.MEET1NG.CALENDER/` |
-| `https://att-10page.weeblysite.com/` |
-| `http://calm-queen-ea5a.filevis174.workers.dev/signin` |
-| `http://nptxq84nlo-6m3w9zk-2j7d5g-rv518b.pages.dev/` |
-| `http://carbaascopeiataa.square.site/` |
-| `http://thrjjdfvjn.weebly.com/` |
-| `https://d2sisrr9r7t0z4.cloudfront.net/gx/index.html?phone=%2B1-888-902-2787` |
-| `https://d3ha0drt130222.cloudfront.net/gx/index.html?phone=%2B1-888-902-2787` |
-| `https://www.roblox.com.ss/games/142823291/Murder-Mystery-2?privateServerLinkCode=99121229223932217370452874768764` |
+| `http://faq-trezr-git.pages.dev/` |
+| `https://globaltop.org/` |
+| `https://robloxapps.com/rolks` |
+| `https://wvvw--roblox.com/users/781611239/profile` |
+| `https://tonicopoderosomagal.vercel.app/` |
+| `https://pt-shope299.blogspot.com/` |
+| `https://shopee-666.blogspot.com/` |
+| `https://pemenangshopee121.blogspot.com/` |
+| `http://qnomos.com/cgi-bin/ive24meet` |
+| `https://pemenangshopee35.blogspot.com/?m=1` |
+| `https://tonicomaga.vercel.app/` |
+| `https://project-trezo-io-logn.pages.dev/robots.txt/` |
+| `https://io-starttrezo.pages.dev/robots.txt/` |
+| `http://nkvzt95nlo-3p8w2xm-7j4d6g-rq519c-7gu.pages.dev/` |
+| `http://qvtxn731-6m2w8zp-4j7d5g-rk915c-49w.pages.dev/` |
+| `https://www.roblox.com.et/users/6961506747/profile` |
+| `https://www.instagramfollowers146.blogspot.com/` |
+| `https://shopeejkt236.blogspot.com/?m=1` |
+| `https://bbva.nuvasafe.com/login` |
+| `https://cinfifidsxceeiddd.flazio.com/` |
 
 ---
 
