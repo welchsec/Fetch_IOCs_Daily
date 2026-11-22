@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 21, 2026  
-> **Updated:** November 21, 2026 at 16:26 UTC  
+> **Date:** November 22, 2026  
+> **Updated:** November 22, 2026 at 16:43 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://faq-trezr-git.pages.dev/` |
-| `https://globaltop.org/` |
-| `https://robloxapps.com/rolks` |
-| `https://wvvw--roblox.com/users/781611239/profile` |
-| `https://tonicopoderosomagal.vercel.app/` |
-| `https://pt-shope299.blogspot.com/` |
-| `https://shopee-666.blogspot.com/` |
-| `https://pemenangshopee121.blogspot.com/` |
-| `http://qnomos.com/cgi-bin/ive24meet` |
-| `https://pemenangshopee35.blogspot.com/?m=1` |
-| `https://tonicomaga.vercel.app/` |
-| `https://project-trezo-io-logn.pages.dev/robots.txt/` |
-| `https://io-starttrezo.pages.dev/robots.txt/` |
-| `http://nkvzt95nlo-3p8w2xm-7j4d6g-rq519c-7gu.pages.dev/` |
-| `http://qvtxn731-6m2w8zp-4j7d5g-rk915c-49w.pages.dev/` |
-| `https://www.roblox.com.et/users/6961506747/profile` |
-| `https://www.instagramfollowers146.blogspot.com/` |
-| `https://shopeejkt236.blogspot.com/?m=1` |
-| `https://bbva.nuvasafe.com/login` |
-| `https://cinfifidsxceeiddd.flazio.com/` |
+| `https://www.roblox.ly/users/6253294004/profile` |
+| `http://vodafone-admin-app.netlify.app/` |
+| `https://sovereign-cipher-f211.shy-art-d1e0.workers.dev/analysis_center/` |
+| `http://web-vodafone.netlify.app/` |
+| `http://u.to/WvvhIg` |
+| `https://www.bluetick-aurorafb-1001.vercel.app/Meta-for-business` |
+| `http://radioespectral.scmedios.com/radioespectralsc.listen2myradio.com_files/comments.html` |
+| `https://f005.backblazeb2.com/file/0000055/SignintoXfinity.html` |
+| `http://www.hadiahresmi-jkt648.blogspot.com/` |
+| `https://facebookloginf.blogspot.com/` |
+| `http://v-i-d.pages.dev/` |
+| `http://instagramrecovery.blogspot.com/` |
+| `http://maryam-cognition-presentation.netlify.app/` |
+| `http://5y617-2kw-21zt-cuprd-21-10-2026-aa.pages.dev/` |
+| `https://dyowl-llu-7y22-1tz7a-22-10-2026-aa.pages.dev/` |
+| `http://ea1u4-ssa-esbo-pw8yx-23-10-2026-aa.pages.dev/` |
+| `http://jrrd6-1eq-e451-6hdzi-23-10-2026-aa.pages.dev/` |
+| `http://gomsp-xr1-fsj4-988xq-22-10-2026-aa.pages.dev/` |
+| `https://7v60w-9vx-t2cg-q2r0o-22-10-2026-aa.pages.dev/` |
+| `https://cf6ap-jjq-ogf4-j2cd8-23-10-2026-aa.pages.dev/` |
 
 ---
 
