@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 22, 2026  
-> **Updated:** November 22, 2026 at 16:43 UTC  
+> **Date:** November 23, 2026  
+> **Updated:** November 23, 2026 at 20:37 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.roblox.ly/users/6253294004/profile` |
-| `http://vodafone-admin-app.netlify.app/` |
-| `https://sovereign-cipher-f211.shy-art-d1e0.workers.dev/analysis_center/` |
-| `http://web-vodafone.netlify.app/` |
-| `http://u.to/WvvhIg` |
-| `https://www.bluetick-aurorafb-1001.vercel.app/Meta-for-business` |
-| `http://radioespectral.scmedios.com/radioespectralsc.listen2myradio.com_files/comments.html` |
-| `https://f005.backblazeb2.com/file/0000055/SignintoXfinity.html` |
-| `http://www.hadiahresmi-jkt648.blogspot.com/` |
-| `https://facebookloginf.blogspot.com/` |
-| `http://v-i-d.pages.dev/` |
-| `http://instagramrecovery.blogspot.com/` |
-| `http://maryam-cognition-presentation.netlify.app/` |
-| `http://5y617-2kw-21zt-cuprd-21-10-2026-aa.pages.dev/` |
-| `https://dyowl-llu-7y22-1tz7a-22-10-2026-aa.pages.dev/` |
-| `http://ea1u4-ssa-esbo-pw8yx-23-10-2026-aa.pages.dev/` |
-| `http://jrrd6-1eq-e451-6hdzi-23-10-2026-aa.pages.dev/` |
-| `http://gomsp-xr1-fsj4-988xq-22-10-2026-aa.pages.dev/` |
-| `https://7v60w-9vx-t2cg-q2r0o-22-10-2026-aa.pages.dev/` |
-| `https://cf6ap-jjq-ogf4-j2cd8-23-10-2026-aa.pages.dev/` |
+| `http://bnpp.verifcv.com/` |
+| `https://store.steamcommunite.com/profiles/76561116233252110` |
+| `https://rbx.tg/UFUknx-P` |
+| `http://remarkable-starlight-bca6d0.netlify.app/` |
+| `https://www.minerbot-brasil.live/` |
+| `https://lwyxw-sgo-qhaw-b11m9-19-10-2026-aa.pages.dev/` |
+| `https://smackapp.com/grp01.id.rakuten.co.jp/jp/bbfd66ebc9cf8def0b2cf4ab59953a1b/?cmd` |
+| `https://sso-auth.com/E.xjXDniSJ1p63JLY?/facebook_secure_account?id=759347502378427672987349826578129038123807394%22` |
+| `http://hequicom.com/infiniteroadstrucking` |
+| `https://tr.ee/1MsPX0` |
+| `https://f005.backblazeb2.com/file/charterbxhudmailll/index.html` |
+| `http://shopi64.com/` |
+| `http://dev-usps-learning.azurewebsites.net/` |
+| `https://libs.cimatech.com.br/r/?id=h02a030fc-9f32-460f-ac3d-7647b613d7f1` |
+| `https://assist-crpdeskcenter.xyz/` |
+| `http://www.treemanagingassociate.weebly.com/` |
+| `https://s0y73.com/` |
+| `https://lcloud-supportt.us/isignesp.php/` |
+| `https://i-cloud.ink/isignesp.php/` |
+| `http://shopee-677.blogspot.com/` |
 
 ---
 
