@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 23, 2026  
-> **Updated:** November 23, 2026 at 20:37 UTC  
+> **Date:** November 24, 2026  
+> **Updated:** November 24, 2026 at 19:44 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://bnpp.verifcv.com/` |
-| `https://store.steamcommunite.com/profiles/76561116233252110` |
-| `https://rbx.tg/UFUknx-P` |
-| `http://remarkable-starlight-bca6d0.netlify.app/` |
-| `https://www.minerbot-brasil.live/` |
-| `https://lwyxw-sgo-qhaw-b11m9-19-10-2026-aa.pages.dev/` |
-| `https://smackapp.com/grp01.id.rakuten.co.jp/jp/bbfd66ebc9cf8def0b2cf4ab59953a1b/?cmd` |
-| `https://sso-auth.com/E.xjXDniSJ1p63JLY?/facebook_secure_account?id=759347502378427672987349826578129038123807394%22` |
-| `http://hequicom.com/infiniteroadstrucking` |
-| `https://tr.ee/1MsPX0` |
-| `https://f005.backblazeb2.com/file/charterbxhudmailll/index.html` |
-| `http://shopi64.com/` |
-| `http://dev-usps-learning.azurewebsites.net/` |
-| `https://libs.cimatech.com.br/r/?id=h02a030fc-9f32-460f-ac3d-7647b613d7f1` |
-| `https://assist-crpdeskcenter.xyz/` |
-| `http://www.treemanagingassociate.weebly.com/` |
-| `https://s0y73.com/` |
-| `https://lcloud-supportt.us/isignesp.php/` |
-| `https://i-cloud.ink/isignesp.php/` |
-| `http://shopee-677.blogspot.com/` |
+| `https://www.belepes-telekom-hu.vh22325.vh.net.pl/` |
+| `https://belepes-telekom-hu.vh22325.vh.net.pl/` |
+| `http://id2140.business-support-partner.com/` |
+| `http://dan-san2006.github.io/Netflix_gt` |
+| `https://ephemeral-squirrel-f84ee4.netlify.app/` |
+| `https://www.instagramloginpassword.blogspot.com/` |
+| `http://id2138.business-support-partner.com/` |
+| `http://hotelbs.websiteseguro.com/css/outl0ok/true/login/aces.php` |
+| `https://sso-auth.com/E.bGYjM2SvWMNs4g?/facebook_secure_account?id=759347502378427672987349826578129038123807394` |
+| `https://www.madethis.website/s/35ejwgy8/#tanum@f96bf19569d402cd21ad3f3e989b16c183b7.com` |
+| `http://raeward-mymidasbuy.de5.net/` |
+| `http://ifps62-458rn4tdu-arcadawebapps2.vercel.app/` |
+| `http://netflix-clonepractice.vercel.app/` |
+| `http://c1t77f-kehr8a7q8-arcadawebapps2.vercel.app/` |
+| `https://www.notflix-azure.vercel.app/` |
+| `http://ifps62-ag1rcrr19-arcadawebapps2.vercel.app/` |
+| `http://netflix-clone-update-brown.vercel.app/` |
+| `https://www.b35r.com/fish/61` |
+| `http://squeeth-uniswap.netlify.app/` |
+| `http://facebook-ic.blogspot.com/?m=1` |
 
 ---
 
