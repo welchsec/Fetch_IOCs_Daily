@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 24, 2026  
-> **Updated:** November 24, 2026 at 19:44 UTC  
+> **Date:** November 25, 2026  
+> **Updated:** November 25, 2026 at 18:51 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://www.belepes-telekom-hu.vh22325.vh.net.pl/` |
-| `https://belepes-telekom-hu.vh22325.vh.net.pl/` |
-| `http://id2140.business-support-partner.com/` |
-| `http://dan-san2006.github.io/Netflix_gt` |
-| `https://ephemeral-squirrel-f84ee4.netlify.app/` |
-| `https://www.instagramloginpassword.blogspot.com/` |
-| `http://id2138.business-support-partner.com/` |
-| `http://hotelbs.websiteseguro.com/css/outl0ok/true/login/aces.php` |
-| `https://sso-auth.com/E.bGYjM2SvWMNs4g?/facebook_secure_account?id=759347502378427672987349826578129038123807394` |
-| `https://www.madethis.website/s/35ejwgy8/#tanum@f96bf19569d402cd21ad3f3e989b16c183b7.com` |
-| `http://raeward-mymidasbuy.de5.net/` |
-| `http://ifps62-458rn4tdu-arcadawebapps2.vercel.app/` |
-| `http://netflix-clonepractice.vercel.app/` |
-| `http://c1t77f-kehr8a7q8-arcadawebapps2.vercel.app/` |
-| `https://www.notflix-azure.vercel.app/` |
-| `http://ifps62-ag1rcrr19-arcadawebapps2.vercel.app/` |
-| `http://netflix-clone-update-brown.vercel.app/` |
-| `https://www.b35r.com/fish/61` |
-| `http://squeeth-uniswap.netlify.app/` |
-| `http://facebook-ic.blogspot.com/?m=1` |
+| `https://hsbcau.jrni.com/login` |
+| `https://hsbcau.jrni.com/` |
+| `https://djicameradrones.store/` |
+| `http://ladysmithpetsupplies-co-uk-109425-crp.pages.dev/` |
+| `http://official-good.mymidasbuy.cc.cd/` |
+| `http://mymidasbuys.gamerstored.com/` |
+| `http://netflix-clone-nine-beta-20.vercel.app/` |
+| `http://ifps62-58hfrz16z-arcadawebapps2.vercel.app/` |
+| `https://web.whatsappe.us.cc/` |
+| `http://rajafortei.pages.dev/` |
+| `https://akukuat.pages.dev/` |
+| `https://xjo25-1mg-gw1i-fnru2-28-09-2026-hh.pages.dev/` |
+| `http://ifps62-af7a9tq4g-arcadawebapps2.vercel.app/` |
+| `https://c1t77f.vercel.app/` |
+| `http://ifps62-5bi67kqct-arcadawebapps2.vercel.app/` |
+| `http://netflix-clone-chi-pearl.vercel.app/` |
+| `http://cock-oliot-f46c1.netlify.app/` |
+| `http://capable-caramel-55c524.netlify.app/` |
+| `http://ifps62-3ot7lat3p-arcadawebapps2.vercel.app/` |
+| `https://facebook-view.slplus.pro/` |
 
 ---
 
