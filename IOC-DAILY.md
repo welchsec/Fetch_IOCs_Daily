@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 25, 2026  
-> **Updated:** November 25, 2026 at 18:51 UTC  
+> **Date:** November 26, 2026  
+> **Updated:** November 26, 2026 at 18:40 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `https://hsbcau.jrni.com/login` |
-| `https://hsbcau.jrni.com/` |
-| `https://djicameradrones.store/` |
-| `http://ladysmithpetsupplies-co-uk-109425-crp.pages.dev/` |
-| `http://official-good.mymidasbuy.cc.cd/` |
-| `http://mymidasbuys.gamerstored.com/` |
-| `http://netflix-clone-nine-beta-20.vercel.app/` |
-| `http://ifps62-58hfrz16z-arcadawebapps2.vercel.app/` |
-| `https://web.whatsappe.us.cc/` |
-| `http://rajafortei.pages.dev/` |
-| `https://akukuat.pages.dev/` |
-| `https://xjo25-1mg-gw1i-fnru2-28-09-2026-hh.pages.dev/` |
-| `http://ifps62-af7a9tq4g-arcadawebapps2.vercel.app/` |
-| `https://c1t77f.vercel.app/` |
-| `http://ifps62-5bi67kqct-arcadawebapps2.vercel.app/` |
-| `http://netflix-clone-chi-pearl.vercel.app/` |
-| `http://cock-oliot-f46c1.netlify.app/` |
-| `http://capable-caramel-55c524.netlify.app/` |
-| `http://ifps62-3ot7lat3p-arcadawebapps2.vercel.app/` |
-| `https://facebook-view.slplus.pro/` |
+| `http://www.metamask173.blogspot.com/` |
+| `https://bak-center.com/` |
+| `https://loja.bak-center.com/` |
+| `https://sistema.acessoprotecnologia.com.br/lvyicoe/` |
+| `http://www.66506.cc/` |
+| `https://myprofile-microsoft.com/?rid=CgUEQLK` |
+| `https://tlktok.vercel.app/` |
+| `http://apply-here-nu.vercel.app/` |
+| `https://ifps62-178wzziqj-arcadawebapps2.vercel.app/` |
+| `https://pvdmcg-r0yfs7ymo-arcadawebapps3.vercel.app/` |
+| `http://ifps62-arcadawebapps2.vercel.app/` |
+| `http://pvdmcg-arcadawebapps3.vercel.app/` |
+| `http://pvdmcg.vercel.app/` |
+| `http://instagram-clone-gules.vercel.app/` |
+| `https://booking.3825.rest/375102414` |
+| `https://ifps62-htolnr64j-arcadawebapps2.vercel.app/` |
+| `http://legal-org-docs.d2mqddsv0wxgy0.amplifyapp.com/` |
+| `http://netflix-clone-rust-zeta.vercel.app/` |
+| `http://projeto-insta.vercel.app/` |
+| `https://fi2wx-ftt-ppjl-w9mty-05-10-2026-aa.pages.dev/` |
 
 ---
 
