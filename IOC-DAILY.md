@@ -1,7 +1,7 @@
 # 🛡️ Daily IOC List
 
-> **Date:** November 26, 2026  
-> **Updated:** November 26, 2026 at 18:40 UTC  
+> **Date:** November 27, 2026  
+> **Updated:** November 27, 2026 at 18:29 UTC  
 > **Sources:** abuse.ch Feodo Tracker | URLhaus | MalwareBazaar | OpenPhish
 
 ---
@@ -46,26 +46,26 @@ _No data retrieved._
 
 | URL |
 |---|
-| `http://www.metamask173.blogspot.com/` |
-| `https://bak-center.com/` |
-| `https://loja.bak-center.com/` |
-| `https://sistema.acessoprotecnologia.com.br/lvyicoe/` |
-| `http://www.66506.cc/` |
-| `https://myprofile-microsoft.com/?rid=CgUEQLK` |
-| `https://tlktok.vercel.app/` |
-| `http://apply-here-nu.vercel.app/` |
-| `https://ifps62-178wzziqj-arcadawebapps2.vercel.app/` |
-| `https://pvdmcg-r0yfs7ymo-arcadawebapps3.vercel.app/` |
-| `http://ifps62-arcadawebapps2.vercel.app/` |
-| `http://pvdmcg-arcadawebapps3.vercel.app/` |
-| `http://pvdmcg.vercel.app/` |
-| `http://instagram-clone-gules.vercel.app/` |
-| `https://booking.3825.rest/375102414` |
-| `https://ifps62-htolnr64j-arcadawebapps2.vercel.app/` |
-| `http://legal-org-docs.d2mqddsv0wxgy0.amplifyapp.com/` |
-| `http://netflix-clone-rust-zeta.vercel.app/` |
-| `http://projeto-insta.vercel.app/` |
-| `https://fi2wx-ftt-ppjl-w9mty-05-10-2026-aa.pages.dev/` |
+| `http://n8turz.s3.us-east-1.amazonaws.com/ctgdctopacg/index.html?phone=050-3097-5761%3E` |
+| `https://oook1-x7x-uvql-09gdb-06-10-2026-aa.pages.dev/` |
+| `http://n5ezo-a6z-37dj-wyhsv-12-10-2026-aa.pages.dev/` |
+| `https://urch-project.previewship.net/#a.b@c` |
+| `https://6s8.aolade.cn/` |
+| `https://gea.aolade.cn/` |
+| `https://shopee1647.blogspot.com/` |
+| `https://u.gy/www-roblox-com-user-125551219125-profile` |
+| `http://metamsk-login-io.wasmer.app/` |
+| `http://trezor-suite-eng-sushi.wasmer.app/` |
+| `http://desktop-en-ledgeir-po.pages.dev/` |
+| `http://brige-traezor-io.pages.dev/` |
+| `http://matumasklogie.gitbook.io/us` |
+| `https://roblox.com.sy/users/1216258294/profile` |
+| `https://hizliyapiyoruzherseyi.duckdns.org/` |
+| `https://drainage-possess-unavailable-focal.trycloudflare.com/` |
+| `http://jsbe.lat/` |
+| `http://zweb-new-mail-adm.vercel.app/` |
+| `https://1v2wj-ud2-nchy-26kds-08-10-2026-aa.pages.dev/` |
+| `http://www.roblox.ly/users/8795648614/profile/` |
 
 ---
 
